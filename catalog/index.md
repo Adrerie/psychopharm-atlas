@@ -65,8 +65,8 @@
 1. **N06C 无公开结构化覆盖**：3 个复方条目（`N06CA01`–`N06CA03`）在 Wikidata 中既无 ATC 编码也无名称命中，目录完整，身份只能依赖官方索引。
 2. **20 个官方条目公开来源零命中**，其中 5 个存在同名歧义（brexanolone、esketamine、lemborexant、levomilnacipran、solriamfetol），尚未逐一人工判定。
 3. **Wikidata 编码滞后于官方索引**：`suvorexant` 在维基数据中标为 `N05CM19`，官方 2026 索引为 `N05CJ01`；`N05CJ02` lemborexant、`N05CJ03` daridorexant 等较新条目缺少 ATC 声明。此外维基数据把若干三级/四级**类别**当作带 P267 的条目：`N05AN`、`N05BA`、`N05BC`、`N05CD`、`N05CH`、`N05CM19`、`N06AB`、`N06AF`。这些差异说明公开来源不能替代官方索引。
-4. **中文名覆盖 192/293**：其余条目无中文标签，且现有标签非监管核准名称，须以 NMPA 等官方入口核实。
-5. **93 个档案无官方 DDD**，官方索引未给出统计剂量。
+4. **中文名覆盖 192/292**：其余条目无中文标签，且现有标签非监管核准名称，须以 NMPA 等官方入口核实。
+5. **92 个档案无官方 DDD**，官方索引未给出统计剂量。
 6. **获批用途与安全性全部待核实**：本轮未逐药核对监管资料（Drugs@FDA、DailyMed、EMA、NMPA），也未录入任何机制或警告结论。
 7. **跨组清单未建档**：43 个条目仅记录编码与理由。
 8. **Wikidata 别名与目录内其他条目同名 5 处**，已在相应档案中作冲突提示而不作归并：`levosulpiride`↔`sulpiride`、`lorazepam`↔`lormetazepam`、`eszopiclone`↔`zopiclone`、`escitalopram`↔`citalopram`、`armodafinil`↔`modafinil`。其中 armodafinil、escitalopram、eszopiclone、levosulpiride 的取值符合对映体命名习惯；`lorazepam` 条目携带 `Lormetazepam` 别名，与 `N05CD06` lormetazepam 同名，疑为来源库错误挂接，须核实后再处理。
