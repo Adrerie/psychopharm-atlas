@@ -11,14 +11,13 @@
 | 中文标签（维基数据，未核对监管核准名） | 阿莫达非尼（zh） | Wikidata [Q418913](https://www.wikidata.org/wiki/Q418913) |
 | ATC 编码 | `N06BA13`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | (-)-(R)-modafinil；(R)-(-)-modafinil；(R)-modafinil；R-modafinil | Wikidata 英文别名 |
+| 别名 | (-)-(R)-modafinil；(R)-(-)-modafinil；(R)-modafinil；R-modafinil；(-)-modafinil | Wikidata 英文别名；(-)-modafinil 另经 [PubChem CID 9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109) 核实 |
 | 系统命名/研究代号（1 条，节选） | (–)-2-[(R)-(diphenylmethyl)sulfinyl]acetamide | Wikidata 英文别名 |
-| 未纳入正式别名栏 | `(-)-modafinil` | 与目录内其他条目重名，见下方说明 |
 | 第三方数据库归类线索 | modafinil | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `641465` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json) |
 
-别名纠错：Wikidata 在本条目下挂有下列取值，与目录内另一条目重名，已从正式别名栏移出，仅作待核实的名称线索，不得据此合并药物——`(-)-modafinil`（N06BA07，见 [modafinil](modafinil.md)）。
+立体化学说明：armodafinil 是 (R)-(-)-modafinil，即 [modafinil](modafinil.md)（`N06BA07`）所含的 R 对映体。`(-)-modafinil` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/9690109) 核实为有效别名；单一对映体与外消旋体仍保留独立档案。
 
 ## DDD（用药统计指标）
 
