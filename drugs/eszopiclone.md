@@ -11,14 +11,13 @@
 | 中文标签（维基数据，未核对监管核准名） | 艾司佐匹克隆（zh） | Wikidata [Q413184](https://www.wikidata.org/wiki/Q413184) |
 | ATC 编码 | `N05CF04`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N05CF Benzodiazepine related drugs | WHO ATC/DDD Index 2026 |
-| 别名 | (S)-Zopiclone；(S)-zopiclone；Esopiclone；Estorra；Lunesta® | Wikidata 英文别名 |
+| 别名 | (S)-Zopiclone；(S)-zopiclone；(+)-Zopiclone；Esopiclone；Estorra；Lunesta® | Wikidata 英文别名；(+)-Zopiclone 另经 [PubChem CID 969472](https://pubchem.ncbi.nlm.nih.gov/compound/969472) 核实 |
 | 系统命名/研究代号（4 条，节选） | (+)-(5S)-6-(5-Chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo(3,4-b)pyrazin-5-yl 4-methylpiperazine-1-carboxylate；(+)-(5S)-6-(5-chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-yl-4-methylpiperazine-1-carboxylate… | Wikidata 英文别名 |
-| 未纳入正式别名栏 | `(+)-Zopiclone` | 与目录内其他条目重名，见下方说明 |
 | 第三方数据库归类线索 | zopiclone | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `461016` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/461016.json) |
 
-别名纠错：Wikidata 在本条目下挂有下列取值，与目录内另一条目重名，已从正式别名栏移出，仅作待核实的名称线索，不得据此合并药物——`(+)-Zopiclone`（N05CF01，见 [zopiclone](zopiclone.md)）。
+立体化学说明：eszopiclone 是 [zopiclone](zopiclone.md)（`N05CF01`）所含的 (S)-(+)-对映体。`(+)-Zopiclone` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/969472) 核实为有效别名；不能据此将单一对映体档案与外消旋体档案归并。
 
 ## DDD（用药统计指标）
 
