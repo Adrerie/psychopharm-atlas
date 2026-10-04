@@ -11,13 +11,12 @@
 | 中文标签（维基数据，未核对监管核准名） | 艾司西酞普兰（zh-cn） | Wikidata [Q423757](https://www.wikidata.org/wiki/Q423757) |
 | ATC 编码 | `N06AB10`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N06AB Selective serotonin reuptake inhibitors | WHO ATC/DDD Index 2026 |
-| 别名 | (S)-citalopram；S(+)-citalopram；S-(+)-citalopram | Wikidata 英文别名 |
-| 未纳入正式别名栏 | `(+)-citalopram` | 与目录内其他条目重名，见下方说明 |
+| 别名 | (S)-citalopram；S(+)-citalopram；S-(+)-citalopram；(+)-citalopram | Wikidata 英文别名；(+)-citalopram 另经 [PubChem CID 146570](https://pubchem.ncbi.nlm.nih.gov/compound/146570) 核实 |
 | 第三方数据库归类线索 | (RS)-citalopram | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `321988` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/321988.json) |
 
-别名纠错：Wikidata 在本条目下挂有下列取值，与目录内另一条目重名，已从正式别名栏移出，仅作待核实的名称线索，不得据此合并药物——`(+)-citalopram`（N06AB04，见 [citalopram](citalopram.md)）。
+立体化学说明：escitalopram 是 (S)-(+)-citalopram，即 [citalopram](citalopram.md)（`N06AB04`）所含的 S 对映体。`(+)-citalopram` 是经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/146570) 核实的有效别名；它不表示外消旋 citalopram 与 escitalopram 是同一具体药物。
 
 ## DDD（用药统计指标）
 
