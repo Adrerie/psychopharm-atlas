@@ -1,6 +1,6 @@
 # 精神药物分类目录索引
 
-> 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-10-04 ｜ 首轮导入的修补结果见 [修补计划](../PLAN.md)
+> 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-10-04 ｜ 首轮导入与身份纠错已完成；少量收尾见 [PLAN.md](../PLAN.md)
 
 ## 1. 数量口径
 
@@ -20,9 +20,9 @@
 
 ## 2. 身份来源覆盖
 
-Wikidata 以 ATC 编码（P267）命中 260 条（88.4%）；以名称命中 13 条；名称检索多候选而未链接 1 条；公开来源零命中 20 条。
+Wikidata 以 ATC 编码（P267）命中 260 条（88.4%），以名称命中 13 条，名称检索多候选而无独立物质条目 1 条（brexanolone），Wikidata 未能匹配 20 条。**此处的 20 条仅表示 Wikidata 交叉链接缺口，不代表其他公开来源或 RxNorm 均未命中。**
 
-| 组 | 官方名称 | 编码 | 档案 | 复方类别 | ATC 命中 | 名称命中 | 零命中 | 中文标签 | 有 DDD |
+| 组 | 官方名称 | 编码 | 档案 | 复方类别 | ATC 命中 | 名称命中 | Wikidata 零命中 | 中文标签 | 有 DDD |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [N05A](N05A.md) | ANTIPSYCHOTICS | 70 | 70 | 0 | 67 | 1 | 2 | 36 | 61 |
 | [N05B](N05B.md) | ANXIOLYTICS | 39 | 36 | 3 | 35 | 1 | 3 | 23 | 24 |
@@ -38,8 +38,8 @@ Wikidata 以 ATC 编码（P267）命中 260 条（88.4%）；以名称命中 13 
 
 1. **取消按名称归并**。`N05BC51` 与 `N05CX01` 名称相同但分属抗焦虑药复方与镇静催眠药复方两个亚组，现各自保留一行分类记录，不再共用档案；同名、同一主要成分或多个 ATC 编码均不足以证明两者是同一制剂。
 2. **复方对象分级**。5 条成分明确的固定复方保留档案；13 条形如 `X, combinations`、`combinations of X` 或 `X and psycholeptics` 的条目属未指明全部成分的 ATC 分类，改为目录内分类记录并从 `drugs/` 移除；`N05CB02` 仍为目录占位编码。
-3. **同名歧义处理**。按实体类型（P31）剔除学术文章条目后，`esketamine`、`lemborexant`、`levomilnacipran`、`solriamfetol` 各取得唯一物质条目并建立链接；`brexanolone` 只检索到母体物质条目 allopregnanolone（Q2482223），未据此归并，留作待核实。
-4. **别名与中文标签**。4 处与目录内其他条目重名的 Wikidata 别名（(+)-Zopiclone、(+)-citalopram、(-)-modafinil、(-)-sulpiride）移出正式别名栏，改记为待核实线索并说明不得据此归并；`lorazepam` 条目的纠错说明与 MeSH 依据保留。中文标签覆盖 196/280，一律标注来源与语言变体，并明确其不是监管核准名称。
+3. **同名歧义处理**。按实体类型（P31）剔除文章后，`esketamine`、`lemborexant`、`levomilnacipran`、`solriamfetol` 已链接到相应物质条目。依据 [DailyMed 的 ZULRESSO 标签第 11 节](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b40f3b2a-1859-4ed6-8551-444300806d13)，`brexanolone` 在化学上与内源性 allopregnanolone 相同，因此档案链接 [allopregnanolone（Q2482223）](https://www.wikidata.org/wiki/Q2482223) 作为化学关联，不将其视作独立药品制剂记录。
+4. **别名与中文标签**。`(+)-Zopiclone`、`(+)-citalopram`、`(-)-modafinil`、`(-)-sulpiride` 已依据对应 [PubChem](https://pubchem.ncbi.nlm.nih.gov/) 物质记录恢复为有来源的对映体别名，且注明其与外消旋体的区别；`lorazepam` 的错误别名清理及 MeSH 依据保留。中文标签覆盖 196/280，均标明 Wikidata 语言变体，不视作监管核准名称。
 5. **档案精简**。压缩重复声明与清一色的待核实章节，系统命名改为节选并注明条数；保留编码、类型、核实过的别名、标识符、官方 DDD 原文、来源与纠错说明。
 
 ## 4. 数据来源
@@ -56,8 +56,8 @@ Wikidata 以 ATC 编码（P267）命中 260 条（88.4%）；以名称命中 13 
 
 ## 5. 剩余问题
 
-1. `brexanolone`（`N06AX29`）在 Wikidata 无独立物质条目，仅有母体 allopregnanolone（Q2482223，DrugBank DB11859）；brexanolone 通常指其注射用制剂，两者是否等同须以监管资料核实，故未建立链接
-2. **20 条官方编码公开来源零命中**，其中 1 条为单方，身份仅由官方索引确认；同义名、中文名与监管状态待核实。
+1. `brexanolone`（`N06AX29`）与内源性 allopregnanolone 的**化学同一性已由 DailyMed 药品标签确认**，现关联 Wikidata Q2482223；Wikidata 仍无独立的 brexanolone 物质/产品条目，具体制剂、监管状态和适用地区待后续分析。
+2. **20 条官方编码在本轮 Wikidata 交叉核对中未命中**；其中多项是泛指复方分类。RxNorm 已独立匹配部分名称，不能据此称为全部公开来源零命中；未匹配的身份信息和监管状态留待逐项核实。
 3. **13 条 ATC 复方类别无具体成分**，`N06CA01`–`N06CA03` 等以类别词（psycholeptics）作为配对成分，须取得具体制剂组成证据后才能建立复方档案。
 4. **中文标签 196 条全部未经监管核对**，其余 84 条无中文标签；须以 NMPA 等官方入口逐条确认。
 5. **Wikidata 分类滞后**：`suvorexant` 条目仍标 `N05CM19`（官方 `N05CJ01`），`esketamine` 物质条目只带 `N01AX14`；维基数据另有把三/四级类别当作带 P267 条目的情形（`N05AN`、`N05BA`、`N05BC`、`N05CD`、`N05CH`、`N06AB`、`N06AF`）。
