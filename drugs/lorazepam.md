@@ -10,14 +10,14 @@
 | --- | --- | --- |
 | 英文通用名 | lorazepam | WHO ATC/DDD Index 2026（N05BA06）|
 | 中文条目名 | 劳拉西泮 | Wikidata 标签（zh-cn），经 [Q408265](https://www.wikidata.org/wiki/Q408265) 取得；非监管核准名称 |
-| 别名（含系统命名与部分地区商品名） | (±)-Lorazepam；Ativan；Ativan®；Lorazepam；Lormetazepam；Methyllorazepam；N-Methyllorazepam；O-Chlorooxazepam；O-Chloroxazepam；Orfidal®；o-Chlorooxazepam；o-Chloroxazepam | Wikidata 英文别名，仅作识别用途 |
+| 别名（含系统命名与部分地区商品名） | (±)-Lorazepam；Ativan；Ativan®；Lorazepam；O-Chlorooxazepam；O-Chloroxazepam；Orfidal®；o-Chlorooxazepam；o-Chloroxazepam | Wikidata 英文别名，仅作识别用途 |
 | ATC 编码 | `N05BA06`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组（化学/药理学分类） | N05BA Benzodiazepine derivatives | WHO ATC/DDD Index 2026 |
 | 目录层级 | 单方 | 本项目按命名特征判定 |
 | 第三方数据库归类线索 | benzodiazepine drug | Wikidata P279 声明，仅作检索线索，未经本项目核实 |
 | 身份链接强度 | `atc-claim` | Wikidata 自身携带该 ATC 编码（P267） |
 
-名称冲突提示：Wikidata 别名中有下列取值与目录内另一条目同名——`Lormetazepam`（见 [lormetazepam](lormetazepam.md)）。此类取值多为对映体或同类命名，也可能来自来源库的错误挂接，**不可视为同义名使用**，须逐条核实后再决定是否归并。
+别名纠错：Wikidata 曾将 `Lormetazepam`、`Methyllorazepam`、`N-Methyllorazepam` 列在本条目下，已从正式别名栏移除。`Lormetazepam`（[独立条目](lormetazepam.md)，`N05CD06`）与劳拉西泮（`N05BA06`）是不同药物；美国 NLM 的 [MeSH 记录](https://meshb.nlm.nih.gov/record/ui?name=Lormetazepam) 将 `methyllorazepam` 列为 lormetazepam 的检索名称。不得按这些错误别名合并药物。
 
 ## 2. 用药统计参考剂量（DDD）
 
