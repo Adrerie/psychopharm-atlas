@@ -1,15 +1,15 @@
 # 精神药物分类目录索引
 
 > 分类基准：WHO ATC/DDD Index 2026 ｜ 核查日期：2026-10-04  
-> 本轮范围：公开数据导入、分类目录构建与短篇建档（[计划](../PLAN.md) 阶段一、二）。作用机制、获批适应证与安全性分析属阶段三，本轮未录入。
+> 首轮已完成公开数据导入、分类目录构建与身份建档；剩余分类、身份和结构问题见 [修补计划](../PLAN.md)。作用机制、获批适应证与安全性分析尚未录入。
 
 ## 1. 总体结果
 
 | 环节 | 数量 | 说明 |
 | --- | --- | --- |
 | 官方目标五级条目 | 294 | 六个治疗亚组逐条核对 |
-| 去重后唯一条目 | 293 | 合并 1 组同名条目 |
-| 已建立短篇档案 | 292 | 目录占位条目未建档 |
+| 官方不同五级 ATC 编码 | 294 | 同名不意味着同一制剂，所有编码单独保留 |
+| 已建立 Markdown 文件 | 292 | 一项目录占位未建档，两条同名 ATC 分类暂共用一份索引页 |
 | 公开来源以 ATC 编码命中 | 260（88.4%） | Wikidata P267 携带官方编码 |
 | 公开来源仅以名称命中 | 14 | 条目未携带对应 ATC 编码 |
 | 公开来源零命中 | 20 | 档案身份仅由官方索引确认 |
@@ -17,7 +17,7 @@
 | 有英文维基百科条目 | 264 | 仅作指针，未复制正文 |
 | 官方索引列出 DDD | 200 | 其余条目官方未给出 DDD |
 
-条目类型分布：单方 275（其中植物药/多组分制剂 3）、固定复方 17、目录占位条目 1。档案状态一律为 `indexed`（仅核实身份与分类）。
+按名称初分：单方 275（其中植物药/多组分制剂 3）、复方类编码 18、目录占位编码 1。复方类编码中既有成分明确的固定复方，也有未指定全部成分的 ATC 分类，仍需逐项复核；292 个文件目前均为 `indexed`，不代表完成了临床分析。
 
 ## 2. 分组核对进度
 
@@ -31,7 +31,7 @@
 | [N06C](N06C.md) | PSYCHOLEPTICS AND PSYCHOANALEPTICS IN COMBINATION | 3 | 3 | 0 | 0.0% | 0 | 3 | 0 | 0 | 0 |
 | 合计 | — | 294 | 292 | 260 | 88.4% | 14 | 20 | 192 | 264 | 200 |
 
-分组行按“条目所属组”计数，跨组归并的条目在两组各计一次，因此分组档案数之和（293）比唯一档案数（292）多 1。
+分组档案数之和为 293，实际 Markdown 文件为 292：`N05BC51` 与 `N05CX01` 分属不同治疗亚组，当前仅因名称相同而共用一份**临时分类索引页**。这不是对两者完整成分或实际制剂身份的归并结论。
 
 官方结构核对：三级治疗组清单（N05 → N05A/N05B/N05C；N06 → N06A/N06B/N06C/N06D）与逐页抓取结果一致；四级亚组与五级条目共抓取 43 个页面，条目行与页面编码链接逐一比对，无解析缺漏。N06D（抗痴呆药）按计划归入[跨组清单](related.md)，不计入核心目录。
 
@@ -47,15 +47,15 @@
 **English Wikipedia**（en.wikipedia.org 类别页面）：
 读取 11 个药物类别页面，共 1740 条条目名，用于独立覆盖比对；解析到 5 条重定向页，对名称变体的补充有限。条目正文属 CC BY-SA 4.0，本项目未复制。
 
-**RxNorm：未获取。** *Current Prescribable Content* 子集与 RxNorm API 在本机环境下均返回 403，须 UMLS/UTS 账号与 API key；本轮未申请凭据，因此**没有**执行 RxNorm 名称归一，计划中的该项交叉核对尚未履行。替代做法是使用 Wikidata 携带的 PubChem CID、MeSH 描述符与 DrugBank ID 做标识符交叉核对。
+**RxNorm：未获取。** *Current Prescribable Content* 下载和 API 在本机环境下均返回 HTTP 403，具体原因尚未确定。NLM [官方文件页面](https://www.nlm.nih.gov/research/umls/licensedcontent/rxnormfiles.html) 说明该子集无需许可证，[Prescribable RxNorm API](https://lhncbc.nlm.nih.gov/RxNav/APIs/PrescribableAPIs.html) 亦不要求许可证；不能仅凭本机 403 认定必须申请 API key。完整 RxNorm 发布包可能涉及 UMLS 账户及来源许可。本轮未完成 RxNorm 名称归一，暂以已有 Wikidata、PubChem CID 与 MeSH 标识符辅助核查。
 
 **PubChem PUG REST：** 已验证可用（无凭据要求），本轮仅用于确认标识符可达性，未逐药抓取化合物记录；化学名与同义名以 Wikidata 别名为来源。
 
 ## 4. 归并与去重规则
 
-- 以官方通用名与有效成分为唯一条目；同一成分的多个 ATC 编码并入同一档案（本轮归并 1 组：`N05BC51` 与 `N05CX01` 的 meprobamate, combinations）。
+- 以官方名称、ATC 编码和经核实的具体成分识别条目。不同 ATC 编码即使名称相同也先分别保留；`N05BC51` 与 `N05CX01` 目前共用临时索引页，待按类别拆分，不能假定为同一固定复方。
 - 商品名与系统命名仅作别名，不单独建档。
-- 固定复方单列，绝不并入其单方条目；即使复方与成分共享维基数据条目也不归并。
+- 已确认完整成分的固定复方单列；未指明全部成分的 ATC 复方类别仅建立分类记录，不将其当作确定配方或具体上市产品。
 - 官方索引中的 `barbiturates in combination with other drugs`（`N05CB02`）为目录占位条目而非具体药物，列入目录但不建档。
 - 植物药/多组分制剂 3 条（`Lavandulae aetheroleum`、`Valerianae radix`、`Hyperici herba`）保留条目并标注其为多组分制剂，不按单一分子处理。
 - 名称链接的证据等级低于 ATC 编码链接，档案中逐条记录 `strongest_link`；同名候选过多时不建立链接，仅标记歧义。
@@ -69,8 +69,8 @@
 5. **92 个档案无官方 DDD**，官方索引未给出统计剂量。
 6. **获批用途与安全性全部待核实**：本轮未逐药核对监管资料（Drugs@FDA、DailyMed、EMA、NMPA），也未录入任何机制或警告结论。
 7. **跨组清单未建档**：43 个条目仅记录编码与理由。
-8. **Wikidata 别名与目录内其他条目同名 5 处**，已在相应档案中作冲突提示而不作归并：`levosulpiride`↔`sulpiride`、`lorazepam`↔`lormetazepam`、`eszopiclone`↔`zopiclone`、`escitalopram`↔`citalopram`、`armodafinil`↔`modafinil`。其中 armodafinil、escitalopram、eszopiclone、levosulpiride 的取值符合对映体命名习惯；`lorazepam` 条目携带 `Lormetazepam` 别名，与 `N05CD06` lormetazepam 同名，疑为来源库错误挂接，须核实后再处理。
-9. **RxNorm 未接入**（见上），名称归一尚有缺口。
+8. **别名冲突待核实**：已从 `lorazepam` 正式别名栏删除 `Lormetazepam`、`Methyllorazepam` 和 `N-Methyllorazepam`，并保留纠错说明。其余 `levosulpiride`↔`sulpiride`、`eszopiclone`↔`zopiclone`、`escitalopram`↔`citalopram`、`armodafinil`↔`modafinil` 可能涉及对映体与外消旋体关系，须分别核对，不得仅凭部分名称重合归并。
+9. **RxNorm 仍未接入**（见上），名称归一尚有缺口；此外，通用名中文标签和复方类别仍需审核。
 
 ## 6. 目录
 
