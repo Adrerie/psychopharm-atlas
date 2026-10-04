@@ -35,4 +35,4 @@ Psychopharm Atlas 是一个以精神药理学（Psychopharmacology）为核心�
 
 > 本仓库仅供学习、研究及文献整理，不提供个人诊断、处方或用药指导。阅读前请参阅 [免责声明](DISCLAIMER.md)。
 
-**状态**：基础文档已建立。`feat/full-catalog-initial-md` 分支已按 WHO ATC/DDD Index 2026 完成 N05A、N05B、N05C、N06A、N06B、N06C 六组的目录核对，并为 292 个唯一条目建立短篇身份档案（状态 `indexed`）；作用机制、获批适应证与安全性分析尚未录入，逐项覆盖与缺口见 [目录索引](catalog/index.md)。
+**状态**：基础文档已建立。`feat/full-catalog-initial-md` 分支已按 WHO ATC/DDD Index 2026 完成 N05A、N05B、N05C、N06A、N06B、N06C 六组共 294 个官方五级编码的目录核对，其中 280 个具体条目（单方与成分明确的固定复方）建有短篇身份档案（状态 `indexed`），13 条未指明全部成分的 ATC 复方类别与 1 条目录占位编码仅保留为目录中的分类记录。作用机制、获批适应证与安全性分析尚未录入；编码数、档案数与完成分析数分列，逐项覆盖与缺口见 [目录索引](catalog/index.md)。
