@@ -54,7 +54,7 @@
 | `N07BB02` | calcium carbimide | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 同上。 | 待建档 |
 | `N07BB03` | acamprosate | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 同上。 | 待建档 |
 | `N07BB04` | naltrexone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 受体作用与适应证范围待核实；不得由类别推定。 | 待建档 |
-| `N07BB05` | nalmefene | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 阿片受体系统调节剂，体外研究显示 μ、δ 受体拮抗与 κ 受体部分激动；欧盟相关用途和限制见 [EMA 产品资料](https://www.ema.europa.eu/en/medicines/human/EPAR/selincro)。 | 待建档 |
+| `N07BB05` | nalmefene | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 官方亚组名称即酒精依赖用药。据 [EMA 产品资料页面](https://www.ema.europa.eu/en/medicines/human/EPAR/selincro)，欧盟批准用于成人酒精依赖且高风险饮酒者减少饮酒量，并须配合持续心理社会支持。该页面未述及受体亚型作用；`μ/δ 拮抗、κ 部分激动` 一类表述本轮无对应出处，待核实（须查该产品特性摘要或评估报告原文）。 | 待建档 |
 | `N07BB06` | ondelopran | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 官方索引已列出该编码；上市状态、机制与证据待核实。 | 待建档 |
 | `N07BC01` | buprenorphine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 官方亚组名称即阿片依赖用药；剂量方案与管制地位待核实。 | 待建档 |
 | `N07BC02` | methadone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 同上。 | 待建档 |
