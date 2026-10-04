@@ -1,0 +1,36 @@
+# adinazolam
+
+> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
+> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+
+## 身份与分类
+
+| 项目 | 内容 | 来源 |
+| --- | --- | --- |
+| 英文通用名 | adinazolam | WHO ATC/DDD Index 2026（`N05BA07`）|
+| 中文标签（维基数据，未核对监管核准名） | 阿地唑仑（zh） | Wikidata [Q4682904](https://www.wikidata.org/wiki/Q4682904) |
+| ATC 编码 | `N05BA07`（2026 年索引） | WHO ATC/DDD Index 2026 |
+| 官方亚组 | N05BA Benzodiazepine derivatives | WHO ATC/DDD Index 2026 |
+| 别名 | Adinazolamum；U-41123 | Wikidata 英文别名 |
+| 系统命名/研究代号（1 条，节选） | 8-Chloro-1-((dimethylamino)methyl)-6-phenyl-4H-S-triazolo(4,3-a)(1,4)benzodiazepine | Wikidata 英文别名 |
+| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
+
+## DDD（用药统计指标）
+
+官方 2026 索引未对本编码列出 DDD。
+
+## 待核实
+
+作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+
+## 来源
+
+- WHO ATC/DDD Index 2026：[N05BA07](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA07)
+- Wikidata（CC0）：[Q4682904](https://www.wikidata.org/wiki/Q4682904)
+- PubChem CID（经 Wikidata）：[37632](https://pubchem.ncbi.nlm.nih.gov/compound/37632)
+- MeSH 描述符（经 Wikidata）：[C039668](https://meshb.nlm.nih.gov/record/ui?ui=C039668)
+- DrugBank ID（经 Wikidata）：[DB00546](https://www.drugbank.ca/r/DB00546)
+- English Wikipedia（标题指针，未复制正文）：[Adinazolam](https://en.wikipedia.org/wiki/Adinazolam)
+
+统计与缺口见 [目录索引](../catalog/index.md)。
+
