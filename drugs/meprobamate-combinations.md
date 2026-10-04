@@ -1,4 +1,4 @@
-# meprobamate, combinations
+# meprobamate, combinations（同名 ATC 分类临时页）
 
 > 条目状态：`indexed`（仅核实身份与分类）｜ 最后核查：2026-10-04  
 > 分类基准：WHO ATC/DDD Index 2026  
@@ -14,10 +14,10 @@
 | ATC 编码 | `N05BC51`、`N05CX01`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组（化学/药理学分类） | N05BC Carbamates；N05CX Hypnotics and sedatives in combination, excl. barbiturates | WHO ATC/DDD Index 2026 |
 | 复方成分线索（取自官方条目名称） | [meprobamate](meprobamate.md) | WHO ATC/DDD Index 2026；`N05BC51`、`N05CX01` 的原始名称 |
-| 目录层级 | 固定复方 | 本项目按命名特征判定 |
+| 目录层级 | 同名复方分类，具体组成待核实 | 两个 ATC 编码分属不同治疗亚组；不代表成分完全相同的制剂 |
 | 身份链接强度 | `official-index-only` | 仅由官方 ATC/DDD 索引确认，公开结构化来源未命中 |
 
-本条目按 N05BC51、N05CX01 归并为同一条档案：同一有效成分（或同一复方条目）的多个 ATC 编码合并记录，盐型与剂型差异见上表亚组名称。
+**临时索引说明**：`N05BC51` 属于抗焦虑药复方类别，`N05CX01` 属于主要用于睡眠障碍的镇静催眠药复方类别。两者在官方索引中名称相同，当前仅临时共用这份检索页，**并未认定两者为同一制剂或具有相同的完整成分组合**。后续应按 ATC 编码拆分分类记录，只有核实到具体制剂及其组成，才建立相应的药物分析档案。
 
 ## 2. 用药统计参考剂量（DDD）
 
