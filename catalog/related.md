@@ -53,7 +53,7 @@
 | `N07BB02` | calcium carbimide | 酒精使用障碍用药。 | 待建档 |
 | `N07BB03` | acamprosate | 酒精使用障碍用药。 | 待建档 |
 | `N07BB04` | naltrexone | 阿片受体拮抗剂，用于酒精与阿片使用障碍。 | 待建档 |
-| `N07BB05` | nalmefene | 阿片受体部分拮抗剂，用于酒精使用障碍。 | 待建档 |
+| `N07BB05` | nalmefene | 阿片受体系统调节剂，体外研究显示 μ、δ 受体拮抗与 κ 受体部分激动；欧盟相关用途和限制见 [EMA 产品资料](https://www.ema.europa.eu/en/medicines/human/EPAR/selincro)。 | 待建档 |
 | `N07BB06` | ondelopran | 新近条目，监管与证据状态待核实。 | 待建档 |
 | `N07BC01` | buprenorphine | 阿片使用障碍治疗用药。 | 待建档 |
 | `N07BC02` | methadone | 同上。 | 待建档 |
