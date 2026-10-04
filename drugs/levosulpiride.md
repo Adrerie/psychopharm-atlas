@@ -11,13 +11,12 @@
 | 中文标签 | 待核实 | — |
 | ATC 编码 | `N05AL07`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N05AL Benzamides | WHO ATC/DDD Index 2026 |
-| 别名 | (S)-sulpiride；S-(-)-sulpiride | Wikidata 英文别名 |
+| 别名 | (S)-sulpiride；S-(-)-sulpiride；(-)-sulpiride | Wikidata 英文别名；(-)-sulpiride 另经 [PubChem CID 688272](https://pubchem.ncbi.nlm.nih.gov/compound/688272) 核实 |
 | 系统命名/研究代号（4 条，节选） | (-)-N-{[(S)-1-ethyl-2-pyrrolidinyl]methyl}-5-sulfamoyl-o-anisamide；(S)-(-)-5-aminosulfonyl-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2-methoxybenzamide… | Wikidata 英文别名 |
-| 未纳入正式别名栏 | `(-)-sulpiride` | 与目录内其他条目重名，见下方说明 |
 | 第三方数据库归类线索 | (RS)-sulpiride | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 
-别名纠错：Wikidata 在本条目下挂有下列取值，与目录内另一条目重名，已从正式别名栏移出，仅作待核实的名称线索，不得据此合并药物——`(-)-sulpiride`（N05AL01，见 [sulpiride](sulpiride.md)）。
+立体化学说明：levosulpiride 是 (S)-(-)-sulpiride，即 [sulpiride](sulpiride.md)（`N05AL01`）所含的 S 对映体。`(-)-sulpiride` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/688272) 及 [IUPHAR/BPS](https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=958) 核实为有效别名；单一对映体与外消旋体分别建档。
 
 ## DDD（用药统计指标）
 
