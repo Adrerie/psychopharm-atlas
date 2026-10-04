@@ -1,41 +1,31 @@
 # xanomeline and trospium
 
-> 条目状态：`indexed`（仅核实身份与分类）｜ 最后核查：2026-10-04  
-> 分类基准：WHO ATC/DDD Index 2026  
-> 本条目仅用于学习和研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
+> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
+> 类型：成分明确的固定复方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
 
-## 1. 身份与分类
+## 身份与分类
 
 | 项目 | 内容 | 来源 |
 | --- | --- | --- |
-| 英文通用名 | xanomeline and trospium | WHO ATC/DDD Index 2026（N05AX50）|
-| 中文条目名 | 待核实（公开结构化来源未提供中文标签） | — |
-| 别名 | 待核实 | — |
+| 英文通用名 | xanomeline and trospium | WHO ATC/DDD Index 2026（`N05AX50`）|
+| 中文标签 | 待核实 | — |
 | ATC 编码 | `N05AX50`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组（化学/药理学分类） | N05AX Other antipsychotics | WHO ATC/DDD Index 2026 |
-| 复方成分线索（取自官方条目名称） | xanomeline、trospium | WHO ATC/DDD Index 2026；`N05AX50` 的原始名称 |
-| 目录层级 | 固定复方 | 本项目按命名特征判定 |
-| 身份链接强度 | `official-index-only` | 仅由官方 ATC/DDD 索引确认，公开结构化来源未命中 |
+| 官方亚组 | N05AX Other antipsychotics | WHO ATC/DDD Index 2026 |
+| 身份链接 | `official-index-only` | 仅官方索引确认 |
 
-## 2. 用药统计参考剂量（DDD）
+复方成分（取自官方条目名称）：xanomeline、trospium。成分名称以外的配比、剂型与适应证未核实。
 
-官方 2026 年索引未对本条目列出 DDD（编码：N05AX50）。
+## DDD（用药统计指标）
 
-## 3. 作用机制、获批用途与安全性
+官方 2026 索引未对本编码列出 DDD。
 
-本轮仅核实药物身份与目录归属，未录入以下内容：
+## 待核实
 
-- 作用机制（Pharmacodynamics）：待核实。
-- 地区性获批适应证：待核实。不得由 ATC 类别推定本药的适应证或某一地区的监管状态。
-- 重要安全警告、禁忌与相互作用：待核实。
+作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
 
-阶段三按 [分析方法](../METHODOLOGY.md) 逐项补充，并为每条实质性结论附原始出处。
+## 来源
 
-## 4. 原始资料与标识符
+- WHO ATC/DDD Index 2026：[N05AX50](https://atcddd.fhi.no/atc_ddd_index/?code=N05AX50)
 
-| 资料 | 标识 | 链接 |
-| --- | --- | --- |
-| WHO ATC/DDD Index 2026 | `N05AX50` | [N05AX50](https://atcddd.fhi.no/atc_ddd_index/?code=N05AX50) |
-
-核查日期：2026-10-04。抓取方法与覆盖统计见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。
 
