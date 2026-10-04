@@ -3,7 +3,7 @@
 > 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-10-04  
 > 人工选录，逐项记录纳入理由与原 ATC 编码；不是这些亚组的完整目录。
 
-**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面直接抓取生成，可逐项核对。「收录依据与待核实」列只说明为何纳入精神药理学图谱，其中涉及的适应证、受体机制、上市与管制状态、研发阶段等实质性结论**本轮均未核实**，须按 [SOURCES.md](../SOURCES.md) 与 [METHODOLOGY.md](../METHODOLOGY.md) 在后续阶段附原始出处。
+**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面直接抓取生成，可逐项核对。「收录依据与待核实」列只说明为何纳入精神药理学图谱，除已明确提供监管资料的 nalmefene 陈述外，其中涉及的适应证、受体机制、上市与管制状态、研发阶段等实质性结论**本轮均未核实**，须按 [SOURCES.md](../SOURCES.md) 与 [METHODOLOGY.md](../METHODOLOGY.md) 在后续阶段附原始出处。
 
 ## 选录分布
 
@@ -54,7 +54,7 @@
 | `N07BB02` | calcium carbimide | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 同上。 | 待建档 |
 | `N07BB03` | acamprosate | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 同上。 | 待建档 |
 | `N07BB04` | naltrexone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 受体作用与适应证范围待核实；不得由类别推定。 | 待建档 |
-| `N07BB05` | nalmefene | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 官方亚组名称即酒精依赖用药。据 [EMA 产品资料页面](https://www.ema.europa.eu/en/medicines/human/EPAR/selincro)，欧盟批准用于成人酒精依赖且高风险饮酒者减少饮酒量，并须配合持续心理社会支持。该页面未述及受体亚型作用；`μ/δ 拮抗、κ 部分激动` 一类表述本轮无对应出处，待核实（须查该产品特性摘要或评估报告原文）。 | 待建档 |
+| `N07BB05` | nalmefene | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 官方亚组名称即酒精依赖用药。据 [EMA 产品资料页面](https://www.ema.europa.eu/en/medicines/human/EPAR/selincro)，欧盟批准用于符合特定条件的成人酒精依赖患者减少饮酒量，并须配合持续心理社会支持。[EMA 正式产品说明书第 5.1 节](https://www.ema.europa.eu/en/documents/product-information/selincro-epar-product-information_en.pdf) 记载：体外研究显示其对 μ、δ 阿片受体具有拮抗活性，对 κ 阿片受体具有部分激动活性。体外结果不可直接等同于人体临床效应。 | 待建档 |
 | `N07BB06` | ondelopran | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BB Drugs used in alcohol dependence | 官方索引已列出该编码；上市状态、机制与证据待核实。 | 待建档 |
 | `N07BC01` | buprenorphine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 官方亚组名称即阿片依赖用药；剂量方案与管制地位待核实。 | 待建档 |
 | `N07BC02` | methadone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 同上。 | 待建档 |
