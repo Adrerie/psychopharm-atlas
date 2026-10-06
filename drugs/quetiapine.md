@@ -73,11 +73,11 @@ DDD 是群体用药统计指标，不是推荐处方剂量，也不反映各国�
 | ziprasidone | 6.46 ± 0.05 | 7.17 ± 0.34 |
 | aripiprazole | 5.93 ± 0.02 | 6.05 ± 0.15 |
 
-IA 为原文标注的 inactive。pKi 是负对数口径，norquetiapine 的 7.54 约相当于 Ki 29 nM，即与 duloxetine、desipramine、nisoxetine 等抗抑郁／NET 参考药同量级，而强于 clozapine 与 aripiprazole 约 30–100 倍（原文表述）。同一表内 norquetiapine 在 SERT 只有弱摄取抑制（5.94 ± 0.19，结合为 IA），对 DAT 的结合与摄取均为 IA；母药在三种转运体上全部 IA。5-HT1A 上两者均为低效力、高 Emax 的激动剂：quetiapine pEC50 4.77 ± 0.22、Emax 89 ± 8%；norquetiapine pEC50 5.47 ± 0.16、Emax 90 ± 8%（对照 aripiprazole pEC50 7.87 ± 0.28 但 Emax 仅 65 ± 3%）。谷氨酸受体方面，该文在大鼠脑皮质制备上以 `[3H]`-AMPA、`[3H]`-CGP39653 与 `[3H]`-kainic acid 单孔测定 8 个浓度（0.01–100 µM），母药与代谢物在 50 µM 以下均未显示可检出的结合亲和力（原文表 S1）。
+IA 为原文标注的 inactive。pKi 是负对数口径，norquetiapine 的 hNET 结合 pKi 7.54 ± 0.05 约相当于 Ki 29 nM；原文指出其 NET 亲和力更接近部分抗抑郁药，表 1 中与 duloxetine（7.62 ± 0.04）和 imipramine（7.24 ± 0.03）最接近，而低于 desipramine（8.93 ± 0.34）、reboxetine（8.73 ± 0.29）、nisoxetine（8.74 ± 0.43）和 atomoxetine（8.35 ± 0.05）。相较 clozapine 与 aripiprazole，原文描述 norquetiapine 的 NET 亲和力约高 30–100 倍。同一表内 norquetiapine 在 SERT 只有弱摄取抑制（5.94 ± 0.19，结合为 IA），对 DAT 的结合与摄取均为 IA；母药在三种转运体上全部 IA。5-HT1A 上两者均为低效力、高 Emax 的激动剂：quetiapine pEC50 4.77 ± 0.22、Emax 89 ± 8%；norquetiapine pEC50 5.47 ± 0.16、Emax 90 ± 8%（对照 aripiprazole pEC50 7.87 ± 0.28 但 Emax 仅 65 ± 3%）。谷氨酸受体方面，该文在大鼠脑皮质制备上以 `[3H]`-AMPA、`[3H]`-CGP39653 与 `[3H]`-kainic acid 单孔测定 8 个浓度（0.01–100 µM），母药与代谢物在 50 µM 以下均未显示可检出的结合亲和力（原文表 S1）。
 
 在体部分：大鼠 `[3H]`-MeNER 蓝斑结合显示 NET 占有率随剂量升高，norquetiapine 的 ED50 约 2 mg·kg⁻¹（皮下给药），reboxetine 与 desipramine 分别约 0.05 与 0.15 mg·kg⁻¹（每组 6 只动物；nisoxetine 30 mg·kg⁻¹ 可置换约 80% 总结合，作为特异性对照）。行为学模型中，norquetiapine 30 mg·kg⁻¹ 减少 BALB/c 小鼠强迫游泳不动时间（母药在此试验无效，每组 10 只），5 mg·kg⁻¹ 减少 Wistar 大鼠习得性无助的逃跑失败次数（每组 12 只）；其增强大鼠惩罚冲突反应率的作用（最强效应剂量 5 mg·kg⁻¹）可被 WAY100635 0.1 mg·kg⁻¹ 阻断，母药 10 mg·kg⁻¹ 的同向趋势未达统计学显著。
 
-**与 2.2 节标签数值的差异必须保留。** 该文克隆人靶点体系给出 quetiapine hD2 pKi 7.25 ± 0.25（约 56 nM）、h5-HT2A pKi 7.54 ± 0.30（约 29 nM），而美国标签 §12.2 记 D2 626 nM、5-HT2A 38 nM：D2 相差约 10 倍，5-HT2A 接近。两套数值来自不同实验体系与不同报告口径（pKi ± SD 与 Ki nM），本条目不取平均、不互相替换，也不据此推导任何剂量下的受体选择性。以上全部为克隆细胞系体外测定与大鼠、小鼠结果，不等同于人体结局；人体 NET 占有率证据见本条目 2.4 节。
+**与 2.2 节标签数值的差异必须保留。** Cross 2016 的克隆人靶点体系给出 **norquetiapine hD2 pKi 7.25 ± 0.25、quetiapine hD2 pKi 7.23 ± 0.40**；quetiapine h5-HT2A pKi 为 7.54 ± 0.30（约 29 nM）。美国标签 §12.2 则记 quetiapine D2 Ki 626 nM、5-HT2A Ki 38 nM，因此母药 D2 结果相差约一个数量级，而 5-HT2A 较接近。两套数值来自不同实验体系与不同报告口径（pKi ± SD 与 Ki nM），本条目不取平均、不互相替换，也不据此推导任何剂量下的受体选择性。以上全部为克隆细胞系体外测定与大鼠、小鼠结果，不等同于人体结局；人体 NET 占有率证据见本条目 2.4 节。
 
 ### 2.4 人体受体与转运体占有率（PET）
 
@@ -129,7 +129,7 @@ IA 为原文标注的 inactive。pKi 是负对数口径，norquetiapine 的 7.54
 | 美国 `US-XR`（NDA022047） | 缓释片 | 上述四项，另含成人 MDD 对抗抑郁药反应不足时的辅助治疗 | 青少年证据：精神分裂症 13–17 岁、双相 I 躁狂 10–17 岁（由速释试验支持／外推）；18 岁以下双相抑郁疗效未确立；13 岁以下精神分裂症未确立 |
 | 英国 `UK-IR` | 速释片 | 精神分裂症；双相障碍（中重度躁狂发作、重性抑郁发作、预防曾对喹硫平有应答者的复发） | 18 岁以下**不推荐**（缺乏支持用药的数据） |
 | 英国 `UK-XL` | 缓释片 | 同上，另含 MDD 辅助治疗（对抗抑郁药单药效欠佳者） | 18 岁以下不推荐；与 CYP3A4 抑制剂（HIV 蛋白酶抑制剂、唑类抗真菌药、红霉素、克拉霉素、奈法唑酮）合用列为**禁忌**；MDD 辅助的长期疗效与安全性未评价 |
-| 中国 | — | **待核实**：2026-10-06 复核时 NMPA 数据查询与 CDE 上市药品目录集入口均返回反爬校验页，未取到可引用的注册与说明书文本（访问情况记于本条目 6.1 节第 6 项） | 官方入口：[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) |
+| 中国 | 缓释片至少有一项官方上市记录 | NMPA 官方公开名单记录“富马酸喹硫平缓释片｜南通联亚药业股份有限公司｜首次批准上市”，并标注进入优先审评审批程序；该名单不足以确认完整批准文号、全部规格与获批适应证，后者仍待核准说明书 | [NMPA 官方名单 PDF](https://www.nmpa.gov.cn/directory/web/nmpa/images/1707039824076019627.pdf)；[政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) |
 | WHO ATC/DDD | — | `N05AH04`，DDD 0.4 g 口服 | 统计指标，非获批用途，也非处方剂量 |
 
 DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 packager；标签用药指南注明由 CHEPLAPHARM Arzneimittel GmbH 授权（licensed by），由 H2-Pharma, LLC 分销（distributed by）。其 INDICATIONS AND USAGE 与上表一致。上述“获批”仅指对应监管文件所载适应证，地区之间不得互换表述；同一分子在不同剂型、不同地区的状态并不相同。
@@ -247,7 +247,7 @@ DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 package
 3. **注册试验的设计限制了外推。** 主要疗效来自 3–8 周、以量表为主要终点、DSM-IV 诊断的试验；部分速释躁狂试验排除快速循环与混合发作；青少年疗效证据由速释试验支持或外推至缓释；维持期结论依赖开放标签稳定后随机停药的富集设计；速释片在精神分裂症维持治疗上标签明写"未在对照试验中系统评价"。
 4. **MDD 辅助治疗的效应量小。** 两项 6 周试验中 300 mg 与安慰剂的 MADRS 差值为 −3.0 与 −2.7 分，150 mg 在一项试验未与安慰剂分离；英国 SmPC 记 MDD 辅助的长期疗效与安全性未评价。
 5. **同一指标在不同监管文件中表述不一致。** 例如癫痫发生率（美国标签给出速释 0.5%、缓释 0.05% 的数值，英国 SmPC 表述为"对照试验中无差异"）、norquetiapine 相对暴露（21%–27% 与 35%，口径不同）、半衰期（速释标签约 6 h，缓释标签与 SmPC 约 7 h）。这些差异按原文保留，未择一"标准化"。
-6. **中国注册与说明书仍未核实。** 2026-10-06 复核时，NMPA 数据查询（`nmpa.gov.cn/datasearch/*`）对直接请求返回 HTTP 412 的脚本校验页，政务服务窗口页在浏览器中只得到 body 为空的桩页，CDE 上市药品目录集（`cde.org.cn/hzmp/`）返回 HTTP 202 的处理中校验页；按计划要求未搭建爬虫、未改用商业数据库推断，因此本条目保留"待核实"，中国的剂型、规格与适应证须以 NMPA 核准说明书为准。另 `UK-IR`／`UK-XL` 只是英国文件，不等同于欧盟各成员国的国家批准文本，欧盟其他成员国的适应证与儿童用药限制仍未逐项核对。
+6. **中国完整注册信息与说明书仍未核实。** NMPA 官方公开名单已经确认南通联亚药业股份有限公司的“富马酸喹硫平缓释片”为首次批准上市，并标注优先审评审批程序；但该名单没有给出完整批准文号、全部规格和获批适应证。2026-10-06 复核时，NMPA 数据查询与 CDE 上市药品目录集的交互入口仍返回脚本/处理中校验页，因此这些字段继续以“待核实”处理，不用商业数据库替代官方说明书。另 `UK-IR`／`UK-XL` 只是英国文件，不等同于欧盟各成员国的国家批准文本，欧盟其他成员国的适应证与儿童用药限制仍未逐项核对。
 7. **年龄限制在两大监管体系间相反**：美国批准 10–17 岁双相 I 躁狂、13–17 岁精神分裂症，英国 SmPC 对 18 岁以下一律“不推荐”。引用时必须写明地区与剂型，不得写成该分子的全球统一状态。
 8. **DDD 0.4 g 仅为统计指标**，与标签按适应证与剂型规定的剂量区间口径不同；本条目不据其推算任何个体的等效剂量、加量或停药方案。
 
@@ -287,6 +287,6 @@ DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 package
 - DrugBank ID（经 Wikidata P715）：[DB01224](https://www.drugbank.ca/r/DB01224)
 - English Wikipedia（标题指针，未复制正文）：[Quetiapine](https://en.wikipedia.org/wiki/Quetiapine)
 - RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 51272](https://rxnav.nlm.nih.gov/REST/rxcui/51272.json)
-- 中国国家药品监督管理局政务服务窗口（中国注册状态待核实；2026-10-06 直接请求数据查询返回 412 校验页，见本条目 6.1 节第 6 项）：[链接](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)
+- 中国国家药品监督管理局官方公开名单：[富马酸喹硫平缓释片（南通联亚药业股份有限公司）列为“首次批准上市”](https://www.nmpa.gov.cn/directory/web/nmpa/images/1707039824076019627.pdf)。完整批准文号、规格和适应证仍待核准说明书；查询入口：[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)
 
 统计与缺口见 [目录索引](../catalog/index.md)。
