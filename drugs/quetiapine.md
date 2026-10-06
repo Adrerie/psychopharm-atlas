@@ -50,11 +50,34 @@ DDD 是群体用药统计指标，不是推荐处方剂量，也不反映各国�
 | α1b | 14.6 | 46.4 |
 | α2 | 617 | 1290 |
 
-数值取自 `US-IR` §12.2，单位 nM。**标签未在同一表内注明物种、受体来源（克隆或原生组织）、配体与测定方法**，因此这些数值只能用于在同一来源内比较相对亲和力（母药对 H1、α1b、5-HT2A 的亲和力高于 D2；代谢物在所列靶点普遍强于母药，其中 M1 由 1086 nM 降至 38.3 nM，与 `UK-XL` §5.1 的定性描述一致），不可据此推断人体受体占有率、疗效或某项不良反应必然发生。norquetiapine 在 NET 上的原始数值未在这两份标签中以数字给出，本轮未取到可核对的原始测定条件（见本条目 6.1 节）。
+数值取自 `US-IR` §12.2，单位 nM。**标签未在同一表内注明物种、受体来源（克隆或原生组织）、配体与测定方法**，因此这些数值只能用于在同一来源内比较相对亲和力（母药对 H1、α1b、5-HT2A 的亲和力高于 D2；代谢物在所列靶点普遍强于母药，其中 M1 由 1086 nM 降至 38.3 nM，与 `UK-XL` §5.1 的定性描述一致），不可据此推断人体受体占有率、疗效或某项不良反应必然发生。两份标签均未给出 NET（去甲肾上腺素转运体）的数值，该靶点的定量结果见本条目 2.3 节的原始文献。
 
-### 2.3 5-HT1A 功能与 NET：临床前证据
+### 2.3 NET 与 5-HT1A：原始临床前定量证据
 
-`PMID:26436896`（Cross 等，Br J Pharmacol 2016；体外结合与功能测定，加小鼠、大鼠行为模型与在体占有率实验）报告：norquetiapine 在 NET 上的活性与已上市抗抑郁药相当，而喹硫平在 NET 上无活性；喹硫平与 norquetiapine 均为 5-HT1A 受体激动剂；norquetiapine 在小鼠强迫游泳与大鼠习得性无助模型中有效，在体占有率实验显示在与行为相关的剂量下对 NET 有显著占用；norquetiapine 在大鼠惩罚冲突范式中的抗焦虑样作用可被 5-HT1A 拮抗剂 WAY-100635 阻断。该文属临床前证据，其"由体外到体内"的推断止于动物模型，不等同于人体结局。
+`PMID:26436896`／`PMCID:PMC4813385`（Cross 等，Br J Pharmacol 2016;173(1):155-66；作者供职并受资于 AstraZeneca）已回全文核对：转运体数据在原文表 1，受体数据在原文表 2。
+
+实验体系（Methods 原文要点）：结合实验使用**稳定表达克隆人靶点的细胞膜**，NET 为 `[3H]`-MeNER 置换的 scintillation proximity assay（SPA，NET/HEK-293F），5-HT2C 为 `[3H]`-mesulergine（SPA，CHO-K1），其余用过滤法——SERT/`[3H]`-MADAM（HEK-293）、DAT/`[3H]`-WIN 35428（CHO-S）、D2S/`[3H]`-raclopride（CHO-K1）、5-HT1A/`[3H]`-WAY100635（CHO）、5-HT2A/`[3H]`-MDL100907（CHO）。IC50 以 XLfit model 205 拟合（5-HT2A 与 5-HT2C 改用 GraphPad Prism），再经 Cheng–Prusoff 方程换算表观 Ki，取不少于 3 次独立测定的均值，表中以 **pKi ± SD** 报告。功能摄取使用稳定表达人 NET、SERT、DAT 的 HEK-293F 细胞（每孔 6×10⁴ 个细胞，110 g 离心 1 min，37 °C 孵育 3 h），以 neurotransmitter transporter dye 荧光法（改良自 Jorgensen 2008，Envision 读数）按相对总信号（0.5% DMSO 终浓度）与背景计算 % effect；原文表 1 的摄取列同样标注为 pKi ± sd。5-HT1A 激动效能用 GTPγS SPA，100% 效应定义为 5-HT 的最大反应。
+
+| 药物 | hNET 结合 pKi ± SD | hNET 摄取 pKi ± SD |
+| --- | --- | --- |
+| quetiapine | IA | IA |
+| norquetiapine | 7.54 ± 0.05 | 7.47 ± 0.17 |
+| duloxetine | 7.62 ± 0.04 | 7.65 ± 0.19 |
+| desipramine | 8.93 ± 0.34 | 8.89 ± 0.02 |
+| nisoxetine | 8.74 ± 0.43 | 8.89 ± 0.44 |
+| reboxetine | 8.73 ± 0.29 | 8.83 ± 0.14 |
+| atomoxetine | 8.35 ± 0.05 | 8.83 ± 0.21 |
+| clozapine | 5.44 ± 0.04 | 6.38 ± 0.09 |
+| olanzapine | IA | 5.59 ± 0.20 |
+| risperidone | IA | IA |
+| ziprasidone | 6.46 ± 0.05 | 7.17 ± 0.34 |
+| aripiprazole | 5.93 ± 0.02 | 6.05 ± 0.15 |
+
+IA 为原文标注的 inactive。pKi 是负对数口径，norquetiapine 的 7.54 约相当于 Ki 29 nM，即与 duloxetine、desipramine、nisoxetine 等抗抑郁／NET 参考药同量级，而强于 clozapine 与 aripiprazole 约 30–100 倍（原文表述）。同一表内 norquetiapine 在 SERT 只有弱摄取抑制（5.94 ± 0.19，结合为 IA），对 DAT 的结合与摄取均为 IA；母药在三种转运体上全部 IA。5-HT1A 上两者均为低效力、高 Emax 的激动剂：quetiapine pEC50 4.77 ± 0.22、Emax 89 ± 8%；norquetiapine pEC50 5.47 ± 0.16、Emax 90 ± 8%（对照 aripiprazole pEC50 7.87 ± 0.28 但 Emax 仅 65 ± 3%）。谷氨酸受体方面，该文在大鼠脑皮质制备上以 `[3H]`-AMPA、`[3H]`-CGP39653 与 `[3H]`-kainic acid 单孔测定 8 个浓度（0.01–100 µM），母药与代谢物在 50 µM 以下均未显示可检出的结合亲和力（原文表 S1）。
+
+在体部分：大鼠 `[3H]`-MeNER 蓝斑结合显示 NET 占有率随剂量升高，norquetiapine 的 ED50 约 2 mg·kg⁻¹（皮下给药），reboxetine 与 desipramine 分别约 0.05 与 0.15 mg·kg⁻¹（每组 6 只动物；nisoxetine 30 mg·kg⁻¹ 可置换约 80% 总结合，作为特异性对照）。行为学模型中，norquetiapine 30 mg·kg⁻¹ 减少 BALB/c 小鼠强迫游泳不动时间（母药在此试验无效，每组 10 只），5 mg·kg⁻¹ 减少 Wistar 大鼠习得性无助的逃跑失败次数（每组 12 只）；其增强大鼠惩罚冲突反应率的作用（最强效应剂量 5 mg·kg⁻¹）可被 WAY100635 0.1 mg·kg⁻¹ 阻断，母药 10 mg·kg⁻¹ 的同向趋势未达统计学显著。
+
+**与 2.2 节标签数值的差异必须保留。** 该文克隆人靶点体系给出 quetiapine hD2 pKi 7.25 ± 0.25（约 56 nM）、h5-HT2A pKi 7.54 ± 0.30（约 29 nM），而美国标签 §12.2 记 D2 626 nM、5-HT2A 38 nM：D2 相差约 10 倍，5-HT2A 接近。两套数值来自不同实验体系与不同报告口径（pKi ± SD 与 Ki nM），本条目不取平均、不互相替换，也不据此推导任何剂量下的受体选择性。以上全部为克隆细胞系体外测定与大鼠、小鼠结果，不等同于人体结局；人体 NET 占有率证据见本条目 2.4 节。
 
 ### 2.4 人体受体与转运体占有率（PET）
 
@@ -106,7 +129,7 @@ DDD 是群体用药统计指标，不是推荐处方剂量，也不反映各国�
 | 美国 `US-XR`（NDA022047） | 缓释片 | 上述四项，另含成人 MDD 对抗抑郁药反应不足时的辅助治疗 | 青少年证据：精神分裂症 13–17 岁、双相 I 躁狂 10–17 岁（由速释试验支持／外推）；18 岁以下双相抑郁疗效未确立；13 岁以下精神分裂症未确立 |
 | 英国 `UK-IR` | 速释片 | 精神分裂症；双相障碍（中重度躁狂发作、重性抑郁发作、预防曾对喹硫平有应答者的复发） | 18 岁以下**不推荐**（缺乏支持用药的数据） |
 | 英国 `UK-XL` | 缓释片 | 同上，另含 MDD 辅助治疗（对抗抑郁药单药效欠佳者） | 18 岁以下不推荐；与 CYP3A4 抑制剂（HIV 蛋白酶抑制剂、唑类抗真菌药、红霉素、克拉霉素、奈法唑酮）合用列为**禁忌**；MDD 辅助的长期疗效与安全性未评价 |
-| 中国 | — | 待核实：本轮未逐条核对 NMPA 注册信息 | 见[国家药监局查询入口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) |
+| 中国 | — | **待核实**：2026-10-06 复核时 NMPA 数据查询与 CDE 上市药品目录集入口均返回反爬校验页，未取到可引用的注册与说明书文本（访问情况记于本条目 6.1 节第 6 项） | 官方入口：[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) |
 | WHO ATC/DDD | — | `N05AH04`，DDD 0.4 g 口服 | 统计指标，非获批用途，也非处方剂量 |
 
 DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 packager；标签用药指南注明由 CHEPLAPHARM Arzneimittel GmbH 授权（licensed by），由 H2-Pharma, LLC 分销（distributed by）。其 INDICATIONS AND USAGE 与上表一致。上述“获批”仅指对应监管文件所载适应证，地区之间不得互换表述；同一分子在不同剂型、不同地区的状态并不相同。
@@ -219,16 +242,16 @@ DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 package
 
 ### 6.1 证据边界与本轮未解决的缺口
 
-1. **体外数值与临床效应之间没有直接换算关系。** 本条目 2.2 节的 Ki 来自美国标签，标签未在表内注明物种、受体来源与测定方法；引用它们只支持"同一来源内的相对亲和力高低"，不支持任何剂量-占有率或占有率-疗效推断。norquetiapine 对 NET 的定量亲和力在这两份标签中均未以数值给出，本轮未取得可核对的原始测定条件，标记为待核实。
+1. **体外数值与临床效应之间没有直接换算关系。** 本条目 2.2 节的 Ki 来自美国标签，标签未在表内注明物种、受体来源与测定方法；引用它们只支持"同一来源内的相对亲和力高低"，不支持任何剂量-占有率或占有率-疗效推断。norquetiapine 对 NET 的定量亲和力在两份标签中都不存在，本轮已改由原始文献（`PMCID:PMC4813385` 原文表 1 与其 Methods）补入体系、单位与数值；同一文献的克隆人 D2 pKi 与标签 §12.2 的 D2 Ki 相差约 10 倍，属实验体系差异，两套数值不得互换或取平均。
 2. **人体占有率证据样本极小且口径不一。** 四篇 PET 研究的样本量为 2、12、9 与 10 人，脑区（纹状体、丘脑、下丘脑）、示踪剂（`[11C]raclopride`、`(S,S)-[18F]FMeNER-D2`、`(S,S)-[11C]O-methyl reboxetine`）与测量时相各不相同；两项 NET 研究估算的"50% 占用对应浓度"相差数倍，本条目按原文并列而不合并。
 3. **注册试验的设计限制了外推。** 主要疗效来自 3–8 周、以量表为主要终点、DSM-IV 诊断的试验；部分速释躁狂试验排除快速循环与混合发作；青少年疗效证据由速释试验支持或外推至缓释；维持期结论依赖开放标签稳定后随机停药的富集设计；速释片在精神分裂症维持治疗上标签明写"未在对照试验中系统评价"。
 4. **MDD 辅助治疗的效应量小。** 两项 6 周试验中 300 mg 与安慰剂的 MADRS 差值为 −3.0 与 −2.7 分，150 mg 在一项试验未与安慰剂分离；英国 SmPC 记 MDD 辅助的长期疗效与安全性未评价。
 5. **同一指标在不同监管文件中表述不一致。** 例如癫痫发生率（美国标签给出速释 0.5%、缓释 0.05% 的数值，英国 SmPC 表述为"对照试验中无差异"）、norquetiapine 相对暴露（21%–27% 与 35%，口径不同）、半衰期（速释标签约 6 h，缓释标签与 SmPC 约 7 h）。这些差异按原文保留，未择一"标准化"。
-6. **中国注册与说明书信息未核对**，见本条目 4.1 节；`UK-IR`／`UK-XL` 为英国文件，不等同于欧盟各成员国的国家批准文本，欧盟其他成员国的适应证与儿童用药限制本轮未逐项核对。
+6. **中国注册与说明书仍未核实。** 2026-10-06 复核时，NMPA 数据查询（`nmpa.gov.cn/datasearch/*`）对直接请求返回 HTTP 412 的脚本校验页，政务服务窗口页在浏览器中只得到 body 为空的桩页，CDE 上市药品目录集（`cde.org.cn/hzmp/`）返回 HTTP 202 的处理中校验页；按计划要求未搭建爬虫、未改用商业数据库推断，因此本条目保留"待核实"，中国的剂型、规格与适应证须以 NMPA 核准说明书为准。另 `UK-IR`／`UK-XL` 只是英国文件，不等同于欧盟各成员国的国家批准文本，欧盟其他成员国的适应证与儿童用药限制仍未逐项核对。
 7. **年龄限制在两大监管体系间相反**：美国批准 10–17 岁双相 I 躁狂、13–17 岁精神分裂症，英国 SmPC 对 18 岁以下一律“不推荐”。引用时必须写明地区与剂型，不得写成该分子的全球统一状态。
 8. **DDD 0.4 g 仅为统计指标**，与标签按适应证与剂型规定的剂量区间口径不同；本条目不据其推算任何个体的等效剂量、加量或停药方案。
 
-状态判定依据 `AGENTS.md` 的定义：本条目的药效学、药代动力学、获批用途、临床证据与安全性均取自可追溯的监管文件与原始研究，关键数值保留单位与研究条件，冲突结果并列呈现，因此定为 `reviewed`；上述第 1 与第 6 项仍需补证，其余条目是解释和外推时必须保留的证据边界。
+状态判定依据 `AGENTS.md` 的定义：本条目的药效学、药代动力学、获批用途、临床证据与安全性均取自可追溯的监管文件与原始研究，关键数值保留单位与研究条件，冲突结果并列呈现，因此定为 `reviewed`；第 1 项的 NET 定量证据本轮已补入；第 6 项的中国注册信息因官方入口不可稳定检索而仍缺，其余条目是解释和外推时必须保留的证据边界。
 
 ### 6.2 来源
 
@@ -249,7 +272,7 @@ DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 package
 - `PMID:18312041` Mamo DC 等，J Clin Psychiatry 2008;69(1):81-6，缓释对速释的 D2 占有交叉 PET。[PubMed](https://pubmed.ncbi.nlm.nih.gov/18312041/)
 - `PMID:23809226` Nyberg S 等，Int J Neuropsychopharmacol 2013;16(10):2235-44，健康志愿者 NET 占有。[PubMed](https://pubmed.ncbi.nlm.nih.gov/23809226/)
 - `PMID:29016993` Yatham LN 等，Int J Neuropsychopharmacol 2018;21(2):108-113，抑郁患者 NET 占有与症状相关。[PubMed](https://pubmed.ncbi.nlm.nih.gov/29016993/)
-- `PMID:26436896` Cross AJ 等，Br J Pharmacol 2016;173(1):155-66，喹硫平与 norquetiapine 的体外与动物模型药理学。[PubMed](https://pubmed.ncbi.nlm.nih.gov/26436896/)
+- `PMID:26436896` Cross AJ 等，Br J Pharmacol 2016;173(1):155-66，喹硫平与 norquetiapine 的体外与动物模型药理学（本条目 2.3 节数值取自该文全文表 1、表 2 与 Methods）。[PubMed](https://pubmed.ncbi.nlm.nih.gov/26436896/)；[PMC 全文 PMC4813385](https://pmc.ncbi.nlm.nih.gov/articles/PMC4813385/)
 - `PMID:24249315` Asmal L 等，Cochrane Database Syst Rev 2013;11:CD006625，喹硫平对比其他非典型抗精神病药。[PubMed](https://pubmed.ncbi.nlm.nih.gov/24249315/)；[PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167871/)
 - `PMID:16172203` Lieberman JA 等（CATIE），N Engl J Med 2005;353(12):1209-23。[PubMed](https://pubmed.ncbi.nlm.nih.gov/16172203/)
 - `PMID:24394383` Montgomery SA 等，Int Clin Psychopharmacol 2014;29(5):252-62，GAD 汇总后分析。[PubMed](https://pubmed.ncbi.nlm.nih.gov/24394383/)
@@ -264,6 +287,6 @@ DailyMed 当前条目（更新于 2026-04-10）将 H2-Pharma, LLC 列为 package
 - DrugBank ID（经 Wikidata P715）：[DB01224](https://www.drugbank.ca/r/DB01224)
 - English Wikipedia（标题指针，未复制正文）：[Quetiapine](https://en.wikipedia.org/wiki/Quetiapine)
 - RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 51272](https://rxnav.nlm.nih.gov/REST/rxcui/51272.json)
-- 中国国家药品监督管理局数据查询入口（中国注册状态待核实）：[链接](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)
+- 中国国家药品监督管理局政务服务窗口（中国注册状态待核实；2026-10-06 直接请求数据查询返回 412 校验页，见本条目 6.1 节第 6 项）：[链接](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)
 
 统计与缺口见 [目录索引](../catalog/index.md)。
