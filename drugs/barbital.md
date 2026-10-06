@@ -15,6 +15,7 @@
 | 系统命名/研究代号（2 条，节选） | 2,4,6(1H,3H,5H)-pyrimidinetrione；5,5-diethylbarbituric acid | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `1325` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/1325.json) |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 4 项“巴比妥”（英文名 Barbital；CAS 57-44-3）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

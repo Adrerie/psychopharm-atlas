@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | oxazolidine alkaloid | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `7966` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/7966.json) |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 302 项“匹莫林”（英文名 2-Amino-5-phenyloxazol-4(5H)-one；CAS 2152-34-3），目录备注“Pemoline”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

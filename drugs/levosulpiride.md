@@ -15,6 +15,7 @@
 | 系统命名/研究代号（4 条，节选） | (-)-N-{[(S)-1-ethyl-2-pyrrolidinyl]methyl}-5-sulfamoyl-o-anisamide；(S)-(-)-5-aminosulfonyl-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2-methoxybenzamide… | Wikidata 英文别名 |
 | 第三方数据库归类线索 | (RS)-sulpiride | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
+| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐一核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列（2026-10-01 施行）、2025 年版《非药用类麻醉药品和精神药品目录》、2026-07-01 生效的 16 种非药用类增列与 2026-10-01 生效的奥啡类物质整类列管，未发现“levosulpiride”及其别名的名称匹配。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 立体化学说明：levosulpiride 是 (S)-(-)-sulpiride，即 [sulpiride](sulpiride.md)（`N05AL01`）所含的 S 对映体。`(-)-sulpiride` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/688272) 及 [IUPHAR/BPS](https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=958) 核实为有效别名；单一对映体与外消旋体分别建档。
 

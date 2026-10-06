@@ -15,6 +15,7 @@
 | 系统命名/研究代号（3 条，节选） | (-)-(3S,4R)-4-(p-fluorophenyl)-3-{[3,4-(methylenedioxy)phenoxy]methyl}piperidine；(3S-trans)-3-[(1,3-benzodioxol-5-yloxy)methyl]-4-(4-fluorophenyl)piperidine… | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `32937` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/32937.json) |
+| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐一核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列（2026-10-01 施行）、2025 年版《非药用类麻醉药品和精神药品目录》、2026-07-01 生效的 16 种非药用类增列与 2026-10-01 生效的奥啡类物质整类列管，未发现“paroxetine / 帕罗西汀”及其别名的名称匹配。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

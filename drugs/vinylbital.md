@@ -14,6 +14,7 @@
 | 别名 | butylvinal；vinylbarbital | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `19928` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)（RxNorm 首选名 `butylvinal`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 305 项“乙烯比妥”（英文名 5-(1-Methylbutyl)-5-vinylbarbituric acid；CAS 2430-49-1），目录备注“Vinylbital”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

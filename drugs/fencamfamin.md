@@ -13,6 +13,7 @@
 | 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
 | 别名 | Fencamfamine；Fencamfaminum；Fencanfamina | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 293 项“芬坎法明”（英文名 N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amine；CAS 1209-98-9），目录备注“Fencamfamin”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

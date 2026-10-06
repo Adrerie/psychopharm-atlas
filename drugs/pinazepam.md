@@ -12,6 +12,7 @@
 | ATC 编码 | `N05BA14`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N05BA Benzodiazepine derivatives | WHO ATC/DDD Index 2026 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 60 项“匹那西泮”（英文名 Pinazepam；CAS 52463-83-9）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

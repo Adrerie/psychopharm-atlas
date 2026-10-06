@@ -14,6 +14,7 @@
 | 别名 | Captagon；phenethylline | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `24840` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/24840.json)（RxNorm 首选名 `fenethylline`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 251 项“芬乙茶碱”（目录备注常用名 Fenetylline；目录英文化学名 1,3-Dimethyl-7-(2-((1-phenylpropan-2-yl)amino)ethyl)-1H-purine-2,6-dione；CAS 3736-08-1）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

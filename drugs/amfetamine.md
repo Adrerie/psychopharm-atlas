@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | 1-phenylpropan-2-amine alkaloid、amphetamines | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `725` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)（RxNorm 首选名 `amphetamine`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》第一类第 2 项“苯丙胺”（英文名 Amfetamine；CAS 300-62-9）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

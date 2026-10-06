@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | carboxylic acid | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `17698` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/17698.json)（RxNorm 首选名 `amineptin`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 232 项“安咪奈丁”（目录备注常用名 Amineptine；目录英文化学名 7-((10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-yl)amino)heptanoic acid；CAS 57574-09-1）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

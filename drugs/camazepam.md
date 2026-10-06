@@ -14,6 +14,7 @@
 | 别名 | CMZ；CZ | Wikidata 英文别名 |
 | 第三方数据库归类线索 | benzodiazepine drug | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 287 项“卡马西泮”（英文名 7-Chloro-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1H-benzo[e][1,4]diazepin-3-yl dimethylcarbamate；CAS 36104-80-0），目录备注“Camazepam”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

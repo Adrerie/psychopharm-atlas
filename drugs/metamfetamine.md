@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | DL-methamphetamine | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `6816` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/6816.json)（RxNorm 首选名 `methamphetamine`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 258 项“右旋甲基苯丙胺”（英文名 (S)-N-Methyl-1-phenylpropan-2-amine；CAS 537-46-2），目录备注“Dextromethamphetamine”；列入《非药用类麻醉药品和精神药品目录（2025年版）》第 259 项“甲基苯丙胺”（英文名 N-Methyl-1-phenylpropan-2-amine；CAS 7632-10-2），目录备注“Methamphetamine”。metamfetamine 的国际非专利名指右旋体，故对应第 258 项；同一目录第 254 项另列“左旋甲基苯丙胺”（Levomethamphetamine，CAS 33817-09-3）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

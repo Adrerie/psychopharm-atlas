@@ -15,6 +15,7 @@
 | 第三方数据库归类线索 | methylphenidate | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `352372` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/352372.json) |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》第一类第 11 项“哌甲酯”（Methylphenidate，CAS 113-45-1）。dexmethylphenidate 为哌甲酯的 d-threo 对映体（CAS 40431-64-9），按该目录注 2“上述品种包括其可能存在的立体异构体（除非另有规定）”纳入同一条目；该条备注另写明“包括含丝右哌甲酯和右哌甲酯复方制剂”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

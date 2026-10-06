@@ -15,6 +15,7 @@
 | 系统命名/研究代号（3 条，节选） | 5-(1-cyclohexen-1-yl)-1,5-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione；5-(1-cyclohexen-1-yl)-1,5-dimethylbarbituric acid… | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `5302` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/5302.json) |
+| 中国管制状态（核查 2026-10-06） | **待核实**：本条目维基数据中文标签“环己巴比妥”与非药用类目录第 289 项“环己巴比妥”同名，但该目录项 CAS 为 52-31-3、备注 Cyclobarbital，经 CAS 核对该物质是 cyclobarbital（见其档案），而 hexobarbital 的 CAS 为 56-29-1，未在六项目录中按名称或 CAS 命中。在中文对应关系澄清前不作“未发现列入”结论。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 Wikidata 条目自身声明的 ATC 编码（非官方 2026 认定，可能滞后或属其他治疗组）：`N01AF02`、`N05CA16`。
 

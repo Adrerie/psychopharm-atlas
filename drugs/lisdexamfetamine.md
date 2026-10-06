@@ -14,6 +14,7 @@
 | 第三方数据库归类线索 | N-substituted primary carboxamide、phenyl compound、diamine | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `700810` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/700810.json) |
+| 中国管制状态（核查 2026-10-06） | **待核实**：六项目录均未单列 lisdexamfetamine（CAS 608137-32-2）。其母体右苯丙胺（Dexamfetamine）列入《药用类精神药品目录（2025年版）》第一类第 5 项；药用类目录注仅将范围扩至“可能存在的盐和单方制剂”“可能存在的立体异构体”，未及于酰胺键前药，因此本前药是否落入该条目范围需以官方解释为准。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 
