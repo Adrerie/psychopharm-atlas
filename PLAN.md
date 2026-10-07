@@ -29,8 +29,8 @@
 
 ## 完成情况（2026-10-07）
 
-- 用 RDKit（SMARTS ＋ 环系判断，装在 Git 外的临时环境，未写入仓库任何依赖文件）对 206 份结构阴性条目逐份复核，规则只覆盖四类公告的母核与替代位置；先用母体与已知整类成员验证（芬太尼、卡芬太尼、舒芬太尼、罗芬太尼、乙酰芬太尼、依托尼秦、isotonitazene、metonitazene、溴啡、JWH-018、JWH-073、MDMB-4en-PINACA、ADB-BUTINACA、CP-55,940、CP-47,497 全部命中；螺溴啡按公告名称构造后命中），再用 16 个结构相近的阴性对照确认不误报。
-- **204 份与上一轮结论一致，条目未改动。** `daridorexant`、`mosapramine` 只在“母核局部相似”的宽松诊断层报警，人工回看公告条件后仍属排除；`samidorphan`（复方成分）在第一版第七式规则下误报，据此把该式收紧为“环己基与苯环各自非并合”，收紧后 CP-55,940、CP-47,497 仍命中。
-- 新增待核实 3 份：`Valerianae radix`、`Hyperici herba`、`Lavandulae aetheroleum` 为多组分天然产物，无单一结构式可输入，整类结构核查无法完成。`bromides`、`lithium` 为无机物，保留排除并在条目内注明依据。
+- 对 206 份候选逐项处理：对具有可核对单一结构的候选使用 RDKit（SMARTS ＋ 环系判断，装在 Git 外的临时环境，未写入仓库任何依赖文件）复核；3 份多组分天然产物因不存在可代表整个条目的单一结构式，直接转为待核实。规则只覆盖四类公告的母核与替代位置；先用母体与已知整类成员验证（芬太尼、卡芬太尼、舒芬太尼、罗芬太尼、乙酰芬太尼、依托尼秦、isotonitazene、metonitazene、溴啡、JWH-018、JWH-073、MDMB-4en-PINACA、ADB-BUTINACA、CP-55,940、CP-47,497 全部命中；螺溴啡按公告名称构造后命中），再用 16 个结构相近的阴性对照确认不误报。
+- **最终 203 份保持“未发现列入上述现行目录”的排除结论。** 其中 `daridorexant`、`mosapramine` 只在“母核局部相似”的宽松诊断层报警，人工回看公告条件后仍属排除；`samidorphan`（复方成分）在第一版第七式规则下误报，据此把该式收紧为“环己基与苯环各自非并合”，收紧后 CP-55,940、CP-47,497 仍命中。
+- 新增待核实 3 份：`Valerianae radix`、`Hyperici herba`、`Lavandulae aetheroleum` 为多组分天然产物，无单一结构式可输入，整类结构核查无法完成。`bromides`、`lithium` 为无机物，不具备四类有机母核，保留排除并在条目内注明依据。
 - 未把任何结构命中改写成“已列管”；`pimozide`、`benperidol`、`fluspirilene`、`pimavanserin` 与原有 3 份身份／范围待核实项均未自动解决。
 - 最终统计见 [catalog/index.md](catalog/index.md) 第 1 节与第 5 节第 7 条；复核方法与限制记于 [SOURCES.md](SOURCES.md#整类列管的结构定义结构核查基准)。临时脚本与结构缓存已删除。
