@@ -12,6 +12,7 @@
 | ATC 编码 | `N05CD15`（2026 年索引） | WHO ATC/DDD Index 2026 |
 | 官方亚组 | N05CD Benzodiazepine derivatives | WHO ATC/DDD Index 2026 |
 | 身份链接 | `name-search` | Wikidata 名称检索唯一命中 |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 49 项“尼美西泮”（英文名 Nimetazepam；CAS 2011-67-8）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

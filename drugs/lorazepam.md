@@ -15,6 +15,7 @@
 | 第三方数据库归类线索 | benzodiazepine drug | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `6470` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/6470.json) |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 39 项“劳拉西泮”（英文名 Lorazepam；CAS 846-49-1）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 别名纠错：Wikidata 曾将 `Lormetazepam`、`Methyllorazepam`、`N-Methyllorazepam` 列在本条目下，已从正式别名栏移除。`Lormetazepam`（[独立条目](lormetazepam.md)，`N05CD06`）与劳拉西泮（`N05BA06`）是不同药物；美国 NLM 的 [MeSH 记录](https://meshb.nlm.nih.gov/record/ui?name=Lormetazepam) 将 `methyllorazepam` 列为 lormetazepam 的检索名称。不得按这些错误别名合并药物。
 

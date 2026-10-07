@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | benzodiazepine drug | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `2607` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/2607.json)（RxNorm 首选名 `clorazepate dipotassium`，与官方名不同） |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 288 项“氯拉䓬酸”（英文名 7-Chloro-2-oxo-5-phenyl-2,3-dihydro-1H-benzo[e][1,4]diazepine-3-carboxylic acid；CAS 23887-31-2），目录备注“Clorazepate”。本条目为该酸的二钾盐，目录注 1“上述品种包含其可能存在的盐类、立体异构体及其盐类（另有规定的除外）”覆盖盐型。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

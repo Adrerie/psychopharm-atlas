@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | modafinil | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `641465` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json) |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 46 项“莫达非尼”（英文名 Modafinil；CAS 68693-11-8）。armodafinil 为莫达非尼的 (R)-对映体（CAS 112111-43-0），按该目录注 2“上述品种包括其可能存在的立体异构体（除非另有规定）”纳入同一条目。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 立体化学说明：armodafinil 是 (R)-(-)-modafinil，即 [modafinil](modafinil.md)（`N06BA07`）所含的 R 对映体。`(-)-modafinil` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/9690109) 核实为有效别名；单一对映体与外消旋体仍保留独立档案。
 

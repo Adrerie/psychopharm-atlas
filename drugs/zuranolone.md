@@ -13,6 +13,7 @@
 | 官方亚组 | N06AX Other antidepressants | WHO ATC/DDD Index 2026 |
 | 身份链接 | `name-search` | Wikidata 名称检索唯一命中 |
 | RxNorm 概念标识（名称检索） | RXCUI `2669905` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/2669905.json) |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 73 项“舒拉诺龙”（英文名 Zuranolone；CAS 1632051-40-1）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

@@ -14,6 +14,7 @@
 | 别名 | methprylon；methyprolon；methyprylone；metiprilon | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `6910` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/6910.json) |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 301 项“甲乙哌酮”（英文名 3,3-Diethyl-5-methylpiperidine-2,4-dione；CAS 125-64-4），目录备注“Methyprylon”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

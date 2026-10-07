@@ -16,6 +16,7 @@
 | 第三方数据库归类线索 | organochlorine compound、unsaturated compound、tertiary alcohol | Wikidata P279，仅作检索线索 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `4118` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/4118.json) |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 290 项“乙氯维诺”（英文名 1-Chloro-3-ethylpent-1-en-4-yn-3-ol；CAS 113-18-8），目录备注“Ethchlorvynol”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

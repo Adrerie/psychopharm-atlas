@@ -14,6 +14,7 @@
 | 别名 | Alapryl®；Halazepamum；Halazépam；SCH-12041 | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `26412` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/26412.json) |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 296 项“哈拉西泮”（英文名 7-Chloro-5-phenyl-1-(2,2,2-trifluoroethyl)-1,3-dihydro-2H-benzo[e][1,4]diazepin-2-one；CAS 23092-17-3），目录备注“Halazepam”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 

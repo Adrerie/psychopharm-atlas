@@ -14,6 +14,7 @@
 | 别名 | U-28774 | Wikidata 英文别名 |
 | 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
 | RxNorm 概念标识（名称检索） | RXCUI `28181` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/28181.json) |
+| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 297 项“凯他唑仑”（英文名 11-Chloro-2,8-dimethyl-12b-phenyl-8,12b-dihydro-4H-benzo[f][1,3]oxazino[3,2-d][1,4]diazepine-4,7(6H)-dione；CAS 27223-35-4），目录备注“Ketazolam”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 
 ## DDD（用药统计指标）
 
