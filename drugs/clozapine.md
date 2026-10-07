@@ -3,14 +3,14 @@
 > 状态：`reviewed` ｜ 最后核查：2026-10-07（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AH02`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`US-CLZ`＝美国现行氯氮平片处方资料（DailyMed setid `61fe53d5-ed5c-4e45-9189-709d08d386cb`，生效 2026-05-11）；`US-ODT`＝氯氮平口腔崩解片 VERSACLOZ（setid `2592c9a8-fd74-4e0d-a895-b07b014cf355`，生效 2026-09-06）；`UK-SPC`＝英国 Clozaril 25 mg SmPC（emc 4411，文本修订 2026-02）；`PMID:……`＝PubMed。§N 指相应文件的章节号。
+**引用键**：`US-CLZ`＝美国现行氯氮平片处方资料（DailyMed setid `61fe53d5-ed5c-4e45-9189-709d08d386cb`，生效 2026-05-11）；`US-VERS`＝VERSACLOZ 氯氮平口服混悬液（setid `2592c9a8-fd74-4e0d-a895-b07b014cf355`，生效 2026-09-06）；`FDA-REMS`＝FDA 2025-08-27 Clozapine REMS 移除公告（自 2025-06-13 生效）；`UK-SPC`＝英国 Clozaril 25 mg SmPC（emc 4411，文本修订 2026-02）；`PMID:……`＝PubMed。§N 指相应文件的章节号。
 
 ## 1. 基本信息
 
 | 项目 | 内容 |
 | --- | --- |
 | 类型／药理类别 | 单方；美国标签称 atypical antipsychotic（`US-CLZ` §1），ATC 亚组 N05AH（二氮䓬／氧氮䓬／硫氮䓬与氧杂䓬类） |
-| 主要剂型 | 片剂与口腔崩解片（VERSACLOZ）（`US-ODT` §1、§3） |
+| 主要剂型 | 片剂；VERSACLOZ 为 **50 mg/mL 口服混悬液**，不是口崩片（`US-VERS` §3） |
 | 主要活性代谢物 | N-desmethylclozapine（norclozapine）与氯氮平 N-氧化物；标签称 norclozapine 仅具"limited activity"（`US-CLZ` §12.3） |
 | 关键药代摘要 | 主要经 CYP1A2（部分 2D6／3A4）代谢；终端半衰期单次给药约 8 h（4–12 h）、稳态约 12 h（4–66 h）；蛋白结合 97%；烟草是 CYP1A2 中度诱导剂，戒断会升高暴露（`US-CLZ` §12.3、§7.1；`UK-SPC` §5.2） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：2025 年版药用类麻醉药品与精神药品目录、2026 年第 58 号药用类精神药品增列、2025 年版非药用类目录及 2026-07-01 生效的 16 种增列逐项未命中"clozapine／氯氮平"；芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查并经 RDKit 复核亦不落入。此表述不等于"非管制"，处方、携带、进出口等限制另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
@@ -27,12 +27,12 @@
 | --- | ---: | --- |
 | 长期风险负担 | 5 | 黑框列严重中性粒细胞减少、体位性低血压／心动过缓／晕厥、癫痫、心肌炎与心肌病（"Fatal myocarditis and cardiomyopathy have occurred"）及老年痴呆相关精神病死亡率升高；另有胃肠低动力致肠梗阻／穿孔乃至死亡（§5.7）、代谢改变、迟发性运动障碍、QT（`US-CLZ` 黑框、§5.1、§5.5、§5.7、§5.9、§5.10、§5.17）。英国 SmPC 给出美国标签未量化的血液风险：粒细胞缺乏累积发生率 0–11.6 年 **0.78%**，约 70% 发生在 18 周内（`UK-SPC` §4.8） |
 | 短期耐受负担 | 4 | 全部试验汇总嗜睡／镇静 39%、流涎 31%、心动过速 25%、头晕 19%、便秘 14%；InterSePT 中流涎 48%、嗜睡 46%、体重增加 31%；低血压／晕厥与跌倒单列（`US-CLZ` §6.1 表 10、表 11、§5.2、§5.3）。"镇静＋流涎＋体位性低血压"是其早期最常见的耐受问题 |
-| 相互作用／监测负担 | 5 | 强制血液监测（美国：基线 ANC<1500/μL、良性种族性中性粒细胞减少者<1000/μL 不建议起始；英国：起始 WBC≥3500 且 ANC≥2000/mm³，前 18 周每周、其后至少每 4 周）；氟伏沙明等强 CYP1A2 抑制剂使母药与两种主要代谢物升高"about three-fold"；吸烟状态改变即影响浓度（`US-CLZ` 黑框、§12.3、§7.1；`UK-SPC` §4.2、§4.4、§4.5） |
+| 相互作用／监测负担 | 5 | 严重中性粒细胞减少使 **持续 ANC 监测**仍属核心安全负担；FDA 已于 2025-06-13 正式取消 Clozapine REMS，处方者、药房与患者不再需要参加限制分发计划，但 FDA 仍建议按说明书频率监测 ANC。另有 CYP1A2 抑制/诱导与吸烟状态改变导致的暴露变化（`FDA-REMS`；`US-CLZ` 黑框、§7.1、§12.3；`UK-SPC` §4.4、§4.5） |
 | 停药负担 | 4 | §5.19 单列"Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation"，反跳表现为大汗、头痛、恶心、呕吐、腹泻及精神病复发，标签另设治疗中断后的再起始程序；本药抗胆碱能作用强，反跳在同类药中不常见（`US-CLZ` §5.19、§2.6） |
 | 滥用／误用潜力 | 1 | 本轮核对的 4 份现行美国标签**均无**"药物滥用与依赖"章节，也未标注 CSA 分级；中国未列入麻精目录（§1）。此分表示"未见监管或标签层面的滥用信号"，而非测得的误用率——氯氮平的镇静与抗胆碱能特性使个案层面的误用报道难以由现有来源判断 |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 本轮未检索到专门针对中国氯氮平处方的药物利用、PIM 或指南级研究，不凭印象定分。可核化的相关事实是：29 省 41 家三级精神科医院调查中，氯氮平占该队列抗精神病药处方的 1.9%，但该队列的定义就是"排除精神分裂症谱系与双相"的非核心用药人群，因此这一比例**不能读作难治人群的使用率**，既不构成"过度使用"也不构成"使用不足"的证据；全球 75 国销量分析（2024 年均值 0.46 DDD／1000 居民／日，11 国显著下降）与处方障碍综述描述的也是**使用不足**现象（`PMID:34315410`；`PMID:41684811`；`PMID:29880453`） |
 
-总体解释：氯氮平的负担结构与其他抗精神病药不同——决定它的是**血液、心脏与胃肠动力风险叠加一整套强制监测**，而不是运动系统副作用；标签自己就把适用范围限定在"standard antipsychotic treatment 失败"的患者（`US-CLZ` §1.1）。头对头证据同时给它加分与减分：观察性荟萃显示与氯氮平相关的再住院风险更低（RR 0.817）且保留更好（RR 0.732），但体重增加更多（均值差 +1.70 kg）、2 型糖尿病风险 RR 1.777（`PMID:31365048`）；而个体水平网络荟萃在难治人群里**没有**发现它优于其他第二代药（`PMID:40023172`）。
+总体解释：氯氮平的负担结构与其他抗精神病药不同——决定它的是**血液、心脏与胃肠动力风险叠加持续的血液学监测负担**，而不是运动系统副作用；标签自己就把适用范围限定在"standard antipsychotic treatment 失败"的患者（`US-CLZ` §1.1）。头对头证据同时给它加分与减分：观察性荟萃显示与氯氮平相关的再住院风险更低（RR 0.817）且保留更好（RR 0.732），但体重增加更多（均值差 +1.70 kg）、2 型糖尿病风险 RR 1.777（`PMID:31365048`）；而个体水平网络荟萃在难治人群里**没有**发现它优于其他第二代药（`PMID:40023172`）。
 
 ### 2.2 按使用场景适宜度（A–D）
 
@@ -87,7 +87,7 @@
 
 ## 10. 证据边界
 
-1. **同为"现行美国标签"，两份文本并不一致**：`US-ODT`（VERSACLOZ）在黑框中写明本品仅能通过"Clozapine REMS"限制分发计划获得，而 `US-CLZ`（氯氮平片）全文未出现 REMS 字样；本条目不据此推断美国是否统一要求 REMS，需回 FDA 限制分发计划清单核对。
+1. **美国 Clozapine REMS 已取消**：FDA 正式公告 REMS 自 2025-06-13 起移除，处方者、药房与患者不再需要参加该计划或向 REMS 报告 ANC。`US-VERS` 页面仍可见旧 REMS 文本，属于 SPL/展示同步滞后，不能据此写成现行限制分发要求；ANC 监测本身仍继续（`FDA-REMS`）。
 2. 血液监测阈值与频率在美英之间不同（ANC 1500/1000 对 WBC 3500＋ANC 2000；每周→每两周→每月 对 18 周每周→至少每 4 周，且英国要求停药后继续监测 4 周），不能把一国方案当作全球标准。
 3. 严重中性粒细胞减少、心肌炎与心肌病的发生率在美国标签中**没有数值**，英国的数值来自登记与观察分析；两者不属于同一证据层级，本条目并列而不合并。
 4. 甘油三酯升高项的 N=6，属数据可用性限制，不宜作为群体结论引用。
@@ -99,7 +99,7 @@
 
 ## 11. 来源
 
-**监管文件**：[氯氮平片处方资料（DailyMed setid 61fe53d5，生效 2026-05-11）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb)；[VERSACLOZ 口腔崩解片（setid 2592c9a8，生效 2026-09-06）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355)；[英国 Clozaril 25 mg SmPC（emc 4411，文本修订 2026-02）](https://www.medicines.org.uk/emc/product/4411/smpc)；[openFDA 药品标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22CLOZAPINE%22)；[EMA 药品清单下载](https://www.ema.europa.eu/en/medicines/download-medicines-data)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+**监管文件**：[FDA：Clozapine REMS 已移除（自 2025-06-13 生效）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine)；[氯氮平片处方资料（DailyMed setid 61fe53d5，生效 2026-05-11）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=61fe53d5-ed5c-4e45-9189-709d08d386cb)；[VERSACLOZ 口腔崩解片（setid 2592c9a8，生效 2026-09-06）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355)；[英国 Clozaril 25 mg SmPC（emc 4411，文本修订 2026-02）](https://www.medicines.org.uk/emc/product/4411/smpc)；[openFDA 药品标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22CLOZAPINE%22)；[EMA 药品清单下载](https://www.ema.europa.eu/en/medicines/download-medicines-data)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
 **指南**：[NICE CG178（精神分裂症，2014-02-12 发布，2026-09-04 最后更新）](https://www.nice.org.uk/guidance/cg178/chapter/1-Recommendations)。
 
