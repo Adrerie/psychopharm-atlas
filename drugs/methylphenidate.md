@@ -1,44 +1,120 @@
-# methylphenidate
+# methylphenidate｜哌甲酯
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`reviewed` ｜ 最后核查：2026-10-07（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA04`（WHO ATC/DDD Index 2026）  
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-IR`＝盐酸哌甲酯普通片标签（DailyMed setid `d6fb2750-cdab-4749-ba0d-7534840a5892`，Ritalin，生效 2025-02-05；另核 Aurolife `35be77db-fbe3-487e-a220-a08a11aaec28`，生效 2026-08-13）；`US-OROS`＝渗透泵缓释片标签（setid `768bf181-d0d8-49e5-9c87-cacbb069e0b2`，生效 2026-08-27；Concerta `1a88218c-5b18-4220-8f56-526de1a276cd`，生效 2026-04-20）；`US-LA`／`US-CD`／`US-ODT`／`US-PM`／`US-TD`＝Ritalin LA、Metadate CD、Cotempla XR‑ODT、Jornay PM、Daytrana 贴剂标签（setid 见 §11）；`UK-SPC`＝英国 Concerta XL SmPC（emc 6872，文本更新 2025-11-06）；`PMID:……`＝PubMed。§N 指相应文件章节号。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | methylphenidate | WHO ATC/DDD Index 2026（`N06BA04`）|
-| 中文标签（维基数据，未核对监管核准名） | 哌甲酯（zh-cn） | Wikidata [Q422112](https://www.wikidata.org/wiki/Q422112) |
-| ATC 编码 | `N06BA04`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | MPH；RIT124；methyl phenidylacetate；methylphenidan；α-phenyl-2-piperidineacetic acid methyl ester | Wikidata 英文别名 |
-| 系统命名/研究代号（6 条，节选） | alpha-phenyl-2-piperidineacetic acid methyl ester；methyl alpha-phenyl-alpha-(2-piperidyl)acetate… | Wikidata 英文别名 |
-| 第三方数据库归类线索 | piperidine、carboxylate ester、substituted benzene | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `6901` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/6901.json) |
-| 中国管制状态（核查 2026-10-06） | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》第一类第 11 项“哌甲酯”（英文名 Methylphenidate；CAS 113-45-1）。该条备注：“包括含丝右哌甲酯和右哌甲酯复方制剂”。此外丝右哌甲酯（Serdexmethylphenidate，CAS 1996626-29-9）在第 65 项单列为第二类。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方；中枢性交感样药／苯乙胺类兴奋剂（blocker of dopamine and noradrenaline reuptake）；ATC 亚组 N06BA；美国标签把它列为 Schedule II 管制精神药物（`US-IR` §9.1） |
+| 主要剂型 | 普通片、多种口服缓释系统（渗透泵、微丸双相、夜服延迟释放）、口崩缓释片、透皮贴剂；另有注射用与口服溶液在其他法域/历史产品中出现，本条目只写已核对标签（§4 表） |
+| 主要活性代谢物 | 利他林酸（ritalinic acid，去酯化产物）；尿中以代谢物形式回收 78%–97%（`US-IR` §12.3） |
+| 关键药代摘要 | 代谢以**非微粒体水解酯酶去酯化**为主，现行美国标签未把 CYP 通路列为主要清除路径（也未出现 CES1 一词）；血浆蛋白结合低（10%–33%）；d-体口服利用度约 22%±8%；半衰期与 Tmax 依剂型差别极大，是理解本药的关键（`US-IR` §12.3；各缓释标签 §12.3） |
+| 中国管制状态 | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》第一类第 11 项"哌甲酯"（英文名 Methylphenidate；CAS 113-45-1），该条备注为"包括含丝右哌甲酯和右哌甲酯复方制剂"；另丝右哌甲酯（Serdexmethylphenidate，CAS 1996626-29-9）在第 65 项单列为第二类（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）。美国 Schedule II、英国 MDA Class B／2001 法规 Schedule 2 |
+| 主要法域批准状态 | 美国：ADHD（年龄范围按剂型为 6 岁起至 12／15／17 岁或 65 岁，见 §4 表），普通片与部分缓释剂型另有**发作性睡病**；65 岁以上不在适应范围（`US-OROS` §8.5）。英国：ADHD 用于 6 岁以上儿童、青少年与成人，且以"单独矫正措施不足"为条件（`UK-SPC` §4.1）。中国：官方入口未取回，批准文号、上市剂型与核准适应证待核实（§10） |
+| 身份与统计 | WHO ATC `N06BA04`；DDD 30 mg／日口服（统计指标，非处方剂量）；Wikidata [Q422112](https://www.wikidata.org/wiki/Q422112)；PubChem [4158](https://pubchem.ncbi.nlm.nih.gov/compound/4158)；MeSH [D008774](https://meshb.nlm.nih.gov/record/ui?ui=D008774)；DrugBank [DB00422](https://www.drugbank.ca/r/DB00422)；RxNorm [6901](https://rxnav.nlm.nih.gov/REST/rxcui/6901.json)；[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA04) |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
+## 2. 评分
+
+规则见 [SCORING.md](../SCORING.md)。
+
+### 2.1 药物负担（1–5，越高越重）
+
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | 需要长期权衡的是生长、精神症状与心血管指标：7–13 岁连续用药 14–36 个月者 3 年平均少长约 2 cm、少增约 2.7 kg，且"无生长追赶证据"（`US-OROS` §5.7）；试验期精神或躁狂症状约 0.1% 对安慰剂 0%（§5.4）；静息心率与血压的可测量升高（§5.3、§6）；另有阴茎异常勃起、周围血管病变／雷诺现象（§5.5、§5.6）。无器官毒性或强制血液学监测 |
+| 短期耐受负担 | 3 | 成人对照试验：食欲下降 25%（安慰剂 7%）、头痛 22%（16%）、口干 14%（4%）、恶心 13%（3%）、失眠 12%（6%）、焦虑 8%（2%）、体重下降 7%（3%）、心动过速 5%（0%）；因不良反应停药 6% 对 3%（`US-OROS` §6、§14） |
+| 相互作用／监测负担 | 3 | 与多数精神药物相比其**代谢性相互作用负担较轻**（不经主要 CYP 清除），但禁忌与注意项集中在：MAOI（含停药 14 天内）、降压药效应被削弱、卤化麻醉药、利培酮合用；心血管与生长指标的定期监测是标签与英国 SmPC 的明确要求（英国：血压与脉搏每 6 个月、身高体重每 6 个月）（`US-IR` §7；`UK-SPC` §4.4） |
+| 停药负担 | 3 | §9.3 记载 abrupt withdrawal 可出现"情绪低落、抑郁、疲劳、生动不愉快梦境、失眠或嗜睡、食欲增加、精神运动迟滞或激越"，并要求在停药时密切观察、必要时作心理干预；标签同时提出"drug-free intervals"以观察耐受性变化。无苯二氮䓬式的可危及生命戒断（`US-IR` §9.3；`US-OROS` §9.3） |
+| 滥用／误用潜力 | 5 | 现行 11 份美国标签**全部**带有"WARNING: ABUSE, MISUSE, AND ADDICTION"黑框；美国 Schedule II、中国第一类精神药品、英国 Class B／Schedule 2；普通片标签明写"可被转移至非医疗渠道"；系统综述报告非医疗使用 2.1%–58.7%、转移 0.7%–80.0%（口径差异极大，均为自报）。同时须保留机制层限定：PET 显示治疗剂量（0.3–0.6 mg/kg）已可占据 >50% 的多巴胺转运体，而强化效应取决于**达到的速度与程度**（约 >60% 且快速，如静脉给药），口服治疗条件下"很少出现强化效应"（`US-IR` §9.1、§9.2、黑框；`PMID:31326580`；`PMID:9766762`；`PMID:14624806`） |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本轮未取得针对中国哌甲酯处方的药物利用、PIM 或指南级研究；其"第一类精神药品"身份属目录事实，不能直接当作处方不适当性的证据，故不评分（§1） |
+
+总体解释：哌甲酯的负担呈**两头分布**——治疗剂量下的躯体与精神不良反应多为可控、可逆，而滥用／转移与管制负担极重；因此对本药的评价几乎必须与"剂型"和"人群"绑定：缓释系统改善谷峰波动与依从性，但改变不了它是 Schedule II／第一类精神药品这一事实。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 30 | mg | O | — |
+| 儿童青少年 ADHD | 美国 6 岁起（上限因剂型而异）；英国 6 岁以上（须先有环境／心理教育措施不足）；NICE 列为一线药物 | A− | 网络荟萃给出临床医师评定 SMD −0.78（−0.93 至 −0.62）、教师评定 −0.82，是儿童 ADHD 中效应最大的药物之一；但需并行监测血压、心率、身高体重与精神症状，且共患物质使用障碍时疗效下降（`PMID:30097390`；NICE NG87 1.7.7、1.5.13；`UK-SPC` §4.1、§4.4） |
+| 成人 ADHD | 美国渗透泵剂型批准至 65 岁；英国批准成人；NICE 把"lisdexamfetamine 或哌甲酯"并列为成人一线 | B+ | 成人效应量小于儿童（SMD −0.49，−0.64 至 −0.35），且在成人荟萃中"耐受性"相对更差（因任意原因退出的 OR 2.39，1.40–4.08）；同一作者结论倾向成人首选安非他明类；成人人群的非医疗使用与共患物质使用障碍风险更高，属本场景的核心限制（`PMID:30097390`；NICE NG87 1.7.11；`PMID:21254791`） |
+| 发作性睡病 | 美国普通片与部分缓释剂型获批；本条目未核查英国该用途状态 | B− | 属标签内适应证但证据基础早于现行 ADHD 试验体系，且中国获批情况未核实；心血管与滥用问题同样适用（`US-IR` §1；`UK-SPC` §4.1） |
+| 非患者的学业／认知增强（转移使用） | 任何法域均非适应证 | D | 系统综述结论是"无 ADHD 个体的非医疗使用很少证据能改善学业表现"，同时误用可经鼻吸或注射途径显著改变暴露与风险；这一用途的风险收益明确不利（`PMID:31326580`；`US-IR` §9.2） |
+| 老年（>65 岁）ADHD 或疲劳 | 美国标签明确"不适用于 65 岁以上" | D | 无获批依据且缺该人群试验证据（`US-OROS` §8.5） |
 
-DDD 是统计指标，不是推荐处方剂量。
+## 3. 主要作用
 
-## 待核实
+标签层面对机制的表述是阻断多巴胺与去甲肾上腺素再摄取、从而提高突触单胺浓度；治疗效应与滥用潜力共用同一通路，差别在于**暴露曲线**：普通片 Tmax 约 2 h、半衰期短，血药浓度陡升陡降；渗透泵与延迟释放系统把 Tmax 拉到 6–10 h 乃至 14 h（Jornay PM 为夜间服药、次日晨起生效的设计）。PET 数据给出一条关键的定量分层——5 mg 占位约 12%、20 mg 约 54%、60 mg 约 74%，而强化效应通常要求占位超过约 60% 且快速达到；据此，口服治疗剂量可以超过 50% 占位却很少产生强化效应（`PMID:9766762`；`PMID:14624806`；`PMID:12468018`）。这类人体 PET 属小样本机制研究，不能换算成个体剂量或风险。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+## 4. 适应范围
 
-## 来源
+**剂型差异（本药最需要分清的部分）**
 
-- WHO ATC/DDD Index 2026：[N06BA04](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA04)
-- Wikidata（CC0）：[Q422112](https://www.wikidata.org/wiki/Q422112)
-- PubChem CID（经 Wikidata）：[4158](https://pubchem.ncbi.nlm.nih.gov/compound/4158)
-- MeSH 描述符（经 Wikidata）：[D008774](https://meshb.nlm.nih.gov/record/ui?ui=D008774)
-- DrugBank ID（经 Wikidata）：[DB00422](https://www.drugbank.ca/r/DB00422)
-- English Wikipedia（标题指针，未复制正文）：[Methylphenidate](https://en.wikipedia.org/wiki/Methylphenidate)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 6901](https://rxnav.nlm.nih.gov/REST/rxcui/6901.json)
+| 剂型 | 美国适应证与年龄 | 药代／用途特征（标签） | 滥用相关标签表述 |
+| --- | --- | --- | --- |
+| 普通片（IR） | ADHD 6 岁以上及成人；发作性睡病 | Tmax 约 2 h；d-体口服利用度约 22% | 黑框＋"可被转移至非医疗渠道" |
+| 渗透泵缓释（OROS） | ADHD 6–65 岁（不列发作性睡病） | Tmax 6–10 h；外壳为不可变形结构，标签警示胃肠狭窄者可能梗阻 | 黑框；40% 酒精浓度下第 1 小时释放未增加 |
+| 双相微丸缓释（Ritalin LA／Metadate CD） | ADHD 6–12 岁／6–15 岁 | 双峰（Metadate CD Tmax1 约 1.5 h、Tmax2 约 4.5 h） | 黑框；Metadate CD 在 40% 酒精下第 1 小时释放可达 84% |
+| 口崩缓释（Cotempla XR-ODT） | ADHD 6–17 岁 | Tmax 约 5 h、半衰期约 4 h；高脂餐 Cmax −24%、AUC +16% | 黑框；标签要求整片吞服、不得咀嚼或碾碎；体外存在 40% 酒精剂量倾泻潜能 |
+| 夜服延迟释放（Jornay PM） | ADHD 6 岁以上 | 前 10 小时释放<5%，中位 Tmax 14.0 h，相对生物利用度 73.9% | 黑框；40% 酒精下 2 小时内释放约 97% |
+| 透皮贴剂（Daytrana） | ADHD 6–17 岁 | 贴 9 h、峰约 10 h；7 日与 28 日稳态 AUC 分别升高约 13%–14% 与 64%–76% | "仅供透皮使用""不得剪裁"；标签提示误贴／误食风险 |
+
+**获批用途**：美国按剂型如上；英国为 6 岁以上儿童、青少年与成人的 ADHD，并写明"单独矫正措施不足"这一前提（`UK-SPC` §4.1）。**未获批**：抗抑郁增效、慢性疲劳、认知衰退、阿尔茨海默病淡漠等场景在本药各法域标签中均非适应证；本条目未核查其证据。
+
+## 5. 实际效果与局限
+
+- 疗效证据最强的一端是**儿童青少年**，且成人效应量系统性小于儿童；网络荟萃作者的取向是儿童首选哌甲酯、成人首选安非他明类（`PMID:30097390`）。
+- 成人数据还受两点限制：早期荟萃以**非连续释放剂型**为主（平均剂量 57.4 mg/日，SMD 0.57–0.58），且共患物质使用障碍会削弱疗效（`PMID:21254791`）。
+- 结局多为 informant-rated 症状量表与持续性操作任务，未以功能、学业或长期社会结局为主要终点；标签本身把疗效限定在"综合程序中的一部分"。
+- 指南把"环境调整后仍存在至少一个领域的持续显著损害"作为启动药物的前提（NICE NG87 1.5.13），这是"是否使用"与"是否有效"之外独立的一层限制。
+- 生长数据是**组间均值差**（3 年约 −2 cm、−2.7 kg），不能直接读成某个孩子的预测值，且标签写"无生长追赶证据"（`US-OROS` §5.7）。
+
+## 6. 长期风险
+
+- **心血管**：黑框外的独立警告包括猝死与已知结构性心脏异常（标签要求避免用于已知结构性心脏病、心肌病、严重心律失常、冠脉病），平均血压升高约 2–4 mmHg、心率约 3–6 次／分；成人 7 周剂量滴定中平均脉搏 +3.6 次／分（对照 −1.6）。美国标签不要求常规心电图；英国 SmPC 要求每 6 个月测血压与脉搏（`US-OROS` §5.2、§5.3、§2.1；`UK-SPC` §4.4）。
+- **生长与体重**：见 §5；英国把身高体重每 6 个月列为文本要求。
+- **精神症状**：新发或加重的精神病／躁狂、敌意与情绪不稳；标签要求在加量前评估精神病史与家族史，并对出现的新症状考虑停药（§5.4、§2.1）。
+- **其他**：癫痫阈值（有癫痫史者谨慎、必要时复查脑电与调整治疗）、眼压与急性闭角型青光眼（英国把青光眼列入禁忌）、下颌与胃肠梗阻（渗透泵外壳）、周围血管病变／雷诺现象、阴茎异常勃起（§5.5–§5.11；`UK-SPC` §4.3）。
+
+## 7. 短期风险、停药与误用
+
+短期以食欲下降、失眠、头痛、口干、恶心、焦虑与心率／血压升高为主（数值见 §2.1）。**停药**：见 §2.1 停药负担；标签要求撤药时密切观察，并观察是否出现抑郁。**依赖与误用**：黑框级滥用／误用／成瘾警告、Schedule II；普通片标签单列"转移至非医疗渠道"；系统综述显示非医疗使用以**口服为主**，但鼻吸与注射途径确有报告，且这些途径会显著改变暴露曲线（`US-IR` §9.1–§9.3；`PMID:31326580`）。**过量**：以中枢神经系统过度兴奋与交感症状为主，需对症与支持处理（§10）。
+
+## 8. 重要相互作用
+
+- **MAOI**：禁忌，且停药 14 天内不得合用（`US-IR` §4）。
+- **降压药**：标签写明哌甲酯可削弱降压药效应（§7.1）。
+- **麻醉**：卤化麻醉药期间需注意心律失常风险（§7.1）。
+- **利培酮**：标签列出的合用观察项（§7.1）。
+- **英国文本保留而美国现行标签未列**的条目：香豆素类抗凝药、抗癫痫药、抗抑郁药的代谢抑制——本条目按法域并列保留，不合并为"通用事实"（`UK-SPC` §4.5）。
+- 酒精：美国现行标签未把酒精列为独立相互作用条目，但**多款缓释剂型的体外酒精暴露试验给出了释放曲线改变**（Metadate CD、Cotempla、Jornay PM，见 §4 表），这是剂型层面的风险而非代谢性相互作用。
+
+## 9. 特殊人群
+
+**妊娠**：标签以人群背景风险率（先天缺陷 2%–4%、流产 15%–20%）说明"未建立药物相关风险"，动物在约 54 倍人类最大推荐剂量时出现脊柱裂（`US-OROS` §8.1）。**哺乳**：婴儿经乳摄入约为母体按体重校正剂量的 0.16%–0.7%，乳汁／血浆比 1.1–2.7（§8.2）。**儿童青少年**：年龄下限 6 岁，但各缓释系统的上限不同（12／15／17／65 岁）；长期用药的生长监测为标签要求。**老年**：美国标签明确"不适用于 65 岁以上"。**心脏结构异常／家族猝死史**：标签要求用药前采集相关病史与体检（§2.1、§5.2）。**肝肾功能**：现行美国标签写明"无药代动力学资料"。**共患物质使用障碍／抽动**：标签要求谨慎，英国文本另有 tics／Tourette 相关表述；哌甲酯对抽动人群的影响见各法域文本（`UK-SPC` §4.4）。以上均为标签事实，不构成个体化建议。
+
+## 10. 证据边界
+
+1. **不能把剂型当作可互换的"同一种给药"**：同一分子的适应证年龄、酒精相关释放特性、滥用相关标签表述与药代曲线差异显著；本条目的评分与风险均按剂型分层说明。
+2. 现行 11 份美国标签均带滥用／误用／成瘾黑框，因此"哌甲酯多数剂型无黑框"这一常见说法不成立。
+3. 蛋白结合率为 10%–33%（不是常被引用的 25% 单值），主要清除途径为**非微粒体水解酯酶去酯化**，现行标签未使用 CES1 一词；不能把它的相互作用谱按 CYP 底物药推测。
+4. 非医疗使用与转移的流行率区间（2.1%–58.7%、0.7%–80.0%）来自不同国家、不同定义与自报口径的 111 项研究合并，跨度极大，不可当点估计引用（`PMID:31326580`）。
+5. DAT 占位的 PET 证据为小样本人体机制研究（n=7 的剂量递增研究等），"50%／60% 阈值"用于解释机制分层，不能用于推算某个人的滥用风险或疗效。
+6. 美英国别差异：英国把青光眼列入禁忌、要求每 6 个月监测血压脉搏身高体重，并保留香豆素／抗癫痫／抗抑郁药相互作用条目；美国现行标签无这些条目。英国文本只代表英国。
+7. **中国注册信息未取得**：NMPA 返回 HTTP 412、CDE 返回脚本校验页；中国上市剂型（含缓释、贴剂是否存在）、批准文号与核准适应证全部待核实。管制目录归属按现行第一类目录第 11 项及其备注记录，未重新核查（§1）。
+8. 欧盟层面对本药集中授权与国家许可未逐国核对。
+9. DDD 30 mg 为统计指标；标签中的具体起始剂量、加量与最大剂量数值不在本条目复述。
+
+## 11. 来源
+
+**监管文件**：[Ritalin 普通片（DailyMed setid d6fb2750，生效 2025-02-05）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d6fb2750-cdab-4749-ba0d-7534840a5892)；[渗透泵缓释片（setid 768bf181，生效 2026-08-27）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=768bf181-d0d8-49e5-9c87-cacbb069e0b2)；[Concerta（setid 1a88218c，生效 2026-04-20）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a88218c-5b18-4220-8f56-526de1a276cd)；[Ritalin LA（setid effd952d-ac94-47bb-b107-589a4934dcca）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=effd952d-ac94-47bb-b107-589a4934dcca)；[Metadate CD（setid 29f06562-6b6a-4ca6-b62e-d08a45fb3dd4）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4)；[Cotempla XR-ODT（setid 33f70f58-c871-42c8-8adb-345caeafefcd）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=33f70f58-c871-42c8-8adb-345caeafefcd)；[Jornay PM（setid d95dede0-b1ff-4489-8f91-3bbe122852bf）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d95dede0-b1ff-4489-8f91-3bbe122852bf)；[Daytrana 贴剂（setid 2c312c31-3198-4775-91ab-294e0b4b9e7f）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2c312c31-3198-4775-91ab-294e0b4b9e7f)；[英国 Concerta XL SmPC（emc 6872，2025-11-06 更新）](https://www.medicines.org.uk/emc/product/6872/smpc)；[UK Home Office 受管制药物清单（更新于 2025-04-01）](https://www.gov.uk/government/publications/the-misuse-of-drugs-act-classes-and-examples)；[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22METHYLPHENIDATE%22)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+
+**指南**：[NICE NG87（ADHD，2018-03-14 发布，2019-09-13 更新）1.5.13、1.7.7、1.7.11](https://www.nice.org.uk/guidance/ng87/chapter/Recommendations)。
+
+**研究与系统综述**：[PMID:30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/)（儿童／青少年与成人 ADHD 药物网络荟萃）；[PMID:21254791](https://pubmed.ncbi.nlm.nih.gov/21254791/)（成人哌甲荟萃回归）；[PMID:31326580](https://pubmed.ncbi.nlm.nih.gov/31326580/)（非医疗使用与转移系统综述）；[PMID:9766762](https://pubmed.ncbi.nlm.nih.gov/9766762/)、[PMID:12468018](https://pubmed.ncbi.nlm.nih.gov/12468018/)、[PMID:14624806](https://pubmed.ncbi.nlm.nih.gov/14624806/)（多巴胺转运体占位与强化效应阈值的 PET 与综述）；[PMID:18427125](https://pubmed.ncbi.nlm.nih.gov/18427125/)（心脏病学层面兴奋剂监测共识）。
+
+**分类与身份**：[WHO ATC/DDD Index `N06BA04`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA04)；[Wikidata Q422112](https://www.wikidata.org/wiki/Q422112)；[PubChem CID 4158](https://pubchem.ncbi.nlm.nih.gov/compound/4158)；[MeSH D008774](https://meshb.nlm.nih.gov/record/ui?ui=D008774)；[DrugBank DB00422](https://www.drugbank.ca/r/DB00422)；[RxNorm RXCUI 6901](https://rxnav.nlm.nih.gov/REST/rxcui/6901.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
