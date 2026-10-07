@@ -99,7 +99,9 @@
 8. **未被证实的常见说法**：美国标签中没有"窄治疗指数／窄治疗窗"字样（属英国文本）、没有"儿童误服致死"的专门表述，也没有 CSF 浓度、老年与儿童半衰期数值、肝脏受损专节或体重增加百分比——这些检索不到，本条目不予陈述。注意双相指南是 **CG185**（最后更新 2025-09-02），NG185 是急性冠脉综合征指南，不可混用。
 9. ATC/DDD 中锂的 DDD 以元素锂计，不能与其他分子的 mg 值直接比较。
 
-## 11. 来源
+## 11. 深入分析与来源
+
+专题分析：[lithium-long-term-outcomes.md](../analysis/lithium-long-term-outcomes.md)（长期获益与长期器官风险的证据分层：自杀结局在不同设计间的冲突、撤药与应答者富集设计、肾／甲状腺／旁腺的观察性数值，以及这些 HR 与 aHR 为什么不能合并解释）。
 
 **监管文件**：[锂口服溶液处方资料（DailyMed setid be1346df，生效 2026-08-31）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=be1346df-4a39-45e8-874b-e2a496847fd5)；[碳酸锂片／胶囊（setid b839ff4b，生效 2026-08-16）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b839ff4b-f62d-41ab-a823-550a756d58ec)；[枸橼酸锂单方（setid a12d50fb，生效 2025-10-28）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a12d50fb-2c2f-4105-ad17-adbf90d439d4)；[LITHOBID（setid f7f5b69a，生效 2026-08-24）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7f5b69a-c2a1-4586-a189-1475d41387c0)；[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22LITHIUM%22)；[Drugs@FDA 数据文件](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)；[英国 Priadel 400 SmPC（产品 13163）](https://www.medicines.org.uk/emc/product/13163/smpc)；[英国 Camcolit 400 SmPC（产品 10829）](https://www.medicines.org.uk/emc/product/10829/smpc)；[英国 NICE CG185 双相障碍指南](https://www.nice.org.uk/guidance/cg185/chapter/Recommendations)；[试验注册 NCT01166425](https://clinicaltrials.gov/study/NCT01166425)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 入口](https://www.cde.org.cn/hzmp/)。
 

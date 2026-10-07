@@ -98,7 +98,9 @@
 7. **中国信息缺口**：NMPA 返回 HTTP 412、CDE 无可结构化结果；本药在中国的上市剂型、核准适应证与说明书均未确认，未使用商业药品库补足。管制字段沿用仓库审计的"未发现列入现行目录"表述（§1）。29 省 41 家医院与老年 PIM 两项中国处方研究**均不含安非他酮命中**；在无法确认中国上市状态的前提下，不据"零命中"推断使用强度（`PMID:34315410`；`PMID:42756141`）。
 8. DDD 0.3 g 为统计指标；各剂型的剂量上限、加量节奏与戒烟疗程判定不在本条目复述。
 
-## 11. 来源
+## 11. 深入分析与来源
+
+专题分析：[bupropion-pk-risk.md](../analysis/bupropion-pk-risk.md)（母药与三个活性代谢物的暴露、CYP2D6 与 CYP2B6 的不对称影响、IR／SR／XL 与戒烟产品线的证据来源，以及癫痫量化为何只存在于速释标签）。
 
 **监管与官方文件**：[WELLBUTRIN SR（DailyMed setid cbc8c074，生效 2025-11-05）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8c074-f080-4489-a5ae-207b5fadeba3)；[美国现行戒烟用 Bupropion HCl SR（setid a591e33a，更新 2025-09-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a591e33a-52f0-41c8-a00b-4a1afcc3dc4c)；[WELLBUTRIN XL（setid a435da9d，生效 2026-02-10）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21)；[仿制速释片（setid 86530199，生效 2026-09-09）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86530199-999b-9f92-b1bc-b8515ec829f3)；[ZYBAN 存档标签（NDA020711，2021-03-09）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020711s052lbl.pdf)；[Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/)；[英国 Zyban SmPC](https://www.medicines.org.uk/emc/product/3827/smpc)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE](https://www.cde.org.cn/)。
 
