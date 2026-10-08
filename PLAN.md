@@ -12,7 +12,7 @@
   OCD、抑郁与焦虑各用途的**具体法域批准差异**；停药/性功能/低钠/出血；CYP 相互作用，尤其帕罗西汀与氟伏沙明。参照已完成的氟西汀，但不复制评分。
 - [x] **B｜其他常见抗抑郁药**：`venlafaxine`、`mirtazapine`、`trazodone`、`vortioxetine`  
   SNRI 停药与血压、米氮平镇静和体重、曲唑酮失眠用途的证据与 off-label、伏硫西汀临床获益及耐受。获批与临床常用分开。
-- [ ] **C｜典型与非典型抗精神病药对照**：`risperidone`、`paliperidone`、`haloperidol`、`amisulpride`  
+- [x] **C｜典型与非典型抗精神病药对照**：`risperidone`、`paliperidone`、`haloperidol`、`amisulpride`  
   EPS/迟发性运动障碍、催乳素、代谢与 QT；口服/注射/LAI 的法域与场景差异；帕利哌酮虽为利培酮相关代谢物，但必须作为独立药物实体分析。
 - [ ] **D｜新一代抗精神病药**：`lurasidone`、`ziprasidone`、`cariprazine`、`brexpiprazole`  
   食物影响暴露、QT、静坐不能与代谢差异；卡利拉嗪活性代谢物/长作用尾部；布瑞哌唑美国特定痴呆激越用途不能泛化为痴呆精神病获批。
