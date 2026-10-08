@@ -8,7 +8,7 @@
 
 每组正好 4 个，不调入其他药物。完成一组后更新 `catalog/index.md` 和本计划勾选状态，独立提交再进入下一组。按药物自身的批准地区、制剂及证据评分，不在同组套用相同结论。
 
-- [ ] **A｜SSRI 对照**：`sertraline`、`escitalopram`、`paroxetine`、`fluvoxamine`  
+- [x] **A｜SSRI 对照**：`sertraline`、`escitalopram`、`paroxetine`、`fluvoxamine`  
   OCD、抑郁与焦虑各用途的**具体法域批准差异**；停药/性功能/低钠/出血；CYP 相互作用，尤其帕罗西汀与氟伏沙明。参照已完成的氟西汀，但不复制评分。
 - [ ] **B｜其他常见抗抑郁药**：`venlafaxine`、`mirtazapine`、`trazodone`、`vortioxetine`  
   SNRI 停药与血压、米氮平镇静和体重、曲唑酮失眠用途的证据与 off-label、伏硫西汀临床获益及耐受。获批与临床常用分开。
