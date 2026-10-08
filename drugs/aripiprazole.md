@@ -99,7 +99,9 @@
 8. **中国注册信息未取得**：NMPA 返回 HTTP 412、CDE 返回脚本校验页；中国上市剂型与核准适应证待核实。管制目录归属沿用仓库审计结论（§1）。
 9. DDD 15 mg（口服）与 depot 13.3 mg 为统计指标；标签中的剂量、剂量调整档与注射方案不在本条目复述。
 
-## 11. 来源
+## 11. 深入分析与来源
+
+专题分析：[aripiprazole-formulation-pd-safety.md](../analysis/aripiprazole-formulation-pd-safety.md)（部分激动与受体亲和力数据、静坐不能与冲动控制相关证据，以及口服片与两份长效标签在暴露、适应证和黑框集合上的差异）。
 
 **监管与官方文件**：[ABILIFY 片处方资料（DailyMed setid c040bd1d，生效 2025-01-29）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c040bd1d-45b7-49f2-93ea-aed7220b30ac)；[ABILIFY MAINTENA（setid ee49f3b1，生效 2026-03-24）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee49f3b1-1650-47ff-9fb1-ea53fe0b92b6)；[ABILIFY ASIMTUFII（setid da4c07fd，生效 2025-04-04）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be)；[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ARIPIPRAZOLE%22)；[英国 emc Abilify SmPC（产品 7971）](https://www.medicines.org.uk/emc/product/7971/smpc)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 

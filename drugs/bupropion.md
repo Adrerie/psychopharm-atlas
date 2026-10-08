@@ -75,7 +75,7 @@
 
 ## 8. 重要相互作用
 
-- **CYP2D6 底物**：本药与其代谢物抑制 2D6，标签点名抗抑郁药（文拉法辛、去甲替林、丙咪嗪、地昔帕明、帕罗西汀、氟西汀、舍曲林）、抗精神病药（氟哌啶醇、利哌酮、硫利达嗪）、β 阻滞剂（美托洛尔）与 1C 类抗心律失常药，并要求考虑减量；定量证据仅有地昔帕明一项（Cmax ↑2 倍、AUC ↑5 倍、半衰期 ↑2 倍，停药后 ≥7 天仍存在）。他莫昔芬等前药依赖 2D6 激活的顾虑属理论推演，标签未给出对应数据（`US-SR` §7.2、§12.3）。
+- **CYP2D6 底物**：本药与其代谢物抑制 2D6，标签点名抗抑郁药（文拉法辛、去甲替林、丙咪嗪、地昔帕明、帕罗西汀、氟西汀、舍曲林）、抗精神病药（氟哌啶醇、利哌酮、硫利达嗪）、β 阻滞剂（美托洛尔）与 1C 类抗心律失常药，并要求考虑减量；定量证据仅有地昔帕明一项（Cmax ↑2 倍、AUC ↑5 倍、半衰期 ↑2 倍，停药后 ≥7 天仍存在）。`US-SR` §7.2 已明确点名他莫昔芬等依赖 CYP2D6 活化的药物，指出合用 CYP2D6 抑制剂可能在理论上降低疗效；这属于**标签明确写出的理论风险**，而非已经量化的临床结局（`US-SR` §7.2、§12.3）。
 - **CYP2B6 通路（影响本药）**：噻氯匹定与氯吡格雷使安非他酮暴露升高、hydroxybupropion 下降；依法韦仑等抗逆转录病毒药与卡马西平、苯巴比妥、苯妥英为诱导方向（标签给依法韦仑使母药 AUC 下降约 55%、Cmax 约 34%）（`US-SR` §7.6、§12.3）。
 - **降低癫痫阈值的药物**：其他含安非他酮产品、抗精神病药、三环类、茶碱与全身糖皮质激素——标签要求极谨慎并用（`US-XL` §7.3）。
 - **多巴胺能药物**：左旋多巴与金刚烷胺合用有中枢毒性报告（不安、激越、震颤、共济失调）（`US-XL` §7.4）。
@@ -98,7 +98,9 @@
 7. **中国信息缺口**：NMPA 返回 HTTP 412、CDE 无可结构化结果；本药在中国的上市剂型、核准适应证与说明书均未确认，未使用商业药品库补足。管制字段沿用仓库审计的"未发现列入现行目录"表述（§1）。29 省 41 家医院与老年 PIM 两项中国处方研究**均不含安非他酮命中**；在无法确认中国上市状态的前提下，不据"零命中"推断使用强度（`PMID:34315410`；`PMID:42756141`）。
 8. DDD 0.3 g 为统计指标；各剂型的剂量上限、加量节奏与戒烟疗程判定不在本条目复述。
 
-## 11. 来源
+## 11. 深入分析与来源
+
+专题分析：[bupropion-pk-risk.md](../analysis/bupropion-pk-risk.md)（母药与三个活性代谢物的暴露、CYP2D6 与 CYP2B6 的不对称影响、IR／SR／XL 与戒烟产品线的证据来源，以及癫痫量化为何只存在于速释标签）。
 
 **监管与官方文件**：[WELLBUTRIN SR（DailyMed setid cbc8c074，生效 2025-11-05）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8c074-f080-4489-a5ae-207b5fadeba3)；[美国现行戒烟用 Bupropion HCl SR（setid a591e33a，更新 2025-09-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a591e33a-52f0-41c8-a00b-4a1afcc3dc4c)；[WELLBUTRIN XL（setid a435da9d，生效 2026-02-10）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21)；[仿制速释片（setid 86530199，生效 2026-09-09）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86530199-999b-9f92-b1bc-b8515ec829f3)；[ZYBAN 存档标签（NDA020711，2021-03-09）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020711s052lbl.pdf)；[Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/)；[英国 Zyban SmPC](https://www.medicines.org.uk/emc/product/3827/smpc)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE](https://www.cde.org.cn/)。
 

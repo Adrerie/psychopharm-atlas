@@ -49,7 +49,7 @@
 
 ## 3. 主要作用
 
-标签层面的机制表述只到"GABA_A 受体正向调节剂"这一句；受体亚型选择性属非临床内容——英国 SmPC §5.1 写对 ω‑1 受体的选择性结合可解释催眠剂量下"几乎不存在抗惊厥与肌松效应"，并强调这是动物数据。可直接核对的人体效应是**缩短入睡时间**，但量纲很小：英国监管文本给的是分钟（健康人短暂失眠模型 10 分钟、慢性失眠患者 30 分钟，且仅 10 mg 有令人信服的证据），美国标签 §1 只写"在对照试验中可使睡眠潜伏期降低至多 35 天"而未给分钟数；跨药网络荟萃的急性期效应区间为 SMD 0.36–0.83（`UK-SPC` §5.1；`PMID:35843245`）。与本条目其他镇静药不同，唑吡坦的关键作用不是持续镇静，而是**在药物浓度仍在时把人推入睡**；后果是次日损害、复杂睡眠行为与顺行性遗忘都落在"血药浓度尚未落到低位"的时间窗内。
+标签层面的机制表述只到"GABA_A 受体正向调节剂"这一句；受体亚型选择性属非临床内容——英国 SmPC §5.1 写对 ω‑1 受体的选择性结合可解释催眠剂量下"几乎不存在抗惊厥与肌松效应"，并强调这是动物数据。可直接核对的人体效应是**缩短入睡时间**，但量纲很小：英国监管文本给的是分钟（健康人短暂失眠模型 10 分钟、慢性失眠患者 30 分钟，且仅 10 mg 有令人信服的证据），美国标签 §1 表示在最长 35 天的对照试验中观察到睡眠潜伏期缩短，**35 天是观察时长而不是改善幅度**；该节未给分钟级效应量；跨药网络荟萃的急性期效应区间为 SMD 0.36–0.83（`UK-SPC` §5.1；`PMID:35843245`）。与本条目其他镇静药不同，唑吡坦的关键作用不是持续镇静，而是**在药物浓度仍在时把人推入睡**；后果是次日损害、复杂睡眠行为与顺行性遗忘都落在"血药浓度尚未落到低位"的时间窗内。
 
 ## 4. 适应范围
 
@@ -96,7 +96,9 @@
 6. 英国 §4.4 的"催眠效力在数周后下降"与 §4.2 的疗程上限属**英国文本**，美国标签未给出同等表述，不得写成跨法域一致结论。关于唑吡坦"性功能不良反应少"的说法在标签中亦无对应陈述（不良事件仅列 decreased libido 一项），不据此下结论。
 7. **中国注册信息未取得**：NMPA 返回 HTTP 412、CDE 返回脚本校验页；中国上市剂型与核准适应证待核实。管制目录归属沿用仓库审计（第二类第 71 项）。DDD 10 mg 为统计指标；标签中的剂量分档（含女／男与老年差异）、服药时点与减停方案不在本条目复述。
 
-## 11. 来源
+## 11. 深入分析与来源
+
+专题分析：[zolpidem-next-day-impairment.md](../analysis/zolpidem-next-day-impairment.md)（剂型、性别、肝功与睡眠时间窗如何决定次日损害与复杂睡眠行为，以及这些证据为什么不能换算成个体发生率）。
 
 **监管与官方文件**：[AMBIEN 片处方资料（DailyMed setid c36cadf4，生效 2025-04-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c36cadf4-65a4-4466-b409-c82020b42452)；[AMBIEN CR（setid 2d934da3，生效 2025-02-07）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d934da3-bd77-4470-e063-6294a90a64f5)；[Edluar 舌下片（setid a32884d0，生效 2022-08-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a32884d0-85b5-11de-8a39-0800200c9a66)；[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ZOLPIDEM%20TARTRATE%22)；[FDA：唑吡坦次日损害与剂量下调公开问答](https://www.fda.gov/drugs/drug-safety-and-availability/questions-and-answers-risk-next-morning-impairment-after-use-insomnia-drugs-fda-requires-lower)；[英国 emc Zolpidem Tartrate 10 mg 片 SmPC（产品 3975）](https://www.medicines.org.uk/emc/product/3975/smpc)；[英国受管制药物清单（gov.uk，2025-04-01 更新）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
