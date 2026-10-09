@@ -20,7 +20,7 @@
   依赖、戒断、跌倒、与阿片/酒精合用；代谢与肝病背景差异；溴西泮的美国批准状况不要凭英国/其他地区标签推定；沿用既有中国管制审计。
 - [x] **F｜催眠药与食欲素通路**：`eszopiclone`、`zopiclone`、`suvorexant`、`lemborexant`  
   Z 药与双重食欲素受体拮抗剂不能混为一类；失眠真实效应、复杂睡眠行为、次日损害与驾驶、依赖/误用；DORA 的猝倒样事件等警告；剂型与法域独立。
-- [ ] **G｜ADHD 兴奋剂与促觉醒药**：`lisdexamfetamine`、`dexamfetamine`、`modafinil`、`solriamfetol`  
+- [x] **G｜ADHD 兴奋剂与促觉醒药**：`lisdexamfetamine`、`dexamfetamine`、`modafinil`、`solriamfetol`  
   ADHD 与嗜睡症/阻塞性睡眠呼吸暂停的残余日间嗜睡是**不同适应证**，促觉醒不等于治疗 OSA 本身；心血管/精神症状、误用与地区管制。**lisdexamfetamine 的中国管制字段目前为待核实**，不得擅自改为确定分类。
 - [ ] **H｜监管与机制差异大的代表药**：`agomelatine`、`esketamine`、`amitriptyline`、`buspirone`  
   阿戈美拉汀肝毒性与监测、艾司氯胺酮制剂/场所监管与监测、阿米替林的抗胆碱能与心脏风险及疼痛用途法域差异、丁螺环酮慢性焦虑与急性镇静的区别。艾司氯胺酮的制剂/适应证不能与外消旋氯胺酮互换。
