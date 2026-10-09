@@ -18,7 +18,7 @@
   食物影响暴露、QT、静坐不能与代谢差异；卡利拉嗪活性代谢物/长作用尾部；布瑞哌唑美国特定痴呆激越用途不能泛化为痴呆精神病获批。
 - [x] **E｜苯二氮䓬类对照**：`lorazepam`、`oxazepam`、`chlordiazepoxide`、`bromazepam`  
   依赖、戒断、跌倒、与阿片/酒精合用；代谢与肝病背景差异；溴西泮的美国批准状况不要凭英国/其他地区标签推定；沿用既有中国管制审计。
-- [ ] **F｜催眠药与食欲素通路**：`eszopiclone`、`zopiclone`、`suvorexant`、`lemborexant`  
+- [x] **F｜催眠药与食欲素通路**：`eszopiclone`、`zopiclone`、`suvorexant`、`lemborexant`  
   Z 药与双重食欲素受体拮抗剂不能混为一类；失眠真实效应、复杂睡眠行为、次日损害与驾驶、依赖/误用；DORA 的猝倒样事件等警告；剂型与法域独立。
 - [ ] **G｜ADHD 兴奋剂与促觉醒药**：`lisdexamfetamine`、`dexamfetamine`、`modafinil`、`solriamfetol`  
   ADHD 与嗜睡症/阻塞性睡眠呼吸暂停的残余日间嗜睡是**不同适应证**，促觉醒不等于治疗 OSA 本身；心血管/精神症状、误用与地区管制。**lisdexamfetamine 的中国管制字段目前为待核实**，不得擅自改为确定分类。

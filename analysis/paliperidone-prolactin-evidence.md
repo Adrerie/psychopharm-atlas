@@ -1,6 +1,6 @@
 # paliperidone｜催乳素抬升：帕利哌酮与利培酮谁更高
 
-> 配套主条目 [drugs/paliperidone.md](../drugs/paliperidone.md) 与 [drugs/risperidone.md](../risperidone.md) ｜ 建立 2026-10-08（标签版本与核查日期以两条主条目 §1／§11 为准）  
+> 配套主条目 [drugs/paliperidone.md](../drugs/paliperidone.md) 与 [drugs/risperidone.md](../drugs/risperidone.md) ｜ 建立 2026-10-08（标签版本与核查日期以两条主条目 §1／§11 为准）  
 > 本页只回答一个问题：**"帕利哌酮与利培酮的催乳素抬升孰高"这句话，现有三份证据各自能支撑到什么程度、又在哪些地方互相矛盾。** 常规剂量、给药方案与法域批准清单回主条目 §1／§4，本页不重复。
 
 ## 1. 问题与结论摘要
