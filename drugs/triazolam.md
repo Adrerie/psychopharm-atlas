@@ -90,7 +90,7 @@
 
 ## 10. 证据边界
 
-1. **英国无现行监管文本**：`https://www.medicines.org.uk/emc/search?q=triazolam` 本轮返回 **0 条产品记录**（缓存 `D:/tmp/w4/UK/triazolam.search.json`＝`[]`），因此本条目不含英国 SmPC 的禁忌、剂量与不良反应条款；英国的 **Class C／Schedule 4 Part 1** 是 `UK-CDL` 的管制事实，与上市状态无关。
+1. **英国无现行监管文本**：`https://www.medicines.org.uk/emc/search?q=triazolam` 本轮返回 **0 条产品记录**，因此本条目不含英国 SmPC 的禁忌、剂量与不良反应条款；英国的 **Class C／Schedule 4 Part 1** 是 `UK-CDL` 的管制事实，与上市状态无关。
 2. **美国现行标签没有 §14（临床试验）**：`US-TZL`（2025-11-26）与 `US-TZL-2`（2023-05-11）均无该章节，故本条目的疗效叙述只能停在药代与不良事件层面，`B−` 分数不表示测得的效应量。
 3. **Halcion 商标本轮无现行标签**：DailyMed `spls.json?drug_name=Halcion` 返回 `total_elements: 0`（该库发布日期 2026-10-20），openFDA 按 `brand_name` 检索亦无记录；DailyMed 现行 15 条记录全部为通用名仿制条目。本条目不把商标 Halcion 写成现行产品。
 4. **中国管制与上市分开，且与美国分级不互换**：中国列**第一类第 15 项**（2025 年版目录），美国列 **CSA Schedule IV**（§9.1）——两个层级由各自目录给出，任何"第一类＝比 Schedule IV 更高风险"或反向的推论都不成立。中国的上市与核准适应证因 NMPA 412／CDE 202 无法脚本检索、公开检索仅命中商业药品库（不采用）而**待核实**。
