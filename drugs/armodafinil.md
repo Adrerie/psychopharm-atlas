@@ -1,46 +1,105 @@
-# armodafinil
+# armodafinil｜阿莫达非尼（维基数据中文标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`reviewed` ｜ 最后核查：2026-10-21（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA13`（WHO ATC/DDD Index 2026）  
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-ARM`＝美国现行 NUVIGIL（armodafinil）片处方资料（DailyMed setid `3dd49302-f757-d945-e063-6294a90afcba`，生效 2025-09-02；openFDA 按 generic_name=armodafinil 本轮 15 条命中，含原研与仿制）；`PMID:……`＝PubMed。§N 指相应文件章节号。**英国与法国本轮均无现行授权产品**（emc 检索 armodafinil 返回 0 条产品；BDPM 按成分不列），故本条目不含英／法文本；[modafinil](modafinil.md) 的英国 SmPC 不代表本药。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | armodafinil | WHO ATC/DDD Index 2026（`N06BA13`）|
-| 中文标签（维基数据，未核对监管核准名） | 阿莫达非尼（zh） | Wikidata [Q418913](https://www.wikidata.org/wiki/Q418913) |
-| ATC 编码 | `N06BA13`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | (-)-(R)-modafinil；(R)-(-)-modafinil；(R)-modafinil；R-modafinil；(-)-modafinil | Wikidata 英文别名；(-)-modafinil 另经 [PubChem CID 9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109) 核实 |
-| 系统命名/研究代号（1 条，节选） | (–)-2-[(R)-(diphenylmethyl)sulfinyl]acetamide | Wikidata 英文别名 |
-| 第三方数据库归类线索 | modafinil | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `641465` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json) |
-| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 46 项“莫达非尼”（英文名 Modafinil；CAS 68693-11-8）。armodafinil 为莫达非尼的 (R)-对映体（CAS 112111-43-0），按该目录注 2“上述品种包括其可能存在的立体异构体（除非另有规定）”纳入同一条目。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-立体化学说明：armodafinil 是 (R)-(-)-modafinil，即 [modafinil](modafinil.md)（`N06BA07`）所含的 R 对映体。`(-)-modafinil` 经 [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/9690109) 核实为有效别名；单一对映体与外消旋体仍保留独立档案。
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方；ATC 亚组 N06BA（中枢作用拟交感药）。**它是 [modafinil](modafinil.md)（1:1 消旋体）的单一 (R)-对映体**，即 (R)-modafinil / (–)-modafinil（CAS 112111-43-0；modafinil 为 CAS 68693-11-8）。`US-ARM` §12.1 把机制写成"促醒的确切机制尚不清楚"；可核对的分子事件是**结合多巴胺转运体并抑制多巴胺再摄取**，标签称其为"间接多巴胺受体激动剂"，并说明 R-与 S-对映体在动物与体外层面药理作用相近（就检测范围而言）。两侧文件共同声明本药的促醒谱"与安非他明、哌甲酯等拟交感药相似但药理特征并不等同" |
+| 与相邻实体的边界 | 与 [modafinil](modafinil.md) 是两个档案：本条目只使用 armodafinil 自己的标签事实，凡消旋体的效应量、剂量与英国文本结论都不并入。与 [dexamfetamine](dexamfetamine.md)、[methylphenidate](methylphenidate.md) 不同类。对映体关系**不等于**证据可互换：`US-ARM` §12.1 只说 R/S 药理相近，不等于临床剂量或管制口径相同 |
+| 主要剂型 | 美国：片剂 50／150／200／250 mg。无缓释或注射剂型；英国、法国无现行产品 |
+| 关键药代摘要 | 因只含清除较慢的 R-对映体，armodafinil 的**终末半衰期约 15 h**、日间血浆浓度较同剂量消旋体更高且更平稳（`US-ARM` §12.3）；主要代谢物为 armodafinil acid（无活性）与 armodafinil sulfone；经 CYP3A4/5 **自身诱导**与 CYP2C19 抑制参与相互作用；重度肝损需减量，老年清除可能下降（`US-ARM` §2.3、§8.5、§12.3） |
+| 中国管制状态 | **药用类精神药品第二类（经立体异构体条款覆盖）**：现行《药用类精神药品目录（2025年版）》未单列 armodafinil／阿莫达非尼，但第二类第 46 项为"莫达非尼"（英文名 Modafinil；CAS 68693-11-8）；armodafinil 是莫达非尼的 (R)-对映体（CAS 112111-43-0）。该目录注 2 逐字为"上述品种包括其可能存在的立体异构体（除非另有规定）"，注 1 为"上述品种包括其可能存在的盐和单方制剂（除非另有规定）"——本条第 46 项未对立体异构体另作规定，故 (R)-对映体落入同一条目范围（核查 2026-10-06）。**推理链与依据**：立体异构体由目录通则自动覆盖，这与"酰胺键前药不被母体条目自动覆盖"相反（见 [lisdexamfetamine 前药专题](../analysis/lisdexamfetamine-prodrug-control-scope.md) 第 2 节镜像对照）；因此本药结论来自目录注 2 的逐字条文，**不是由他国列管状态推断**。此归类不改变"是否在中国上市／核准适应证待核实"（§10 第 4 项） |
+| 主要法域批准状态 | **美国**：成人**发作性睡病、OSA 相关过度嗜睡、轮班工作障碍（SWD）** 三项，均限成人；§1 的 Limitations 写明"在 OSA，本品治疗过度嗜睡、而非治疗上气道阻塞本身；若 CPAP 为首选，起始前应已尽最大努力用 CPAP 一段足够时间"。**英国／法国**：无现行授权产品（emc 与 BDPM 各 0 条）；modafinil 在英国仅有发作性睡病适应证，**不可移植为本药状态**。**中国**：上市剂型与核准适应证待核实 |
+| 身份与统计 | WHO ATC `N06BA13`；DDD **0.15 g／日口服**（统计指标，非处方剂量；美国 OSA／发睡常规 150–250 mg/日、SWD 150 mg/日）；Wikidata [Q418913](https://www.wikidata.org/wiki/Q418913)；PubChem [9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109)；MeSH [C579652](https://meshb.nlm.nih.gov/record/ui?ui=C579652)；DrugBank [DB06413](https://www.drugbank.ca/r/DB06413)；RxNorm [641465](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json)；别名 Nuvigil®、(R)-modafinil、(–)-modafinil |
 
-## DDD（用药统计指标）
+## 2. 评分
 
-| DDD | 单位 | 给药途径 | 官方备注 |
+规则见 [SCORING.md](../SCORING.md)。
+
+### 2.1 药物负担（1–5，越高越重；按口服单方的分子基线评分）
+
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | 长期负担是**心血管监测与精神症状触发**、而非累积器官毒性：`US-ARM` §5 要求对高血压／心律失常者监测、对照试验见平均动脉压与心率小幅升高、少数需新增降压药；皮肤超敏（DRESS／SJS／血管性水肿）虽罕见但为专门警告（§5.1–§5.3）。这些是监测需求，不等于已证实器官损害 |
+| 短期耐受负担 | 3 | 高频多为轻中度：`US-ARM` §6 常见项为头痛、失眠、恶心、上呼吸道感染、头晕、焦虑、腹泻等；因不良事件停药在试验人群中低于但接近同类促醒药。英国口径不可移植；本页百分率以美国标签对照池为准 |
+| 相互作用／监测负担 | 4 | 双向多酶（`US-ARM` §7、§12.3）：诱导 CYP3A4/5 → **激素避孕药效力下降**（要求用药期间及停药后 **1 个月**内改用或加用其他避孕）、环孢素／咪达唑仑／三唑仑暴露下降；抑制 CYP2C19 → 苯妥英、地西泮、普萘洛尔、奥美拉唑（+40% 属本药研究）、氯米帕明暴露升高需减量。另需华法林凝血监测 |
+| 停药负担 | 2 | `US-ARM` §9.3：无一致戒断症状模式，但发作性睡病者停药后嗜睡回归；此分反映"停药主要问题是原病复发"，不是测得的戒断综合征发生率 |
+| 滥用／误用潜力 | 3 | Schedule IV（`US-ARM` §9.1）。§9.2 记**滥用已有报告**——欣快心境、使用渐增剂量或反复用药以求效果、并有转移（diversion）与上市后误用（不听医嘱用药、向多名医师取药）；标签称 armodafinil 滥用带来与 modafinil 类似的过量风险。**3 分由本药标签自述的强化／误用观察与管制级别共同支撑，而非仅凭"受管制"**；亦未达安非他明类的 5（无黑框级高滥用潜力、无鼻吸／注射强化优势数据） |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 促醒药的中国"不适当处方"维度必须有当地数据：本轮无 armodafinil 的中国处方偏离、药物利用或逐药 PIM 判定；中国老年抑郁门诊双标准研究前十名内无本药（`PMID:42756141`）。**不得用美国 Schedule IV 或他国监测口径替代中国数据**，记 `N/A` |
+
+总体解释：本药与 [modafinil](modafinil.md) 分数形状相近（同一分子家族、同类机制），但**分数不是从消旋体条目抄来的**：相互作用给 4 依据是本药自己的 §7 避孕失效与 CYP2C19 抑制条文；滥用给 3 依据是本药 §9.2 的欣快／误用报告加 Schedule IV，而非套用 modafinil。真正需要在页内单列的是**立体异构体身份**：armodafinil 只含清除慢的 R-对映体，故日间暴露更平稳、半衰期更长，但这不改变促醒效应量的临床充分性（见 §5 与专题）。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 0.15 | g | O | — |
+| 成人发作性睡病 | 美国获批；英／法无产品；中国待核实 | B | 一项 12 周安慰剂对照试验（n=196，150／250 mg）以 **MWT 睡眠潜伏期与 CGI-C** 双终点达标（`US-ARM` §14.2）。250 mg 未必优于 150 mg。效应量以"分钟"计，属可用但不彻底 |
+| OSA 相关残余日间嗜睡（已接受 CPAP） | 美国获批（附"不治阻塞"限制）；英／法无产品；中国指南层面见专题 | B− | 两项 12 周试验入组即要求"用 CPAP 后 ESS 仍 ≥10、依从 ≥4 h/夜且 ≥70% 夜"；荟萃（armodafinil 5 RCT、1,009 例）给出 **ESS −2.63、MWT +2.71（95% CI 0.04–5.37，区间近基线）**（`PMID:26923035`）；与消旋体不可互换套用数值。促醒≠治疗上气道阻塞（`US-ARM` §1；专题见 §11） |
+| 轮班工作障碍（成人夜班） | 仅美国获批；英／法无产品 | C+ | 12 周试验 n=254，150 mg 于班前约 1 h 服；入组要求症状 ≥3 个月、每月 ≥5 个夜班、夜班期客观嗜睡证据；终点为 MSLT 与 CGI-C，效应量小（`US-ARM` §14.3、§2.2） |
+| 18 岁以下（任何适应证） | 美国未确立；英／法无产品 | D | `US-ARM` §8.4："儿童与青少年安全有效性未确立"，并提示 modafinil 在儿科见严重皮疹（§5.1）。不得据消旋体或成人数据推定儿科可用 |
+| ADHD（儿童或成人） | 各法域均未获批 | C− | 本药无 ADHD 适应证；促醒药类在 ADHD 网络荟萃中的结论（成人医师量表 SMD 0.16、不优于安慰剂；教师量表相反）属 modafinil／消旋体口径（`PMID:30097390`），不能直接套用于 armodafinil；因此此处仅作"未获批＋类效应方向不确定"的边界说明 |
 
-DDD 是统计指标，不是推荐处方剂量。
+## 3. 主要作用
 
-## 待核实
+机制在标签层面同样写"未知"。可核对的是：armodafinil **结合 DAT 并抑制多巴胺再摄取**，标签据此称其为间接多巴胺受体激动剂（`US-ARM` §12.1）；促醒谱与拟交感药相似但药理特征不同——modafinil 诱导的觉醒可被 α1 拮抗剂哌唑嗪减弱，但 modafinil 在对 α-激动剂有反应的大鼠输精管制备中无活性。行为层面表现为"以剂量相关方式恢复与延长觉醒水平、改善日间警觉"。R-与 S-对映体药理相近而**药代不同**（R-对映体消除慢，使本药日间浓度更平稳），这是本药相对消旋体唯一可核的临床相关差异。体外结合与转运体数字不等于人体占有率或疗效。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+## 4. 适应范围
 
-## 来源
+**获批（美国）**：成人发作性睡病、OSA 相关过度嗜睡、SWD，均限成人；OSA 附"不治阻塞、CPAP 优先"限制；SWD 剂量为班前约 1 h 服 150 mg。**未获批**：ADHD（无适应证）、<18 岁任何用途、肥胖与减重、以及各类非睡眠专科的"提神／促智"用途。**英／法无现行产品**；**中国上市与核准适应证待核实**（§10 第 4 项）。诊断应基于国际睡眠障碍分类标准并由睡眠专业人员评估（促醒药共性原则，见专题）。
 
-- WHO ATC/DDD Index 2026：[N06BA13](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA13)
-- Wikidata（CC0）：[Q418913](https://www.wikidata.org/wiki/Q418913)
-- PubChem CID（经 Wikidata）：[9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109)
-- MeSH 描述符（经 Wikidata）：[C579652](https://meshb.nlm.nih.gov/record/ui?ui=C579652)
-- DrugBank ID（经 Wikidata）：[DB06413](https://www.drugbank.ca/r/DB06413)
-- English Wikipedia（标题指针，未复制正文）：[Armodafinil](https://en.wikipedia.org/wiki/Armodafinil)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 641465](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json)
+## 5. 实际效果与局限
+
+- **效应量以"分钟"与"几分 ESS"计**：荟萃（`PMID:26923035`）中 armodafinil 的 MWT 合并 +2.71 min 的 **95% CI 下界仅 0.04**，即客观维持清醒的改善统计显著但接近无差异的边缘；ESS −2.63 为主观改善。这与 [modafinil](modafinil.md) 及 [solriamfetol](solriamfetol.md) 的效应量必须分列，不可合并成"促醒药都差不多"。
+- **250 mg 未必优于 150 mg**：`US-ARM` §2.1 记 OSA 至 250 mg 耐受良好，但无一致证据显示优于 150 mg；加量收益平坦。
+- **CPAP 依从性是外推前提**：OSA 试验入组即要求高 CPAP 依从，因此结论天然适用于"依从者"，对拒绝或不耐受 CPAP 者证据更薄（专题 [wake-promoting-agents-osa-residual-sleepiness.md](../analysis/wake-promoting-agents-osa-residual-sleepiness.md)）。
+- **长期对照证据缺位**：主要对照均为 12 周量级；血压数据来自短期试验；长期心脑血管结局无随机证据。本页所有"长期"描述建立在短期测量加上市后信号之上。
+
+## 6. 长期风险
+
+- **心血管**：`US-ARM` §5 记对照试验中平均动脉压与心率小幅升高、少数需新增降压治疗；建议对高血压／心律失常者监测，未控制的中重度高血压与左室肥厚等情形需评估后再用。
+- **皮肤与超敏**：DRESS／药物超敏反应、SJS／TEN、血管性水肿与横纹肌溶解虽罕见但为专门警告（§5.1–§5.3），多在起始数日至数周内出现，要求出现早期皮疹即评估并停药。
+- **精神与行为**：新发或加重的焦虑、精神病性症状、躁狂（双相者）、敌意与自杀相关行为可在无精神病史者出现（§5.4）；这是需长期权衡的类别风险。
+- **依赖**：§9.2 记可产生滥用与依赖相关的剂量递增行为；长期使用须定期重估获益／风险。
+
+## 7. 短期风险、停药与误用
+
+**短期**：头痛、失眠、恶心、头晕、焦虑、口干、腹泻为常见；§5 保留"损害驾驶与判断"的告诫，须待个体稳定后才评估操作风险。**停药**：§9.3 无一致戒断综合征，主要风险是原发嗜睡复发（发睡者尤明显），而非典型兴奋剂撤药清单。**误用与管制**：Schedule IV；§9.2 记欣快心境、渐增剂量、反复用药以求效果、转移与上市后误用（多医师取药、违医嘱用药）——这些是本药自身标签事实。**过量**：§10 记可出现失眠、激越、心动过速、血压升高、幻觉／妄想等类兴奋剂毒征；无特异解毒剂，以支持治疗与心血管监测为主。促智／自用药语境属非医疗使用，按规则放在本节而不进 A–D 表。
+
+## 8. 重要相互作用
+
+- **激素类避孕药（最重要）**：诱导 CYP3A4/5 降低炔雌醇等暴露，标签要求"改用或加用其他避孕，并持续至停药后 **1 个月**"（`US-ARM` §7、§12.3）。
+- **CYP3A4/5 底物**：环孢素（浓度下降、需监测）、咪达唑仑、三唑仑暴露降低。
+- **CYP2C19 底物（暴露升高）**：苯妥英、地西泮、普萘洛尔、奥美拉唑（+40%）、氯米帕明——起始／停用本药时需监测并可能减量。
+- **华法林**：需更频繁监测 PT/INR。
+- **影响本品的药**：CYP3A4 强诱导剂（利福平、卡马西平、苯妥英、St John's wort）可降低 armodafinil 暴露；强抑制剂（酮康唑）可升高。
+- MAOI 合用为谨慎级（非绝对禁忌），与安非他明类标签不同。
+
+## 9. 特殊人群
+
+**肝损**：重度需减量（`US-ARM` §2.3、§12.3）。**肾损**：严重肾功能不全原形药代改变有限、但代谢物蓄积，需谨慎。**老年**：§8.5 提示清除可能下降，建议低剂量并密切监测。**妊娠**：§8.1 设妊娠暴露登记；armodafinil 与 modafinil 均报告过宫内生长受限与自发流产；动物在相关暴露下见胎仔损害，标签判"可能致胎儿损害"——但**不得把消旋体的人群登记数据当作本药已确立的风险**。**哺乳**：未知是否入乳，需权衡。**儿科**：§8.4 未确立安全有效性，任何适应证均未获批。<18 岁场景见 §2.2。以上均为标签事实，不构成个体化建议。
+
+## 10. 证据边界
+
+1. **立体异构体不是证据可互换的理由**：本药与 [modafinil](modafinil.md) 是同一分子的两种实体；`US-ARM` 只支持 R/S 药理"相近"，效应量、剂量（armodafinil 150–250 mg vs modafinil 200 mg）与英国文本结论都各归各档，不得互相套用。中国第二类第 46 项的覆盖依据是目录注 2 的立体异构体条文，不是由美国 Schedule IV 或任何他国状态推断。
+2. **英／法无产品**：emc 与 BDPM 检索 armodafinil 各 0 条，故本条目不含英国 SmPC／法国 RCP；英国 modafinil 文本不代表本药，法域差异见专题。
+3. **荟萃的 CI 接近基线**：armodafinil OSA 合并 MWT +2.71（0.04–5.37）下界近 0；不能把"统计显著"读成"临床充分"，也不能与消旋体或 solriamfetol 的合并值相加。
+4. **中国注册信息未取得**：NMPA 数据入口返回 412 脚本校验页、CDE 上市药品目录集返回 202 校验页；中国上市剂型、批准文号与核准适应证待核实。中国管制字段沿用既有目录注核查（未重跑全库结构审计）。DDD 0.15 g 为统计指标，不作剂量档位。
+5. **PIM 行记 N/A 的理由**：无本药中国处方偏离或逐药 PIM 数据，不以美英管制／监测口径替代（`PMID:42756141`）。
+6. **长期证据是空白而非安全**：主要对照 12 周量级；长期心脑血管与精神结局无随机证据。
+
+## 11. 深入分析与来源
+
+专题分析：[wake-promoting-agents-osa-residual-sleepiness.md](../analysis/wake-promoting-agents-osa-residual-sleepiness.md)——促醒药在 OSA 残余嗜睡中的终点选择、效应量临床充分性与美／英／中三种监管结论；对映体／消旋体身份与"证据不可互换"另见同目录说明。消旋体条目见 [modafinil](modafinil.md)，同类促醒药见 [solriamfetol](solriamfetol.md)，立体异构体与中国目录通则的镜像讨论见 [lisdexamfetamine 前药专题](../analysis/lisdexamfetamine-prodrug-control-scope.md)。
+
+**监管与官方文件**：[NUVIGIL 处方资料（DailyMed setid 3dd49302-f757-d945-e063-6294a90afcba，生效 2025-09-02）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba)；[openFDA 按通用名 armodafinil 检索（15 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22armodafinil%22&limit=100)；[英国 emc 检索 armodafinil（本轮 0 条产品）](https://www.medicines.org.uk/emc/search?q=armodafinil)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+
+**指南、系统与荟萃证据**：[Clin Ther 2016 modafinil 与 armodafinil 治疗 OSA 过度嗜睡的 RCT 荟萃（含 armodafinil 合并值；PMID:26923035）](https://pubmed.ncbi.nlm.nih.gov/26923035/)；[Lancet Psychiatry 2018 ADHD 药物网络荟萃（促醒药 ADHD 结论不可跨适应证外推；PMID:30097390）](https://pubmed.ncbi.nlm.nih.gov/30097390/)；[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
+
+**分类与身份**：[WHO ATC/DDD Index `N06BA13`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA13)；[Wikidata Q418913](https://www.wikidata.org/wiki/Q418913)；[PubChem CID 9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109)；[MeSH C579652](https://meshb.nlm.nih.gov/record/ui?ui=C579652)；[DrugBank DB06413](https://www.drugbank.ca/r/DB06413)；[RxNorm RXCUI 641465](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
