@@ -3,7 +3,7 @@
 > 状态：`reviewed` ｜ 最后核查：2026-10-21（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CD07`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`US-TMZ`＝美国 Temazepam Capsules USP 处方资料（ANDA211542，DailyMed setid `4a2ab77d-8b80-7eb1-e063-6394a90a1469`，生效 2026-02-09，**旧格式标签，无临床试验章节**）；另核对同药其他现行美国标签（ANDA071457 生效 2026-09-08 等，共 30 份记录，途径为口服）；`UK-TMZ`＝英国 Temazepam 10 mg/5 mL 口服溶液 SmPC（emc 9479，2025-11 认证）；`DEA-α`＝美国缉毒局受管制物质按字母序清单（c_cs_alpha.pdf，本轮 2026-10-21 取回）；`PMID:……`＝PubMed。§N 指相应文件章节号。**本条目的美国分级的两条一手来源互相矛盾**（`US-TMZ` §DRUG ABUSE 写 Schedule IV，`DEA-α` 列 Temazepam 代码 2925、CSA SCH **II**），本条目并列两处而不择一（§10 第 1 项）。
+**引用键**：`US-TMZ`＝美国 Temazepam Capsules USP 处方资料（ANDA211542，DailyMed setid `4a2ab77d-8b80-7eb1-e063-6394a90a1469`，生效 2026-02-09，**旧格式标签，无临床试验章节**）；另核对同药其他现行美国标签（ANDA071457 生效 2026-09-08 等，共 30 份记录，途径为口服）；`UK-TMZ`＝英国 Temazepam 10 mg/5 mL 口服溶液 SmPC（emc 9479，2025-11 认证）；`DEA-α`＝美国缉毒局受管制物质按字母序清单（c_cs_alpha.pdf，本轮 2026-10-21 取回）；`PMID:……`＝PubMed。§N 指相应文件章节号。**美国管制分级已核对一致**：`US-TMZ` §DRUG ABUSE AND DEPENDENCE 与 `DEA-α` 均将 temazepam 列为 CSA Schedule IV（物质代码 2925）；不再记录为来源冲突。
 
 ## 1. 基本信息
 
@@ -28,7 +28,7 @@
 | 短期耐受负担 | 3 | 剂量与次日残留直接相关：1,076 例接受睡前给药者的反应发生率为**嗜睡 9.1%（安慰剂 5.6%）、宿醉 2.5%（1.1%）、头晕 4.5%（3.3%）、倦睡 4.5%（3.4%）、 confusion 1.3%（0.5%）、欣快 1.5%（0.4%）**；英国写明**≥30 mg 比低剂量更容易把宿醉效应带到次日，尤其是未用过催眠药者与老年人**。同时头痛（8.5% 对 9.1%）与紧张不安（4.6% 对 8.2%）在两组间方向相反，本条目据此不把该表读作单纯的"药物不耐受"证据 |
 | 相互作用／监测负担 | 3 | 硬约束只有两类：与**阿片类**合用的黑框（GABA_A 与 μ 受体在不同位点同时抑制呼吸）与**酒精**（英国列为"不推荐合用"，且本药口服液自身含乙醇，与其他含乙醇／丙二醇药品同用可致乙醇蓄积，低龄或代谢不成熟儿童尤甚）；**羟丁酸钠避免合用**。其余为类别性文字：中枢抑制叠加、麻醉性镇痛药可增强欣快从而加重心理依赖、与苯妥英／巴比妥类合用毒性更明显、降压与扩血管药降压效应增强、利托那韦与西咪替丁等经肝酶抑制增强作用。** clozapine 合用有呼吸循环衰竭的报告** |
 | 停药负担 | 5 | 美国黑框＋§5.3：持续使用后**骤停或快速减量可诱发可能危及生命的急性戒断反应**，需用逐渐减量方案并采用患者个体化 taper 计划；§2 另有"若出现戒断反应，可暂停减量或回到上一剂量后再更慢减"的操作条款。英国给出一条**本药特异的机制性警告**："**作用时程短的苯二氮䓬（如替马西泮）在剂量间期即可能出现戒断现象，尤其大剂量时**"，并要求警告**不要从长效苯二氮䓬直接换成本药**；反跳现象亦需事先告知患者 |
-| 滥用／误用潜力 | 3 | 两条药物特异的监管级证据：① **DEA 按字母序清单把 temazepam 列为 CSA Schedule II（物质代码 2925）**——这是列管机关对该物质滥用与依赖倾向自己的分级结论，也是本批四药中唯一被列到 II 级的品种；② 中国《药用类精神药品目录（2025年版）》**第二类第 66 项**。但 `US-TMZ` §9 写的是 **Schedule IV**，两处一手来源矛盾（§10 第 1 项）。本轮**未取得本药的非医疗使用率或人体强化实验数据**，故不升到 4；此分不表示"误用常见"，只表示"列管与依赖证据强于普通四期苯二氮䓬" |
+| 滥用／误用潜力 | 3 | 美国现行标签与 DEA 字母序清单均将本药列为 **CSA Schedule IV（物质代码 2925）**，中国《药用类精神药品目录（2025 年版）》列为**第二类第 66 项**；英国说明书另提示长期或大剂量使用可增加依赖风险，并记载戒断与剂量间期症状。管制分级本身不等于现实误用率，本轮**未取得本药的非医疗使用率或人体强化实验数据**，故本分表示存在明确的依赖与管制风险，不表示误用常见 |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 2017 年中国标准**表 1 未逐名收录替马西泮**（表 1 逐名收录的是劳拉西泮、阿普唑仑、艾司唑仑、氯氮䓬、硝西泮、氯硝西泮、地西泮等）；适用于本药的是表 2 的类别条款（第 2 项谵妄、第 3 项痴呆、第 18 项 COPD 与第 19 项 OSA、**第 22 项跌倒或骨折史"苯二氮䓬类 避免使用除非无其他可选"**）。Beers 2023 **逐名收录 temazepam** 于苯二氮䓬行（Avoid／Strong）。浙江单中心 3,155 名 ≥65 岁抑郁门诊队列未给本药逐药计数，故记 `N/A`（`PMID:42756141`；链接见 §11） |
 
 总体解释：替马西泮的负担形状是"**短、没有活性代谢物，但依赖与戒断的时间窗被压得很窄**"——药代上它优于长效苯二氮䓬（无活性代谢物、终末 t½ 均值 8.8 小时、30 mg 内 AUC 剂量比例），而临床上正因作用时程短，剂量间期戒断与反跳成为本药特有的停药问题；次日宿醉则集中在 ≥30 mg 一端。与 [zolpidem](zolpidem.md) 的复杂睡眠行为与次日残留比较见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md)。
@@ -71,7 +71,7 @@
 
 ## 7. 短期风险、停药与误用
 
-短期以镇静、次日宿醉、头晕与共济失调为主（§2.1），另有欣快（1.5% 对 0.4%）与矛盾反应（英国把慢性精神病列为禁忌时给出的理由即是矛盾反应）。**停药**：见 §2.1 停药行——黑框级急性戒断、个体化 taper、**剂量间期戒断**与**换药警告**（长效→短效）三条是本药区别于同批其他苯二氮䓬的具体条款。**误用**：列管级别（DEA II 与标签 IV 并存）与中国第二类精神药品支持 3 分，但本轮无本药特异的误用流行病学数据。**过量**：从嗜睡到昏迷的中枢抑制，重度可致呼吸抑制与昏迷；**老年者昏迷可能更持久并呈周期性**；与其他中枢抑制药（含酒精、阿片）合用可致命；处置以支持治疗为主，重度中枢抑制时可考虑 flumazenil——英国特别注明 **flumazenil 禁用于混合过量或作为"诊断性"试验，且因自身半衰期仅约 1 小时须警惕再抑制**。
+短期以镇静、次日宿醉、头晕与共济失调为主（§2.1），另有欣快（1.5% 对 0.4%）与矛盾反应（英国把慢性精神病列为禁忌时给出的理由即是矛盾反应）。**停药**：见 §2.1 停药行——黑框级急性戒断、个体化 taper、**剂量间期戒断**与**换药警告**（长效→短效）三条是本药区别于同批其他苯二氮䓬的具体条款。**误用**：美国标签与 DEA 均列 CSA Schedule IV，中国列第二类精神药品；英国说明书提示依赖与戒断风险，但本轮无本药特异的非医疗使用率或人体强化实验数据。**过量**：从嗜睡到昏迷的中枢抑制，重度可致呼吸抑制与昏迷；**老年者昏迷可能更持久并呈周期性**；与其他中枢抑制药（含酒精、阿片）合用可致命；处置以支持治疗为主，重度中枢抑制时可考虑 flumazenil——英国特别注明 **flumazenil 禁用于混合过量或作为"诊断性"试验，且因自身半衰期仅约 1 小时须警惕再抑制**。
 
 ## 8. 重要相互作用
 
@@ -89,7 +89,7 @@
 
 ## 10. 证据边界
 
-1. **美国分级出现两个一手来源，且不一致**：`US-TMZ`（2026-02-09）与同药其他现行标签（共 30 份记录）在 §DRUG ABUSE AND DEPENDENCE 中一律写 **Schedule IV**；`DEA-α`（本轮取回的 DEA 按字母序受管制物质清单）列 **Temazepam，代码 2925，CSA SCH II**。列管权属 DEA、说明书文字权属 FDA，本条目**并列两处原文、不判定孰为"正确"**；引用时必须说明取的是哪一份文件。
+1. **美国管制分级一致**：`US-TMZ`（2026-02-09）与同药其他现行美国标签（共 30 份记录）在 §DRUG ABUSE AND DEPENDENCE 中均写 **Schedule IV**；`DEA-α` 也列 **Temazepam，代码 2925，CSA Schedule IV**。本条目不再把这两份来源记为冲突。
 2. **旧格式标签的限制**：`US-TMZ` 无临床试验章节，无疗效点估计，因此 §5 的疗效部分为空缺而非阴性结果。
 3. **英国 §4.5 是类别性框架**：其中"CYP 抑制剂／诱导剂"一类句子与本药经葡萄糖醛酸结合、无活性代谢物的实际路径并不吻合；本条目按"类别性文字＋本药实际路径"两层写，不据此推定相互作用强度。同类处理先例见 [lorazepam-glucuronidation-claims](../analysis/lorazepam-glucuronidation-claims.md)。
 4. **中国的上市与核准适应证待核实**：NMPA 与 CDE 检索入口不可脚本化（412／202），商业药品库不采用；本条目只把**管制级别**（第二类第 66 项）作为已核实事实。
@@ -99,7 +99,7 @@
 
 ## 11. 深入分析与来源
 
-本药未建专题文件：两处需要解释的跨研究问题（**列管级别的两源矛盾**与**类别性 CYP 文字对结合消除型苯二氮䓬是否适用**）已分别落在 §10 第 1、3 项，后者可直接复用既有专题 [lorazepam-glucuronidation-claims](../analysis/lorazepam-glucuronidation-claims.md)；本条目不存在需要新建专题的高质量问题。同类条目见 [lorazepam](lorazepam.md)、[diazepam](diazepam.md)、[midazolam](midazolam.md)、[clobazam](clobazam.md)；催眠药之间的次日残留与时程比较见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md)。
+本药未建专题文件：类别性 CYP 文字对结合消除型苯二氮䓬是否适用这一问题已落在 §10 第 3 项，可直接复用既有专题 [lorazepam-glucuronidation-claims](../analysis/lorazepam-glucuronidation-claims.md)；本条目不存在需要新建专题的高质量问题。同类条目见 [lorazepam](lorazepam.md)、[diazepam](diazepam.md)、[midazolam](midazolam.md)、[clobazam](clobazam.md)；催眠药之间的次日残留与时程比较见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md)。
 
 **监管与官方文件**：[openFDA 按应用号检索 Temazepam（ANDA211542）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA211542%22&limit=5)；[openFDA 按通用名检索 temazepam（30 份现行标签，途径为口服）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22temazepam%22&limit=100)；[DailyMed 标签（setid 4a2ab77d-8b80-7eb1-e063-6394a90a1469）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4a2ab77d-8b80-7eb1-e063-6394a90a1469)；[英国 Temazepam 10 mg/5 mL 口服溶液 SmPC（emc 9479）](https://www.medicines.org.uk/emc/product/9479/smpc)；[DEA 受管制物质按字母序清单（c_cs_alpha.pdf，含物质代码与 CSA 分级别）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
