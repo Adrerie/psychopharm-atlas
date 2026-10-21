@@ -183,7 +183,7 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 ## Wave 4 完成记录（2026-10-21）
 
-**状态：已完成并推送当前分支，等待人工审阅；未合并 `main`。** 实际计数：**23 份 `reviewed` ＋ 1 份 `basic`（`phenibut`）**，无计划外条目；全库现为 91 份 `reviewed`、187 份 `indexed`、2 份 `basic`（共 280 份）。
+**状态：已完成并推送当前分支；人工审阅修正已纳入分支，合并状态以 Git 历史为准。** 实际计数：**23 份 `reviewed` ＋ 1 份 `basic`（`phenibut`）**，无计划外条目；全库现为 91 份 `reviewed`、187 份 `indexed`、2 份 `basic`（共 280 份）。
 
 **分工与执行实况**：4 个子代理各 6 份的分工按文件互不重叠执行，但 3 个代理在 150 轮上限处中止、1 个代理命中模型服务限额，剩余条目（`lumateperone`、`remimazolam` 的英国 50 mg 产品、`asenapine`／`trifluoperazine` 的收尾压缩）由主代理直接取证与写作。共享文件（`AGENTS.md`、`PLAN.md`、`catalog/index.md`）与跨文件口径统一全部由主代理完成，子代理未提交、未合并。
 
