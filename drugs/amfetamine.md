@@ -3,7 +3,7 @@
 > 状态：`reviewed` ｜ 最后核查：2026-10-21（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA01`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`US-AMPH`＝美国现行 Amphetamine Sulfate 片处方资料（Evekeo，DailyMed setid `f469fb38-0380-4621-9db3-a4f429126156`，生效 2025-10-10；旧格式仿制 setid `00242264-…`，生效 2023-05-24）；`US-AMPH-ODT`＝美国 Adzenys XR‑ODT（amphetamine 缓释口崩片，setid `243e88e7-6621-47e9-8d5c-3f79bcb088bb`，生效 2025-09-01）；`US-DYAN`＝美国 Dyanavel XR（amphetamine 缓释口服混悬液，setid `ae304b29-0b40-40ec-ad0d-76b742d4a9b9`，生效 2026-02-24）；`PMID:……`＝PubMed。§N 指相应文件章节号。openFDA 按 generic_name=amphetamine 本轮 74 条命中，含硫酸盐片、天冬氨酸盐／Elixir 与各"单一实体安非他明混合盐（MAS）"复方盐缓释制剂。
+**引用键**：`US-AMPH`＝美国现行 Amphetamine Sulfate 片处方资料（Evekeo，DailyMed setid `f469fb38-0380-4621-9db3-a4f429126156`，生效 2025-10-10；旧格式仿制 setid `00242264-…`，生效 2023-05-24）；`US-AMPH-ODT`＝美国 Adzenys XR‑ODT（amphetamine 缓释口崩片，setid `243e88e7-6621-47e9-8d5c-3f79bcb088bb`，生效 2025-09-01）；`US-DYAN`＝美国 Dyanavel XR（amphetamine 缓释口服混悬液与缓释片，setid `ae304b29-0b40-40ec-ad0d-76b742d4a9b9`，生效 2026-02-24）；`PMID:……`＝PubMed。§N 指相应文件章节号。openFDA 按 generic_name=amphetamine 本轮 74 条命中，含硫酸盐片、天冬氨酸盐／Elixir 与各"单一实体安非他明混合盐（MAS）"复方盐缓释制剂。
 
 ## 1. 基本信息
 
@@ -11,10 +11,10 @@
 | --- | --- |
 | 类型／药理类别 | 单方；ATC 亚组 N06BA（中枢作用拟交感药）。**它是 (±)-苯丙胺消旋体**（CAS 300-62-9；"amphetamine sulfate" 片即消旋硫酸苯丙胺）。`US-AMPH` 临床药理原文与 [dexamfetamine](dexamfetamine.md) 相同地承认"非儿茶酚胺类拟交感胺，具中枢兴奋作用，外周升高收缩／舒张压、弱支气管扩张与呼吸兴奋"，机制层面承认 ADHD／嗜睡的起效机制未被清楚确立。药理作用是阻断突触前 NE／DA 再摄取并促其释放——右旋体（d）以中枢效应为主，左旋体（l）以周围／拟交感效应为主 |
 | 与相邻实体的边界（**必须写准**） | ① 与 [dexamfetamine](dexamfetamine.md)（`N06BA02`，纯右旋体，CAS 51-64-9）是不同立体异构体、不同目录行（见下）与不同适应证集合，**效应量、剂量与管制口径不可互换**。② 与 [lisdexamfetamine](lisdexamfetamine.md)（右苯丙胺的赖氨酸酰胺前药）是不同实体，其中国管制归属另有专文论证。③ "混合安非他明盐（MAS，Adderall／Mydayis／Adzenys／Dyanavel 等）"是**同一安非他明实体的多种盐型固定配比（d:l≈3:1）**，仍属本药实体、不是与其他活性成分的固定复方；但它与消旋硫酸苯丙胺（Evekeo）的 d:l 比例不同，引用剂量须绑定具体产品标签。④ 本条目不把 dexamfetamine 或 lisdexamfetamine 的任何 PK／试验数字当作本药数据 |
-| 主要剂型 | 美国：消旋硫酸苯丙胺片（Evekeo 等 5／10／12.5／15／20／25／30 mg）、**MAS 缓释口崩片（Adzenys XR‑ODT）**、**MAS 缓释口服混悬液（Dyanavel XR）**、MAS 缓释胶囊（Adderall XR）与 MAS 片（Adderall）；历史上还有 Amphetamine Elixir。无长效注射剂型 |
+| 主要剂型 | 美国：消旋硫酸苯丙胺片（Evekeo 等 5／10／12.5／15／20／25／30 mg）、**MAS 缓释口崩片（Adzenys XR‑ODT）**、**MAS 缓释口服混悬液／缓释片（Dyanavel XR）**、MAS 缓释胶囊（Adderall XR）与 MAS 片（Adderall）；历史上还有 Amphetamine Elixir。无长效注射剂型 |
 | 关键药代摘要 | `US-AMPH`／`US-AMPH-ODT`：原型经尿排泄比例随**尿 pH 在 1%–75% 大幅变动**（碱化尿减少电离、降低清除→血药升高；酸化剂降低血药与疗效），肝肾功能与尿 pH 改变可延长暴露；缓释剂型使峰—谷更平缓。`US-AMPH-ODT` §12.3 的发育药代显示 4–5 岁儿童稳态暴露较 6–11 岁约高 44%（这是"<6 岁不推荐"的直接依据）。具体 Tmax／半衰期数值随产品标签而异，本页不合并跨制剂引用 |
 | 中国管制状态 | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》**第一类第 2 项"苯丙胺"（英文名 Amfetamine；CAS 300-62-9）**；目录以 `*` 标注"我国生产及使用的品种"（生产／上市标记，不改变管制层级）。**与相邻目录行的关系**：右旋体另有第一类第 5 项"右苯丙胺（Dexamfetamine，CAS 51-64-9）"、左旋体另有第一类第 8 项"左苯丙胺（Levamfetamine，CAS 156-34-3）"——目录已把两个对映体分别单列，故消旋体的第 2 项与各对映体条目互不替代，不得据"目录注（含可能存在的立体异构体）"把本药与他药互相套用。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)，核查 2026-10-06） |
-| 主要法域批准状态 | **美国（按产品）**：消旋硫酸苯丙胺片（Evekeo）批准 ADHD（≥3 岁）、发作性睡病（标签给出 ≥6 岁方案）与外源性肥胖短期辅助（成人，其他疗法无效）；MAS 即释片（Adderall）亦批准 ADHD（≥3 岁）；MAS 缓释口崩片（Adzenys XR-ODT）、缓释口服混悬液（Dyanavel XR）与缓释胶囊（Adderall XR）批准 ADHD（≥6 岁）；Mydayis 批 ADHD（≥13 岁）。**英国**：本轮 emc 按 amphetamine 与 Amfetamine Sulfate 检索均 0 命中，无现行英国文本可引（§10 第 3 项）。**中国**：上市剂型与核准适应证待核实（§10 第 4 项） |
+| 主要法域批准状态 | **美国（按产品）**：消旋硫酸苯丙胺片（Evekeo）批准 ADHD（≥3 岁）、发作性睡病（标签给出 ≥6 岁方案）与外源性肥胖短期辅助（成人，其他疗法无效）；MAS 即释片（Adderall）亦批准 ADHD（≥3 岁）；MAS 缓释口崩片（Adzenys XR-ODT）、缓释口服混悬液／缓释片（Dyanavel XR）与缓释胶囊（Adderall XR）批准 ADHD（≥6 岁）；Mydayis 批 ADHD（≥13 岁）。**英国**：本轮 emc 按 amphetamine 与 Amfetamine Sulfate 检索均 0 命中，无现行英国文本可引（§10 第 3 项）。**中国**：上市剂型与核准适应证待核实（§10 第 4 项） |
 | 身份与统计 | WHO ATC `N06BA01`；DDD **15 mg／日口服、15 mg／日非口服**（统计指标，非处方剂量；美国发作性睡病 5–60 mg/日、ADHD 儿童起始 2.5–5 mg/日，多数不超 40 mg/日，与 DDD 不可互换）；Wikidata [Q179452](https://www.wikidata.org/wiki/Q179452)；PubChem [3007](https://pubchem.ncbi.nlm.nih.gov/compound/3007)；MeSH [D000661](https://meshb.nlm.nih.gov/record/ui?ui=D000661)；DrugBank [DB00182](https://www.drugbank.ca/r/DB00182)；RxNorm [725](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)（RxNorm 首选名 `amphetamine`，与 WHO 官方名 `amfetamine` 不同）；别名 Evekeo、Adderall（混合盐）、Adzenys、Dyanavel、(±)-安非他明 |
 
 ## 2. 评分
