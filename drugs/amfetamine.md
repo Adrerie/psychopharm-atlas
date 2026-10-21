@@ -1,45 +1,101 @@
-# amfetamine
+# amfetamine｜苯丙胺（消旋体；美国标签与 RxNorm 首选名为 amphetamine）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`reviewed` ｜ 最后核查：2026-10-21（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA01`（WHO ATC/DDD Index 2026）  
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-AMPH`＝美国现行 Amphetamine Sulfate 片处方资料（Evekeo，DailyMed setid `f469fb38-0380-4621-9db3-a4f429126156`，生效 2025-10-10；旧格式仿制 setid `00242264-…`，生效 2023-05-24）；`US-AMPH-ODT`＝美国 Adzenys XR‑ODT（amphetamine 缓释口崩片，setid `243e88e7-6621-47e9-8d5c-3f79bcb088bb`，生效 2025-09-01）；`US-DYAN`＝美国 Dyanavel XR（amphetamine 缓释口服混悬液与缓释片，setid `ae304b29-0b40-40ec-ad0d-76b742d4a9b9`，生效 2026-02-24）；`PMID:……`＝PubMed。§N 指相应文件章节号。openFDA 按 generic_name=amphetamine 本轮 74 条命中，含硫酸盐片、天冬氨酸盐／Elixir 与各"单一实体安非他明混合盐（MAS）"复方盐缓释制剂。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | amfetamine | WHO ATC/DDD Index 2026（`N06BA01`）|
-| 中文标签（维基数据，未核对监管核准名） | 苯丙胺（zh-cn） | Wikidata [Q179452](https://www.wikidata.org/wiki/Q179452) |
-| ATC 编码 | `N06BA01`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | (±)-amphetamine；Amphetamine, alpha-methylphenethylamine；alpha-Methylbenzeneethaneamine；alpha-methylbenzeneethaneamine；alpha-methylphenethylamine；alpha-methylphenylethylamine；amphetamine；beta-Aminopropylbenzene；beta-Phenylisopropylamine；beta-aminopropylbenzene…另 13 条 | Wikidata 英文别名 |
-| 系统命名/研究代号（4 条，节选） | 1-Phenylpropan-2-amin；1-phenyl-2-aminopropane… | Wikidata 英文别名 |
-| 第三方数据库归类线索 | 1-phenylpropan-2-amine alkaloid、amphetamines | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `725` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)（RxNorm 首选名 `amphetamine`，与官方名不同） |
-| 中国管制状态（核查 2026-10-06） | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》第一类第 2 项“苯丙胺”（英文名 Amfetamine；CAS 300-62-9）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方；ATC 亚组 N06BA（中枢作用拟交感药）。**它是 (±)-苯丙胺消旋体**（CAS 300-62-9；"amphetamine sulfate" 片即消旋硫酸苯丙胺）。`US-AMPH` 临床药理原文与 [dexamfetamine](dexamfetamine.md) 相同地承认"非儿茶酚胺类拟交感胺，具中枢兴奋作用，外周升高收缩／舒张压、弱支气管扩张与呼吸兴奋"，机制层面承认 ADHD／嗜睡的起效机制未被清楚确立。药理作用是阻断突触前 NE／DA 再摄取并促其释放——右旋体（d）以中枢效应为主，左旋体（l）以周围／拟交感效应为主 |
+| 与相邻实体的边界（**必须写准**） | ① 与 [dexamfetamine](dexamfetamine.md)（`N06BA02`，纯右旋体，CAS 51-64-9）是不同立体异构体、不同目录行（见下）与不同适应证集合，**效应量、剂量与管制口径不可互换**。② 与 [lisdexamfetamine](lisdexamfetamine.md)（右苯丙胺的赖氨酸酰胺前药）是不同实体，其中国管制归属另有专文论证。③ "混合安非他明盐（MAS，Adderall／Mydayis／Adzenys／Dyanavel 等）"是**同一安非他明实体的多种盐型固定配比（d:l≈3:1）**，仍属本药实体、不是与其他活性成分的固定复方；但它与消旋硫酸苯丙胺（Evekeo）的 d:l 比例不同，引用剂量须绑定具体产品标签。④ 本条目不把 dexamfetamine 或 lisdexamfetamine 的任何 PK／试验数字当作本药数据 |
+| 主要剂型 | 美国：消旋硫酸苯丙胺片（Evekeo 等 5／10／12.5／15／20／25／30 mg）、**MAS 缓释口崩片（Adzenys XR‑ODT）**、**MAS 缓释口服混悬液／缓释片（Dyanavel XR）**、MAS 缓释胶囊（Adderall XR）与 MAS 片（Adderall）；历史上还有 Amphetamine Elixir。无长效注射剂型 |
+| 关键药代摘要 | `US-AMPH`／`US-AMPH-ODT`：原型经尿排泄比例随**尿 pH 在 1%–75% 大幅变动**（碱化尿减少电离、降低清除→血药升高；酸化剂降低血药与疗效），肝肾功能与尿 pH 改变可延长暴露；缓释剂型使峰—谷更平缓。`US-AMPH-ODT` §12.3 的发育药代显示 4–5 岁儿童稳态暴露较 6–11 岁约高 44%（这是"<6 岁不推荐"的直接依据）。具体 Tmax／半衰期数值随产品标签而异，本页不合并跨制剂引用 |
+| 中国管制状态 | **药用类精神药品第一类**：列入《药用类精神药品目录（2025年版）》**第一类第 2 项"苯丙胺"（英文名 Amfetamine；CAS 300-62-9）**；目录以 `*` 标注"我国生产及使用的品种"（生产／上市标记，不改变管制层级）。**与相邻目录行的关系**：右旋体另有第一类第 5 项"右苯丙胺（Dexamfetamine，CAS 51-64-9）"、左旋体另有第一类第 8 项"左苯丙胺（Levamfetamine，CAS 156-34-3）"——目录已把两个对映体分别单列，故消旋体的第 2 项与各对映体条目互不替代，不得据"目录注（含可能存在的立体异构体）"把本药与他药互相套用。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)，核查 2026-10-06） |
+| 主要法域批准状态 | **美国（按产品）**：消旋硫酸苯丙胺片（Evekeo）批准 ADHD（≥3 岁）、发作性睡病（标签给出 ≥6 岁方案）与外源性肥胖短期辅助（成人，其他疗法无效）；MAS 即释片（Adderall）亦批准 ADHD（≥3 岁）；MAS 缓释口崩片（Adzenys XR-ODT）、缓释口服混悬液／缓释片（Dyanavel XR）与缓释胶囊（Adderall XR）批准 ADHD（≥6 岁）；Mydayis 批 ADHD（≥13 岁）。**英国**：本轮 emc 按 amphetamine 与 Amfetamine Sulfate 检索均 0 命中，无现行英国文本可引（§10 第 3 项）。**中国**：上市剂型与核准适应证待核实（§10 第 4 项） |
+| 身份与统计 | WHO ATC `N06BA01`；DDD **15 mg／日口服、15 mg／日非口服**（统计指标，非处方剂量；美国发作性睡病 5–60 mg/日、ADHD 儿童起始 2.5–5 mg/日，多数不超 40 mg/日，与 DDD 不可互换）；Wikidata [Q179452](https://www.wikidata.org/wiki/Q179452)；PubChem [3007](https://pubchem.ncbi.nlm.nih.gov/compound/3007)；MeSH [D000661](https://meshb.nlm.nih.gov/record/ui?ui=D000661)；DrugBank [DB00182](https://www.drugbank.ca/r/DB00182)；RxNorm [725](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)（RxNorm 首选名 `amphetamine`，与 WHO 官方名 `amfetamine` 不同）；别名 Evekeo、Adderall（混合盐）、Adzenys、Dyanavel、(±)-安非他明 |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
+## 2. 评分
+
+规则见 [SCORING.md](../SCORING.md)。分数是证据与负担的整理，不构成对个体是否用药的判断。
+
+### 2.1 药物负担（1–5，越高越重；按口服单方的分子基线评分）
+
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 4 | 与右旋体同源的四条线（成瘾、生长抑制、血压／心率、周围血管）＋**心脏骤死类别报告**：`US-AMPH` §5 记推荐剂量下 ADHD 治疗中已有猝死、卒中与心梗报告，结构性心脏病或严重心脏病者风险更高；§5 把周围血管病变（含雷诺）写入警示。消旋体较纯右旋体的额外成分是 l-型的拟交感负荷 |
+| 短期耐受负担 | 3 | 类别清单（失眠、食欲下降、口干、恶心、腹部不适、体重下降、心悸、血压变化、易激、紧张、头晕）；`US-AMPH-ODT` 因不良事件停药率在前药对照试验中为儿童 8%、成人 6%（对照臂来源，见 §5）。量化发生率以各产品标签为准，本页不把不同制剂合并成单一百分比表 |
+| 相互作用／监测负担 | 3 | MAOI（含利奈唑胺、静脉亚甲蓝）14 天内为**禁忌**（高血压危象）；5‑HT 能药与 CYP2D6 抑制剂叠加 5‑HT 综合征与母药暴露；**尿液酸化／碱化剂双向改变血药**；三环类可显著升高脑内苯丙胺并放大心血管效应。本品不抑制主要 CYP，但受 2D6 抑制剂与尿 pH 影响（`US-AMPH-ODT` §7） |
+| 停药负担 | 4 | `US-AMPH` §5／§9 承认成瘾与耐受；长期停用后出现**心境低落／抑郁、疲劳、生动不快梦、失眠或嗜睡、活动增多或迟滞、食欲增加**等撤药表现；标签要求"逐步减量、密切随访"，不提供具体日程。此分与滥用维度分开 |
+| 滥用／误用潜力 | 5 | **Schedule II＋标签"high potential for abuse and misuse…can lead to substance use disorder, including addiction"**，并可被转入非法渠道；鼻吸或注射与超量使过量与死亡风险上升（`US-AMPH` 警告与 §9）。本药是速释、可直接鼻吸的原型药物。5 分由"受管制的 Schedule II＋标签自述高滥用潜力＋原型速释给药途径"共同支撑，与"单纯受管制"分开（右旋体与赖右苯丙胺同为 5，理由是终产物同为苯丙胺，见 [dexamfetamine](dexamfetamine.md)、[lisdexamfetamine](lisdexamfetamine.md)）。美国 2021–2022 数据：处方兴奋剂使用者 25.3% 报告误用、9.0% 达使用障碍（`PMID:40105821`） |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 兴奋剂的中国"不适当处方"维度必须有当地数据：本轮无苯丙胺的中国处方偏离、药物利用或逐药 PIM 判定；中国老年抑郁门诊双标准研究前十名内无安非他明类（`PMID:42756141`）。**不得用美国误用流行病学或管制级别替代中国口径**，记 `N/A` |
+
+总体解释：本药与 [dexamfetamine](dexamfetamine.md) 多数维度分数相同，这不是复制——**右旋体与左旋体同为"苯丙胺"这一活性分子**，中枢效应、依赖与相互作用本质同源；真正区分两档案的是**立体异构体身份、各自的目录行与适应证集合**：消旋硫酸苯丙胺片在美国额外保留"外源性肥胖短期辅助"这一右旋体条目未强调的适应证，MAS 混合盐产品批 ADHD，而促智／提神的非医疗使用是其最突出的现实问题（放 §7）。滥用给 5 而非仅凭"受管制"，标签的"high potential"自述与原型速释／鼻吸途径是药物特异依据。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 15 | mg | O | — |
-| 15 | mg | P | — |
+| 儿童 ADHD（≥6 岁，作为综合方案一部分） | 美国获批（Evekeo 消旋片及 Adderall 即释片的 ADHD 标签可下探至 ≥3 岁；Adzenys XR-ODT、Dyanavel XR 与 Adderall XR 为 ≥6 岁，Mydayis 为 ≥13 岁；本行仅讨论 ≥6 岁人群）；中国待核实 | B | 类别疗效证据强：ADHD 药物网络荟萃按**医师评定**在儿童青少年给安非他明类 SMD **−1.02（−1.19 至 −0.85）**，但按**教师评定时安非他明类未优于安慰剂**（仅哌甲酯与莫达非尼显著）；MAS 缓释口崩片的安全性由"单一实体安非他明缓释胶囊"充分对照研究确立（n=1,315 暴露）。评定者口径不同直接改变结论 |
+| 发作性睡病（成人，及 ≥12 岁儿童） | **消旋硫酸苯丙胺片获批；MAS 缓释制剂不批此适应证** | B− | `US-AMPH` §2 剂量写"5–60 mg/日分次、按个体反应"——跨度大、无对照试验引用、6 岁以下儿童少见嗜睡症的老式适应证；标签保留"不能治愈基础疾病，需合并其他措施"。这是促醒／抗睡用途，与右旋体同类但须按本药标签 |
+| 成人 ADHD | 美国部分产品写明成人（如 Mydayis 13 岁及以上、MAS 缓释用于成人）；各国标签年龄不一 | C+ | 成人类别证据其实最强（医师评定安非他明类 SMD −0.79，−0.99 至 −0.58），但**因副作用退出 OR 也最高（3.26，1.54–6.92）**；且各产品把年龄下限／上限写得不同，"证据支持"与"具体标签允许"分离，不得互相背书（`PMID:30097390`） |
+| 外源性肥胖（短期数周减重辅助） | **消旋硫酸苯丙胺片在美国保留此适应证（其他疗法无效的成人，热量限制方案辅助）** | D | 标签自身要求"权衡拟交感胺的有限有用性与风险"；拟交感药用于减重曾致严重心血管事件，且成瘾与撤药风险高。此用途虽获批但当代风险—收益使其不适合常规使用，故评 D（属有决策价值的获批场景，非"未获批"占位） |
 
-DDD 是统计指标，不是推荐处方剂量。
+## 3. 主要作用
 
-## 待核实
+作用描述落在类别层面：中枢兴奋（觉醒、活动与言语增多、食欲下降）、外周升压与心率上升、弱支气管扩张；右旋体负责主要促中枢效应、左旋体贡献更多周围拟交感与较弱兴奋效应。标签 §临床药理直接承认"没有特异性证据清楚确立苯丙胺对儿童心理与行为的起效机制"，因此本页**不引入体外 Ki 或转运体占有率数字**，也不把右旋体／前药页的 PK 参数移植过来。促智／提神的非医疗效应属"强化效应"，见 §7，不属于任何适应证机制。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+## 4. 适应范围
 
-## 来源
+**获批（美国，按产品）**：消旋硫酸苯丙胺片——ADHD（综合方案的一部分）、发作性睡病、外源性肥胖短期辅助；MAS 缓释口崩片／混悬液／胶囊——ADHD（≥6 岁）；Mydayis——ADHD（13 岁及以上）。**标签自设边界**：ADHD 诊断不应仅凭近期症状、<6 岁 MAS 缓释不推荐（暴露更高、不良反应更多）、不得按毫克对毫克互换其他安非他明产品（碱基比例不同）、须用最低有效量并避免晚间给药（失眠）。**不属于本药适应证**：肥胖的长期治疗（虽获批短期辅助但风险—收益不利，见 §2.2）、嗜睡症之外的"提神"、学习与表现增强。**英国**与**中国**的上市与核准适应证待核实（§10 第 3、4 项）。
 
-- WHO ATC/DDD Index 2026：[N06BA01](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA01)
-- Wikidata（CC0）：[Q179452](https://www.wikidata.org/wiki/Q179452)
-- PubChem CID（经 Wikidata）：[3007](https://pubchem.ncbi.nlm.nih.gov/compound/3007)
-- MeSH 描述符（经 Wikidata）：[D000661](https://meshb.nlm.nih.gov/record/ui?ui=D000661)
-- DrugBank ID（经 Wikidata）：[DB00182](https://www.drugbank.ca/r/DB00182)
-- English Wikipedia（标题指针，未复制正文）：[Amphetamine](https://en.wikipedia.org/wiki/Amphetamine)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 725](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)
+## 5. 实际效果与局限
+
+- **没有本药统一的注册试验表**：`US-AMPH`（消旋片）多为老式格式、无 §14 临床 studies；MAS 缓释产品以"单一实体安非他明缓释"研究（如 Dyanavel 的实验室课堂试验 n=108、SKAMP‑Combined 在给药后 1–13 h 各时点较安慰剂显著改善）为疗效依据，`US-AMPH-ODT` §14 亦引用 MAS ER 池数据。**这些是本实体数据，但不同 d:l 配比产品之间效应量不可当头条互换**。
+- **评定者维度不一致**：ADHD 网络荟萃按医师量表安非他明类 SMD −1.02（儿童）、−0.79（成人），按教师量表则未优于安慰剂（`PMID:30097390`）。跨情境外推不能只取有利维度。
+- **长期随机证据很短**：该荟萃 26／52 周时点"数据不足"；心血管网络荟萃中位随访仅数周，作者直言无长期随机证据。所有"长期"描述建立在短期测量＋上市后信号上（`PMID:40203844`）。
+- **肥胖适应证是"历史—风险"型**：虽在美国片剂标签保留，但拟交感药减重的严重心血管事件使当代临床基本弃用，属标签允许但决策上应避免的获批场景（§2.2）。
+
+## 6. 长期风险
+
+- **成瘾与转移**：Schedule II 级高滥用潜力；标签要求储存于安全（最好上锁）处、不复用他人处方。
+- **心血管**：推荐剂量下 ADHD 治疗中出现过猝死、卒中与心梗报告；类别平均升压／升率"部分患者幅度更大"；结构性心脏病或严重心脏病者风险更高。
+- **生长与食欲**：儿童需监测身高体重与食欲，"未按预期生长者可能需中断治疗"（类别要求，定量生长表多来自前药试验，不并入本药实测）。
+- **周围血管**：ADHD 兴奋剂与周围血管病变（含雷诺）相关，后果可含指端溃疡与软组织破坏，减量／停药后多改善（`PMID:34655948`）。
+- **精神与行为**：可加重既有精神病性症状、诱发躁狂或混合发作；无既往史者在推荐剂量下也可出现精神病样或躁狂症状。
+
+## 7. 短期风险、停药与误用
+
+短期项与右旋体一致（失眠、食欲下降、口干、恶心、腹部不适、体重下降、心悸、血压变化、易激、紧张、头晕）。**停药**：承认成瘾与耐受，撤药表现为心境低落／抑郁、疲劳、生动不快梦、失眠或嗜睡、精神运动迟滞或激越、食欲增加；标签不提供减量日程。**误用与滥用（含促智／自用药语境）**：这是本药最现实的问题——原型速释、可直接鼻吸；美国 2021–2022 全国数据中处方兴奋剂使用者 **25.3% 报告误用、9.0% 达使用障碍**，使用安非他明类者误用比为哌甲酯的约 3 倍（2.2–4.3）（`PMID:40105821`）；非医疗"促智／提神／减肥"使用按规则放本节、不进 A–D 表。**过量**：交感毒征象（快速心律失常、血压过高或过低、血管痉挛、心梗、主动脉夹层、Takotsubo 心肌病、精神运动激越、意识混乱、幻觉、5‑HT 综合征、癫痫、脑血管意外、昏迷、>104 °F 高热与横纹肌溶解），可致死；不可透析清除，处理以支持治疗与心血管监测为主。
+
+## 8. 重要相互作用
+
+MAOI 为禁忌（14 天内，含利奈唑胺与静脉亚甲蓝），合用可致高血压危象、恶性高热，历史有个别致死报告；5‑HT 能药（SSRI、SNRI、曲普坦、三环类、芬太尼、锂、曲马多、色氨酸、丁螺环酮、圣约翰草）叠加 5‑HT 综合征风险；CYP2D6 抑制剂升高苯丙胺暴露并同时抬高 5‑HT 综合征风险；**尿液碱化剂升高血药（应避免合用）、酸化剂降低血药与疗效**；三环类可增强彼此作用并放大心血管效应。本品不参与主要 CYP 的抑制／诱导，相互作用负担以药效学叠加与尿 pH 为主（`US-AMPH-ODT` §7、§12.3）。
+
+## 9. 特殊人群
+
+**肾／肝**：功能受损与尿 pH 改变可延长暴露，一般从剂量低端起始。**老年**：经验有限，通常从区间低端起始。**儿科**：MAS 缓释制剂"<6 岁不推荐"（4–5 岁稳态暴露约高 44%、体重下降等不良反应更多）；消旋片 ADHD 适应证可下探 3 岁但须谨慎——**同一分子不同标签的年龄下限不一致**（§10 第 2 项）。**妊娠**：标签判"可能造成胎儿损害"，宫内暴露新生儿有戒断症状风险，早产与低出生体重见于用药孕妇的婴儿；动物经胎仔暴露见生长与行为改变。**哺乳**：安非他明可入乳，一般不建议哺乳。**精神共病**：精神病性症状、未控制的双相、抽动／Tourette、物质使用史为慎用／避免项。以上均为标签事实，不构成个体化建议（`US-AMPH-ODT` §8；`US-AMPH` 警告）。
+
+## 10. 证据边界
+
+1. **"本药的标签"不是单一对象**：美国现存多份独立标签（消旋硫酸苯丙胺片、MAS 混合盐片与缓释胶囊、MAS 缓释口崩片 Adzenys、缓释混悬液 Dyanavel、Mydayis），其 d:l 配比、适应证年龄、是否含发作性睡病／肥胖、剂量上限各不相同。本页逐条标注来源产品，**不把不同 d:l 产品的效应量当头条互换**，也不把混合盐复方当作"其他活性成分复方"排除——它是同一安非他明实体的盐型组合。
+2. **年龄与适应证不一致**：消旋片批 ADHD＋发作性睡病＋肥胖，MAS 缓释制剂只批 ADHD；<6 岁不推荐 vs 消旋片 ADHD 可下探 3 岁。这是标签级事实冲突，非本条目推断。
+3. **英国无现行文本可引**：本轮 emc 按 `amphetamine` 与 `Amfetamine Sulfate` 两次检索均返回 0 条产品记录，故不作英国结论，也不得由美国标签外推。
+4. **中国注册信息未取得**：NMPA 数据入口返回 412 校验页、CDE 上市药品目录集返回 202 校验页；中国上市剂型、批准文号与核准适应证待核实。中国管制字段沿用既有逐药核查（第一类第 2 项，未重跑全库结构审计）。DDD 15 mg 为统计指标，不作剂量档位。
+5. **量化疗效与安全性表不完整**：消旋片多为老式标签、无 §14；量化对照主要来自 MAS 缓释产品自身试验或跨药网络荟萃，引用时标注来源产品或"类别／对照臂"。
+6. **误用流行病学非本药特异**：`PMID:40105821` 的 25.3%／9.0% 是"处方兴奋剂"整体口径，安非他明类与哌甲酯比较为亚组比值；用于场景叙述，不用于把中国维度升分。
+7. **立体异构体／前药不可互换**：与 [dexamfetamine](dexamfetamine.md)、[lisdexamfetamine](lisdexamfetamine.md) 的关系见 §1 与 [lisdexamfetamine 前药专题](../analysis/lisdexamfetamine-prodrug-control-scope.md)；不同对映体各有目录行与获批适应证。
+
+## 11. 深入分析与来源
+
+立体异构体与前药的管制归属论证见 [lisdexamfetamine-prodrug-control-scope.md](../analysis/lisdexamfetamine-prodrug-control-scope.md)（立体异构体由通则覆盖 vs 酰胺前药需专门列名的分野）。同类／对照条目见 [dexamfetamine](dexamfetamine.md)（纯右旋体）、[lisdexamfetamine](lisdexamfetamine.md)（右旋前药）、[methylphenidate](methylphenidate.md)、[modafinil](modafinil.md)（不同促醒／兴奋类别）。
+
+**监管与官方文件**：[Evekeo（Amphetamine Sulfate 片）处方资料（DailyMed setid f469fb38-0380-4621-9db3-a4f429126156，生效 2025-10-10）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f469fb38-0380-4621-9db3-a4f429126156)；[Adzenys XR‑ODT（amphetamine 缓释口崩片）处方资料（setid 243e88e7-6621-47e9-8d5c-3f79bcb088bb，生效 2025-09-01）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=243e88e7-6621-47e9-8d5c-3f79bcb088bb)；[Dyanavel XR 处方资料（setid ae304b29-0b40-40ec-ad0d-76b742d4a9b9，生效 2026-02-24）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae304b29-0b40-40ec-ad0d-76b742d4a9b9)；[openFDA 按通用名 amphetamine 检索（74 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22amphetamine%22&limit=100)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+
+**指南、系统与荟萃证据**：[Lancet Psychiatry 2018 ADHD 药物网络荟萃（医师与教师评定结论相反；PMID:30097390）](https://pubmed.ncbi.nlm.nih.gov/30097390/)；[Lancet Psychiatry 2025 ADHD 药物心血管安全性网络荟萃（无长期随机证据；PMID:40203844）](https://pubmed.ncbi.nlm.nih.gov/40203844/)；[Semin Arthritis Rheum 2021 兴奋剂与雷诺现象范围综述（PMID:34655948）](https://pubmed.ncbi.nlm.nih.gov/34655948/)；[JAMA Psychiatry 2025 美国成人处方兴奋剂使用与误用（PMID:40105821）](https://pubmed.ncbi.nlm.nih.gov/40105821/)；[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
+
+**分类与身份**：[WHO ATC/DDD Index `N06BA01`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA01)；[Wikidata Q179452](https://www.wikidata.org/wiki/Q179452)；[PubChem CID 3007](https://pubchem.ncbi.nlm.nih.gov/compound/3007)；[MeSH D000661](https://meshb.nlm.nih.gov/record/ui?ui=D000661)；[DrugBank DB00182](https://www.drugbank.ca/r/DB00182)；[RxNorm RXCUI 725](https://rxnav.nlm.nih.gov/REST/rxcui/725.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
