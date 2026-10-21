@@ -75,7 +75,7 @@
 
 ## 10. 证据边界（本条目的核心）
 
-1. **五个法域检索均无现行监管文本**（逐项记录方法与结果）：美国 openFDA 标签库按 `generic_name`／`brand_name`／`product_description` 检索 flunitrazepam 与 Rohypnol 均 0 条、`drug/drugsfda` 检索 0 条、DailyMed `spls.json?drug_name=flunitrazepam` 返回 `total_elements: 0`（该库发布日期 2026-10-19）；英国 emc `/emc/search?q=flunitrazepam` 返回 0 条产品；法国官方药品公共数据库（BDPM）按字母序检索 FLU 前缀全部 148 条记录（分页取完）无 FLUNITRAZEPAM、ROH 前缀 0 条；瑞典 FASS live-search 只返回 **Flunitrazepam Mylan（avregistrerad，注册已撤销）**；瑞士 oddb 检索页无命中。**因此无法给出经说明书核对的适应证、剂量、禁忌与不良反应。**
+1. **本轮五法域检索均未取得可用于核对的现行产品说明书／监管标签**（逐项记录方法与结果）：美国 openFDA 标签库按 `generic_name`／`brand_name`／`product_description` 检索 flunitrazepam 与 Rohypnol 均 0 条、`drug/drugsfda` 检索 0 条、DailyMed `spls.json?drug_name=flunitrazepam` 返回 `total_elements: 0`（该库发布日期 2026-10-19）；英国 emc `/emc/search?q=flunitrazepam` 返回 0 条产品；法国官方药品公共数据库（BDPM）按字母序检索 FLU 前缀全部 148 条记录（分页取完）无 FLUNITRAZEPAM、ROH 前缀 0 条；瑞典 FASS live-search 只返回 **Flunitrazepam Mylan（avregistrerad，注册已撤销）**；瑞士 oddb 检索页无命中。**因此无法给出经说明书核对的适应证、剂量、禁忌与不良反应。**
 2. **列管与上市必须分开**：英国把本药列 Class C／Schedule 3（`UK-CDL`，2026-10-21 取回），中国列第二类精神药品第 34 项（2025 年版目录），而美国 DEA 按字母序清单未收录本药且 FDA 无产品——这三条是各自独立的监管事实，任何"某国管制＝某国上市"的推论都不成立（同类区分见 [bromazepam](bromazepam.md)）。
 3. **滥用潜力文献内部冲突**：`PMID:9169981`（1997，系统综述）认为本药在强化、依赖与戒断特征上与其他苯二氮䓬无差异、常规人群中滥用潜力低；`PMID:16170235`（2005，n=9 镇静药滥用者）与 `PMID:15845314`（狒狒自身给药）则给出方向相反的药物特异证据，`PMID:18004131` 支持"俱乐部药物使用者中高滥用潜力"。本条目把冲突并列，并据此说明 4 分的边界：**存在药物特异的强化与场景证据，但不存在可用于发生率推断的人群数据**。
 4. **不以名气推算发生率**：媒体报道与"约会强奸药"标签属于动机与研究假设来源；可核实的量化证据只有具体样本与分母（`PMID:24112346` 16 例连续就诊、12 例毒检、浓度 21–75 μg/L；`PMID:8811586` 66 名受访者且存在药片误认；`PMID:25296384` 139 名老年门诊患者）。本条目不写"常见""广泛"一类未经分母支持的断言。
