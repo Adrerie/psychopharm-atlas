@@ -14,7 +14,7 @@
 | 主要活性代谢物 | **三种成分都有中枢抑制作用**：母药、**2－氧夸西泮**与 **N－去烷基－2－氧夸西泮**（§12.3）。母药与 2－氧夸西泮的平均消除半衰期约 **39 小时**，N－去烷基－2－氧夸西泮约 **73 小时**；三者蛋白结合率均 >95%；连续给药后母药与 2－氧夸西泮在**第 7 剂**达稳态、N－去烷基物在**第 13 剂**达稳态 |
 | 关键药代摘要 | 吸收快（吸收半衰期约 30 分钟），15 mg 后峰浓度约 **20 ng/mL、约 2 小时达峰**；以 14C 标记给药后 5 天内 **31% 经尿、23% 经粪**排出，尿中几乎无原形药。老年人群母药与 2－氧夸西泮的药代与年轻成人相当，但**N－去烷基物的半衰期约为年轻成人的两倍**（§12.3） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"quazepam／夸西泮"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类范围，本药为 1,4－苯二氮䓬硫酮结构，不落入其中任何一类的母核或所列替代条件。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国**：失眠的治疗，特征为**入睡困难、频繁夜醒与／或清晨早醒**；§1 同时写明"由于失眠常为短暂与间歇性，**长期给药一般既不必要也不推荐**"。英国 emc 检索 quazepam 为 0 条、法国 BDPM 前缀检索 0 行（2026-10-23），两处均**无现行产品文本**——这是检索事实。中国上市与核准适应证待核实 |
+| 主要法域批准状态 | **美国**：失眠的治疗，特征为**入睡困难、频繁夜醒与／或清晨早醒**；标签 §1 同时写明"由于失眠常为短暂与间歇性，**长期给药一般既不必要也不推荐**"。英国 emc 检索 quazepam 为 0 条、法国 BDPM 前缀检索 0 行（2026-10-23），两处均**无现行产品文本**——这是检索事实。中国上市与核准适应证待核实 |
 | 身份与统计 | WHO ATC `N05CD10`；DDD **15 mg 口服**；Wikidata [Q3927403](https://www.wikidata.org/wiki/Q3927403)；PubChem [4999](https://pubchem.ncbi.nlm.nih.gov/compound/4999)；MeSH [C025130](https://meshb.nlm.nih.gov/record/ui?ui=C025130)；DrugBank [DB01589](https://www.drugbank.ca/r/DB01589)；RxNorm [35185](https://rxnav.nlm.nih.gov/REST/rxcui/35185.json)；别名 SCH-16134；品牌 Doral（仅见于标签片身标识与 1997 年听证公告） |
 
 ## 2. 评分
@@ -101,7 +101,7 @@
 
 ## 11. 深入分析与来源
 
-本药未建专题文件：本轮唯一具备独立解释价值的问题是"WHO 未建议管制、厂商请求去列管，而美国仍列 Schedule IV"这一列管史，其可引事实只有一份 1997 年听证公告，尚不足以支撑独立专题；其余需要解释的内容（73 小时代谢物如何同时产生首夜疗效与次日损害）已在 §1、§3 与 §6 落到底。同类对照见 [flurazepam](flurazepam.md)（活性代谢物蓄积的另一条路径）、[temazepam](temazepam.md)（无活性代谢物）、[triazolam](triazolam.md)（短半衰期）与 [estazolam](estazolam.md)。
+本药未建专题文件：本轮唯一具备独立解释价值的问题是"WHO 未建议管制、厂商请求去列管，而美国仍列 Schedule IV"这一列管史，其可引事实只有一份 1997 年听证公告，尚不足以支撑独立专题；其余需要解释的内容（73 小时代谢物如何同时产生首夜疗效与次日损害）已在本文 §1、§3 与 §6 落到底。同类对照见 [flurazepam](flurazepam.md)（活性代谢物蓄积的另一条路径）、[temazepam](temazepam.md)（无活性代谢物）、[triazolam](triazolam.md)（短半衰期）与 [estazolam](estazolam.md)。
 
 **监管与官方文件**：[DailyMed 夸西泮片标签（setid f7d63f3f-5303-48ab-bce2-35fd62c45799，生效 2025-10-23）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7d63f3f-5303-48ab-bce2-35fd62c45799)；[openFDA 按通用名检索 quazepam（1 条现行记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22quazepam%22&limit=5)；[DailyMed 按品牌 Doral 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Doral)；[62 FR 33418（1997-06-19，苯二氮䓬列管标准听证公告）](https://www.federalregister.gov/documents/1997/06/19/97-16064/benzodiazepines-and-related-substances-criteria-for-scheduling-recommendations-under-the-controlled)；[21 CFR 1308.14（Schedule IV，含 quazepam，代码 2881）](https://www.law.cornell.edu/cfr/text/21/1308.14)；[emc 检索 quazepam（0 条）](https://www.medicines.org.uk/emc/search?q=quazepam)；[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=QUAZEPAM&page=1&limit=20)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
