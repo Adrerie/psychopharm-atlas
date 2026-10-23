@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 6 一次性批量建档，32 份 `indexed` 档案**。工作分支 `plan/reviewed-expansion-wave6`，从 Wave 5 已通过 PR #8 合并的 `main` 建立。当前指令以文末 Wave 6 计划为准，以上各轮记录均属历史，不重复执行。
+> 当前任务：**Wave 7 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave7`，以 Wave 6 已通过 PR #9 合并的 `main` 为基线。**执行范围以文末 Wave 7 计划为准**，Wave 1–6 均是历史记录，不要重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -316,3 +316,26 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - **风险来源与结构**：`pemoline` 澄清 FDA 于 2021 年主动要求 Abbott 因肝毒性提出撤销申请，不再概括为普通企业停售撤销；`chlorprothixene`、`sertindole` 的独立 `## 待核实` 标题降为 §10 内部小标题，内容未删。
 
 复核范围限定为上述修改过的药物条目、共享文档与计划内 32 份的状态／评分表结构；验收保持 **130 reviewed / 131 indexed / 19 basic（280 总数）**，专题分析 15 份。`main` 的合并由独立 PR 完成后再核对 Git 历史。
+
+
+## Wave 7 批量建档计划（2026-10-23）
+
+**状态：待执行。** 工作分支：`plan/reviewed-expansion-wave7`，基于已合并 PR #9 的 `main`。起点为 **130 reviewed / 131 indexed / 19 basic**，280 份档案与 15 份专题分析。本轮已确认下列 **32 份全部处于 `indexed`**。目标是补齐抗焦虑药、相关草药、部分历史抗抑郁药以及地区性抗精神病／镇静药的档案，不按类别机械推断用途，不预设升级 `reviewed` 的数量。
+
+### 文件与并行分组（4 × 8，彼此不重叠）
+
+- **A｜苯二氮䓬类抗焦虑药及活性代谢物**：`medazepam`、`ketazolam`、`nordazepam`、`ethyl-loflazepate`、`clotiazepam`、`cloxazolam`、`mexazolam`、`fludiazepam`。
+- **B｜其他抗焦虑药与补充类型**：`halazepam`、`camazepam`、`bentazepam`、`captodiame`、`benzoctamine`、`lavandulae-aetheroleum`、`emylcamate`、`mephenoxalone`。
+- **C｜三环类、早期抗抑郁药及植物／前体成分**：`imipramine-oxide`、`dibenzepin`、`melitracen`、`amineptine`、`nomifensine`、`zimeldine`、`hyperici-herba`、`tryptophan`。
+- **D｜地区性抗精神病药与镇静药**：`cyamemazine`、`pipamperone`、`melperone`、`benperidol`、`penfluridol`、`zotepine`、`clotiapine`、`propiomazine`。
+
+### 本轮执行口径
+
+1. 主代理先阅读 `AGENTS.md`、本计划、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 与喹硫平样板。**一次派发四组，允许最多 4 个并行子代理**，一代理一组，仅修改自己分组的 8 个 `drugs/*.md`。子代理不得更改共享文档、交叉编辑、嵌套委派或合并；主代理处理共享文档、失败接管、整体验收与提交。**不拆成逐阶段审批流程。**
+2. 主条目仍是**快速判断档案**：按药物实体核对 ATC、名称／盐型／代谢物、中国管制与核准注册信息、现行标签（可取得时注明**产品＋法域＋剂型＋版本**）、批准适应证、主要机制、关键药物特异临床结果、长期和短期风险、停药依赖、误用及重要相互作用。风险评分和 A–D 使用场景只按 `SCORING.md` 证据层级评价，每行保留 1–3 个决定性事实，详细给药步骤与次要试验数值留正文或原始来源。
+3. **取证优先找有具体产品的法域**，不限美英法：如德国、奥地利、法国、西班牙、瑞士、日本等有可信官方产品注册与说明书资料才引用，且只代表所核对的国家与剂型。不得将数据库零命中理解为未批准、从未上市或撤销。撤销公告必须区分**公告日、生效日、企业停销与监管安全原因**。找不到现行产品说明书时保留 `basic` 或 `indexed` 并明确缺口，继续下一药，不用其他分子说明书补齐。
+4. **本轮特别需要区分实体层级**：`nordazepam` 同时可作为其他苯二氮䓬药的活性代谢物，不能借母药适应证与评分；`melitracen` 单方不得直接沿用与氟哌噻吨的固定组合证据；`lavandulae-aetheroleum` 的标准化口服薰衣草油药品与普通精油／芳疗商品分开；`hyperici-herba` 的药典植物原料、标准化提取物、不同剂型及保健品不能互相替代；`tryptophan` 的药品与膳食／补充剂语境分开。高风险的历史抗抑郁药（`amineptine`、`nomifensine`、`zimeldine`）如有停售、撤销或药物警戒事实，按具体官方决定与生效时间记录，勿将停销等同于 D 级疗效判断。
+5. **避免 Wave 6 的两类返工**：涉及实际治疗价值的 A–D 场景，在下结论“无药物特异 RCT”之前核对原始试验检索，不要只引二次综述；不能仅凭未获批或类别黑框设 D 行。若存在真实的药物特异阴性试验或药物风险收益监管认定，仍应如实陈述且可以形成有依据的场景评分。证据不足不强行给等级，不以同类药物、代谢物、植物成分的研究替代本药产品研究。
+6. 无独立重要争议需要解释时**不新增专题**。主代理按四组实际完成情况复查六维评分表、A–D 场景语义、关键原始引用和相对链接，将 `catalog/index.md`、`README.md` 与本计划的最终**真实**状态和未解决缺口一次更新。提交并推送本分支，**等待审阅，不得合并 `main`**。
+
+**不做**：不回头重写 Waves 1–6 或现有 `basic`，不扩写其余 99 份未列入的 `indexed`，不新增数据库、自动评分器、CI、长期爬虫、结构性迁移或配额型专题，不以字数和表格复杂度代替证据质量。
