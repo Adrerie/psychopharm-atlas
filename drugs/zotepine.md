@@ -99,7 +99,7 @@
 
 本药未建专题文件：真正需要解释的是"一个有开放标签大样本、却在 Cochrane 里只剩两项氯氮平对照的旧非典型药"，而答案（没有安慰剂对照、试验年代早、地区集中）在 §5 与 §10 已能说清。
 
-**监管与官方文件**：[日本 ロドピン添付文書（2026 年 10 月改訂第 6 版，LTL ファーマ）经 KEGG MEDICUS 转录页读取](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00004407)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22zotepine%22&limit=5)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=zotepine)；[gov.uk 检索 API（0 条）](https://www.gov.uk/api/search.json?q=zotepine)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=zotepine)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[日本 ロドピン添付文書（2026 年 10 月改訂第 6 版，LTL ファーマ）经 KEGG MEDICUS 转录页读取](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00004407)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22zotepine%22&limit=5)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=zotepine)；[gov.uk 检索 API（0 条）](https://www.gov.uk/api/search.json?q=zotepine)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=zotepine&page=1&limit=5)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

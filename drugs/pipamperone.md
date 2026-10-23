@@ -38,7 +38,7 @@
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
 | 急性与慢性精神病性状态中的激越与攻击（短期治疗） | 法国获批，限成人、限短期 | C | 唯一的安慰剂对照证据是 1975 年交叉试验（n=20，精神发育迟滞女性的行为障碍，10 项中 6 项优于安慰剂，`PMID:1103575`）——人群不是精神病性激越，样本小、年代早，故不给 B |
-| 抑郁的低剂量增效（未获批） | 各法域均未获批此用途 | C− | 西酞普兰加本药的 8 周双盲试验（n=165）第 1 周与第 4 周 MADRS 优于安慰剂、第 8 周**无差异**，主要终点阴性（`PMID:21349239`） |
+| 抑郁的低剂量增效（未获批） | 法国文本未收载（本轮未取得其他法域文本） | C− | 西酞普兰加本药的 8 周双盲试验（n=165）第 1 周与第 4 周 MADRS 优于安慰剂、第 8 周**无差异**，主要终点阴性（`PMID:21349239`） |
 
 **不单独评分**：**痴呆相关行为障碍**在法国文本中被明确写成未获批，老年痴呆人群死亡风险警示属抗精神病药类别证据，本轮未找到本分子特异的随机对照疗效数据，故只在 §6 与 §9 记录、不设 D 行。老年患者本身不是使用场景（片剂不适用、只能用滴剂，见 §4 与 §9）。抑郁患者伴睡眠障碍的 1977 年安慰剂对照试验（n=40，中位 80 mg/日，`PMID:320830`）属历史研究、现行法国文本未收载该适应证，同样不设为场景。
 
@@ -98,7 +98,7 @@
 
 本药未建专题文件：需要解释的两点——"镇静性丁酰苯为何在法国只保留激越适应证"与"低剂量 5-HT2A／D4 选择性从何而来"——都能在 §3 与 §10 内说清，建专题会把标签差异包装成机制结论。
 
-**监管与官方文件**：[法国 DIPIPERON 40 mg 片 RCP（BDPM CIS 69537173，ANSM 更新 2021-03-02）](https://base-donnees-publique.medicaments.gouv.fr/medicament/69537173/extrait)；[DIPIPERON 40 mg/mL 滴剂 RCP（CIS 64210075）](https://base-donnees-publique.medicaments.gouv.fr/medicament/64210075/extrait)；[BDPM 检索 pipamperone（2 条产品）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=pipamperone)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pipamperone%22&limit=5)；[emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=pipamperone)；[CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)。
+**监管与官方文件**：[法国 DIPIPERON 40 mg 片 RCP（BDPM CIS 69537173，ANSM 更新 2021-03-02）](https://base-donnees-publique.medicaments.gouv.fr/medicament/69537173/extrait)；[DIPIPERON 40 mg/mL 滴剂 RCP（CIS 64210075）](https://base-donnees-publique.medicaments.gouv.fr/medicament/64210075/extrait)；[BDPM 检索 pipamperone（2 条产品）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=pipamperone&page=1&limit=5)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pipamperone%22&limit=5)；[emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=pipamperone)；[CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

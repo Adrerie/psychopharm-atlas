@@ -95,7 +95,7 @@
 
 本药未建专题：唯一的解释性问题"为什么一个周服长效口服药在 Cochrane 里与典型药等效、却仍在多数市场退居二线"需要处方与可及性数据，本轮没有，建专题会变成推测。
 
-**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=penfluridol)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=penfluridol)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22penfluridol%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=penfluridol&page=1&limit=5)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=penfluridol)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22penfluridol%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

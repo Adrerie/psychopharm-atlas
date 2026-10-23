@@ -101,7 +101,7 @@ SmPC 只给一句机制定位：丁酰苯系列强效神经阻滞剂，"一般�
 
 本药未建专题文件：真正需要解释的问题只有一个——"一个高效价丁酰苯为什么在英国只保留性行为控制适应证"，而这一点属监管史，本轮没有可引的评估报告；把标签差异写成机制结论会越过证据边界。
 
-**监管与官方文件**：[英国 Anquil 0.25 mg 片 SmPC（emc 产品 6580，PL 45043/0031，文本修订 2025-03-19）](https://www.medicines.org.uk/emc/product/6580/smpc)；[emc 检索 benperidol（1 条命中）](https://www.medicines.org.uk/emc/search?q=benperidol)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22benperidol%22&limit=5)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=benperidol)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Anquil 0.25 mg 片 SmPC（emc 产品 6580，PL 45043/0031，文本修订 2025-03-19）](https://www.medicines.org.uk/emc/product/6580/smpc)；[emc 检索 benperidol（1 条命中）](https://www.medicines.org.uk/emc/search?q=benperidol)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22benperidol%22&limit=5)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=benperidol&page=1&limit=5)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

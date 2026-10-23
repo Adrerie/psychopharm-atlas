@@ -100,7 +100,7 @@
 
 本药未建专题文件：需要解释的只有"氯噻平在两项头对头研究中优于氯丙嗪、却仍被归为证据薄弱"这一条，而它的答案（样本小、无安慰剂、盲法与分配隐藏差）在 §5 已能说清。
 
-**监管与官方文件**：[西班牙 ETUMINA 40 mg 片技术说明书（CIMA 注册号 46.584，文本修订 2020-11）](https://cima.aemps.es/cima/dochtml/ft/46584/FT_46584.html)；[CIMA 检索 clotiapina（1 条产品）](https://cima.aemps.es/cima/publico/listados.html)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=clotiapine)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=clotiapine)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clotiapine%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[西班牙 ETUMINA 40 mg 片技术说明书（CIMA 注册号 46.584，文本修订 2020-11）](https://cima.aemps.es/cima/dochtml/ft/46584/FT_46584.html)；[CIMA 检索 clotiapina（1 条产品）](https://cima.aemps.es/cima/publico/home.html)；[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=clotiapine&page=1&limit=5)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=clotiapine)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clotiapine%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

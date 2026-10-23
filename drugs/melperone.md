@@ -95,7 +95,7 @@
 
 本药未建专题：现有材料的问题不是"证据冲突需要解释"，而是"缺少现行文本"，这属于取证缺口，写进主条目比写进专题更合适。
 
-**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=melperone)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=melperone)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22melperone%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=melperone&page=1&limit=5)；[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=melperone)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22melperone%22&limit=5)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

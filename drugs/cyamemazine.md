@@ -43,7 +43,7 @@
 | 成人焦虑的短期对症治疗（常规治疗失败后，≤4 周） | 法国获批，限二线、限 4 周 | C+ | 唯一对照数据来自**苯二氮䓬类停药**人群（n=168，与溴西泮的焦虑反跳无差异，`PMID:16243418`），不是本适应证人群；稳态谷浓度 4–5 μg/L 对应抗焦虑效应（`PMID:35221129`） |
 | 与抗抑郁药联用、短期治疗严重抑郁发作（4–6 周） | 仅法国获批，限治疗初期 | C | 该联用方案只见于法国标签，本轮未检出针对此方案的对照试验；限制是同时叠加两类降低惊厥阈值与延长 QT 的药物（`FR-100` §4.5） |
 | 6 岁以上儿童严重行为障碍伴激越与攻击 | 法国获批（>6 岁） | C | 仅标签用法，未见随机对照试验；RCP 要求每年评估学习能力并定期调整剂量，片剂在 6 岁前因误吸风险禁用（`FR-100` §4.2、§4.4） |
-| 酒精戒断（未获批） | 法国未收载此适应证 | C | 一项随机双盲试验（n=89）中 8 小时治疗成功率 74.4% 对地西泮 72.7%，按 10% 界值判定非劣（`PMID:16118830`）；但苯二氮䓬类是公认一线，本药未获批该用途，故不给更高档 |
+| 酒精戒断（未获批） | 法国未收载此适应证 | C | 一项随机双盲试验（n=89）中 8 小时治疗成功率 74.4% 对地西泮 72.7%，按 10% 界值判定非劣（`PMID:16118830`）；但该用途未获批，试验本身以地西泮为对照、属活性对照的非劣性结果，故不给更高档 |
 
 **不单独评分**：痴呆相关行为紊乱在法国标签中未获批；老年痴呆人群死亡风险 1.6–1.7 倍的警示来自抗精神病药**类别证据**，本轮未找到本分子特异的疗效或结局研究，故只在 §6 与 §9 记录、不设行。苯二氮䓬类停药过渡的对照试验（`PMID:16243418`）同样未获批，留在 §5 说明，不单列场景。
 
@@ -101,7 +101,7 @@
 
 本药未建专题文件：可解释的争议只有"抗精神病活性弱却被大量处方"这一条，而它由 RCP 自述与处方数据就能说明，不需要独立文件；苯二氮䓬类停药试验的解读也已并入 §5。
 
-**监管与官方文件**：[法国 TERCIAN 100 mg 片 RCP（BDPM CIS 60271248，ANSM 更新 2025-07-11）](https://base-donnees-publique.medicaments.gouv.fr/medicament/60271248/extrait)；[TERCIAN 25 mg 片 RCP（CIS 63400513）](https://base-donnees-publique.medicaments.gouv.fr/medicament/63400513/extrait)；[BDPM 检索 cyamemazine（10 条产品）](https://base-donnees-publique.medicaments.gouv.fr/recherche?q=cyamemazine)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cyamemazine%22&limit=5)；[emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=cyamemazine)；[CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/listados.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[法国 TERCIAN 100 mg 片 RCP（BDPM CIS 60271248，ANSM 更新 2025-07-11）](https://base-donnees-publique.medicaments.gouv.fr/medicament/60271248/extrait)；[TERCIAN 25 mg 片 RCP（CIS 63400513）](https://base-donnees-publique.medicaments.gouv.fr/medicament/63400513/extrait)；[BDPM 检索 cyamemazine（10 条产品）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=cyamemazine&page=1&limit=5)；[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cyamemazine%22&limit=5)；[emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=cyamemazine)；[CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 
