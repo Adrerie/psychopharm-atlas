@@ -320,7 +320,7 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 ## Wave 7 批量建档计划（2026-10-23）
 
-**状态：待执行。** 工作分支：`plan/reviewed-expansion-wave7`，基于已合并 PR #9 的 `main`。起点为 **130 reviewed / 131 indexed / 19 basic**，280 份档案与 15 份专题分析。本轮已确认下列 **32 份全部处于 `indexed`**。目标是补齐抗焦虑药、相关草药、部分历史抗抑郁药以及地区性抗精神病／镇静药的档案，不按类别机械推断用途，不预设升级 `reviewed` 的数量。
+**状态：已完成（见文末“Wave 7 完成记录”。）** 工作分支：`plan/reviewed-expansion-wave7`，基于已合并 PR #9 的 `main`。起点为 **130 reviewed / 131 indexed / 19 basic**，280 份档案与 15 份专题分析。本轮已确认下列 **32 份全部处于 `indexed`**。目标是补齐抗焦虑药、相关草药、部分历史抗抑郁药以及地区性抗精神病／镇静药的档案，不按类别机械推断用途，不预设升级 `reviewed` 的数量。
 
 ### 文件与并行分组（4 × 8，彼此不重叠）
 
@@ -339,3 +339,18 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 6. 无独立重要争议需要解释时**不新增专题**。主代理按四组实际完成情况复查六维评分表、A–D 场景语义、关键原始引用和相对链接，将 `catalog/index.md`、`README.md` 与本计划的最终**真实**状态和未解决缺口一次更新。提交并推送本分支，**等待审阅，不得合并 `main`**。
 
 **不做**：不回头重写 Waves 1–6 或现有 `basic`，不扩写其余 99 份未列入的 `indexed`，不新增数据库、自动评分器、CI、长期爬虫、结构性迁移或配额型专题，不以字数和表格复杂度代替证据质量。
+
+
+## Wave 7 完成记录（2026-10-24）
+
+**状态**：32 份全部处理，**11 份达到 `reviewed`**、**18 份 `basic`**、**3 份保留 `indexed`**（fludiazepam、emylcamate、mephenoxalone：有完整骨架但无现行产品文本、无可评分临床内容）。仓库实际计数 **141 reviewed / 102 indexed / 37 basic**，共 280 份；`analysis/` 仍 15 份、本轮未新增专题。
+
+**执行实况**：四组各 8 份并行；A 组在写完 8 份后触及子代理轮次上限停止（文件完整），其余三组正常完成。主代理负责共享文件、两处剂量位置修正、日期统一与实体错误核验。
+
+**主要来源**：法国 BDPM（TERCIAN、DIPIPERON、VICTAN、VERATRAN 的现行 RCP）；西班牙 CIMA（medazepam、ketazolam、Tiadipona、薰衣草油、clotiapine 的 Ficha técnica）；英国 emc（benperidol、薰衣草油 THR 33336/0003、色氨酸 Optimax PLGB 17509/0093）；美国 openFDA 只有色氨酸与贯叶连翘的补充剂标签，未被当作药品证据。
+
+**关键修正与发现**：① **BDPM 的 DEFANYL 实为 amoxapine**，不能作 imipramine oxide 的现行锚点；② **西班牙 mexazolam／melitracen 的命中分别是复方或非单方**，melitracen 的记录为 Deanxit（美利曲辛＋氟哌噻吨），不能当单方证据；③ `nordazepam` 作为活性代谢物单独建档；`lavandulae-aetheroleum` 分开标准化药品／精油／化妆品；`hyperici-herba` 分开英国 THR／德国标准化提取物／法国顺势疗法稀释液／美国补充剂标签；`tryptophan` 分开英国药品与补充剂；④ 历史撤市按日期与性质记录：amineptine（法国 1999-01）、nomifensine（1986）、zimeldine（1983）、zotepine（英国上市后撤市），均不作 D 分；⑤ 按属主 Wave 6 要求先查原始试验：ethyl-loflazepate 1989 年日本双盲试验、pipamperone 1975 年交叉试验与 2011 年增效试验、薰衣草油与贯叶连翘的随机试验与 Cochrane 汇总；⑥ 痴呆相关行为与“初始治疗线数”均未设 A–D 行。
+
+**验收方式**：只核本轮 32 份与 `catalog/index.md`、`README.md`、本计划；表结构、评分语义、剂量位置、相对链接、官方 URL 可达性与密度带；脚本在仓库外运行，未新增 CI、数据库或自动评分器。
+
+**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；德国（melperone、benperidol、dibenzepin）、日本（cloxazolam、mexazolam、fludiazepam、zotepine、clotiapine）、瑞典（propiomazine）、比利时／荷兰（penfluridol）的现行文本未取得；EMA／HMPC 的贯叶连翘专论访问返回服务器错误；美国 1989 年色氨酸 EMS 召回与法国 amineptine 1999 年官方公报原件未取得；薰衣草油在西班牙的 2 条记录尚未逐条核对药品／化妆品属性。本 Wave 未扩写其余 99 份 `indexed`、未重审前六轮 reviewed、未合并 `main`。
