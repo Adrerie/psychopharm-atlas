@@ -1,10 +1,10 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：Wave 5 已按计划一次处理 24 份 `indexed` 药物档案（分支 `plan/reviewed-expansion-wave5`，完成审阅修补；合并状态以 Git 历史为准）。Wave 4 已经 PR #7 合并 `main`，此前各轮执行记录原样保留；本轮范围与完成结果分别见文末“Wave 5 批量建档计划”与“Wave 5 完成记录”。
+> 当前任务：**Wave 6 一次性批量建档，32 份 `indexed` 档案**。工作分支 `plan/reviewed-expansion-wave6`，从 Wave 5 已通过 PR #8 合并的 `main` 建立。当前指令以文末 Wave 6 计划为准，以上各轮记录均属历史，不重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
-## 本轮药物（24 份）
+## Wave 3 历史药物清单（24 份）
 
 - **三环类抗抑郁药**：`clomipramine`、`imipramine`、`nortriptyline`、`doxepin`
 - **第一代抗精神病药**：`chlorpromazine`、`fluphenazine`、`perphenazine`、`zuclopenthixol`
@@ -13,7 +13,7 @@
 - **MAOI 与其他抗抑郁药**：`moclobemide`、`phenelzine`、`tranylcypromine`、`tianeptine`
 - **其他有代表性的临床药物**：`dexmethylphenidate`、`viloxazine`、`pimavanserin`、`zuranolone`
 
-## 执行要求
+## Wave 3 历史执行要求
 
 1. 一次任务处理以上全部 24 份，不等待逐组确认。逐药核对身份、法域与剂型、主要适应证和疗效、长期与短期风险、停药／依赖／误用、重要相互作用、特殊人群及证据边界。
 2. **主档案优先**：保持快速判断页的篇幅和信息密度。只有符合 `AGENTS.md` 中现有条件、且确有独立解释价值时才新增专题，不为本轮设专题配额。
@@ -23,7 +23,7 @@
 6. 中国上市／核准适应证只有在可靠官方来源可核实时才更新。已有管制字段按药物特异的官方证据核对；不借此重做全部 280 份管制审计。
 7. 完成后更新 `catalog/index.md` 的实际数量和状态。只有达到 `reviewed` 定义的条目才升级，其余保留 `indexed/basic` 并注明缺口。检查实际修改文件的引用、表格与链接，提交并推送本分支，报告结果。
 
-## 不做
+## Wave 3 历史范围限制
 
 不建立独立研究阶段、试点阶段或多重审批门槛；不批量爬取社交媒体，不建数据库、评分器或 CI，不启用子代理，不全量重审既有 45 份档案，不扩写计划外药物，不为每种药新增专题。完成后等待人工审阅，不自行合并 `main`。
 
@@ -262,3 +262,26 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - `catalog/index.md`、`README.md` 与本文件同步监管状态、核查结论及准确计数。验收仅针对本轮改动文档：检查上述陈述与内容一致、A–D 表格与等级、链接与相对路径、24 份状态数量不变、`main` 合并前没有其他计划外改动。新证据来自 FDA 正式撤销公告与 DailyMed 分子式页面；其余为文档内部校准。
 
 保留的取证缺口不因本次修补关闭：中国核准信息、英国／法国部分产品说明书，以及 800 mg 吡拉西坦全文等；不新增脚本、CI、数据库或专题。合并结果以 PR 和 Git 历史为准。
+
+
+## Wave 6 批量建档计划（2026-10-23）
+
+**当前状态：待执行。** 分支：`plan/reviewed-expansion-wave6`，基于 Wave 5 已合并的 `main`（PR #8）。执行前基线：**112 reviewed / 163 indexed / 5 basic**，共 280 份档案与 15 份专题。本轮一次性处理下列 **32 份尚为 `indexed` 的条目**，仅按文件归属分四组，不以完成篇数或升级数额作为质量指标。
+
+### 四组文件清单（每组 8 份）
+
+- **A｜抗精神病药，主要为旧药与地区性制剂**：`levomepromazine`、`thioridazine`、`chlorprothixene`、`tiotixene`、`periciazine`、`molindone`、`sertindole`、`tiapride`。
+- **B｜三环抗抑郁药及 MAOI 等**：`trimipramine`、`amoxapine`、`maprotiline`、`dosulepin`、`isocarboxazid`、`protriptyline`、`lofepramine`、`opipramol`。
+- **C｜苯二氮䓬类、催眠药和其他镇静药**：`lormetazepam`、`brotizolam`、`quazepam`、`nimetazepam`、`dimdazenil`、`clomethiazole`、`paraldehyde`、`amobarbital`。
+- **D｜抗焦虑、促醒与认知相关药及一份固定复方**：`prazepam`、`tofisopam`、`fabomotizole`、`pemoline`、`adrafinil`、`citicoline`、`oxiracetam`、`piracetam-and-cinnarizine`。
+
+### 执行与验收
+
+1. 主代理先读 `AGENTS.md`、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 和喹硫平样板，**一次派发四组**。允许最多四个并行子代理，一组一个，**只改本组列出的八个药物文件**；不得交叉编辑、嵌套派发或动共享文档。主代理负责统稿、接管中断任务、共享文档与提交。不要拆成待人工审批的阶段。
+2. 每份主条目继续坚持**档案优先、简短且可溯源**：核对 WHO ATC 与药物身份、中国管制、具体产品／法域／途径／版本与注册状态，整理有实际意义的获批和有据可评的使用场景、关键疗效证据、短长期风险、停药／依赖／误用、主要相互作用和证据边界。监管来源先于指南、综述或原始研究，不能拿其他国家、单方、相似药或历史说明书填补现行产品信息。
+3. **本轮特别留意实体与法规边界**：`tiotixene` 的命名与美国产品称谓、`periciazine` 的地区名称、`dosulepin` 的 dothiepin 别名及 `opipramol` 的类别定位须以原始资料核实；`dimdazenil` 的中国具体产品信息、`pemoline` 等药的批准或撤销历史、`adrafinil` 的药物与非药物销售语境，均要区分已证实注册事实、历史使用与现行核准。**`piracetam-and-cinnarizine` 是独立固定复方**，不得复制吡拉西坦单方的适应证、试验、剂量或评分。
+4. **分数跟随证据而非档案篇幅**：六维负担与 A–D 场景按 `SCORING.md`；仅评有现行临床决策价值的适应证或用途，特殊人群、禁忌、非医疗使用、停药方案和监测条件不另凑场景。A–D 依据只保留决定性事实，具体给药操作和次要试验数据留原始来源。缺证据写 `N/A` 或保留状态，不为追求 32 份 reviewed 硬凑结论。
+5. 对历史或地区性产品，优先检查**能够取得的官方注册资料、现行产品文件及正式撤销公告**。openFDA／DailyMed／emc／NMPA 检索零结果只作为检索事实，官方无法取得就清楚标缺口；不把一地的状态推广到另一地。实际读取的产品版本与规格范围如实记录，不声称没有做过的逐页比对。
+6. 只有能回答独立、重要证据冲突时才新建专题，不设置专题数配额。若有可靠的药物特异使用／误用数据，应说明地区、年份、分母及原始指标，不能拿类级用量或网络讨论推本药发生率。主代理复核本轮改动的事实、评分表、关键链接与相对路径，按真实状态更新 `catalog/index.md`、`README.md` 和本计划的完成记录。提交并推送当前分支，**等待审阅，不合并 `main`**。
+
+**不做**：不扩写其余 248 份档案，不重开前五轮的 112 份 reviewed 或既有 5 份 basic，不追加数据库、爬虫、自动评分器、CI、独立试点、多轮验收流程或配额制专题。资料受限的单药简要记录缺口后继续，不让整个任务被一个旧药阻塞。
