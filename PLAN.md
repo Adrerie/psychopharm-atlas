@@ -1,10 +1,10 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：Wave 5 已按计划一次处理 24 份 `indexed` 药物档案（分支 `plan/reviewed-expansion-wave5`，完成审阅修补；合并状态以 Git 历史为准）。Wave 4 已经 PR #7 合并 `main`，此前各轮执行记录原样保留；本轮范围与完成结果分别见文末“Wave 5 批量建档计划”与“Wave 5 完成记录”。
+> 当前任务：**Wave 6 一次性批量建档，32 份 `indexed` 档案**。工作分支 `plan/reviewed-expansion-wave6`，从 Wave 5 已通过 PR #8 合并的 `main` 建立。当前指令以文末 Wave 6 计划为准，以上各轮记录均属历史，不重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
-## 本轮药物（24 份）
+## Wave 3 历史药物清单（24 份）
 
 - **三环类抗抑郁药**：`clomipramine`、`imipramine`、`nortriptyline`、`doxepin`
 - **第一代抗精神病药**：`chlorpromazine`、`fluphenazine`、`perphenazine`、`zuclopenthixol`
@@ -13,7 +13,7 @@
 - **MAOI 与其他抗抑郁药**：`moclobemide`、`phenelzine`、`tranylcypromine`、`tianeptine`
 - **其他有代表性的临床药物**：`dexmethylphenidate`、`viloxazine`、`pimavanserin`、`zuranolone`
 
-## 执行要求
+## Wave 3 历史执行要求
 
 1. 一次任务处理以上全部 24 份，不等待逐组确认。逐药核对身份、法域与剂型、主要适应证和疗效、长期与短期风险、停药／依赖／误用、重要相互作用、特殊人群及证据边界。
 2. **主档案优先**：保持快速判断页的篇幅和信息密度。只有符合 `AGENTS.md` 中现有条件、且确有独立解释价值时才新增专题，不为本轮设专题配额。
@@ -23,7 +23,7 @@
 6. 中国上市／核准适应证只有在可靠官方来源可核实时才更新。已有管制字段按药物特异的官方证据核对；不借此重做全部 280 份管制审计。
 7. 完成后更新 `catalog/index.md` 的实际数量和状态。只有达到 `reviewed` 定义的条目才升级，其余保留 `indexed/basic` 并注明缺口。检查实际修改文件的引用、表格与链接，提交并推送本分支，报告结果。
 
-## 不做
+## Wave 3 历史范围限制
 
 不建立独立研究阶段、试点阶段或多重审批门槛；不批量爬取社交媒体，不建数据库、评分器或 CI，不启用子代理，不全量重审既有 45 份档案，不扩写计划外药物，不为每种药新增专题。完成后等待人工审阅，不自行合并 `main`。
 
@@ -262,3 +262,57 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - `catalog/index.md`、`README.md` 与本文件同步监管状态、核查结论及准确计数。验收仅针对本轮改动文档：检查上述陈述与内容一致、A–D 表格与等级、链接与相对路径、24 份状态数量不变、`main` 合并前没有其他计划外改动。新证据来自 FDA 正式撤销公告与 DailyMed 分子式页面；其余为文档内部校准。
 
 保留的取证缺口不因本次修补关闭：中国核准信息、英国／法国部分产品说明书，以及 800 mg 吡拉西坦全文等；不新增脚本、CI、数据库或专题。合并结果以 PR 和 Git 历史为准。
+
+
+## Wave 6 批量建档计划（2026-10-23）
+
+**当前状态：已完成并经审阅定点修补（见文末记录）。** 分支：`plan/reviewed-expansion-wave6`，基于 Wave 5 已合并的 `main`（PR #8）。执行前基线：**112 reviewed / 163 indexed / 5 basic**，共 280 份档案与 15 份专题。本轮一次性处理下列 **32 份尚为 `indexed` 的条目**，仅按文件归属分四组，不以完成篇数或升级数额作为质量指标。
+
+### 四组文件清单（每组 8 份）
+
+- **A｜抗精神病药，主要为旧药与地区性制剂**：`levomepromazine`、`thioridazine`、`chlorprothixene`、`tiotixene`、`periciazine`、`molindone`、`sertindole`、`tiapride`。
+- **B｜三环抗抑郁药及 MAOI 等**：`trimipramine`、`amoxapine`、`maprotiline`、`dosulepin`、`isocarboxazid`、`protriptyline`、`lofepramine`、`opipramol`。
+- **C｜苯二氮䓬类、催眠药和其他镇静药**：`lormetazepam`、`brotizolam`、`quazepam`、`nimetazepam`、`dimdazenil`、`clomethiazole`、`paraldehyde`、`amobarbital`。
+- **D｜抗焦虑、促醒与认知相关药及一份固定复方**：`prazepam`、`tofisopam`、`fabomotizole`、`pemoline`、`adrafinil`、`citicoline`、`oxiracetam`、`piracetam-and-cinnarizine`。
+
+### 执行与验收
+
+1. 主代理先读 `AGENTS.md`、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 和喹硫平样板，**一次派发四组**。允许最多四个并行子代理，一组一个，**只改本组列出的八个药物文件**；不得交叉编辑、嵌套派发或动共享文档。主代理负责统稿、接管中断任务、共享文档与提交。不要拆成待人工审批的阶段。
+2. 每份主条目继续坚持**档案优先、简短且可溯源**：核对 WHO ATC 与药物身份、中国管制、具体产品／法域／途径／版本与注册状态，整理有实际意义的获批和有据可评的使用场景、关键疗效证据、短长期风险、停药／依赖／误用、主要相互作用和证据边界。监管来源先于指南、综述或原始研究，不能拿其他国家、单方、相似药或历史说明书填补现行产品信息。
+3. **本轮特别留意实体与法规边界**：`tiotixene` 的命名与美国产品称谓、`periciazine` 的地区名称、`dosulepin` 的 dothiepin 别名及 `opipramol` 的类别定位须以原始资料核实；`dimdazenil` 的中国具体产品信息、`pemoline` 等药的批准或撤销历史、`adrafinil` 的药物与非药物销售语境，均要区分已证实注册事实、历史使用与现行核准。**`piracetam-and-cinnarizine` 是独立固定复方**，不得复制吡拉西坦单方的适应证、试验、剂量或评分。
+4. **分数跟随证据而非档案篇幅**：六维负担与 A–D 场景按 `SCORING.md`；仅评有现行临床决策价值的适应证或用途，特殊人群、禁忌、非医疗使用、停药方案和监测条件不另凑场景。A–D 依据只保留决定性事实，具体给药操作和次要试验数据留原始来源。缺证据写 `N/A` 或保留状态，不为追求 32 份 reviewed 硬凑结论。
+5. 对历史或地区性产品，优先检查**能够取得的官方注册资料、现行产品文件及正式撤销公告**。openFDA／DailyMed／emc／NMPA 检索零结果只作为检索事实，官方无法取得就清楚标缺口；不把一地的状态推广到另一地。实际读取的产品版本与规格范围如实记录，不声称没有做过的逐页比对。
+6. 只有能回答独立、重要证据冲突时才新建专题，不设置专题数配额。若有可靠的药物特异使用／误用数据，应说明地区、年份、分母及原始指标，不能拿类级用量或网络讨论推本药发生率。主代理复核本轮改动的事实、评分表、关键链接与相对路径，按真实状态更新 `catalog/index.md`、`README.md` 和本计划的完成记录。提交并推送当前分支，**等待审阅，不合并 `main`**。
+
+**不做**：不扩写其余 248 份档案，不重开前五轮的 112 份 reviewed 或既有 5 份 basic，不追加数据库、爬虫、自动评分器、CI、独立试点、多轮验收流程或配额制专题。资料受限的单药简要记录缺口后继续，不让整个任务被一个旧药阻塞。
+
+
+## Wave 6 完成记录（2026-10-23）
+
+**状态**：32 份全部处理完毕，**18 份达到 `reviewed`**、**14 份保持 `basic`**；仓库实际计数 **130 reviewed / 131 indexed / 19 basic**，共 280 份；`analysis/` 仍 15 份，本轮未新增专题。
+
+**分工与执行实况**：四组各 8 份并行；B 组与 D 组全部完成；A 组与 C 组在写完各 8 份后触及子代理轮次上限而停止（文件均已落盘并经骨架、表头、页脚核验，无半成品）。主代理负责共享文件、剂量位置修正与 tiotixene 状态补充。
+
+**主要来源与版本口径**：美国只有 8 个分子有可引现行标签（amoxapine、isocarboxazid、molindone、protriptyline、quazepam、thioridazine、tiotixene／thiothixene、trimipramine）；英国 emc 现行 SmPC 支撑 8 份条目；法国 BDPM 本轮可用，15 份条目引用法国 RCP；citicoline 用西班牙 CIMA（Somazina）；sertindole 用 EMA 第 36 条转介；dimdazenil 用 NMPA 2023-11 批准公告转载；pemoline 的 2005 年停售用 NMPA《药物警戒快讯》转载的 FDA 公告。
+
+**官方撤销／认定记录的核验（本轮重点）**：NAVANE 胶囊（NDA 016584）**2024-06-03 公告撤销、2024-07-03 生效**（89 FR 47566）＋2017 年“并非因安全或疗效撤出”认定（82 FR 43388）；Surmontil（NDA 016792）与 Vivactil（NDA 016012）**2025-08-04 公告撤销、2025-09-03 生效**（90 FR 36440）＋各自的认定文件；Mellaril（NDA 11-808）2007-11-07 撤销（72 FR 62858，2007-12-07 生效）；Asendin（NDA 18-021）2003-08-18 撤销（68 FR 49481）；Centrax 在 1994-03-02（94-4660）与 1996-03-27（61 FR 13506）两批撤销中均被列入；CYLERT（NDA 016832／017703）**2021-04-12 FDA 因肝毒性要求企业申请撤销、2021-09-02 Abbott 提交申请、2023-05-23 正式撤销**（88 FR 33148）；MOBAN 2013-11-06“并非因安全或疗效撤出”认定（78 FR 66742）；brotizolam 的 WHO ECDD 1994 建议与 1995 年美国 Schedule IV 公告（FR 95-1553）。**区分公告日与生效日，以及企业因停销申请撤销和 FDA 基于明确肝毒性要求申请撤销两种程序；撤销本身不单独作为 D 分依据，匹莫林另有独立的安全性与风险收益认定。**
+
+**中国事实**：7 份命中管制目录（lormetazepam 二类41、brotizolam 二类6、nimetazepam 二类49、dimdazenil 二类25、amobarbital 二类3、prazepam 二类62、pemoline 非药用类302），其余 25 份为“未发现列入”；dimdazenil 是唯一以中国批准为主轴的条目（2023-11 批准，说明书未取得）。
+
+**整合修正**：① periciazine、quazepam 的 A–D 单元格剂量细节移入 §4；② tiotixene §1 补入 NAVANE 2024 撤销与“现行文本为仿制标签”；③ 逐份复核 A–D 表，确认无年龄组、妊娠、禁忌人群、监测要求或撤销本身凑成的评分行；④ 滥用维度、停药维度与中国 PIM 维度按既有口径处理（无本药特异证据即 `N/A`）。
+
+**验收方式**：只核本轮 32 份与 `catalog/index.md`、`README.md`、本计划；表结构、评分语义、剂量位置、相对链接、官方 URL 可达性与去空白字符密度带；核对脚本在仓库外运行，未新增 CI、数据库或自动评分器。
+
+**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；opipramol、lofepramine 片剂、fabomotizole、tofisopam、oxiracetam、paraldehyde、amobarbital 无现行产品文本；dimdazenil 说明书、adrafinil 的法国撤市官方文件、brotizolam 与 nimetazepam 的原产国文本未取得；citicoline 只读西班牙一份；法国 RCP 不外推至其他国家。本 Wave 未扩写其余档案、未重审前五轮 reviewed、未合并 `main`。
+
+
+## Wave 6 审阅定点修补记录（2026-10-23）
+
+仅修补本轮审阅所涉及的临床证据、监管生效日期和评分语义，**不重做 32 份全文、不改变状态数字**。
+
+- **正式生效日期**：`tiotixene` 的 NAVANE 胶囊 NDA 016584 于 2024-06-03 **公告**撤销、**2024-07-03 生效**。NAVANE 口服浓缩液 NDA 016758、注射液 NDA 016904 与 `maprotiline` 的 LUDIOMIL NDA 017543 均列入 2009-05-19 公告、**2009-06-18 生效**的 74 FR 23407。`trimipramine` 的 SURMONTIL 与 `protriptyline` 的 VIVACTIL 于 2025-08-04 公告、**2025-09-03 生效**（90 FR 36440）。原有“公告当天已撤销”改为区分两个日期，认定文件与仿制药现行标签继续分开陈述。
+- **`opipramol` 原始试验补证**：增加 `PMID:11199949` 的 307 例 GAD 随机双盲三臂安慰剂对照试验（28 天，HAM-A 主要终点 p<0.05，总体改善 63%／64%／47%，分别对应本药／阿普唑仑／安慰剂）。修正 §2.2、§5、§10 与来源，GAD 场景由 C 重新评为 B−，并明确无长期及等效性证据。由于德国现行产品标签仍未取得，档案**保持 `basic`**。
+- **评分行去重**：`levomepromazine`、`tiotixene`、`molindone` 删除仅据“痴呆相关精神病未获批＋抗精神病药类级黑框风险”建立的 D 行，把高影响警告保留在 §6／§9。`isocarboxazid` 删除“作为初始抗抑郁药 D”这一二次场景，把美国标签“不宜初始使用”作为治疗抵抗性抑郁行的限制。对 `thioridazine` 等有药物特异临床证据的 D 行不作机械删除。
+- **风险来源与结构**：`pemoline` 澄清 FDA 于 2021 年主动要求 Abbott 因肝毒性提出撤销申请，不再概括为普通企业停售撤销；`chlorprothixene`、`sertindole` 的独立 `## 待核实` 标题降为 §10 内部小标题，内容未删。
+
+复核范围限定为上述修改过的药物条目、共享文档与计划内 32 份的状态／评分表结构；验收保持 **130 reviewed / 131 indexed / 19 basic（280 总数）**，专题分析 15 份。`main` 的合并由独立 PR 完成后再核对 Git 历史。
