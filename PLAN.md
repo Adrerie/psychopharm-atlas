@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：Wave 5 已按计划一次处理 24 份 `indexed` 药物档案（分支 `plan/reviewed-expansion-wave5`，等待人工审阅，未合并 `main`）。Wave 4 已经 PR #7 合并 `main`，此前各轮执行记录原样保留；本轮范围与完成结果分别见文末“Wave 5 批量建档计划”与“Wave 5 完成记录”。
+> 当前任务：Wave 5 已按计划一次处理 24 份 `indexed` 药物档案（分支 `plan/reviewed-expansion-wave5`，完成审阅修补；合并状态以 Git 历史为准）。Wave 4 已经 PR #7 合并 `main`，此前各轮执行记录原样保留；本轮范围与完成结果分别见文末“Wave 5 批量建档计划”与“Wave 5 完成记录”。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -241,8 +241,24 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 **本轮写准的法域与产品反差**：`pimozide` 在美英两侧的收载用途几乎互换（美国两份现行仿制文本只有妥瑞氏障碍且非一线，英国 Orap 只有慢性精神分裂症与其他精神病、含 12 岁以上，且不收载妥瑞氏）；`chloral hydrate` 在美国的唯一 DailyMed 记录是 HPUS 口径的顺势疗法产品（CHLORALUM 3X，2011），不能充当给药方案，其现行锚点是英国两份口服溶液 SmPC；`piracetam` 的核准用途只有成人皮层起源肌阵挛且要求与其他抗肌阵挛治疗联用；`caffeine` 按产品分成 NICU 制剂、OTC 提神与 `US-BNZ`（Marketing Status: unapproved drug other，页面附 FDA 未经判定声明）三种语境，出院后延长疗程一行依据 MoCHA 的阴性结果；`pentobarbital` 的人用评分排除同名的兽用 pentobarbital＋phenytoin 安乐死产品；`loxapine` 的吸入粉雾剂（ADASUVE，DailyMed v9，2026-10-05）与口服胶囊分行，吸入剂的支气管痉挛与 REMS 场所条件只作剂型修正项；`droperidol` 的美国最大初始量 2.5 mg 与英国的 1.25 mg 封顶、以及英国独有的 PCA 场景并列不综合。
 
-**整合阶段的六处修正（主代理）**：① 派发时英国 emc 抓取尚未完成，主代理把英国现行文本并入 `pimozide` 与 `droperidol`（适应证、剂量台阶、禁忌清单、撤药与过量条款、定量药代），并把四组的“未取回”表述改成实测检索事实（emc 0 命中：iloperidone、loxapine、Lybalvi 与 olanzapine and samidorphan、Cobenfy 与 xanomeline、gepirone、desipramine、pentobarbital、secobarbital、methohexital、clorazepate、methamphetamine、brexanolone 与 Zulresso、Azstarys）；② `brexanolone` 的 §2.2 改为“不给 A–D 等级”——其说明书虽仍可按 setid 浏览（版本 11，2024-07-19）但已退出现行索引、openFDA 404、英国 0 命中，获批状态无法锚定，人体试验证据全部退回 §5；③ 逐份复核 A–D 场景表，确保无年龄组、妊娠哺乳、肝肾功能、禁忌人群、监测要求或“未获批”凑成的评分行，`metamfetamine` 因现行三份仿制文本只收载 ADHD 而把发作性睡病与外源性肥胖留在检索缺口、不设行；④ 滥用维度只有 `citalopram` 记 1 分，依据是标签原句“动物研究提示西酞普兰的滥用可能性低”，其余按本药特异的人体或自身给药证据（`secobarbital`、`methohexital`、`caffeine`）或 `N/A` 处理，停药与滥用全程分开；⑤ 中国维度 24 份一律 `N/A`（2017 版中国标准与 AGS Beers 2023 全文按药逐字核对，只有类别条款或完全未收录，无当地处方偏离数据），中国管制字段沿用 2026-10-06 审计且层级结论未改（含 `pimozide` 的“疑似落入奥啡类·待核实”、`bupropion-and-dextromethorphan` 的“待核实”、`potassium-clorazepate` 的非药用类第 288 项经目录注 1 的盐型覆盖论证、`dexmethylphenidate-and-serdexmethylphenidate` 依赖哌甲酯第 11 项备注的复方归属）；⑥ 把 `dexmedetomidine` 与 `caffeine` 压回 15,174 的去空白上限以内，删的是次要数值与跨节重复，未删任何结论。
+**整合阶段的六处修正（主代理）**：① 派发时英国 emc 抓取尚未完成，主代理把英国现行文本并入 `pimozide` 与 `droperidol`（适应证、剂量台阶、禁忌清单、撤药与过量条款、定量药代），并把四组的“未取回”表述改成实测检索事实（emc 0 命中：iloperidone、loxapine、Lybalvi 与 olanzapine and samidorphan、Cobenfy 与 xanomeline、gepirone、desipramine、pentobarbital、secobarbital、methohexital、clorazepate、methamphetamine、brexanolone 与 Zulresso、Azstarys）；② `brexanolone` 的 §2.2 改为“不给 A–D 等级”——其说明书虽仍可按 setid 浏览（版本 11，2024-07-19）但已退出现行索引、openFDA 404、英国 0 命中，美国 FDA 批准撤销事实已于审阅后补入（2025-04-14 生效），历史试验仍保留 §5，不把存档说明书当作现行获批文本；③ 逐份复核 A–D 场景表，确保无年龄组、妊娠哺乳、肝肾功能、禁忌人群、监测要求或“未获批”凑成的评分行，`metamfetamine` 因现行三份仿制文本只收载 ADHD 而把发作性睡病与外源性肥胖留在检索缺口、不设行；④ 滥用维度只有 `citalopram` 记 1 分，依据是标签原句“动物研究提示西酞普兰的滥用可能性低”，其余按本药特异的人体或自身给药证据（`secobarbital`、`methohexital`、`caffeine`）或 `N/A` 处理，停药与滥用全程分开；⑤ 中国维度 24 份一律 `N/A`（2017 版中国标准与 AGS Beers 2023 全文按药逐字核对，只有类别条款或完全未收录，无当地处方偏离数据），中国管制字段沿用 2026-10-06 审计且层级结论未改（含 `pimozide` 的“疑似落入奥啡类·待核实”、`bupropion-and-dextromethorphan` 的“待核实”、`potassium-clorazepate` 的非药用类第 288 项经目录注 1 的盐型覆盖论证、`dexmethylphenidate-and-serdexmethylphenidate` 依赖哌甲酯第 11 项备注的复方归属）；⑥ 把 `dexmedetomidine` 与 `caffeine` 压回 15,174 的去空白上限以内，删的是次要数值与跨节重复，未删任何结论。
 
 **验收方式**：只检查本轮 24 份文件与 `catalog/index.md`、`README.md` 及本计划——表结构（§2.1 六维、§2.2 四列与 A–D 档位）、评分行语义与占位行、§2.2 依据单元格长度、相对链接与官方 URL 可达性、去空白字符密度带、状态定义是否被夸大。**链接可达性以 DailyMed `drugInfo.cfm?setid=` 页面与 openFDA 查询返回为准：已退出现行索引的存档标签其 `spls/<setid>.xml` 返回 404 而页面仍可浏览，故 XML 404 只说明版本退出现行接口，不能判成死链；`services/v2/spls/<setid>.json` 对有效 setid 也常返回 415。** 核对脚本一律放在仓库之外，未新增脚本、CI、数据库或自动评分器。
 
 **仍开放的证据缺口**：24 份的中国上市剂型与核准适应证全部未取得（NMPA 恒返回 412 拦截页、CDE 恒返回 202 脚本校验页），管制字段沿用 2026-10-06 审计、本轮未重跑全库结构核查；法国本轮无文本；多份美国现行文本为旧格式（`desipramine`、`pimozide`、`droperidol`、`loxapine` 口服、`metamfetamine` 仿制片、`potassium-clorazepate` 仿制片无 §14 定量对照与结构化滥用章节），相应疗效叙述停在标签层；`citalopram` 的英国 10／40 mg 片文本未逐份读取；`reboxetine` 的 §4.8 频率档在纯文本化时被压平，已在条目 §10 标注；`piracetam` 的两规格文本只全读了 1200 mg 一份；`thiopental` 与 `chloral-hydrate` 的其他欧盟成员国文本未核；emc 按 chloral 检索的第三条命中（Welldorm Elixir，4687）本轮未读取；`etizolam` 与 `brexanolone` 的任何法域现行说明书仍为空缺，故保持 `basic`。本 Wave 未扩写计划外药物、未重审前四轮档案、未合并 `main`。
+
+
+## Wave 5 审阅后定点修补与验收（2026-10-23）
+
+本节只记录对本轮 24 份档案的定点修补，不重新研究既有 Waves，不改变数量与评级状态。
+
+- `brexanolone.md`：补入 FDA 2025-03-14 正式撤销公告（90 FR 12162，NDA 211371，**2025-04-14 生效**），原因是持证方报告产品停止销售并申请撤销；据此修正美国监管状态、§2.2 评分边界、§4 和 §10，保留 `basic`，不凭撤销推断疗效或安全性失败，英法中仍为未核实。
+- `citalopram.md`：修正氢溴酸盐分子式为 `C₂₀H₂₂BrFN₂O`（或游离碱 `C₂₀H₂₁FN₂O·HBr`），不再重复计算 HBr。
+- `bupropion-and-dextromethorphan.md`：将“右美沙芬氢溴酸铵”改为“氢溴酸右美沙芬”；删除基于同一 MDD 试验第 1–2 周次要终点的独立 B− 评分行，结果仍在 §5，批准的 AD 激越场景保留。
+- `gepirone.md`：撤销把性功能不良反应差异设为独立 C+ 场景的做法，将厂方相关事后合并分析及局限保留在 §5／§10；原 MDD 适应证不变。
+- `xanomeline-and-trospium.md`：删除未经适当跨试验比较支持的“与其他抗精神病药效应量级相当”，仅保留两项本复方对安慰剂的 PANSS 结果。
+- `pentobarbital.md`、`methohexital.md`、`thiopental.md`、`potassium-clorazepate.md`：A–D 表只保留用途、临床证据与主要负担；详细滴定、年龄剂量、给药浓度与速率移入既有 §4，原关键数字和法域限定保留，不创造新场景或新评分。
+- `piracetam.md`：统一取证深度声明，1200 mg 英国 SmPC 完整读取，800 mg 规格核对产品身份与版本，不再声称两规格逐节一致。
+- `catalog/index.md`、`README.md` 与本文件同步监管状态、核查结论及准确计数。验收仅针对本轮改动文档：检查上述陈述与内容一致、A–D 表格与等级、链接与相对路径、24 份状态数量不变、`main` 合并前没有其他计划外改动。新证据来自 FDA 正式撤销公告与 DailyMed 分子式页面；其余为文档内部校准。
+
+保留的取证缺口不因本次修补关闭：中国核准信息、英国／法国部分产品说明书，以及 800 mg 吡拉西坦全文等；不新增脚本、CI、数据库或专题。合并结果以 PR 和 Git 历史为准。
