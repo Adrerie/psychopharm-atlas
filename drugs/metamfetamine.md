@@ -1,43 +1,105 @@
-# metamfetamine
+# metamfetamine｜甲基苯丙胺（维基数据中文标签：甲基苯丙胺；INN 指右旋体，中国目录对应"右旋甲基苯丙胺"项）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`reviewed` ｜ 最后核查：2026-10-22（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA03`（WHO ATC/DDD Index 2026）  
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-METH-1`＝美国盐酸甲基苯丙胺片现行仿制处方资料（Hikma，setid `90c02ac6-e5e2-4c97-8c68-81e4e389a195`，openFDA 生效 2024-09-30，DailyMed v14 发布 2025-05-23）；`US-METH-2`＝Dr. Reddy's 版（setid `d0905e2c-a02f-ec4f-59a3-6f7ad0acbbf6`，生效 2025-11-07，DailyMed v2 发布 2025-12-12）；`US-METH-3`＝Mayne 旧格式版（setid `f31f580f-1f08-4a0f-b078-0b9e3308f712`，生效 2023-07-05，DailyMed v11 发布 2023-07-07）；`PMID:……`＝PubMed。§N 指相应文件章节号。**品牌 DESOXYN 本轮 openFDA 品牌检索返回 404（2026-10-22，检索事实，不推撤市）**；三条现行美国文本的通用名均为 "methamphetamine hydrochloride"。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | metamfetamine | WHO ATC/DDD Index 2026（`N06BA03`）|
-| 中文标签（维基数据，未核对监管核准名） | 甲基苯丙胺（zh-cn） | Wikidata [Q191924](https://www.wikidata.org/wiki/Q191924) |
-| ATC 编码 | `N06BA03`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | (+)-(S)-N-alpha-dimethylphenethylamine；(+)-(S)-P-α-dimethylphenethylamine；(S)-N,alpha-dimethylbenzeneethanamine；(S)-N,α-dimethylbenzeneethanamine；(alphaS)-N,alpha-dimethylbenzeneethanamine；(αS)-N,α-dimethylbenzeneethanamine；Dextromethamphetamine；N-methylamphetamine pito-1342；S-methamphetamine；base…另 26 条 | Wikidata 英文别名 |
-| 系统命名/研究代号（1 条，节选） | d-1-phenyl-2-methylaminopropane | Wikidata 英文别名 |
-| 第三方数据库归类线索 | DL-methamphetamine | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `6816` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/6816.json)（RxNorm 首选名 `methamphetamine`，与官方名不同） |
-| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 258 项“右旋甲基苯丙胺”（英文名 (S)-N-Methyl-1-phenylpropan-2-amine；CAS 537-46-2），目录备注“Dextromethamphetamine”；列入《非药用类麻醉药品和精神药品目录（2025年版）》第 259 项“甲基苯丙胺”（英文名 N-Methyl-1-phenylpropan-2-amine；CAS 7632-10-2），目录备注“Methamphetamine”。metamfetamine 的国际非专利名指右旋体，故对应第 258 项；同一目录第 254 项另列“左旋甲基苯丙胺”（Levomethamphetamine，CAS 33817-09-3）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方；ATC 亚组 N06BA（中枢作用拟交感药）。标签描述其为**苯丙胺类拟交感胺**、非儿茶酚胺类中枢兴奋剂；药效学表述为"阻断去甲肾上腺素与多巴胺向突触前神经元的再摄取，并把两者释放入突触外空间"；**ADHD 的治疗作用机制未被清楚确立**（`US-METH-1` §12.1／§12.2） |
+| 立体异构与相邻实体边界 | metamfetamine 的 INN 指右旋体（d-／S-）；标签化学名为 (αS)-α-甲基苯乙胺（N-甲基）盐酸盐。与 [amfetamine](amfetamine.md)（消旋苯丙胺）、[dexamfetamine](dexamfetamine.md)（右苯丙胺）是同族但**不同实体**：各自有独立目录行、独立适应证集合与独立标签，本条目不搬任何他药试验或 PK 数字。本药代谢可生成苯丙胺（active metabolite，见 §9 哺乳行），但代谢关系不构成评分互换 |
+| 主要剂型 | 美国现行：**5 mg 口服片（单方）**，三条文本全部为仿制片；无现行注射剂文本。原研品牌 DESOXYN 本轮品牌检索 404（见引用键段）。英国 emc 按 "methamphetamine" 检索 0 条产品命中（2026-10-22，检索事实） |
+| 关键药代摘要 | 胃肠道吸收；主要经肝**芳香羟化、N-去烷基与脱胺**代谢，尿中已鉴定至少 7 种代谢物；生物半衰期 4–5 h；**排泄依尿 pH**，碱性尿显著延长半衰期；口服 24 h 内约 62% 经尿清除、其中约三分之一为原型（`US-METH-1` §12.3）。尿排药代与代谢物检测的法医口径见 `PMID:15570192`（受控口服给药人体研究，另列于 §11，不并入本节数字） |
+| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 258 项"右旋甲基苯丙胺"（英文名 (S)-N-Methyl-1-phenylpropan-2-amine；CAS 537-46-2），目录备注"Dextromethamphetamine"；同目录第 259 项"甲基苯丙胺"（N-Methyl-1-phenylpropan-2-amine；CAS 7632-10-2，备注"Methamphetamine"）。metamfetamine 的 INN 指右旋体，故对应**第 258 项**；同一目录第 254 项另列"左旋甲基苯丙胺"（Levomethamphetamine，CAS 33817-09-3）（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)，核查 2026-10-06）。美国 Schedule II（`US-METH-1` §9.1；Mayne 版 §9"DEA schedule II"）。本条目区分"目录归属"与"滥用评分"，后者见 §2.1 |
+| 主要法域批准状态 | **美国**：三条现行仿制文本一致地只收载**6 岁及以上儿童的 ADHD** 一个适应证（`US-METH-1`／`US-METH-2` §1；`US-METH-3` §INDICATIONS 亦仅"伴多动注意力缺陷"）——发作性睡病与外源性肥胖是否载于其他版本属本轮未取回问题（品牌文本 404，§10 第 2 项）。**英国**：emc 0 命中；**法国**：BDPM 本轮 503。**中国**：上市与核准适应证待核实（§10 第 3 项） |
+| 身份与统计 | WHO ATC `N06BA03`；DDD **15 mg／日口服**（群体统计指标，非处方剂量）；Wikidata [Q191924](https://www.wikidata.org/wiki/Q191924)；PubChem [10836](https://pubchem.ncbi.nlm.nih.gov/compound/10836)；MeSH [D008694](https://meshb.nlm.nih.gov/record/ui?ui=D008694)；DrugBank [DB01577](https://www.drugbank.ca/r/DB01577)；RxNorm [RXCUI 6816](https://rxnav.nlm.nih.gov/REST/rxcui/6816.json)（RxNorm 首选名 methamphetamine）；别名 Dextromethamphetamine、d-1-phenyl-2-methylaminopropane、S-methamphetamine；非法制剂语境名（ice、crystal meth）只出现在 §7 的非医疗段 |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
+## 2. 评分
+
+规则见 [SCORING.md](../SCORING.md)。分数是证据与负担的整理，不构成对个体是否用药的判断。
+
+### 2.1 药物负担（1–5，越高越重；按 5 mg 口服片分子基线评分）
+
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 4 | 标签长期条款：儿童与青少年的**猝死**报告发生于有结构性心脏异常或其他严重心脏病者（成人亦有常用剂量下猝死、卒中与心梗报告）；平均血压 +2–4 mmHg、心率 +3–6 次/分且个体可更大；长期**生长抑制**（标签引哌甲酯（methylphenidate） 数据的 14／36 个月随访：持续用药者 3 年约少长 2 cm、少增 2.7 kg，并预期安非他明类同受影响）；周围血管病变含雷诺（罕见指端溃疡与软组织破坏）；精神病性症状加重与躁狂诱发；慢性滥用的最重表现为**与精神分裂症常难区分的精神病**（`US-METH-3` §WARNINGS／§DRUG ABUSE） |
+| 短期耐受负担 | 3 | 标签常见项：心悸、头晕、失眠、震颤、头痛、腹泻、口干；另有血压升高、心动过速、烦躁、欣快、恶心与腹部不适等按系统定性列表，无发生率表（`US-METH-1` §6）；"甲基苯丙胺不得用于对抗疲劳或代替睡眠"为 `US-METH-3` §PRECAUTIONS 原句 |
+| 相互作用／监测负担 | 3 | 四项硬约束：MAOI 合用或停用未满 14 天为**禁忌**（高血压危象，可能转归含死亡、卒中、心梗、主动脉夹层）；5-HT 能药与 CYP2D6 抑制剂叠加 5-HT 综合征并升高暴露（须低剂量起始并监测）；**尿液酸化／碱化剂双向改变血药**（碱化剂应避免合用、酸化剂需加量）；三环类增强拟交感效应。另需血压／心率随访；本药不参与主要 CYP 的抑制／诱导表述（`US-METH-1` §7、§2.4） |
+| 停药负担 | 4 | §9.3 明写**可产生躯体依赖与耐受**：长期用药后骤停或显著减量出现心境恶劣、抑郁、疲劳、生动不快梦、失眠或嗜睡、食欲增加、精神运动迟滞或激越；Mayne 版另记长期高剂量骤停后"极度疲劳与精神抑郁、睡眠脑电图改变"；标签不提供减停日程。此分与滥用维度分开判断 |
+| 滥用／误用潜力 | 5 | 依本药自己的标签文本而非"受管制"事实：黑框"high potential for abuse and misuse…可致物质使用障碍包括成瘾"、"可被转移至非法渠道"、"鼻吸或注射等未经批准途径使过量与死亡风险升高"；§9.2 主动陈述甲基苯丙胺"已被广泛滥用（extensively abused）"、出现耐受、极端心理依赖与严重社会功能损害、剂量增至推荐量数倍的病例报告——这是标签对**本药**的主动阳性定性。5 分由黑框自述＋Schedule II＋原型速释口服片可转移途径共同支撑 |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本轮无甲基苯丙胺（药用制剂）在中国的处方偏离、PIM 判定或药物利用研究；中国语境下的甲基苯丙胺问题集中于**非法制剂**，属 §7 非医疗证据，不能折算为"当地处方不当"维度分数；2017 年中国老年 PIM 标准与 Beers 2023 亦未逐名收载本药制剂（兴奋剂整类未被覆盖，见 [dexmethylphenidate](dexmethylphenidate.md) 条目对两标准的同项核查，属标准文本层面的检索结果，不据此评分）。记 `N/A` |
+
+总体解释：甲基苯丙胺临床制剂的**处方侧负担形态与 [amfetamine](amfetamine.md) 家族相似**（心血管、生长、精神、依赖四条线），真正把它与其他兴奋剂区分开的是**滥用维度的标签自述强度**（"extensively abused"、慢性中毒精神病、非法渠道转移）与**现行文本的适应证极窄**（仅 6 岁及以上 ADHD；5 mg 片、20–25 mg/日区间）。评分按临床制剂文本作出；非法制剂与滥用流行情况只进 §7，不参与 A–D 医疗适宜度。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 15 | mg | O | — |
+| 儿童 ADHD（6 岁及以上，作为综合干预的一部分） | 美国获批（三条现行仿制文本一致）；英国 emc 无产品；中国待核实 | C+ | 获批事实明确，但**现行文本不含对照试验章节**（仿制标签无 §14），本药特异疗效数字缺失；类别层面证据强（ADHD 网络荟萃按医师评定给安非他明类儿童 SMD −1.02、−1.19 至 −0.85，教师评定则未优于安慰剂——`PMID:30097390`，属类别口径、非本药单独判效）；黑框级滥用与转移风险使"在多种兴奋剂中另选本药"缺乏现行对照优势（`US-METH-1` §1／§5.1、§14 缺失见 §10 第 1 项） |
 
-DDD 是统计指标，不是推荐处方剂量。
+**不设为场景的内容**：发作性睡病与外源性肥胖——本轮三条现行美国文本均未收载，且品牌历史文本未能取回，不据"旧标签曾有"虚构场景（§10 第 2 项）。非医疗使用、鼻吸／注射、犯罪与非法制剂语境按规则全部留在 §7，不构成医疗适宜度行；合并严重心脏病者、孕妇等属禁忌／慎用事实，写入 §6／§9，不单列评分行。
 
-## 待核实
+## 3. 主要作用
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+标签层面的作用描述是类级的：非儿茶酚胺拟交感胺、中枢兴奋；ADHD 治疗机制不清；效应学为阻断 NE／DA 再摄取并促其释放（`US-METH-1` §12）。与消旋苯丙胺不同，本药为右旋体，中枢效应占主导；外周可见升压、心率上升。文本同时给出两条边界句：不得用于对抗疲劳或代替睡眠；处方与调剂应以最小可行量为限以降低过量可能（`US-METH-3` §PRECAUTIONS）。本页不引入受体结合常数或人体占有率数字——现行文本没有，文献数字（如受控口服给药后的尿药排泄动力学，`PMID:15570192`）属法医／PK 口径，不换算为临床效应。
 
-## 来源
+## 4. 适应范围
 
-- WHO ATC/DDD Index 2026：[N06BA03](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA03)
-- Wikidata（CC0）：[Q191924](https://www.wikidata.org/wiki/Q191924)
-- PubChem CID（经 Wikidata）：[10836](https://pubchem.ncbi.nlm.nih.gov/compound/10836)
-- MeSH 描述符（经 Wikidata）：[D008694](https://meshb.nlm.nih.gov/record/ui?ui=D008694)
-- DrugBank ID（经 Wikidata）：[DB01577](https://www.drugbank.ca/r/DB01577)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 6816](https://rxnav.nlm.nih.gov/REST/rxcui/6816.json)
+**美国（现行仿制文本）**：盐酸甲基苯丙胺片**只收载 6 岁及以上儿童的 ADHD**。剂量语境（`US-METH-1` §2）：5 mg 片，起始 5 mg 每日 1–2 次，每周以 5 mg 递增，推荐剂量范围 20–25 mg/日；可每日一次或分两次；避免晚间给药（失眠）；用药前筛查心脏病史、猝死／室性心律失常家族史与体格检查，并评估抽动／Tourette 家族史。**禁忌（§4）**：对苯丙胺或辅料过敏（其他苯丙胺产品有血管性水肿与过敏性反应报告）；与 MAOI 合用或停用未满 14 天（含利奈唑胺与静脉亚甲蓝）。**英国**：emc 0 命中，无现行文本；**法国**：BDPM 本轮不可用；**中国**：上市剂型与核准适应证待核实（§10 第 3 项）。
+
+## 5. 实际效果与局限
+
+- **本药特异的对照试验数字在现行文本中不存在**：三条仿制文本均无 §14；`US-METH-3`（旧格式）连发生率表也没有。因此"效果"叙述只能停在：适应证文本＋类别荟萃（`PMID:30097390`）＋与同家族实体的机制连续性。类别数字不可当本药头条，教师评定维度与医师评定维度结论相反这一点必须在引用时保留。
+- **诊断侧的自限**：旧格式文本写明该综合征的诊断不应仅凭近期症状下结论（`US-METH-3` §INDICATIONS），与 ADHD 综合干预框架一致。
+- **与同类其他制剂的关系**：美国 ADHD 兴奋剂一线选择中哌甲酯类与安非他明类证据更充分（见 [methylphenidate](methylphenidate.md)、[amfetamine](amfetamine.md) 条目各自的试验包），本药现行文本没有提供可与之对照的本药特异试验；这不构成"未获批扣分"，而是证据结构缺口（评分行的 C+ 由此而来，非因管制身份）。
+
+## 6. 长期风险
+
+- **心血管**：常用剂量下儿童／青少年猝死（限结构性心脏异常或严重心脏病者，标签建议避免）、成人猝死／卒中／心梗报告；平均血压与心率小幅升高、个体可更大；对既有高血压、心衰、近期心梗或室性心律失常者需谨慎；用药中出现劳力性胸痛、不明原因晕厥等应立即评估（`US-METH-3` §WARNINGS）。上市后另有孤立的心肌病与慢性使用相关报告、呼吸困难等（`US-METH-1` §6）。
+- **生长**：持续每日用药者 3 年约少长 2 cm、少增 2.7 kg、无追赶证据（数据来自哌甲酯（methylphenidate）试验，标签原话为"预期安非他明类很可能同样如此"）；要求随访身高体重，未达预期者可能需中断（§5.5／§8.4）。
+- **精神与行为**：加重既有精神病性行为与思维障碍；共病双相者慎防诱发混合／躁狂发作（用药前筛查自杀、双相家族史）；常用剂量下也可出现新发幻觉、妄想或躁狂（合并分析约 0.1% 对安慰剂 0%，该合并池为哌甲酯（methylphenidate） 或安非他明暴露 3,482 例，属类别口径）；攻击与敌意行为需监测（`US-METH-3` §WARNINGS）。
+- **神经与血管其他**：癫痫阈值（有临床证据提示可使既往有发作或 EEG 异常者阈值降低，出现发作应停药）；周围血管病变／雷诺（各年龄段、治疗剂量下均有上市后报告，减量或停药后一般改善）（`US-METH-3`）。
+- **成瘾与转移**：Schedule II；黑框要求处方前评估滥用风险、教育储存与处置、全程复评（`US-METH-1` 黑框）。
+
+## 7. 短期风险、停药与误用
+
+**短期**：见 §2.1 短期行的定性清单；滥用／误用的急性表现由 §9.2 逐条列出（心率、呼吸与血压升高、出汗、瞳孔扩大、活动增多、烦躁不安（restlessness）、失眠、食欲下降、协调障碍、震颤、皮肤潮红、呕吐与腹痛），以及焦虑、精神病、敌意、攻击与自杀或杀人观念；误用与滥用可致过量与死亡，鼻吸或注射时风险更高。**停药**：§9.3 撤药群与 Mayne 版"长期高剂量骤停后极度疲劳与精神抑郁、睡眠脑电图改变"；标签无减停日程。**过量**：交感毒征象——快速性心律失常、高血压或低血压、血管痉挛／心梗／主动脉夹层可诱发猝死、Takotsubo 心肌病；精神运动激越、意识混乱、幻觉、5-HT 综合征、癫痫、脑血管意外、昏迷；体温超过 104 °F 的危及生命高热与横纹肌溶解；处理提示"考虑多药同服；**苯丙胺不可透析清除**"（原文写 D-amphetamine is not dialyzable，与本药代谢产物关系按原文，不外推）、建议中毒热线咨询（`US-METH-1` §10）。**非法制剂与非医疗使用（按规则归本节，不作医疗场景评分）**：科学文献一致把"ice／crystal meth"记为**右旋甲基苯丙胺盐酸盐的非法成型制品**，以吸食或鼻吸为主，其快速入脑产生类似静脉给药的效果（`PMID:7840041`，1995 年美国家庭医学综述；`PMID:11831497`，2002 年美国综述——均为地区与年代明确的叙述性回顾，无分母，不构成发生率）；2007 年英国视角的临床流行病学综述同向（`PMID:17536161`）。妊娠期甲基苯丙胺暴露的系统综述与荟萃（8 项回顾性研究、626 例暴露 vs 2,626 对照）报告分娩孕周、出生体重、头围、身长与 Apgar 下降——该证据主体为**非医疗使用人群**（自报或毒理检出），不可读作临床制剂的妊娠结局（`PMID:29509557`）。
+
+## 8. 重要相互作用
+
+- **MAOI**：禁忌（合用或停用未满 14 天）：MAOI 减慢苯丙胺代谢、放大 NE 释放，可致头痛与高血压危象征象、中毒性神经效应与恶性高热，偶有致死（`US-METH-1` §7.1；利奈唑胺与静脉亚甲蓝点名于 §4）。
+- **5-HT 能药**（SSRI、SNRI、曲普坦、三环类、芬太尼、锂、曲马多、色氨酸、丁螺环酮、圣约翰草）与 **CYP2D6 抑制剂**（帕罗西汀、氟西汀、奎尼丁、利托那韦）：叠加 5-HT 综合征风险、升高暴露；低剂量起始并在加量后监测，出现 5-HT 综合征应停双方（`US-METH-1` §7.1；`US-METH-3` §PRECAUTIONS）。
+- **尿 pH 调节剂**：酸化剂（如抗坏血酸、氯化铵）降低血药与疗效——需按反应加量；碱化剂（碳酸氢钠、乙酰唑胺等）升高血药——避免合用（§7.1／§2.4）。
+- **三环类**：增强彼此活性、脑内右旋苯丙胺浓度持续升高、心血管效应放大——密切监测或换用替代（§7.1）。
+- **胃 pH 调节剂／PPI**：苯丙胺 Tmax 降低，监测临床效应（§7.1）。
+- **胍乙啶**：降压效应被削弱；糖尿病患者的胰岛素需求可因用药与饮食改变而波动（§7.1）。
+- **检验干扰**：苯丙胺类可使血浆皮质醇显著升高（傍晚最大），并干扰尿类固醇测定（§7.2）；酚噻嗪类在文献中被报道可拮抗苯丙胺类的中枢兴奋作用（`US-METH-3`）。
+
+## 9. 特殊人群
+
+**妊娠**：设 ADHD 药物妊娠暴露登记（1-866-961-2388）；数十年甲基苯丙胺／苯丙胺使用的流行病学与上市后数据**未识别出与药物相关的主要出生缺陷或流产风险**，但宫内暴露新生儿有戒断症状风险（喂养困难、易激、激越、过度嗜睡），早产与低出生体重见于用药孕妇的婴儿；机制上拟交感胺可收缩血管、降低胎盘灌注并可能刺激宫缩；动物器官发生期给药在约等于最大推荐人剂量（25 mg/日，按 mg/m²）即出现发育毒性与胎仔死亡（`US-METH-1` §8.1）。**哺乳**：甲基苯丙胺及其活性代谢物苯丙胺可入乳；无哺乳婴儿不良反应报告，但长期神经发育效应未知，**治疗期间不推荐哺乳**（§8.2）。**儿科**：6 岁及以上 established；6 岁以下未确立（§8.4）。**老年**：试验人数不足以确定老年应答差异（§8.5）。**共病限制**：严重心脏病（避免）、高血压／心动过速（监测）、精神病与双相（筛查）、抽动／Tourette（评估）、物质使用障碍史（黑框全程复评）。以上为标签事实，不构成个体化建议。
+
+## 10. 证据边界
+
+1. **现行美国文本均为旧式或简化仿制标签，疗效章节缺失**：三条记录无 §14 对照试验数据；`US-METH-3` 为旧格式 WARNINGS／PRECAUTIONS 结构。因此本条目疗效叙述停在适应证＋类别证据层面，未虚构本药特异效应量。
+2. **品牌 DESOXYN 本轮检索 404**（openFDA brand_name 查询，2026-10-22）：这是检索事实，**不得**写"已撤市"；发作性睡病／外源性肥胖是否载于品牌文本本轮未核，现行三条仿制文本均只收载 ADHD。
+3. **中国注册与管制分层**：NMPA 恒 412、CDE 恒校验页，中国上市与核准适应证待核实；管制字段沿用 2026-10-06 审计（非药用类第 258／259 项，INN 指右旋体对应 258，254 项另列左旋体）——目录层级与"美国 Schedule II"分属两套体系，不构成互相外推。英国 emc 检索 "methamphetamine" 0 命中（2026-10-22）；gov.uk 常用受管制药物列表页本轮未列 methamphetamine，该页非完整附表，不作"不受管制"推断。法国 BDPM 503。
+4. **非法制剂证据与临床制剂严格分栏**：§7 的 ice／crystal 叙述、妊娠荟萃（自报／毒理检出人群）与"extensively abused"均针对非医疗语境，按规则不参与 §2.2 评分，也不用于抬高"中国 PIM"维度。
+5. **类别数字的不可互换**：0.1% 精神病样症状来自哌甲酯（methylphenidate）／安非他明合并池，生长数据来自哌甲酯（methylphenidate） 试验，网络荟萃效应量为安非他明类口径——引用处均保留"类别"标注，不作本药单独发生率。
+6. **透析表述**：过量处理原文写"苯丙胺（D-amphetamine）不可透析清除"，系标签原句，本页按原文引用、不改写为本药结论。
+7. DDD 15 mg（口服）为统计指标；标签剂量区间（20–25 mg/日）不作处方建议，亦不与 DDD 互换解读。
+
+## 11. 深入分析与来源
+
+本页不设专题：兴奋剂家族各实体的对照与立体异构体边界已由 [amfetamine](amfetamine.md)（含 d:l 混合盐讨论与 lisdexamfetamine 前药管制专题链接）、[dexamfetamine](dexamfetamine.md) 与 [methylphenidate](methylphenidate.md) 条目承载，本药特异问题（现行文本的适应证收窄与无 §14）已在 §5／§10 处理。
+
+**监管与官方文件**：[DailyMed Hikma 版（setid 90c02ac6-e5e2-4c97-8c68-81e4e389a195，发布 2025-05-23）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90c02ac6-e5e2-4c97-8c68-81e4e389a195)；[DailyMed Dr. Reddy's 版（setid d0905e2c-a02f-ec4f-59a3-6f7ad0acbbf6，发布 2025-12-12）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d0905e2c-a02f-ec4f-59a3-6f7ad0acbbf6)；[DailyMed Mayne 版（setid f31f580f-1f08-4a0f-b078-0b9e3308f712，发布 2023-07-07）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f31f580f-1f08-4a0f-b078-0b9e3308f712)；[openFDA 通用名检索 methamphetamine hydrochloride](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22methamphetamine%20hydrochloride%22&limit=3)；[openFDA 品牌检索 DESOXYN（404，2026-10-22）](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22DESOXYN%22)；[英国 emc 检索 methamphetamine（0 命中）](https://www.medicines.org.uk/emc/search?q=methamphetamine)；[gov.uk 常用受管制药物列表（2026-10-22 检索）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+
+**研究**：[PMID:30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/)（ADHD 药物网络荟萃，类别口径）；[PMID:15570192](https://pubmed.ncbi.nlm.nih.gov/15570192/)（受控口服后甲基苯丙胺与苯丙胺尿药代，法医口径）；[PMID:7840041](https://pubmed.ncbi.nlm.nih.gov/7840041/)（1995，可吸食型"ice"综述）；[PMID:11831497](https://pubmed.ncbi.nlm.nih.gov/11831497/)（2002，滥用模式与神经毒性问题）；[PMID:17536161](https://pubmed.ncbi.nlm.nih.gov/17536161/)（2007，可吸食与不可吸食苯丙胺类兴奋剂、英国视角）；[PMID:29509557](https://pubmed.ncbi.nlm.nih.gov/29509557/)（孕期甲基苯丙胺暴露荟萃，8 项研究 626 vs 2,626）。
+
+**分类与身份**：[WHO ATC/DDD Index `N06BA03`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA03)；[Wikidata Q191924](https://www.wikidata.org/wiki/Q191924)；[PubChem CID 10836](https://pubchem.ncbi.nlm.nih.gov/compound/10836)；[MeSH D008694](https://meshb.nlm.nih.gov/record/ui?ui=D008694)；[DrugBank DB01577](https://www.drugbank.ca/r/DB01577)；[RxNorm RXCUI 6816](https://rxnav.nlm.nih.gov/REST/rxcui/6816.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
