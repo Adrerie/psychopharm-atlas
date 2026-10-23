@@ -266,7 +266,7 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 ## Wave 6 批量建档计划（2026-10-23）
 
-**当前状态：待执行。** 分支：`plan/reviewed-expansion-wave6`，基于 Wave 5 已合并的 `main`（PR #8）。执行前基线：**112 reviewed / 163 indexed / 5 basic**，共 280 份档案与 15 份专题。本轮一次性处理下列 **32 份尚为 `indexed` 的条目**，仅按文件归属分四组，不以完成篇数或升级数额作为质量指标。
+**当前状态：已完成（见文末“Wave 6 完成记录”。）** 分支：`plan/reviewed-expansion-wave6`，基于 Wave 5 已合并的 `main`（PR #8）。执行前基线：**112 reviewed / 163 indexed / 5 basic**，共 280 份档案与 15 份专题。本轮一次性处理下列 **32 份尚为 `indexed` 的条目**，仅按文件归属分四组，不以完成篇数或升级数额作为质量指标。
 
 ### 四组文件清单（每组 8 份）
 
@@ -285,3 +285,22 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 6. 只有能回答独立、重要证据冲突时才新建专题，不设置专题数配额。若有可靠的药物特异使用／误用数据，应说明地区、年份、分母及原始指标，不能拿类级用量或网络讨论推本药发生率。主代理复核本轮改动的事实、评分表、关键链接与相对路径，按真实状态更新 `catalog/index.md`、`README.md` 和本计划的完成记录。提交并推送当前分支，**等待审阅，不合并 `main`**。
 
 **不做**：不扩写其余 248 份档案，不重开前五轮的 112 份 reviewed 或既有 5 份 basic，不追加数据库、爬虫、自动评分器、CI、独立试点、多轮验收流程或配额制专题。资料受限的单药简要记录缺口后继续，不让整个任务被一个旧药阻塞。
+
+
+## Wave 6 完成记录（2026-10-23）
+
+**状态**：32 份全部处理完毕，**18 份达到 `reviewed`**、**14 份保持 `basic`**；仓库实际计数 **130 reviewed / 131 indexed / 19 basic**，共 280 份；`analysis/` 仍 15 份，本轮未新增专题。
+
+**分工与执行实况**：四组各 8 份并行；B 组与 D 组全部完成；A 组与 C 组在写完各 8 份后触及子代理轮次上限而停止（文件均已落盘并经骨架、表头、页脚核验，无半成品）。主代理负责共享文件、剂量位置修正与 tiotixene 状态补充。
+
+**主要来源与版本口径**：美国只有 8 个分子有可引现行标签（amoxapine、isocarboxazid、molindone、protriptyline、quazepam、thioridazine、tiotixene／thiothixene、trimipramine）；英国 emc 现行 SmPC 支撑 8 份条目；法国 BDPM 本轮可用，15 份条目引用法国 RCP；citicoline 用西班牙 CIMA（Somazina）；sertindole 用 EMA 第 36 条转介；dimdazenil 用 NMPA 2023-11 批准公告转载；pemoline 的 2005 年停售用 NMPA《药物警戒快讯》转载的 FDA 公告。
+
+**官方撤销／认定记录的核验（本轮重点）**：NAVANE（NDA 016584）2024-06-03 撤销（89 FR 47566）＋2017 年“并非因安全或疗效撤出”认定（82 FR 43388）；Surmontil（NDA 016792）与 Vivactil（NDA 016012）2025-08-04 撤销（90 FR 36440）＋各自的认定文件；Mellaril（NDA 11-808）2007-11-07 撤销（72 FR 62858，2007-12-07 生效）；Asendin（NDA 18-021）2003-08-18 撤销（68 FR 49481）；Centrax 在 1994-03-02（94-4660）与 1996-03-27（61 FR 13506）两批撤销中均被列入；CYLERT（NDA 016832／017703）2023-05-23 撤销（88 FR 33148）；MOBAN 2013-11-06“并非因安全或疗效撤出”认定（78 FR 66742）；brotizolam 的 WHO ECDD 1994 建议与 1995 年美国 Schedule IV 公告（FR 95-1553）。**撤销与适应症分列，撤销不作 D 分依据。**
+
+**中国事实**：7 份命中管制目录（lormetazepam 二类41、brotizolam 二类6、nimetazepam 二类49、dimdazenil 二类25、amobarbital 二类3、prazepam 二类62、pemoline 非药用类302），其余 25 份为“未发现列入”；dimdazenil 是唯一以中国批准为主轴的条目（2023-11 批准，说明书未取得）。
+
+**整合修正**：① periciazine、quazepam 的 A–D 单元格剂量细节移入 §4；② tiotixene §1 补入 NAVANE 2024 撤销与“现行文本为仿制标签”；③ 逐份复核 A–D 表，确认无年龄组、妊娠、禁忌人群、监测要求或撤销本身凑成的评分行；④ 滥用维度、停药维度与中国 PIM 维度按既有口径处理（无本药特异证据即 `N/A`）。
+
+**验收方式**：只核本轮 32 份与 `catalog/index.md`、`README.md`、本计划；表结构、评分语义、剂量位置、相对链接、官方 URL 可达性与去空白字符密度带；核对脚本在仓库外运行，未新增 CI、数据库或自动评分器。
+
+**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；opipramol、lofepramine 片剂、fabomotizole、tofisopam、oxiracetam、paraldehyde、amobarbital 无现行产品文本；dimdazenil 说明书、adrafinil 的法国撤市官方文件、brotizolam 与 nimetazepam 的原产国文本未取得；citicoline 只读西班牙一份；法国 RCP 不外推至其他国家。本 Wave 未扩写其余档案、未重审前五轮 reviewed、未合并 `main`。
