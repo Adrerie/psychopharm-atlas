@@ -2,9 +2,9 @@
 
 > 状态：`basic` ｜ 最后核查：2026-10-22（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX29`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
-> **本条目保持 `basic`**：本轮在两个核心法域都没有取得可引用的**现行**监管说明书文本，因此"**给药方案**"与"**核准适应证**"两项核心模块未能由现行官方文本填写（缺口的具体检索过程见引用键与 §10）。其余模块（身份与化学、中国管制、药理与药代、短期与长期风险、相互作用与监测、滥用与误用证据、证据边界）按现行可核证据系统写出并逐项评分或标注 `N/A`。
+> **本条目保持 `basic`**：美国 FDA 已于 2025-04-14 正式撤销 ZULRESSO（NDA 211371）的批准；本轮英国亦未取得可引用的现行监管说明书。因此"**给药方案**"与"**核准适应证**"两项核心模块未能由现行官方文本填写（缺口的具体检索过程见引用键与 §10）。其余模块（身份与化学、中国管制、药理与药代、短期与长期风险、相互作用与监测、滥用与误用证据、证据边界）按现行可核证据系统写出并逐项评分或标注 `N/A`。
 
-**引用键与检索事实**：`ARCH-US-ZUL`＝DailyMed 上**仍可浏览但已不在现行索引内**的 ZULRESSO（brexanolone）注射剂标签页面（setid `b40f3b2a-1859-4ed6-8551-444300806d13`）；该页面列出同一申请的 6 个版本（版本 3 发布 2019-06-18、4 于 2019-09-26、5 于 2019-11-22、7 于 2020-12-15、9 于 2022-07-01、**11 于 2024-07-19**），页面自述"Initial U.S. Approval: 2019"。**本轮 2026-10-22 的检索结果**：openFDA 按通用名 brexanolone 与按品牌 Zulresso 检索均返回 **404（无记录）**；DailyMed 现行 SPL 服务按药名（`spls.json?drug_name=brexanolone`）与按上述 setid 检索均返回 **total_elements＝0**；该 setid 的 `spls/<setid>.xml` 返回 **HTTP 404**；英国 emc 按通用名 brexanolone 与按商品名 Zulresso 检索均返回 **0 条产品记录**。因此 `ARCH-US-ZUL` 是**已下架／存档性质的文件**，本条目只把它当作"某年某月某份提交文本写了什么"的历史记录使用，**不用它冒充现行核准文本**，也不把其中内容并入适应证与给药方案模块。法国 BDPM 本轮不可用（HTTP 503）。`PMID:……`＝PubMed。
+**引用键与检索事实**：`FDA-WD2025`＝美国 FDA 正式撤销批准公告（《Federal Register》90 FR 12162，2025-03-14 公布，**2025-04-14 生效**；Sage Therapeutics 表示已停止销售并主动要求撤销 NDA 211371；这是监管事实，不是本项目根据数据库零命中作出的推断）。`ARCH-US-ZUL`＝DailyMed 上**仍可浏览但已不在现行索引内**的 ZULRESSO（brexanolone）注射剂标签页面（setid `b40f3b2a-1859-4ed6-8551-444300806d13`）；该页面列出同一申请的 6 个版本（版本 3 发布 2019-06-18、4 于 2019-09-26、5 于 2019-11-22、7 于 2020-12-15、9 于 2022-07-01、**11 于 2024-07-19**），页面自述"Initial U.S. Approval: 2019"。**本轮 2026-10-22 的检索结果**：openFDA 按通用名 brexanolone 与按品牌 Zulresso 检索均返回 **404（无记录）**；DailyMed 现行 SPL 服务按药名（`spls.json?drug_name=brexanolone`）与按上述 setid 检索均返回 **total_elements＝0**；该 setid 的 `spls/<setid>.xml` 返回 **HTTP 404**；英国 emc 按通用名 brexanolone 与按商品名 Zulresso 检索均返回 **0 条产品记录**。因此 `ARCH-US-ZUL` 是**已下架／存档性质的文件**，本条目只把它当作"某年某月某份提交文本写了什么"的历史记录使用，**不用它冒充现行核准文本**，也不把其中内容并入适应证与给药方案模块。法国 BDPM 本轮不可用（HTTP 503）。`PMID:……`＝PubMed。
 
 ## 1. 基本信息
 
@@ -15,7 +15,7 @@
 | 主要剂型 | **注射液，供持续静脉输注**（`ARCH-US-ZUL` 标题行："injection, for intravenous use"）；文献亦指出其限制包括"水溶性差、无口服制剂、需住院接受"（`PMID:37566239`）。制剂另含**磺丁基醚-β-环糊精（betadex sulfobutyl ether sodium）作为增溶辅料**（该辅料在本条目中只作为"制剂需要载体"这一实体特征记录，不据存档文件推断其安全性结论）。**本轮无现行文本可核实现行在售规格与包装** |
 | 关键药代摘要 | 人群药代模型（健康哺乳志愿者与 PPD 患者合并数据，N＝156）把 allopregnanolone 描述为**二室模型、线性消除与分布**，**体重是唯一显著协变量**；12 名健康哺乳者接受 60 小时输注（滴定至 90 µg/kg/h）后，**血浆 C_max 均值 89.7 ng/mL（95% CI 74.19–108.39）**、**中位 T_max 47.8 小时（47.8–55.8）**，**乳／浆比 1.36**、**相对婴儿剂量最大 1.3%**（`PMID:35869362`）。该研究同时指出其**从血浆与乳汁快速清除**。**本轮无现行文本可补充半衰期、代谢酶与排泄途径的官方口径** |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种增列，均未命中"brexanolone"；芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查并经 RDKit 复核亦不落入。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制。对照：同为神经活性类固醇、但为**口服**产品的 [zuranolone](zuranolone.md) 在中国属**药用类精神药品第二类第 73 项**——**两者管制层级不同，不可由类别推定**（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **本轮无法由现行官方文本核实任何法域的核准适应证、规格或上市状态**（美国现行索引 0 条、英国 0 条产品、法国未取得）。文献层面可核的是"**2019 年 FDA 批准静脉用 brexanolone 用于 PPD**"这一叙述性事实（`PMID:37566239`），以及 `ARCH-US-ZUL` 页面自述的"Initial U.S. Approval: 2019"；**注册历史与"当前是否仍为可获得的现行批准文本"是两件事**，后者本轮未能确认。**中国上市与核准状态待核实** |
+| 主要法域批准状态 | **美国批准状态已由 FDA 官方撤销公告直接确认**：ZULRESSO 静脉制剂原于 2019 年获批治疗产后抑郁症（PPD）；因企业报告不再销售并申请撤销，其 NDA 211371 批准自 **2025-04-14** 起撤销（`FDA-WD2025`）。这不是疗效失败或安全风险导致撤销的证据，也不能仅凭此推断其他法域状态。英国 emc 本轮无产品命中、法国 BDPM 不可用。**中国上市与核准状态待核实** |
 | 身份与统计 | WHO ATC `N06AX29`；**官方 2026 索引未对本编码列出 DDD**；RxNorm [2121777](https://rxnav.nlm.nih.gov/REST/rxcui/2121777.json)；化学关联：Wikidata [Q2482223（allopregnanolone）](https://www.wikidata.org/wiki/Q2482223)；[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX29) |
 
 ## 2. 评分
@@ -37,7 +37,7 @@
 
 ### 2.2 按使用场景适宜度（A–D）
 
-**本条目不给 A–D 等级。** 理由不是「场景尚未列全」，而是 §2.2 的必填项「**是否获批及法域**」本轮无法由任何法域的**现行**监管文本来锚定：美国 openFDA 与 DailyMed 现行索引都没有本产品的处方资料、英国 emc 检索 0 条产品，唯一完整的说明书是 DailyMed 上仍可按 setid 浏览但已退出现行索引的存档版本（见 §1 引用键与 §10 第 1 项）。按 `SCORING.md` 与 `AGENTS.md`，批准状态不可核时不能用试验人群反推「现行适应证」，也不能仅凭检索不到就给 C 或 D。
+**本条目不给 A–D 等级。** 美国 ZULRESSO 的历史 PPD 适应证与现行状态已经明确区分：**FDA 自 2025-04-14 撤销其 NDA 211371 批准**（`FDA-WD2025`），目前不能把该历史获批用途当作美国现行获批场景。英国没有取得可核对的现行产品说明书、法国本轮接口不可用，中国待核实；没有足够依据建立其他法域的获批场景。撤销由企业报告停止销售并请求撤销引起，**不能仅据撤销给旧疗效场景评 D**。历史试验结果留在 §5。
 
 本药的产后抑郁人体证据（二期与两项三期试验的 HAM-D 差值、剂量档位与事后起效时间分析及其限制）**全部保留在 §5**，给药场所与监护条件在 §7 与 §9 就近说明；待取得任一法域的现行监管文本后，本节才应重建。
 
@@ -47,7 +47,7 @@
 
 ## 4. 适应范围
 
-**本条目不填写"现行核准适应证"与"给药方案"两项**——现行监管文本在两个核心法域都未取得（见引用键与 §10 第 1 项），按 [AGENTS.md](../AGENTS.md) 与 [SOURCES.md](../SOURCES.md) 的口径，不得用存档文件或二手资料替代。
+**本条目不填写当前获批的具体给药方案**：美国 ZULRESSO 曾于 2019 年获准用于 PPD，但批准于 2025-04-14 正式撤销（`FDA-WD2025`）；英法中未取回能支撑其他法域现行适应证与给药的资料。现行监管文本未能取得（见引用键与 §10 第 1 项），按 [AGENTS.md](../AGENTS.md) 与 [SOURCES.md](../SOURCES.md) 的口径，不得用存档文件或二手资料替代。
 
 **可核对的人体试验条件（不是处方建议）**：三项关键试验均采用**单次连续静脉输注 60 小时**的方案，二期为单一输注速率组对安慰剂，三期设 **60 µg/kg/h 与 90 µg/kg/h 两档对安慰剂**（研究 1）与 90 µg/kg/h 对安慰剂（研究 2）（`PMID:28619476`、`PMID:30177236`）；事后分析只合并 90 µg/kg/h 臂（`PMID:36191643`）。乳汁药代研究同样使用"60 小时输注、滴定至 90 µg/kg/h"（`PMID:35869362`）。这些数字描述的是**研究给药方案**，不等于任何法域的核准给药方案，也不构成个体化滴定建议。
 
@@ -84,7 +84,7 @@
 
 ## 10. 证据边界
 
-1. **两项核心模块未完成，且缺口按法域写明**：**给药方案**与**核准适应证**未能由现行官方文本填写。缺口是——**美国**：openFDA `drug/label.json` 按通用名 brexanolone 与按品牌 Zulresso 检索均 **404（无记录）**；DailyMed 现行 SPL 服务按药名与按 setid `b40f3b2a-1859-4ed6-8551-444300806d13` 检索均 **total_elements＝0**，该 setid 的 XML 直接取回返回 **HTTP 404**（2026-10-22）。**英国**：emc 按 brexanolone 与按 Zulresso 检索均 **0 条产品记录**（2026-10-22）。**法国**：BDPM 本轮恒返回 HTTP 503，未取得。以上都只说明"本轮取不到现行文本"，**不构成本药未获批、已撤市或已停止供应的判断**。
+1. **核准状态已有官方结论，其他缺口仍须分法域说明**：美国 FDA 于 2025-03-14 公告正式撤销 ZULRESSO（NDA 211371）的批准，**2025-04-14 生效**；公告指出 Sage Therapeutics 因产品已不再销售而主动请求撤销（`FDA-WD2025`）。这确认的是美国批准状态，不等于批准因安全性或疗效问题被撤销；**现行批准给药方案**不可再沿用 2024 年存档标签。**美国检索记录**：openFDA `drug/label.json` 按通用名 brexanolone 与按品牌 Zulresso 检索均 **404（无记录）**；DailyMed 现行 SPL 服务按药名与按 setid `b40f3b2a-1859-4ed6-8551-444300806d13` 检索均 **total_elements＝0**，该 setid 的 XML 直接取回返回 **HTTP 404**（2026-10-22）。**英国**：emc 按 brexanolone 与按 Zulresso 检索均 **0 条产品记录**（2026-10-22）。**法国**：BDPM 本轮恒返回 HTTP 503，未取得。英国与法国结果仅代表检索覆盖缺口，不能用于断定这些法域的批准状态；**美国撤销批准则有独立的 FDA 正式公告证据**，不是由检索空结果反推。
 2. **`ARCH-US-ZUL` 的性质**：DailyMed 上按 setid 直接访问的标签页面仍可读，其版本表把 2024-07-19 发布的版本 11 标为该申请内的"current"；但同一产品**不出现在 DailyMed 的现行 SPL 索引**中，openFDA 标签库亦无记录。因此本条目把它作为**带明确日期的历史／存档文件**引用，并在每一处引用中标注"存档"。历史标签不得冒充现行批准文本（[SOURCES.md](../SOURCES.md)）。
 3. **`basic` 状态下评分的适用范围**：§2.1 中只有"短期耐受""相互作用／监测""滥用／误用"三项有可核证据支撑（其中滥用项依据的是**存档文件所载的人体实验室试验结果**）；"长期风险""停药""中国 PIM"三项均为 `N/A`，理由是**测定缺失而非阴性结果**。评分表不构成对本药现行风险管理的完整描述。
 4. **效应量不可跨试验合并**：二期 −12.2 与三期 −2.5／−3.7／−5.5 来自不同的入组严重度门槛（HAM-D≥26 住院 vs 三期研究 2 的 HAM-D 20–25）、不同样本量与场所；事后分析（`PMID:36191643`）自陈**未按探索性终点做效力设计**且作者含厂方雇员。研究内两档剂量的差值方向（60 µg/kg/h＞90 µg/kg/h）**不构成剂量推荐**。
@@ -97,7 +97,7 @@
 
 本页未建专题：`basic` 状态下最值得展开的是"单次 60 小时输注＋全程监护＋REMS 式场所限制"如何重塑风险治理，但把它做足需要现行监管文本与真实世界使用数据，两者本轮均不可得（§10 第 1 项）。同机制但不同实体的对照见 [zuranolone](zuranolone.md)（口服、14 天疗程、中国第二类精神药品第 73 项、次日驾驶黑框）；静脉与场所边界的另一写法见 [esketamine](esketamine.md) 与其专题 [esketamine-formulation-and-setting-boundaries](../analysis/esketamine-formulation-and-setting-boundaries.md)；产后抑郁的常规口服抗抑郁药一侧见 [escitalopram](escitalopram.md)。
 
-**监管与官方文件**：[DailyMed ZULRESSO 标签页面（setid b40f3b2a-1859-4ed6-8551-444300806d13；该申请最后版本 11 发布 2024-07-19，**已不在 DailyMed 现行 SPL 索引**）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b40f3b2a-1859-4ed6-8551-444300806d13)；[DailyMed 现行 SPL 服务按药名检索（brexanolone，total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=brexanolone)；[openFDA 标签接口按通用名（404，无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22brexanolone%22&limit=4)；[英国 emc 检索（brexanolone，0 条）](https://www.medicines.org.uk/emc/search?q=brexanolone)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[FDA 撤销 ZULRESSO NDA 211371 批准正式公告（90 FR 12162；2025-04-14 生效）](https://www.govinfo.gov/app/details/FR-2025-03-14/2025-04101)；[DailyMed ZULRESSO 标签页面（setid b40f3b2a-1859-4ed6-8551-444300806d13；该申请最后版本 11 发布 2024-07-19，**已不在 DailyMed 现行 SPL 索引**）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b40f3b2a-1859-4ed6-8551-444300806d13)；[DailyMed 现行 SPL 服务按药名检索（brexanolone，total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=brexanolone)；[openFDA 标签接口按通用名（404，无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22brexanolone%22&limit=4)；[英国 emc 检索（brexanolone，0 条）](https://www.medicines.org.uk/emc/search?q=brexanolone)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **研究与系统综述**：[PMID:28619476](https://pubmed.ncbi.nlm.nih.gov/28619476/)（Lancet 2017 二期随机对照试验，NCT02614547，差值 −12.2）；[PMID:30177236](https://pubmed.ncbi.nlm.nih.gov/30177236/)（Lancet 2018 两项三期试验，NCT02942004 与 NCT02942017）；[PMID:36191643](https://pubmed.ncbi.nlm.nih.gov/36191643/)（HUMMINGBIRD 三项试验合并的事后分析：至应答时间与第 60 小时累积应答）；[PMID:35869362](https://pubmed.ncbi.nlm.nih.gov/35869362/)（Clin Pharmacokinet 2022：乳汁与血浆药代与人群模型，最大 RID 1.3%，[PMC9439988](https://pmc.ncbi.nlm.nih.gov/articles/PMC9439988/)）；[PMID:37566239](https://pubmed.ncbi.nlm.nih.gov/37566239/)（Psychopharmacology 2023 临床前与临床药理综述，[PMC10471722](https://pmc.ncbi.nlm.nih.gov/articles/PMC10471722/)）。
 
