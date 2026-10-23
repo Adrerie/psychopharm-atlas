@@ -1,41 +1,103 @@
-# tryptophan
+# tryptophan｜色氨酸（维基数据 zh-cn 标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`reviewed`（药品锚点为英国 Optimax；美国补充剂另述）｜ 最后核查：2026-10-24（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX02`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`UK-TRP`＝英国 Optimax 500 mg 胶囊（PLGB 17509/0093，SmPC 修订 2025-12-17）；`US-TRP`＝美国 openFDA 的 L-tryptophan 膳食补充剂标签（4 条记录，不是药品批准文本）；`PMID:……`＝PubMed。§N 指相应文件章节号。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | tryptophan | WHO ATC/DDD Index 2026（`N06AX02`）|
-| 中文标签（维基数据，未核对监管核准名） | 色氨酸（zh-cn） | Wikidata [Q181003](https://www.wikidata.org/wiki/Q181003) |
-| ATC 编码 | `N06AX02`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06AX Other antidepressants | WHO ATC/DDD Index 2026 |
-| 别名 | (S)-Tryptophan；(S)-alpha-amino-1H-indole-3-propanoic acid；(S)-α-amino-1H-indole-3-propanoic acid；Indole-3-alanine；L(-)-Tryptophan；L-(-)-Tryptophan；L-(−)-tryptophan；L-Trp；L-alpha-Amino-3-indolepropionic acid；L-tryptophan…另 2 条 | Wikidata 英文别名 |
-| 系统命名/研究代号（6 条，节选） | (2S)-2-amino-3-(1H-indol-3-yl)Propanoic acid；(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid… | Wikidata 英文别名 |
-| 第三方数据库归类线索 | L-amino acid、DL-tryptophan、essential amino acid、proteinogenic amino acid | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `10898` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/10898.json) |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“tryptophan / 色氨酸”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件（本药吲哚 N1 为氢、3 位为丙氨酸侧链，其羧基未构成图式要求的环碳 -C(=O)Z-R3 排布，不符合合成大麻素类目录结构式图所列母核通式）。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，L-色氨酸（L-tryptophan），人体必需氨基酸与 5-羟色胺生物合成前体；WHO ATC 归入 N06AX 其他抗抑郁药（`N06AX02`）。它不是再摄取抑制剂，而是通过增加底物供应影响 5-羟色胺合成；也可进入 kynurenine 通路 |
+| 主要剂型 | **药品**：英国 Optimax 500 mg 胶囊（PLGB 17509/0093，SmPC 修订 2025-12-17）（`UK-TRP`）。**膳食补充剂**：美国 openFDA 的 L-tryptophan 片／胶囊（`US-TRP`），不是药品。**食品**：蛋白质组成成分。三者不能互相替代 |
+| 主要活性代谢物 | 5-羟色氨酸（5-HTP）→ 5-羟色胺；另一主要通路为 kynurenine／kynurenic acid。药物本身无“活性代谢物”定义；5-HTP 是独立的前体物质，不能与 L-tryptophan 等同 |
+| 关键药代摘要 | 口服后经肠道吸收，部分经肝首过代谢；跨越血脑屏障依赖转运体，与支链氨基酸竞争。本轮未取得 Optimax 的 Tmax、半衰期、蛋白结合或剂量—暴露数据。WHO 2026 索引未对本编码列出 DDD |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“tryptophan／色氨酸”；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类，本药不落入其中任何一类的母核或所列替代条件（本药吲哚 N1 为氢、3 位为丙氨酸侧链，其羧基未构成图式要求的环碳 -C(=O)Z-R3 排布，不符合合成大麻素类目录结构式图所列母核通式）。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **英国**：Optimax 500 mg 胶囊为英国批准药品，适应证为“治疗抵抗性抑郁，作为其他抗抑郁药的辅助”（`UK-TRP` §4.1）。**美国**：没有 L-tryptophan 处方药标签；openFDA 的 4 条是膳食补充剂（`US-TRP`），不能作为药品疗效证据。**中国**：未取得药品批准文号、剂型或核准适应证；膳食补充剂与药品身份待核实 |
+| 身份与统计 | WHO ATC `N06AX02`；**无 DDD**；Wikidata [Q181003](https://www.wikidata.org/wiki/Q181003)；PubChem [6305](https://pubchem.ncbi.nlm.nih.gov/compound/6305) 与 [6923516](https://pubchem.ncbi.nlm.nih.gov/compound/6923516)；MeSH [D014364](https://meshb.nlm.nih.gov/record/ui?ui=D014364)；DrugBank [DB00150](https://www.drugbank.ca/r/DB00150)；RxNorm [RXCUI 10898](https://rxnav.nlm.nih.gov/REST/rxcui/10898.json)；English Wikipedia 标题指针 [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan) |
 
-官方 2026 索引未对本编码列出 DDD。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。分数是证据与负担的整理，不构成对个体是否用药的判断。本页以**英国药品 Optimax** 为药品锚点；美国膳食补充剂只用于实体区分，不参与评分。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | 当前英国标签把“既往嗜酸性粒细胞增多-肌痛综合征（EMS）史”列为**禁忌**（`UK-TRP` §4.3），并把 EMS 列为警告；EMS 与 1989 年受污染 L-色氨酸批次相关，可致慢性神经病、皮肤硬化甚至死亡。另有 5-羟色胺综合征风险。没有本药长期器官毒性的高质量数据 |
+| 短期耐受负担 | 2 | 英国标签常见恶心、头痛、头晕／头重脚轻、嗜睡／镇静、肌痛（`UK-TRP` §4.8）；总体耐受较轻，但镇静可能影响驾驶与操作 |
+| 相互作用／监测负担 | 4 | 与 MAOI、SSRI、SNRI、levodopa、吩噻嗪类、苯二氮䓬类合用需注意；5-羟色胺能组合可致 5-羟色胺综合征（`UK-TRP` §4.5）。需要询问所有抗抑郁药与中枢抑制剂，监测情绪、镇静与血清素毒性 |
+| 停药负担 | N/A | 本轮未检出成人撤药症状或随机停药复燃研究；不能把 SSRI 的撤药反应代填 |
+| 滥用／误用潜力 | N/A | 未取得人体强化效应、觅药行为或非医疗使用资料；“未列管”不构成 1 分，也不写“无滥用潜力” |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 无本药的中国处方研究、PIM 逐药判定或指南资料；膳食补充剂语境与处方药不同 |
 
-- WHO ATC/DDD Index 2026：[N06AX02](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX02)
-- Wikidata（CC0）：[Q181003](https://www.wikidata.org/wiki/Q181003)
-- PubChem CID（经 Wikidata）：[6305](https://pubchem.ncbi.nlm.nih.gov/compound/6305)
-- PubChem CID（经 Wikidata）：[6923516](https://pubchem.ncbi.nlm.nih.gov/compound/6923516)
-- MeSH 描述符（经 Wikidata）：[D014364](https://meshb.nlm.nih.gov/record/ui?ui=D014364)
-- DrugBank ID（经 Wikidata）：[DB00150](https://www.drugbank.ca/r/DB00150)
-- English Wikipedia（标题指针，未复制正文）：[Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 10898](https://rxnav.nlm.nih.gov/REST/rxcui/10898.json)
+总体解释：tryptophan 的负担不在常规不良反应，而在两个“历史—监管”节点：**EMS 禁忌**与**5-羟色胺综合征**。前者是 1989 年受污染批次事件的直接遗产，当前英国标签仍把 EMS 史列为禁忌；后者决定了它与 SSRI／SNRI／MAOI 合用时必须谨慎。长期风险给 3 而不是 4，是因为除 EMS 与血清素毒性外，没有明确的器官累积毒性；相互作用给 4，是因为组合多、后果可重，但可通过询问用药史与监测管理。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
+| --- | --- | --- | --- |
+| 治疗抵抗性抑郁的辅助治疗 | 英国 Optimax 500 mg 胶囊现行；美国无药品标签 | C+ | 标签为“作为其他抗抑郁药的辅助”；本轮未取得该产品特定的辅助治疗 RCT；Cochrane 仅 2 项小样本（64 例）单药 vs 安慰剂，OR 4.10（1.28–13.15），质量不足（`UK-TRP`；`PMID:11869656`） |
+| 单相抑郁／心境恶劣的单药治疗 | 无现行批准（英国标签为辅助） | C | 同上两项小样本试验，NNT 2.78 但证据质量低；不能据此推荐单药替代有充分证据的抗抑郁药（`PMID:11869656`） |
+
+不设为场景的内容：失眠、经前期综合征、吸烟戒断、运动表现等补充剂用途没有药品级适应证与足够证据，不进入 A–D；美国膳食补充剂标签不作为医疗场景评分。
+
+## 3. 主要作用
+
+L-色氨酸是 5-羟色胺生物合成的起始底物：经色氨酸羟化酶生成 5-HTP，再经芳香族 L-氨基酸脱羧酶生成 5-羟色胺。理论上，增加底物供应可能提高中枢 5-羟色胺合成，但这一链路受转运体竞争、色氨酸羟化酶饱和、肝首过与 kynurenine 通路分流限制，**不能简单写成“多吃色氨酸就增加脑内 5-羟色胺”**。本轮没有取得 Optimax 的人体药效学、脑脊液 5-HIAA 或 PET 数据，因此不写“提升 5-羟色胺水平”的定量结论。可核对的是临床层面的两条：一是 Cochrane 汇总的两项小样本试验提示其可能优于安慰剂，但质量不足（`PMID:11869656`）；二是与 5-羟色胺能药物合用可出现 5-羟色胺综合征（`UK-TRP` §4.5），说明其在外周与中枢确有可叠加的血清素能效应。
+
+## 4. 适应范围
+
+**英国（Optimax 500 mg 胶囊，PLGB 17509/0093）**：适应证为“治疗抵抗性抑郁，作为其他抗抑郁药的辅助”；剂量为每日 2 粒、每日 3 次（合计 3 g／日）；禁忌包括对本品过敏与**既往 EMS 史**；警告包括自杀相关风险、EMS 与 5-羟色胺综合征；与 MAOI、SSRI、SNRI、levodopa、吩噻嗪类、苯二氮䓬类合用需注意；妊娠期慎用，哺乳期不使用（`UK-TRP` §4.1–§4.6）。**美国**：没有处方药标签；openFDA 的 4 条 L-tryptophan 记录是膳食补充剂（如 Tryptophan、L-Tryptophan High 7424、L-Tryptophan 7423、Osteobios 复方），不是药品批准文本（`US-TRP`）。**中国**：未取得药品批准文号与核准适应证；不能把美国补充剂标签或食品用途写进药品适应证。
+
+## 5. 实际效果与局限
+
+**抗抑郁证据很薄。** Cochrane 2002 系统综述检索到 108 项研究，但只有 2 项、共 64 例的随机试验符合质量要求；tryptophan 与 5-HTP 合并分析显示优于安慰剂（Peto OR 4.10，95% CI 1.28–13.15；RD 0.36；NNT 2.78），但作者明确“证据质量不足以得出结论”，并指出 5-HTP 与 tryptophan 被合并、样本极小、不能评价长期疗效与 EMS 风险（`PMID:11869656`）。**该综述没有评价“辅助治疗”场景**；英国 Optimax 的辅助治疗适应证没有在本轮取得产品特异 RCT 的支持。因此本页把辅助治疗定为 C+：有上市许可与机制合理性，但缺少该产品、该场景的对照证据；单药治疗定为 C：只有两项小样本试验，不能替代有充分证据的抗抑郁药。**不得把 OR 4.10 写成“疗效显著”或“与 SSRI 等效”**。
+
+## 6. 长期风险
+
+- **EMS（嗜酸性粒细胞增多-肌痛综合征）**：1989 年美国报告 1,500 余例、至少 37 例死亡；病例与日本昭和电工（Showa Denko）生产的特定 L-色氨酸批次相关，污染物（如 peak E）被认为是重要原因。EMS 可表现为严重肌痛、外周血嗜酸粒细胞增多、神经病、皮肤硬化与多系统受累，部分患者长期不愈。当前英国标签把既往 EMS 史列为禁忌（`UK-TRP` §4.3），这是本药最重要的长期安全边界。
+- **5-羟色胺综合征**：与 MAOI、SSRI、SNRI、曲普坦类、曲马多、linezolid、亚甲蓝等合用可致激动、震颤、肌阵挛、高热、自主神经不稳定；英国标签要求注意（`UK-TRP` §4.4–§4.5）。
+- **镇静与中枢抑制**：嗜睡／镇静可见，与苯二氮䓬类、吩噻嗪类、酒精合用可能叠加（`UK-TRP` §4.5、§4.8）。
+- **长期数据有限**：没有本药长期器官毒性、肿瘤、生殖结局或依赖性的高质量研究；不能写“长期安全”。
+
+## 7. 短期风险、停药与误用
+
+短期常见恶心、头痛、头晕／头重脚轻、嗜睡／镇静、肌痛（`UK-TRP` §4.8）；镇静可能影响驾驶与机械操作。**停药**：无随机停药试验，记 `N/A`；不能把 SSRI 的撤药反应代填。**误用**：无人体强化效应、觅药行为或非医疗使用资料，记 `N/A`；不把“未列管”写成“无滥用潜力”。**过量**：本轮未取得本药的系统过量病例系列；不能把 5-HTP 或 SSRI 的过量表现套用。**EMS 的识别**：出现无法解释的严重肌痛、皮疹、发热或嗜酸粒细胞增多，应立即停药并评估。
+
+## 8. 重要相互作用
+
+- **MAOI**：英国标签要求注意；合用可致 5-羟色胺综合征（`UK-TRP` §4.5）。
+- **SSRI／SNRI**：同样为 5-羟色胺能叠加；标签要求注意，临床应避免不必要的联合或加强监测（`UK-TRP` §4.5）。
+- **levodopa**：标签列为需注意的合用；机制上可能涉及中枢单胺与运动症状波动。
+- **吩噻嗪类、苯二氮䓬类**：标签列为需注意；前者可能增加血清素能或锥体外系风险，后者可能叠加镇静。
+- **酒精与其他中枢抑制剂**：可能叠加镇静；标签未给出定量相互作用数据，应避免驾驶与操作。
+- **膳食补充剂语境**：美国补充剂标签的警告不能替代药品级相互作用资料；5-HTP 是独立物质，不能把 L-tryptophan 的相互作用直接套到 5-HTP，反之亦然。
+
+## 9. 特殊人群
+
+**妊娠**：英国标签要求慎用（`UK-TRP` §4.6）；没有本药妊娠安全性的高质量数据，不能写“安全”。**哺乳**：标签明确“不应在哺乳期使用”（`UK-TRP` §4.6）。**儿童青少年**：没有本药治疗抑郁的儿童试验；不作为儿童常规用药。**老年**：无本药特异的老年药代或安全性研究；合并用药多，5-羟色胺能与镇静相互作用风险更高。**肝肾功能不全**：无本药特异的剂量调整数据；严重肝病者应避免，因首过代谢与清除不确定。以上为标签与一般药理事实，不构成个体化建议。
+
+## 10. 证据边界
+
+1. **实体分离（最重要）**：英国 Optimax 是药品（PLGB 17509/0093），美国 openFDA 的 4 条是膳食补充剂（`US-TRP`），食品中的色氨酸又是另一层；三者不能互相替代。美国补充剂标签不能作为药品疗效或安全性证据。
+2. **EMS 是历史事件，不是“因疗效差撤市”**：1989 年的事件是受污染批次相关的 EMS 暴发，随后 FDA 要求召回；**不是**因为抗抑郁疗效不足而撤市。具体 FDA 公告原件本轮未取得（fda.gov 相关页面返回 404）；日期以 CDC MMWR 1989-11-17 与英国标签的 EMS 禁忌为锚点，FDA 新闻稿的精确日期待核。
+3. **疗效证据只有 2 项小样本试验**：64 例、tryptophan 与 5-HTP 合并、质量不足；不能写“有效”或“与 SSRI 等效”（`PMID:11869656`）。
+4. **辅助治疗适应证缺少产品特异 RCT**：英国标签为辅助治疗，但本轮未取得 Optimax 的辅助治疗试验；Cochrane 的两项试验是单药 vs 安慰剂。
+5. **5-HTP 不等同于 L-tryptophan**：两者在药代、剂量与安全性上不同；本页只评价 L-tryptophan。
+6. **中国注册信息缺口**：NMPA 与 CDE 均不可脚本检索，公开检索只命中商业药品库；中国药品上市、核准适应证与补充剂身份待核实。
+7. **无 DDD**：WHO 2026 索引未对本编码列出 DDD；3 g／日是英国产品标签剂量，不是统计指标。
+8. **A–D 只设两行**：补充剂用途（失眠、经前期综合征等）没有药品级适应证与足够证据，不设行；这不是对所有超适应证使用的普遍否定。
+
+## 11. 深入分析与来源
+
+本药未建专题文件：核心问题（药品／补充剂实体分离、EMS 历史、辅助治疗证据缺口）已在本页闭环；若取得 Optimax 的辅助治疗试验或 FDA 原件，可补充。
+
+**监管与官方文件**：[英国 Optimax 500 mg 胶囊 SmPC（PLGB 17509/0093，修订 2025-12-17）](https://www.medicines.org.uk/emc/product/14893/smpc)；[美国 openFDA L-tryptophan 补充剂标签检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22L-TRYPTOPHAN%22&limit=4)；[CDC MMWR 1989;38:785–8（EMS 首次汇总，1989-11-17；链接为 MMWR 总入口）](https://www.cdc.gov/mmwr/)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
+
+**研究与系统综述**：[Shaw 2002 Cochrane（2 项试验、64 例）](https://pubmed.ncbi.nlm.nih.gov/11869656/)；[Belongia 1990 NEJM（EMS 病例对照）](https://pubmed.ncbi.nlm.nih.gov/2370887/)；[Mayeno 1990 Science（peak E）](https://pubmed.ncbi.nlm.nih.gov/2270484/)。
+
+**分类与身份**：[WHO ATC/DDD Index `N06AX02`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX02)；[Wikidata Q181003](https://www.wikidata.org/wiki/Q181003)；[PubChem CID 6305](https://pubchem.ncbi.nlm.nih.gov/compound/6305)；[PubChem CID 6923516](https://pubchem.ncbi.nlm.nih.gov/compound/6923516)；[MeSH D014364](https://meshb.nlm.nih.gov/record/ui?ui=D014364)；[DrugBank DB00150](https://www.drugbank.ca/r/DB00150)；[RxNorm RXCUI 10898](https://rxnav.nlm.nih.gov/REST/rxcui/10898.json)；English Wikipedia（标题指针，未复制正文）：[Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
