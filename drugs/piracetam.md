@@ -3,7 +3,7 @@
 > 状态：`reviewed` ｜ 最后核查：2026-10-22（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BX03`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`UK-NOP-1200`＝英国 **Nootropil 1200 mg 薄膜衣片** SmPC（emc 产品号 101131；持证商 **Mercury Pharmaceuticals Limited**，emc 页标注 ADVANZ Pharma；PL **12762/0688**；§10 文本修订 **2025-07**，emc 标注日 2025-07-01）；`UK-NOP-800`＝**Nootropil 800 mg 薄膜衣片**（emc 101129；PL **12762/0687**；同一持证商、同一修订月）。§N 指 SmPC 章节号；`PMID:……`＝PubMed。两份英国文本除规格、PL 号、包装片数与"每日片数阈值"外逐节一致（本轮逐行比对）。
+**引用键**：`UK-NOP-1200`＝英国 **Nootropil 1200 mg 薄膜衣片** SmPC（emc 产品号 101131；持证商 **Mercury Pharmaceuticals Limited**，emc 页标注 ADVANZ Pharma；PL **12762/0688**；§10 文本修订 **2025-07**，emc 标注日 2025-07-01）；`UK-NOP-800`＝**Nootropil 800 mg 薄膜衣片**（emc 101129；PL **12762/0687**；同一持证商、同一修订月）。§N 指 SmPC 章节号；`PMID:……`＝PubMed。本轮完整阅读的是 1200 mg 规格 SmPC，另核对 800 mg 规格的产品身份、规格、PL 号与修订日期；未完整读取 800 mg 各章节，不声称两份文本逐行一致。涉及疗效、剂量与禁忌的逐节事实均以 `UK-NOP-1200` 为主要文本锚点。
 
 ## 1. 基本信息
 
