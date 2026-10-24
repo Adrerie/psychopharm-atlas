@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 6 一次性批量建档，32 份 `indexed` 档案**。工作分支 `plan/reviewed-expansion-wave6`，从 Wave 5 已通过 PR #8 合并的 `main` 建立。当前指令以文末 Wave 6 计划为准，以上各轮记录均属历史，不重复执行。
+> 当前任务：**Wave 7 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave7`，以 Wave 6 已通过 PR #9 合并的 `main` 为基线。**执行范围以文末 Wave 7 计划为准**，Wave 1–6 均是历史记录，不要重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -316,3 +316,54 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - **风险来源与结构**：`pemoline` 澄清 FDA 于 2021 年主动要求 Abbott 因肝毒性提出撤销申请，不再概括为普通企业停售撤销；`chlorprothixene`、`sertindole` 的独立 `## 待核实` 标题降为 §10 内部小标题，内容未删。
 
 复核范围限定为上述修改过的药物条目、共享文档与计划内 32 份的状态／评分表结构；验收保持 **130 reviewed / 131 indexed / 19 basic（280 总数）**，专题分析 15 份。`main` 的合并由独立 PR 完成后再核对 Git 历史。
+
+
+## Wave 7 批量建档计划（2026-10-23）
+
+**状态：已完成（见文末“Wave 7 完成记录”。）** 工作分支：`plan/reviewed-expansion-wave7`，基于已合并 PR #9 的 `main`。起点为 **130 reviewed / 131 indexed / 19 basic**，280 份档案与 15 份专题分析。本轮已确认下列 **32 份全部处于 `indexed`**。目标是补齐抗焦虑药、相关草药、部分历史抗抑郁药以及地区性抗精神病／镇静药的档案，不按类别机械推断用途，不预设升级 `reviewed` 的数量。
+
+### 文件与并行分组（4 × 8，彼此不重叠）
+
+- **A｜苯二氮䓬类抗焦虑药及活性代谢物**：`medazepam`、`ketazolam`、`nordazepam`、`ethyl-loflazepate`、`clotiazepam`、`cloxazolam`、`mexazolam`、`fludiazepam`。
+- **B｜其他抗焦虑药与补充类型**：`halazepam`、`camazepam`、`bentazepam`、`captodiame`、`benzoctamine`、`lavandulae-aetheroleum`、`emylcamate`、`mephenoxalone`。
+- **C｜三环类、早期抗抑郁药及植物／前体成分**：`imipramine-oxide`、`dibenzepin`、`melitracen`、`amineptine`、`nomifensine`、`zimeldine`、`hyperici-herba`、`tryptophan`。
+- **D｜地区性抗精神病药与镇静药**：`cyamemazine`、`pipamperone`、`melperone`、`benperidol`、`penfluridol`、`zotepine`、`clotiapine`、`propiomazine`。
+
+### 本轮执行口径
+
+1. 主代理先阅读 `AGENTS.md`、本计划、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 与喹硫平样板。**一次派发四组，允许最多 4 个并行子代理**，一代理一组，仅修改自己分组的 8 个 `drugs/*.md`。子代理不得更改共享文档、交叉编辑、嵌套委派或合并；主代理处理共享文档、失败接管、整体验收与提交。**不拆成逐阶段审批流程。**
+2. 主条目仍是**快速判断档案**：按药物实体核对 ATC、名称／盐型／代谢物、中国管制与核准注册信息、现行标签（可取得时注明**产品＋法域＋剂型＋版本**）、批准适应证、主要机制、关键药物特异临床结果、长期和短期风险、停药依赖、误用及重要相互作用。风险评分和 A–D 使用场景只按 `SCORING.md` 证据层级评价，每行保留 1–3 个决定性事实，详细给药步骤与次要试验数值留正文或原始来源。
+3. **取证优先找有具体产品的法域**，不限美英法：如德国、奥地利、法国、西班牙、瑞士、日本等有可信官方产品注册与说明书资料才引用，且只代表所核对的国家与剂型。不得将数据库零命中理解为未批准、从未上市或撤销。撤销公告必须区分**公告日、生效日、企业停销与监管安全原因**。找不到现行产品说明书时保留 `basic` 或 `indexed` 并明确缺口，继续下一药，不用其他分子说明书补齐。
+4. **本轮特别需要区分实体层级**：`nordazepam` 同时可作为其他苯二氮䓬药的活性代谢物，不能借母药适应证与评分；`melitracen` 单方不得直接沿用与氟哌噻吨的固定组合证据；`lavandulae-aetheroleum` 的标准化口服薰衣草油药品与普通精油／芳疗商品分开；`hyperici-herba` 的药典植物原料、标准化提取物、不同剂型及保健品不能互相替代；`tryptophan` 的药品与膳食／补充剂语境分开。高风险的历史抗抑郁药（`amineptine`、`nomifensine`、`zimeldine`）如有停售、撤销或药物警戒事实，按具体官方决定与生效时间记录，勿将停销等同于 D 级疗效判断。
+5. **避免 Wave 6 的两类返工**：涉及实际治疗价值的 A–D 场景，在下结论“无药物特异 RCT”之前核对原始试验检索，不要只引二次综述；不能仅凭未获批或类别黑框设 D 行。若存在真实的药物特异阴性试验或药物风险收益监管认定，仍应如实陈述且可以形成有依据的场景评分。证据不足不强行给等级，不以同类药物、代谢物、植物成分的研究替代本药产品研究。
+6. 无独立重要争议需要解释时**不新增专题**。主代理按四组实际完成情况复查六维评分表、A–D 场景语义、关键原始引用和相对链接，将 `catalog/index.md`、`README.md` 与本计划的最终**真实**状态和未解决缺口一次更新。提交并推送本分支，**等待审阅，不得合并 `main`**。
+
+**不做**：不回头重写 Waves 1–6 或现有 `basic`，不扩写其余 99 份未列入的 `indexed`，不新增数据库、自动评分器、CI、长期爬虫、结构性迁移或配额型专题，不以字数和表格复杂度代替证据质量。
+
+
+## Wave 7 完成记录（2026-10-24）
+
+**状态**：32 份全部处理，**11 份达到 `reviewed`**、**18 份 `basic`**、**3 份保留 `indexed`**（fludiazepam、emylcamate、mephenoxalone：有完整骨架但无现行产品文本、无可评分临床内容）。仓库实际计数 **141 reviewed / 102 indexed / 37 basic**，共 280 份；`analysis/` 仍 15 份、本轮未新增专题。
+
+**执行实况**：四组各 8 份并行；A 组在写完 8 份后触及子代理轮次上限停止（文件完整），其余三组正常完成。主代理负责共享文件、两处剂量位置修正、日期统一与实体错误核验。
+
+**主要来源**：法国 BDPM（TERCIAN、DIPIPERON、VICTAN、VERATRAN 的现行 RCP）；西班牙 CIMA（medazepam、ketazolam、Tiadipona、薰衣草油、clotiapine 的 Ficha técnica）；英国 emc（benperidol、贯叶连翘 THR 33336/0003、色氨酸 Optimax PLGB 17509/0093）；美国 openFDA 只有色氨酸与贯叶连翘的补充剂标签，未被当作药品证据。
+
+**关键修正与发现**：① **BDPM 的 DEFANYL 实为 amoxapine**，不能作 imipramine oxide 的现行锚点；② **西班牙 mexazolam／melitracen 的命中分别是复方或非单方**，melitracen 的记录为 Deanxit（美利曲辛＋氟哌噻吨），不能当单方证据；③ `nordazepam` 作为活性代谢物单独建档；`lavandulae-aetheroleum` 分开标准化药品／精油／化妆品；`hyperici-herba` 分开英国 THR／德国标准化提取物／法国顺势疗法稀释液／美国补充剂标签；`tryptophan` 分开英国药品与补充剂；④ 历史撤市按日期与性质记录：amineptine（法国 1999-01）、nomifensine（1986）、zimeldine（1983）、zotepine（英国曾有上市线索，现行产品状态及撤销决定未核实），均不作 D 分；⑤ 按属主 Wave 6 要求先查原始试验：ethyl-loflazepate 1989 年日本双盲试验、pipamperone 1975 年交叉试验与 2011 年增效试验、薰衣草油与贯叶连翘的随机试验与 Cochrane 汇总；⑥ 痴呆相关行为与“初始治疗线数”均未设 A–D 行。
+
+**验收方式**：只核本轮 32 份与 `catalog/index.md`、`README.md`、本计划；表结构、评分语义、剂量位置、相对链接、官方 URL 可达性与密度带；脚本在仓库外运行，未新增 CI、数据库或自动评分器。
+
+**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；德国（melperone、benperidol、dibenzepin）、日本（cloxazolam、mexazolam、fludiazepam、clotiapine）、瑞典（propiomazine）、比利时／荷兰（penfluridol）的现行文本未取得；zotepine 仅读取 KEGG MEDICUS 的 2026-10 日本转录版而未核对 PMDA PDF；EMA／HMPC 的贯叶连翘专论访问返回服务器错误；美国 1989 年色氨酸 EMS 召回与法国 amineptine 1999 年官方公报原件未取得；西班牙薰衣草油 Lasea／Revisea 两条 CIMA 记录均属药品（分别按植物药／传统植物药注册），不得与普通化妆品或精油商品混同。本 Wave 未扩写其余 99 份 `indexed`、未重审前六轮 reviewed、未合并 `main`。
+
+
+### Wave 7 审阅修补记录（2026-10-24）
+
+本轮只做定点修补，不重新派发 32 份，不改变 11 reviewed / 18 basic / 3 indexed 的状态。
+
+- `hyperici-herba`：Cochrane 2008 与 SSRI 的 12 项比较属于**直接随机头对头试验**。汇总 RR 1.00（95% CI 0.90–1.11）不等于已严格证明等效／非劣，提取物和受试人群差异须保留。
+- `tryptophan`：Cochrane 2002 共 64 人的两项试验分别针对色氨酸和 5-HTP，合并 OR 不能充当色氨酸单药效应量或 Optimax 辅助治疗证据。删除单药抑郁治疗 C 行，保留英国标签辅助治疗 C+ 行并说明缺少直接试验。
+- `clotiapine`：西班牙说明书收载急性及慢性治疗，但现有对照研究不能证明长期复发预防。合并为一个 C+ 场景，维持剂量信息仍放 §4。
+- `zotepine`：阴性症状小样本试验留 §5，移除同一适应证内重复的独立 C+ 行。明确日文说明书来自 KEGG MEDICUS 转录、未逐页核对 PMDA 官方原件。英国正式撤销公告及现行法律状态未核实。
+- 共享来源事实：THR 33336/0003 是**贯叶连翘**而非薰衣草油。西班牙 Lasea／Revisea 两款均有 CIMA 药品记录，普通精油／化妆品不得继承其药品适应证。
+
+状态仍为 **141 reviewed / 102 indexed / 37 basic**（280 份），专题 15 份。实际合并状态以 PR 为准。
