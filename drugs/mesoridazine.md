@@ -4,17 +4,17 @@
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **本条目保持 `basic`**：本轮检索的法域均无在售产品与现行说明书文本；"核准适应证与给药方案"只能引用**历史批准记录**并标明其性质（§10 第 1–2 项）。身份、美国批准与撤销的时间线、QT 证据、中国管制与证据边界已系统核查。
 
-**引用键**：`US-FR-2021`＝美国联邦公报 2021-04-01《Determination That SERENTIL (Mesoridazine Besylate) Tablets … Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness》（86 FR 17159，Doc. 2021-06722）；`US-FR-2018`＝联邦公报 2018-02-22 撤销 38 项 NDA 的公告（83 FR 7738，Doc. 2018-03607，其中含 NDA 16774，生效 2018-03-26）；`PMID:……`＝PubMed。英国 emc、美国 openFDA／DailyMed、法国 BDPM 本轮均无本药现行产品记录（§11）。§N 指相应文件章节号。
+**引用键**：`US-FR-2021`＝美国联邦公报 2021-04-01《Determination That SERENTIL (Mesoridazine Besylate) Tablets … Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness》（86 FR 17159，Doc. 2021-06722）；`US-FR-2018`＝联邦公报 2018-02-22 撤销 38 项 NDA 的公告（83 FR 7738，Doc. 2018-03607，含片剂 NDA 016774、注射剂 NDA 016775、口服浓缩液 NDA 016997，均于 2018-03-26 生效撤销）；`PMID:……`＝PubMed。英国 emc、美国 openFDA／DailyMed、法国 BDPM 本轮均无本药现行产品记录（§11）。§N 指相应文件章节号。
 
 ## 1. 基本信息
 
 | 项目 | 内容 |
 | --- | --- |
 | 类型／药理类别 | 单方，**哌啶型吩噻嗪**（ATC 亚组 N05AC）；化学上是**硫利达嗪的侧链亚砜代谢物**（Wikidata 别名 `thioridazine thiomethyl sulfoxide`、`thioridazine-2-sulfoxide`），美国上市形式为**苯磺酸盐**（`US-FR-2021`） |
-| 主要剂型 | 历史剂型为**口服片 10／25／50／100 mg（按碱基计）**；注射剂的存在只见于二手品目记录，本轮**未取得其批准号与文本**，故不写规格。**现无任何在售产品**：FDA 把片剂列入"已停产药品清单"（Discontinued Drug Product List），LactMed 2025 年版亦记"美国已不再销售"（`US-FR-2021`、`PMID:30000077`） |
+| 主要剂型 | 历史获批剂型包括**片剂 10／25／50／100 mg（按碱基计，NDA 016774）**、**注射剂 25 mg 碱基当量/mL（NDA 016775）**与**口服浓缩液 25 mg 碱基当量/mL（NDA 016997）**，均列于 FDA 2018 年正式撤销公告；三个剂型的完整历史说明书未取得。**现无任何在售产品**：FDA 把片剂列入"已停产药品清单"（Discontinued Drug Product List），LactMed 2025 年版亦记"美国已不再销售"（`US-FR-2021`、`PMID:30000077`） |
 | 关键药代摘要 | 本轮未取得可引用的本药药代研究或说明书药代章节；仅知健康人单次口服 **50 mg 苯磺酸盐**后血浆中可测到母药与其代谢物，并同步测得 QTc 变化（`PMID:17410120`）。半衰期、蛋白结合、酶途径**待核实**；不得由硫利达嗪的数据代填 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"mesoridazine"；芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查，本药不落入其中任何一类的母核或所列替代条件。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国（历史批准，已撤销）**：SERENTIL 片剂 NDA 16774，持证 Novartis，**1970-02-27 首次批准**；核准适应证为"**对其他抗精神病药疗效不佳的精神分裂症患者的管理**"（`US-FR-2021` 引述标签）。企业于 **2008-09-09** 致函申请撤销该 NDA，FDA 于 **2018-02-22** 公告、**2018-03-26 生效**撤销批准；2021-04-01 FDA 另认定该产品"**并非因安全性或有效性原因撤出销售**"（§10 第 2 项）。**英国、法国本轮无本药产品记录**；中国上市与核准适应证待核实 |
+| 主要法域批准状态 | **美国（历史批准，已撤销）**：SERENTIL 片剂 NDA 016774，持证 Novartis，**1970-02-27 首次批准**；注射剂 NDA 016775、口服浓缩液 NDA 016997 亦见于撤销公告，**各自首次批准日期及历史说明书内容未核实**。片剂核准适应证为"**对其他抗精神病药疗效不佳的精神分裂症患者的管理**"（`US-FR-2021` 引述标签）。企业于 **2008-09-09** 致函申请撤销**片剂 NDA 016774**，FDA 于 **2018-02-22** 公告、**2018-03-26 生效**撤销上述三项 NDA；2021-04-01 FDA 仅针对**片剂 NDA 016774**认定该产品"**并非因安全性或有效性原因撤出销售**"，此认定**不自动适用于注射剂或口服浓缩液**（§10 第 2 项）。**英国、法国本轮无本药产品记录**；中国上市与核准适应证待核实 |
 | 身份与统计 | WHO ATC `N05AC03`；DDD **0.2 g 口服**、**0.2 g 非口服**——群体统计指标，不是处方剂量；Wikidata [Q6821618](https://www.wikidata.org/wiki/Q6821618)；PubChem [4078](https://pubchem.ncbi.nlm.nih.gov/compound/4078)；MeSH [D008653](https://meshb.nlm.nih.gov/record/ui?ui=D008653)；DrugBank [DB00933](https://www.drugbank.ca/r/DB00933)；RxNorm [RXCUI 6779](https://rxnav.nlm.nih.gov/REST/rxcui/6779.json)；别名 NC-123、TPS-23、Serentil |
 
 ## 2. 评分
@@ -44,9 +44,9 @@
 
 ## 4. 适应范围
 
-**历史核准（美国，1970-02-27 至 2018-03-26）**：SERENTIL 片剂的适应证为"**对其他抗精神病药疗效不佳的精神分裂症患者的管理**"（`US-FR-2021` 引述）。这一措辞本身即把本药定位为**末线选择**，与 2000 年前后围绕 QT 的监管关注同向（§6、§10 第 3 项）。**注射剂**的存在只见于二手品目记录，本轮未取得其批准号与适应证文本，故不写。
+**历史核准（美国，1970-02-27 至 2018-03-26）**：SERENTIL 片剂的适应证为"**对其他抗精神病药疗效不佳的精神分裂症患者的管理**"（`US-FR-2021` 引述）。这一措辞本身即把本药定位为**末线选择**，与 2000 年前后围绕 QT 的监管关注同向（§6、§10 第 3 项）。**注射剂 NDA 016775**与**口服浓缩液 NDA 016997**的批准及 2018 年撤销可直接见于联邦公报，但未取得它们的历史适应证说明书，不能继承片剂适应证。
 
-**现行状态**：无任何法域的在售产品；美国 NDA 已撤销、产品列入"已停产药品清单"；LactMed 2025 年版记"美国已不再销售"（`US-FR-2021`、`PMID:30000077`）。**给药方案**：历史标签的剂量与滴定本轮未取得，故不写；DDD 0.2 g 是统计指标，不是历史或现行处方剂量。**中国**上市与核准适应证待核实。
+**现行状态**：无任何法域的在售产品；美国上述三项 NDA 均已撤销，片剂列入"已停产药品清单"；LactMed 2025 年版记"美国已不再销售"（`US-FR-2021`、`PMID:30000077`）。**给药方案**：历史标签的剂量与滴定本轮未取得，故不写；DDD 0.2 g 是统计指标，不是历史或现行处方剂量。**中国**上市与核准适应证待核实。
 
 ## 5. 实际效果与局限
 
@@ -76,7 +76,7 @@
 ## 10. 证据边界
 
 1. **没有现行说明书**：美国 openFDA 按通用名 0 条、DailyMed `total_elements`＝0；英国 emc 0 条；法国 BDPM 0 条（§11）。可用的监管事实是**批准与撤销记录**，不是标签全文；因此适应证只能引用 `US-FR-2021` 的转述，剂量与禁忌不写。
-2. **撤销的时间线必须按公告写，且三个概念要分开**：企业 **2008-09-09** 致函申请撤销 NDA → FDA **2018-02-22** 公告、**2018-03-26 生效**撤销批准（`US-FR-2018`）→ **2021-04-01** 认定该产品"**并非因安全性或有效性原因**撤出销售"，继续留在"已停产药品清单"，并允许仿制药申请（`US-FR-2021`）。这与"企业因安全原因主动撤市"不是同一结论。
+2. **三种剂型的撤销与片剂的非安全撤出认定不是一回事**：FDA 于 **2018-02-22** 公告，自 **2018-03-26** 撤销 SERENTIL 片剂 NDA 016774、注射剂 NDA 016775、口服浓缩液 NDA 016997（`US-FR-2018`）；2021-04-01 的"并非因安全或疗效原因撤出销售"结论仅针对片剂 NDA 016774（`US-FR-2021`），不能外推至注射剂或浓缩液。Novartis 2008-09-09 的撤销申请日期由 2021 年文件确认，针对片剂 NDA。
 3. **"2004 年因 QT 撤市"这一通行说法在本轮官方记录中没有对应公告**：本轮检索到的联邦公报文件只有 2018 年撤销批准与 2021 年认定，2001 年可核的是加拿大的一份 QTc 通报（`PMID:11202679`）。因此本条目**不采用"2004 年撤市"作为事实**，只记录"2000 年前后围绕 QT 的监管关注"与上述 2008／2018／2021 三个日期；若后续取得 2004 年的企业公告或监管文件，应据原文补写。
 4. **代谢物身份不等于可借用母药数据**：本药是硫利达嗪的代谢物，但硫利达嗪的半衰期、CYP2D6 关系、视网膜色素沉着与剂量方案**不能移植**；本条目只在 §3 使用"化学身份"这一层，未借用母药任何临床数值。
 5. **类别风险与药物特异证据分开**：QT 有本药的人体测量数据；TD、NMS、粒细胞缺乏、催乳素只有类别层。二者在 §6 分列，避免把类别文字写成标签事实。
@@ -87,7 +87,7 @@
 
 本条目未建专题文件：可解释的冲突只有"通行说法称 2004 年因 QT 撤市、而官方记录是 2008 年申请、2018 年撤销、2021 年认定非因安全或疗效"这一处，它已在 §10 第 2–3 项写清；继续拆解需要 2004 年前后的企业公告与 FDA 内部文件，本轮未取得。
 
-**监管与官方文件**：[FDA 2021-04-01 认定（86 FR 17159，Doc. 2021-06722）](https://www.federalregister.gov/documents/2021/04/01/2021-06722/determination-that-serentil-mesoridazine-besylate-tablets-10-milligrams-25-milligrams-50-milligrams)；[FDA 2018-02-22 撤销 38 项 NDA 公告（83 FR 7738，Doc. 2018-03607，含 NDA 16774，生效 2018-03-26）](https://www.federalregister.gov/documents/2018/02/22/2018-03607/parke-davis-subsidiary-of-pfizer-inc-et-al-withdraw-of-approval-of-38-new-drug-applications-and-43)；[openFDA 按通用名检索（本轮 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22mesoridazine%22&limit=5)；[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=mesoridazine)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=mesoridazine)；[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=MESORIDAZINE&page=1&limit=20)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[FDA 2021-04-01 认定（86 FR 17159，Doc. 2021-06722）](https://www.federalregister.gov/documents/2021/04/01/2021-06722/determination-that-serentil-mesoridazine-besylate-tablets-10-milligrams-25-milligrams-50-milligrams)；[FDA 2018-02-22 撤销 38 项 NDA 公告（83 FR 7738，Doc. 2018-03607，含三项 SERENTIL NDA 016774／016775／016997，生效 2018-03-26）](https://www.federalregister.gov/documents/2018/02/22/2018-03607/parke-davis-subsidiary-of-pfizer-inc-et-al-withdraw-of-approval-of-38-new-drug-applications-and-43)；[openFDA 按通用名检索（本轮 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22mesoridazine%22&limit=5)；[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=mesoridazine)；[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=mesoridazine)；[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=MESORIDAZINE&page=1&limit=20)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 
