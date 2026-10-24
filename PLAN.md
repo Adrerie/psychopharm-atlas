@@ -347,10 +347,23 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 **执行实况**：四组各 8 份并行；A 组在写完 8 份后触及子代理轮次上限停止（文件完整），其余三组正常完成。主代理负责共享文件、两处剂量位置修正、日期统一与实体错误核验。
 
-**主要来源**：法国 BDPM（TERCIAN、DIPIPERON、VICTAN、VERATRAN 的现行 RCP）；西班牙 CIMA（medazepam、ketazolam、Tiadipona、薰衣草油、clotiapine 的 Ficha técnica）；英国 emc（benperidol、薰衣草油 THR 33336/0003、色氨酸 Optimax PLGB 17509/0093）；美国 openFDA 只有色氨酸与贯叶连翘的补充剂标签，未被当作药品证据。
+**主要来源**：法国 BDPM（TERCIAN、DIPIPERON、VICTAN、VERATRAN 的现行 RCP）；西班牙 CIMA（medazepam、ketazolam、Tiadipona、薰衣草油、clotiapine 的 Ficha técnica）；英国 emc（benperidol、贯叶连翘 THR 33336/0003、色氨酸 Optimax PLGB 17509/0093）；美国 openFDA 只有色氨酸与贯叶连翘的补充剂标签，未被当作药品证据。
 
-**关键修正与发现**：① **BDPM 的 DEFANYL 实为 amoxapine**，不能作 imipramine oxide 的现行锚点；② **西班牙 mexazolam／melitracen 的命中分别是复方或非单方**，melitracen 的记录为 Deanxit（美利曲辛＋氟哌噻吨），不能当单方证据；③ `nordazepam` 作为活性代谢物单独建档；`lavandulae-aetheroleum` 分开标准化药品／精油／化妆品；`hyperici-herba` 分开英国 THR／德国标准化提取物／法国顺势疗法稀释液／美国补充剂标签；`tryptophan` 分开英国药品与补充剂；④ 历史撤市按日期与性质记录：amineptine（法国 1999-01）、nomifensine（1986）、zimeldine（1983）、zotepine（英国上市后撤市），均不作 D 分；⑤ 按属主 Wave 6 要求先查原始试验：ethyl-loflazepate 1989 年日本双盲试验、pipamperone 1975 年交叉试验与 2011 年增效试验、薰衣草油与贯叶连翘的随机试验与 Cochrane 汇总；⑥ 痴呆相关行为与“初始治疗线数”均未设 A–D 行。
+**关键修正与发现**：① **BDPM 的 DEFANYL 实为 amoxapine**，不能作 imipramine oxide 的现行锚点；② **西班牙 mexazolam／melitracen 的命中分别是复方或非单方**，melitracen 的记录为 Deanxit（美利曲辛＋氟哌噻吨），不能当单方证据；③ `nordazepam` 作为活性代谢物单独建档；`lavandulae-aetheroleum` 分开标准化药品／精油／化妆品；`hyperici-herba` 分开英国 THR／德国标准化提取物／法国顺势疗法稀释液／美国补充剂标签；`tryptophan` 分开英国药品与补充剂；④ 历史撤市按日期与性质记录：amineptine（法国 1999-01）、nomifensine（1986）、zimeldine（1983）、zotepine（英国曾有上市线索，现行产品状态及撤销决定未核实），均不作 D 分；⑤ 按属主 Wave 6 要求先查原始试验：ethyl-loflazepate 1989 年日本双盲试验、pipamperone 1975 年交叉试验与 2011 年增效试验、薰衣草油与贯叶连翘的随机试验与 Cochrane 汇总；⑥ 痴呆相关行为与“初始治疗线数”均未设 A–D 行。
 
 **验收方式**：只核本轮 32 份与 `catalog/index.md`、`README.md`、本计划；表结构、评分语义、剂量位置、相对链接、官方 URL 可达性与密度带；脚本在仓库外运行，未新增 CI、数据库或自动评分器。
 
-**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；德国（melperone、benperidol、dibenzepin）、日本（cloxazolam、mexazolam、fludiazepam、zotepine、clotiapine）、瑞典（propiomazine）、比利时／荷兰（penfluridol）的现行文本未取得；EMA／HMPC 的贯叶连翘专论访问返回服务器错误；美国 1989 年色氨酸 EMS 召回与法国 amineptine 1999 年官方公报原件未取得；薰衣草油在西班牙的 2 条记录尚未逐条核对药品／化妆品属性。本 Wave 未扩写其余 99 份 `indexed`、未重审前六轮 reviewed、未合并 `main`。
+**仍开放的证据缺口**：32 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；德国（melperone、benperidol、dibenzepin）、日本（cloxazolam、mexazolam、fludiazepam、clotiapine）、瑞典（propiomazine）、比利时／荷兰（penfluridol）的现行文本未取得；zotepine 仅读取 KEGG MEDICUS 的 2026-10 日本转录版而未核对 PMDA PDF；EMA／HMPC 的贯叶连翘专论访问返回服务器错误；美国 1989 年色氨酸 EMS 召回与法国 amineptine 1999 年官方公报原件未取得；西班牙薰衣草油 Lasea／Revisea 两条 CIMA 记录均属药品（分别按植物药／传统植物药注册），不得与普通化妆品或精油商品混同。本 Wave 未扩写其余 99 份 `indexed`、未重审前六轮 reviewed、未合并 `main`。
+
+
+### Wave 7 审阅修补记录（2026-10-24）
+
+本轮只做定点修补，不重新派发 32 份，不改变 11 reviewed / 18 basic / 3 indexed 的状态。
+
+- `hyperici-herba`：Cochrane 2008 与 SSRI 的 12 项比较属于**直接随机头对头试验**。汇总 RR 1.00（95% CI 0.90–1.11）不等于已严格证明等效／非劣，提取物和受试人群差异须保留。
+- `tryptophan`：Cochrane 2002 共 64 人的两项试验分别针对色氨酸和 5-HTP，合并 OR 不能充当色氨酸单药效应量或 Optimax 辅助治疗证据。删除单药抑郁治疗 C 行，保留英国标签辅助治疗 C+ 行并说明缺少直接试验。
+- `clotiapine`：西班牙说明书收载急性及慢性治疗，但现有对照研究不能证明长期复发预防。合并为一个 C+ 场景，维持剂量信息仍放 §4。
+- `zotepine`：阴性症状小样本试验留 §5，移除同一适应证内重复的独立 C+ 行。明确日文说明书来自 KEGG MEDICUS 转录、未逐页核对 PMDA 官方原件。英国正式撤销公告及现行法律状态未核实。
+- 共享来源事实：THR 33336/0003 是**贯叶连翘**而非薰衣草油。西班牙 Lasea／Revisea 两款均有 CIMA 药品记录，普通精油／化妆品不得继承其药品适应证。
+
+状态仍为 **141 reviewed / 102 indexed / 37 basic**（280 份），专题 15 份。实际合并状态以 PR 为准。
