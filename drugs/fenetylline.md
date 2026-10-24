@@ -1,38 +1,127 @@
-# fenetylline
+# fenetylline｜苯甲锡林（维基数据中文标签，zh；中国 2025 年版非药用类目录用名"芬乙茶碱"）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-25（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA10`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-CFR-SI`＝美国 **21 CFR 1308.11(f)(7)**「Schedule I — Stimulants」中 *Fenethylline*（DEA 药物代码 1503）现行条文，取自 eCFR 2026-01-01 生效版快照；`UK-MDA`＝英国《1971 年药物滥用法》（Misuse of Drugs Act 1971）**附表 2 第 III 部（Class C Drugs）第 1 段**列名物质 *Fenethylline*，取自 legislation.gov.uk 现行合并文本；`PMID:……`＝PubMed。本药**没有任何法域的现行产品说明书**，故下文不出现说明书章节号（§N）；§N 仅用于他所引文件的章节。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | fenetylline | WHO ATC/DDD Index 2026（`N06BA10`）|
-| 中文标签（维基数据，未核对监管核准名） | 苯甲锡林（zh） | Wikidata [Q27887794](https://www.wikidata.org/wiki/Q27887794) |
-| ATC 编码 | `N06BA10`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06BA Centrally acting sympathomimetics | WHO ATC/DDD Index 2026 |
-| 别名 | Captagon；phenethylline | Wikidata 英文别名 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `24840` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/24840.json)（RxNorm 首选名 `fenethylline`，与官方名不同） |
-| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 251 项“芬乙茶碱”（目录备注常用名 Fenetylline；目录英文化学名 1,3-Dimethyl-7-(2-((1-phenylpropan-2-yl)amino)ethyl)-1H-purine-2,6-dione；CAS 3736-08-1）。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**茶碱与安非他明的共价缀合物**：PubChem 结构名 1,3-dimethyl-7-［2-(1-phenylpropan-2-ylamino)ethyl］purine-2,6-dione，分子式 C18H23N5O2，CAS 3736-08-1；ATC 亚组 **N06BA（中枢作用的拟交感药）**。原始文献把它描述为"苯丙胺通过烷基链与茶碱共价连接"（`PMID:3743407`），但**缀合物本身是与母体不同的实体**，其药效不能按"安非他命＋茶碱"线性相加 |
+| 剂型与规格 | **本轮未在任何法域取得产品文本或包装规格**。文献记载 1960s–1980s 曾以口服制剂用于治疗，人体研究中出现的单次口服量包括 **50 mg**（16 名男性的实验心理生理学试验，`PMID:37853`）；**这不是处方建议，也不代表现行规格** |
+| 活性代谢物 | 人体尿液中可检出 **安非他命（amphetamine）** 与多种茶碱侧链代谢物：3 名男性志愿者 0–48 h 尿中以安非他命形式回收 **23–33%** 剂量、以羧甲基茶碱（carboxymethyl-TP）回收 **39–43%** 剂量（`PMID:3188572`）；另一路 N-脱烷基化生成 7-氨基乙基茶碱与苯基丙酮（`PMID:6742951`）。**这是代谢归属关系：安非他命是本药的代谢产物，不等于安非他命的效应、毒性或滥用数据可直接算作本药的数据** |
+| 关键药代摘要 | 人尿排泄谱提示**两条氧化裂解路径**，产生安非他命的途径在人与大鼠中占主导、在人更占优势（`PMID:3188572`）；另有 3H-标记物的人体代谢归宿研究（1970，`PMID:5496920`）与尿中 fenethylline／amphetamine 浓度测定（1982，`PMID:7082126`）的题录。本轮**未取得完整人体半衰期、Tmax 或生物利用度数值**（§10 第 3 项） |
+| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 251 项“芬乙茶碱”（目录备注常用名 Fenetylline；目录英文化学名 1,3-Dimethyl-7-(2-((1-phenylpropan-2-yl)amino)ethyl)-1H-purine-2,6-dione；CAS 3736-08-1）。（核查 2026-10-06；[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国：现行 21 CFR 1308.11(f)(7) 把 *Fenethylline* 列为附表 I（Schedule I）"兴奋剂"类物质，药物代码 1503**（`US-CFR-SI`）——该条文是对**物质**的分类，不是对某产品的批准或撤市决定。**英国：*Fenethylline* 现列于《1971 年药物滥用法》附表 2 第 III 部（Class C 受管制药物）**（`UK-MDA`，现行合并文本）。**其他法域本轮 0 命中**：DailyMed v2 `spls.json?drug_name=fenetylline` 与 openFDA `drug/label` 全文检索均 0 条；法国 BDPM 以 `startBy=FEN` 逐页（recordsTotal 106）与 `startBy=CAP`（34 条）未见本药及 Captagon；西班牙 CIMA REST `nombre=fenetylline`、`nombre=phenethylline`、`nombre=captagon` 均 `totalFilas=0`；英国 emc 检索页需脚本渲染、本轮未取得产品条目。**中国上市与核准适应证待核实** |
+| 身份与统计 | WHO ATC `N06BA10`，**2026 年索引未对本编码列 DDD**（N06BA 亚组注释："…classified in N06BA01"，即按安非他命类做统计归并，不代表本药等同 N06BA01）；Wikidata [Q27887794](https://www.wikidata.org/wiki/Q27887794)；PubChem [19527](https://pubchem.ncbi.nlm.nih.gov/compound/19527)；MeSH [C004518](https://meshb.nlm.nih.gov/record/ui?ui=C004518)；DrugBank [DB01482](https://www.drugbank.ca/r/DB01482)；RxNorm 首选名为 **fenethylline**（[RXCUI 24840](https://rxnav.nlm.nih.gov/REST/rxcui/24840.json)，与 ATC 名 fenetylline 拼写不同，属同一物质）；历史商品名 Captagon、Aponeuron、Prenylamin 等（`PMID:5040156`） |
 
-官方 2026 索引未对本编码列出 DDD。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。分数是证据与负担的整理，不构成对个体是否用药的判断。**本药特异的证据极少，多处记 `N/A` 而非凑分。**
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 2 | 本药特异的长期人体安全性研究**本轮未定位**；能给分的只有两条：① 老文献断言其"不良反应少"（`PMID:3743408`，非对照的叙述性总结，不能当作安全性证明）；② 代谢释出安非他命（`PMID:3188572`），但安非他命的长期风险属**类别证据**，不外推为本药已证实的长期风险。取低分 2 表示"未见本药特异的长期危害记录"，**不是**"已证明安全" |
+| 短期耐受负担 | 2 | 唯一读到设计的人体给药研究是 16 名男性单次口服 50 mg 与安慰剂对照的实验心理生理学检查，作者报告药理物质可使不同"激活指标"彼此分离、并未见一致的经典激活效应（`PMID:37853`）；1986 年综述亦称"不良反应少"（`PMID:3743408`）。**无频率表、无说明书不良事件章节**，故只给 2；另有 1979 年一例 fenetylline 中毒的法医学报告（`PMID:433462`，本轮仅题录） |
+| 相互作用／监测负担 | N/A | 无现行说明书、无监测要求文本，也**没有本药特异的药物相互作用研究**；不能借用安非他命或茶碱各自的相互作用清单为本药打分 |
+| 停药负担 | N/A | 本轮未检索到本药的人体停药／戒断研究；动物辨别刺激实验中 fenetylline 主要产生**盐水侧**应答（鸽子，`PMID:2885408`），属非临床线索，既不能证明也不能否定人体停药反应。停药与滥用分开判断 |
+| 滥用／误用潜力 | 3 | 只有三条**本药特异**依据、且方向相反：① 联邦德国药物警戒体系（SAWS）与 WHO 审议资料把 fenetylline 列为当时"最受关注的滥用物质之一"（`PMID:2874968`）；② 生产方阵营的综述自称其滥用潜能低于安非他命、实际滥用很少（`PMID:3743408`）；③ **现行监管认定**：美国附表 I（`US-CFR-SI`）与英国《1971 年药物滥用法》附表 2 第 III 部 C 类列名（`UK-MDA`）。加上其代谢释出安非他命（`PMID:3188572`）构成药理学动机，但**本药自身的人体强化效应／自身给药证据缺失**，故给中位 3 而非更高；**"Captagon"今日在中东的查获量、流行率与毒性不作为本维度的依据**（理由见 §7） |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本药无中国上市产品、无中国处方或药物利用数据；2017 版《中国老年人潜在不适当用药判断标准》本轮未逐名检索到本药（§10 第 6 项）。中国列管（非药用类第 251 项）是**管制事实**，不是处方不当率，不能据此给分 |
 
-- WHO ATC/DDD Index 2026：[N06BA10](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA10)
-- Wikidata（CC0）：[Q27887794](https://www.wikidata.org/wiki/Q27887794)
-- PubChem CID（经 Wikidata）：[19527](https://pubchem.ncbi.nlm.nih.gov/compound/19527)
-- MeSH 描述符（经 Wikidata）：[C004518](https://meshb.nlm.nih.gov/record/ui?ui=C004518)
-- DrugBank ID（经 Wikidata）：[DB01482](https://www.drugbank.ca/r/DB01482)
-- English Wikipedia（标题指针，未复制正文）：[Fenethylline](https://en.wikipedia.org/wiki/Fenethylline)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 24840](https://rxnav.nlm.nih.gov/REST/rxcui/24840.json)
+总体解释：fenetylline 的负担形状是"**证据形状问题**"：人体代谢清楚（释出安非他命与茶碱侧链代谢物），但疗效、耐受性、长期危害都停留在 1960s–1980s 的小样本与叙述性总结，且没有任何现行产品文本可作为基准。美国附表 I 的定性（无公认医疗用途）是**监管对物质的分类**，可以引用为本药法律地位与"当前无批准用途"的事实，但不能替代剂量、禁忌或不良反应证据。
+
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不为本药设立可评分场景**，因此下表无行；理由逐项列出，避免以"未获批"充数：
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
+| --- | --- | --- | --- |
+
+- **儿童过动／注意缺陷**：历史上曾以此用途上市并使用（"23 年以上用于治疗过动儿童等适应证"，`PMID:3743408`），但本轮**只取得题录**的对照研究（1970 年西班牙语过动儿童定量临床分析 `PMID:5510076`；1975 年 Captagon 治疗"最小脑功能障碍"临床研究 `PMID:1187555`）没有任何可读的效应量或终点数据，无法构成"有当前决策价值的本药特异疗效证据"（§5）。
+- **促醒／抗疲劳、发作性睡病**：本轮未检索到本药的随机对照试验，**不得**用安非他命、哌甲酯、莫达非尼的疗效数据替代。
+- **减肥／食欲抑制**：`PMID:3743407` 报告本药在部分测试系统中**抑制**与安非他命相关的活动、并类比芬氟拉明，属临床前／实验观察，非治疗结局。
+- **"Captagon"相关就诊或查获场景**：非医疗使用与非法压片问题写在 §7，按规则不作为 A–D 医疗适宜度场景。
+
+## 3. 主要作用
+
+分子层面：**茶碱（1,3-二甲基黄嘌呤）通过乙基胺链与苯丙胺共价连接**（`PMID:3743407`）。药代—药效关系研究比较了本药与其两个假想初级代谢物（±-安非他命、茶碱）的活性谱，结论是：本药分子中理论上可释放的安非他命**只有小部分被释放**，且**药效更接近母药血浆浓度而非所生成的安非他命**（`PMID:3743407`）；而另一组人体物料平衡研究在 0–48 h 尿中回收了 23–33% 剂量的安非他命（`PMID:3188572`）。**这两件事并存且未被调和**：前者强调母药主导、后者强调安非他命通路占优，任何一侧都不能被写成定论。
+
+实验心理生理学方面：单次 50 mg 口服（16 名男性，与 40 mg 甲芬雷司及安慰剂对照，给药后 1–7 h 测试）未产生一致的经典中枢激活指标变化，作者提示不同"激活指标"可被药物分离（`PMID:37853`）。动物辨别刺激实验中 fenetylline 主要产生盐水侧应答，与多数安非他命类食欲抑制剂不同（鸽子，`PMID:2885408`）。现代临床前研究（大鼠疫苗"拆解"实验）提出其"快速起效与独特的精神活性"来自**茶碱与安非他命的功能性协同**（`PMID:28813419`）——这是对本药分子的解释性假说，属于临床前证据。
+
+## 4. 适应范围
+
+**现行任何法域均无本药的批准适应证**（依 §1 的检索结果）。美国的物质级现行文本把它列于附表 I 兴奋剂清单（`US-CFR-SI`），该清单本身不附带适应证。
+
+**历史用途（文献记载，非当前核准）**：1986 年 WHO 审议前后发表的综述称本药作为中枢兴奋剂"23 年以上"用于**过动儿童及其他需要替代高风险安非他命的适应证**，并主张应由国家当局规定处方资格（`PMID:3743408`）；同系列的另一篇文档类论文汇总了各国合法制造、分销与医疗用途，以及滥用与非法制造监测（联邦德国 SAWS 等）（`PMID:2874968`）。**本轮未取得这些历史适应证的原始处方文本、规格或剂量方案**（§10 第 2 项）。
+
+**中国**：本药列入 2025 年版《非药用类麻醉药品和精神药品目录》第 251 项（见 §1），属**非药用类管制物质**；其中国上市与核准适应证待核实。
+
+## 5. 实际效果与局限
+
+- **可读的人体对照证据只有 1978 年一项**：16 名男性、单次口服 50 mg、与 40 mg 甲芬雷司及安慰剂平行、给药后 1–7 h 的心理生理与心理测验电池；主要结论是"药理物质可使不同激活指标发生分离"，对食欲与中枢激活共变的检验"结果不确定"（`PMID:37853`）。终点是实验室指标，**不是治疗结局**，样本量小。
+- **过动儿童的两项研究仅有题录**：`PMID:5510076`（1970，西班牙语，过动儿童的"定量临床分析"）与 `PMID:1187555`（1975，Captagon 治疗最小脑功能障碍综合征）本轮**未取得摘要与数值**，故不引用其方向、效应量或结论；同理，1960s 的一批德语／波兰语／日语题录（`PMID:4380330`、`PMID:5805112`、`PMID:5663159`、`PMID:13980338`、`PMID:13870498`）只能证明"当时有人做过临床研究"，不能证明有效。
+- **代谢研究是本品最扎实的一段**：`PMID:3188572`（3 名男性志愿者＋大鼠，六种类尿代谢物鉴定与定量）、`PMID:6742951`（新增代谢路径：N-脱烷基化生成 7-氨基乙基茶碱与苯基丙酮）、`PMID:3401264`（口服后尿中新检出 7 种代谢物）、`PMID:5496920`（3H-fenetylline 人体代谢归宿，本轮仅题录）。
+- **滥用与疗效的"立场冲突"**：`PMID:3743408` 由生产方相关作者撰写，结论是"获益—风险比明显优于其他中枢兴奋剂"，而同期 WHO 配套综述把 fenetylline 列为滥用关注度最高的物质之一（`PMID:2874968`）。两条都是**同一时代、同一议题**的文献，必须并列保留，不能择一采信。
+- **局限**：本药没有现行说明书、没有现代意义上的注册试验、没有对照充分的治疗终点数据，"实际效果"因此只能停在"历史记载＋小样本实验室指标"层级。
+
+## 6. 长期风险
+
+本轮**未定位任何本药特异的长期（数周以上）人体安全性研究**，也无可引用的说明书长期用药条款，因此本节不列清单式风险，只保留可核事实：
+
+- 长期给药相关的唯一线索来自监管与审议文献：本药在 1985 年 4 月被 WHO 专家组列入"考虑依 1971 年精神药物公约实行国际列管"的清单（`PMID:3743408`），并在各国汇总报告中被列为当时滥用关注度最高的兴奋剂之一（`PMID:2874968`）；美国现将其列为附表 I 物质（`US-CFR-SI`）。这些是**依赖性与滥用风险层面的监管信号**，不构成器官毒性或长期并发症证据。
+- 代谢学上的长期含义：本药持续释出安非他命（尿中 23–33% 剂量）意味着"本药没有安非他命类长期风险"这一说法**没有依据**；但安非他命的长期风险数据属类别证据，本条目不换算为本药的发生率或强度。
+- 茶碱侧链代谢物（羧甲基茶碱 39–43% 剂量等，`PMID:3188572`）的长期毒理学本轮未检索到研究。
+
+## 7. 短期风险、停药与误用
+
+**短期**：可读的人体单次给药资料未见一致激活效应（`PMID:37853`）；1986 年综述称"不良反应少"（`PMID:3743408`）。法医／临床毒理方面，1979 年德语文献报告一例 fenetylline（Captagon）中毒的中毒—诊断与法医问题（"comen dépassé"，`PMID:433462`，本轮仅题录，未取得剂量与转归数值）；1982 年报告了服用 Captagon 后尿中 fenethylline 与安非他命的浓度（`PMID:7082126`，仅题录）。
+
+**停药**：本药特异的停药研究缺失，评分记 `N/A`（§2.1）。
+
+**误用与命名陷阱（本条目最关键的一段）**：
+- 今日中东所称"Captagon"药片与历史上的 fenetylline 药品**不是同一实体**。约旦对 **124 批查获"Captagon"片**做 GC-MS 定性，检出**安非他命与咖啡因等多种物质，且未检出 fenethylline**（`PMID:15978343`）；2026 年仍有针对"假冒 Captagon 片"的物理化学与化学计量学区分研究（`PMID:42913084`）。因此，**查获量、片剂成分、 street prevalence、心脏或精神毒性事件（如 `PMID:40151181`、`PMID:27766667` 所综述者）都只能作为"名称与非法制剂的历史"事实，不能充当本药的强化效应、剂量、使用率或毒性证据**。
+- 二手综述称本药"1986 年后停止合法生产，此后出现东南欧与远东的非法仿制"（`PMID:27766667`）；本轮**未定位任何监管机构的停产或撤销正式文件**，该日期只作综述转述（§10 第 2 项）。
+- 就本药分子本身而言，历史监测信号见 §2.1（`PMID:2874968` vs `PMID:3743408`）。
+
+## 8. 重要相互作用
+
+**没有本药特异的相互作用研究被本轮定位，也没有可引用的说明书药物相互作用章节。**可以确证的只有代谢层面的两条衔接事实，它们提示"如果本药存在暴露，需要考虑的机制"，但不构成已验证的相互作用清单：
+
+- 本药在人体经氧化裂解**释出安非他命**（`PMID:3188572`、`PMID:6742951`），因此与影响尿 pH／排泄或单胺能系统的因素对本药代谢物暴露的意义不能忽略；但**安非他命的相互作用条目不外推为本药的相互作用条目**。
+- 分子含**茶碱（黄嘌呤）**部分；`PMID:3743407` 明确比较了本药与茶碱本身的活性谱，说明"茶碱部分"在本药中的贡献不能等同于口服茶碱制剂；黄嘌呤类的相互作用清单同样不外推。
+
+结论：本节按规则**不给分数、不给清单**，缺口记入 §10 第 4 项。
+
+## 9. 特殊人群
+
+本药无任何现行核准文本，因此不存在可引用的妊娠／哺乳、儿童、老年或肝肾功能条款，历史文献也未提供按人群分层的安全性数据。可核事实只有：历史上曾把本药用于**儿童过动**（`PMID:3743408`、`PMID:5510076`、`PMID:1187555`），以及成人试验中的 16 名男性单次给药（`PMID:37853`）与 3 名男性代谢研究（`PMID:3188572`）。**本条不构成任何人群的使用建议**；在中国，本药属非药用类列管物质（§1），涉及持有与使用另有法律限制。
+
+## 10. 证据边界
+
+1. **零命中只说明检索缺口**：DailyMed v2（`spls.json?drug_name=fenetylline`，`total_elements=0`）、openFDA `drug/label` 全文检索（无本药记录）、法国 BDPM（`startBy=FEN` 共 106 条中无本药，`startBy=CAP` 无 Captagon）、西班牙 CIMA REST（`nombre=fenetylline / phenethylline / captagon` 均 `totalFilas=0`）——**这些"0"不能写成"某国从未批准"或"已撤市"**。英国 emc 的 `/emc/search?q=fenetylline` 返回需脚本渲染的结果容器，本轮未取得产品条目；意大利、德国无脚本化公开接口，历史产品（Captagon 等）的持证方、规格与撤市日期**均未核**。
+2. **撤市／停产日期与原因未核**：本轮以"fenetylline／phenethylline／captagon"检索 Federal Register（`conditions[term]=fenetylline` 命中 5 条全为关税与反兴奋剂条例噪声；`conditions[term]="fenethylline"` 命中 195 条，抽样可见 1994 年起的 DEA 进出口与制造注册通知，说明美国 DEA 长期把该物质当作受控物质处理，但**不含列管决定本体**，FR API 覆盖始于 1994 年）。WHO 国际列管方面只核到"1985 年 4 月被列入审议清单"（`PMID:3743408`），**附表级别与生效日未从公约正式文件核对**。
+3. **人体药代数值不完整**：只有尿排泄百分比与代谢物定性（`PMID:3188572`、`PMID:6742951`、`PMID:3401264`），无完整血浆曲线、半衰期或口服生物利用度。
+4. **无现行说明书 ⇒ 无禁忌、警示、监测与相互作用原始条款**，§6、§8 因此为空是证据边界而非"无风险"。
+5. **安非他命是他药**：本条目所有分数只用本药自身证据；凡涉及安非他命的效应、毒性、滥用率、管制级别，均只作为代谢产物或监管背景的说明，不参与打分。
+6. **中国 2017 版 PIM 标准**未逐条检索本药名（该药无中国流通），中国维度记 `N/A`；中国 NMPA／CDE 公开入口不可脚本检索，上市状态保留"待核实"。
+7. **未核实身份别名**："Aponeuron""Prenylamin"等名称来自 1972 年一篇题目即声称其为"释放安非他命的药物"的文献（`PMID:5040156`），本轮未逐一核对这些商品名各自对应的活性成分与国别。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：唯一有专题价值的问题是"历史上合法的 fenetylline 与今日假冒 Captagon 片如何区分"，其答案已由 §7 与 `PMID:15978343` 承担；本药剩余的空白（无现行文本、无长期数据）不可能靠拆解旧文献补足。
+
+**监管与官方文件**：[21 CFR 1308.11 Schedule I（eCFR，2026-01-01 版全文 XML，含 (f)(7) Fenethylline 1503）](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.11)；[英国《1971 年药物滥用法》附表 2 全文（legislation.gov.uk 合并文本，第 III 部 Class C 含 Fenethylline）](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2)；[该附表的机器可读全文 XML](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2/data.xml)；[Federal Register 全文检索 "fenethylline"（195 条，多为 DEA 麻精注册通知）](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22fenethylline%22&per_page=20&order=oldest)；[DailyMed v2 SPL 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fenetylline)；[openFDA 药品标签检索](https://api.fda.gov/drug/label.json?search=%22fenetylline%22)；[法国 BDPM 字母索引接口（startBy=FEN）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FEN&page=1&limit=20)；[西班牙 AEMPS CIMA REST（nombre=fenetylline）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=fenetylline)；[英国 emc 检索](https://www.medicines.org.uk/emc/search?q=fenetylline)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+
+**指南与综述／监管审议文献**：[Fenetylline：治疗使用、滥用与／或依赖（`PMID:3743408`）](https://pubmed.ncbi.nlm.nih.gov/3743408/)；[受 WHO 审议的兴奋性与致幻性苯丙胺衍生物在各国用途、适应证与分布（`PMID:2874968`）](https://pubmed.ncbi.nlm.nih.gov/2874968/)；[Fenetylline 的药理学、代谢与动力学新结果（`PMID:3743407`）](https://pubmed.ncbi.nlm.nih.gov/3743407/)。
+
+**研究**：[大鼠与人体 fenetylline 代谢归宿（`PMID:3188572`）](https://pubmed.ncbi.nlm.nih.gov/3188572/)；[fenethylline 新代谢物的检出与鉴定（`PMID:6742951`）](https://pubmed.ncbi.nlm.nih.gov/6742951/)；[fenetylline 生物转化（德文，`PMID:3401264`）](https://pubmed.ncbi.nlm.nih.gov/3401264/)；[^3H-fenetylline 的人体代谢归宿（题录，`PMID:5496920`）](https://pubmed.ncbi.nlm.nih.gov/5496920/)；[fenetylline 与 mefenorex 的实验心理生理学研究（`PMID:37853`）](https://pubmed.ncbi.nlm.nih.gov/37853/)；[鸽子安非他命辨别刺激下的食欲抑制剂比较（`PMID:2885408`）](https://pubmed.ncbi.nlm.nih.gov/2885408/)；[过动儿童 phenethylline（Captagon）效果的定量临床分析（题录，`PMID:5510076`）](https://pubmed.ncbi.nlm.nih.gov/5510076/)；[Captagon 治疗最小脑功能障碍（题录，`PMID:1187555`）](https://pubmed.ncbi.nlm.nih.gov/1187555/)；[服用 Captagon 后尿中 fenethylline 与安非他命水平（题录，`PMID:7082126`）](https://pubmed.ncbi.nlm.nih.gov/7082126/)；[fenetylline 中毒的法医毒理个案（题录，`PMID:433462`）](https://pubmed.ncbi.nlm.nih.gov/433462/)；[疫苗"拆解"fenethylline 精神活性（`PMID:28813419`）](https://pubmed.ncbi.nlm.nih.gov/28813419/)；**命名与假冒制剂**：[约旦 124 批假冒 Captagon 片的化学定性（`PMID:15978343`）](https://pubmed.ncbi.nlm.nih.gov/15978343/)；[中东 Captagon 使用与贸易（`PMID:27766667`）](https://pubmed.ncbi.nlm.nih.gov/27766667/)；[fenethylline（captagon）健康危害与非法贸易的系统综述（`PMID:40151181`）](https://pubmed.ncbi.nlm.nih.gov/40151181/)；[假冒 Captagon 片物理化学与化学计量学画像（`PMID:42913084`）](https://pubmed.ncbi.nlm.nih.gov/42913084/)。
+
+**美国联邦列管交叉核对**：DEA《Alphabetic Order of Controlled Substances》（本轮取回 PDF 后逐名核对）本药按 **Fenethylline、CSA 码 1503、附表 I（Schedule I）** 收载，商品名列记 Captagon／amfetyline／ethyltheophylline。该名单只证明联邦列管层级与 DEA 物质码，**不证明本药的医疗用途、滥用率或某项 CFR 段落编号**；正文引用的 CFR 段落号取自 eCFR 快照，本轮未能独立复核到段落一级（[DEA 字母顺序表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)）。
+
+**分类与身份**：[WHO ATC/DDD Index `N06BA10`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA10)；[Wikidata Q27887794](https://www.wikidata.org/wiki/Q27887794)；[PubChem CID 19527](https://pubchem.ncbi.nlm.nih.gov/compound/19527)；[MeSH C004518](https://meshb.nlm.nih.gov/record/ui?ui=C004518)；[DrugBank DB01482](https://www.drugbank.ca/r/DB01482)；[RxNorm RXCUI 24840](https://rxnav.nlm.nih.gov/REST/rxcui/24840.json)；English Wikipedia（标题指针，未复制正文）：[Fenethylline](https://en.wikipedia.org/wiki/Fenethylline)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
