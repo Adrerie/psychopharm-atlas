@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 7 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave7`，以 Wave 6 已通过 PR #9 合并的 `main` 为基线。**执行范围以文末 Wave 7 计划为准**，Wave 1–6 均是历史记录，不要重复执行。
+> 当前任务：**Wave 8 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave8`，基于 Wave 7 已通过 PR #10 合并的 `main`。**本轮执行范围仅以文末 Wave 8 计划为准**。Wave 1–7 均为历史记录，不重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -367,3 +367,28 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - 共享来源事实：THR 33336/0003 是**贯叶连翘**而非薰衣草油。西班牙 Lasea／Revisea 两款均有 CIMA 药品记录，普通精油／化妆品不得继承其药品适应证。
 
 状态仍为 **141 reviewed / 102 indexed / 37 basic**（280 份），专题 15 份。实际合并状态以 PR 为准。
+
+
+## Wave 8 批量建档计划（2026-10-24）
+
+**状态：待执行。** 基线为已合并 Wave 7 PR #10 的 `main`：**141 reviewed / 102 indexed / 37 basic**，共 280 份档案与 15 份专题。下列 **32 个文件已在 `main` 逐份确认存在且状态均为 `indexed`**，无前七轮的重复任务。目的是补齐跨治疗组的临床档案，保持真实取证结果而非规定必须升级几份。
+
+### 一次派发的四组清单（每组 8 份）
+
+- **A｜抗精神病药、长效制剂及历史撤市药**：`promazine`、`perazine`、`pipotiazine`、`bromperidol`、`fluspirilene`、`remoxipride`、`levosulpiride`、`mesoridazine`。
+- **B｜苯二氮䓬类、镇静催眠及历史高风险药**：`loprazolam`、`cinolazepam`、`triclofos`、`niaprazine`、`valnoctamide`、`methaqualone`、`glutethimide`、`adinazolam`。
+- **C｜早期与地区性抗抑郁药、MAOI**：`iprindole`、`butriptyline`、`toloxatone`、`nialamide`、`iproniazide`、`quinupramine`、`bifemelane`、`medifoxamine`。
+- **D｜认知／神经功能相关药与补充剂边界**：`meclofenoxate`、`pyritinol`、`aniracetam`、`acetylcarnitine`、`idebenone`、`pramiracetam`、`vinpocetine`、`propentofylline`。
+
+### 执行要求与重点核查
+
+1. 主代理先阅读 `AGENTS.md`、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 和喹硫平样板。**一次性派发全部四组，允许最多 4 个并行子代理**，每个代理只编辑分配组的 8 份药物文件。不得交叉改文件或嵌套派发。共享文件（`PLAN.md`、`README.md`、`catalog/index.md`、`AGENTS.md`）仅由主代理更新与提交。不拆成需要人工确认的多阶段任务。
+2. 主条目优先回答身份与 ATC、**现行具体产品／法域／剂型／标签版本**、中国管制与注册核实结果、获批用途与有实际价值的使用场景、关键本药特异临床结果、短期／长期风险、停药依赖／误用、重要相互作用及证据缺口。来源按监管文件 → 指南与高质量系统综述 → 原始临床研究处理。没有官方产品文本时坦陈缺口，可保持 `basic` 或 `indexed`，不得用同类药、商品名片段、旧论文或他国标签冒充现行批准。正式撤销要区分公告日、生效日、停售、撤销及安全原因。
+3. **A 组重点**：`pipotiazine`、`fluspirilene` 区分长效注射与单方的剂型特有负担；`levosulpiride` 的胃肠动力用途与精神科用途按具体获批法域和剂量分别写，不能混用；`remoxipride`、`mesoridazine` 的历史安全问题与各国产品法律状态用官方公告核对，不因停销本身生成 D 行。
+4. **B 组重点**：`triclofos`、`niaprazine` 特别核对儿童用途、年龄和产品剂型，不把老年／儿童当独立评分行；`methaqualone`、`glutethimide`、`adinazolam` 区分历史医学使用、列管、非医疗误用与现行批准，不以同类别的依赖性替代本药人体资料；`valnoctamide` 须区分历史制剂、临床研究与相关化合物（如 valproate）。
+5. **C 组重点**：地区性 MAOI 与三环类必须先确认单方实体和现行具体说明书。对 `iproniazide`、`medifoxamine` 等历史风险或撤市，核实事实发生日期与正式来源，不能只凭二手综述宣称某法域已撤销。抗抑郁疗效与安全性按本药研究评价，不借相邻药物及复方的证据。
+6. **D 组重点**：严格区分**药品与膳食补充剂／保健品／兽药制剂**。对 `idebenone`、`vinpocetine`、`acetylcarnitine`、`propentofylline` 等，核对产品、批准法域、适应证及其现时状态，不从某一法域或某一用途推导全球精神科疗效。对认知、痴呆、卒中及其他神经疾病研究，需区分独立药物特异随机试验、不同疾病人群及长期硬终点。**Meta-analysis（荟萃分析）合并多个分子时，不得把合并效应量当作单一分子的定量疗效，直接头对头与间接比较必须分清。**
+7. A–D 仅评价获批或有当前决策意义、具本药特异证据的实际场景。年龄组、禁忌、停药、监测、普通剂量变化、纯粹“未获批”与临床症状亚型，不为凑分独立成行。评分单元格只写 1–3 个关键依据。对“维持治疗”“复发预防”“非劣／等效”等结论须核对真实研究设计和终点，**标签允许长期用药不等于有随机复发预防证据**。资料不足记 `N/A` 或不设场景，不强求 32 份都达 `reviewed`。
+8. 仅当证据冲突超出主条目可解释范围时新增专题，不设数量配额。主代理结束时复核 32 份的结构、证据、主要链接、A–D 语义及相对路径，按真实结果更新 `catalog/index.md`、`README.md` 和本计划完成记录，提交并推送 `plan/reviewed-expansion-wave8`，**等待审阅，不合并 `main`**。缺口记录后继续，不因单药无法取证而中断全部任务。
+
+**不做**：不重写 Waves 1–7、不返工既有 `basic`、不扩写计划之外的 70 份 `indexed`、不引入 CI、爬虫、数据库、自动评分器、分阶段审批、字数配额或无独立必要的专题；不把数据库检索零命中写成从未批准或已撤市。
