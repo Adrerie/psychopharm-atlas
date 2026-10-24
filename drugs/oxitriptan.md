@@ -1,40 +1,102 @@
-# oxitriptan
+# oxitriptan｜5-羟色氨酸（5-HTP；维基数据中文标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-25（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX01`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`US-FR-2019`＝美国 Federal Register 文件 **84 FR 32268**（文档号 2019-14355，FDA，"口服奥西曲坦（5-HTP）制剂用于四氢生物蝶呤（BH4）缺乏症患者特定复方配制的合规政策；立即生效的行业指南；可供性"，发布 **2019-07-08**）；`PMID:……`＝PubMed。本轮无产品说明书类 `*-LABEL` 键。§N 指相应文件章节号。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | oxitriptan | WHO ATC/DDD Index 2026（`N06AX01`）|
-| 中文标签（维基数据，未核对监管核准名） | 5-羟色氨酸（zh） | Wikidata [Q238544](https://www.wikidata.org/wiki/Q238544) |
-| ATC 编码 | `N06AX01`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N06AX Other antidepressants | WHO ATC/DDD Index 2026 |
-| 别名 | 5-Hydroxy-L-Tryptophan；5-Hydroxytryptophan L-form；5-hydroxy-tryptophan；5-hydroxytryptophan；Cincofarm；Hydroxy-5 L-tryptophane；L-5-Hydroxytryptophan；Levothym；Tript-OH | Wikidata 英文别名 |
-| 第三方数据库归类线索 | DL-5-hydroxytryptophan、amino acid | Wikidata P279，仅作检索线索 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `94` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/94.json)（RxNorm 首选名 `5-hydroxytryptophan`，与官方名不同） |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“oxitriptan / 5-羟色氨酸”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件（本药吲哚 N1 为氢、3 位为丙氨酸侧链，其羧基未构成图式要求的环碳 -C(=O)Z-R3 排布，不符合合成大麻素类目录结构式图所列母核通式）。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**L-5-羟色氨酸（5-HTP）：血清素的直接前体／药物型前药**，经芳香族 L-氨基酸脱羧酶生成 5-HT。**⚠ 实体红线：本药是 5-HTP，不是 L-色氨酸（tryptophan）**——仓库 [tryptophan 条目](tryptophan.md) 中两物质合并的荟萃估计与本药无关，不得搬用；两者药代、剂量与安全语境均不同 |
+| 主要剂型／规格 | 药品语境：历史口服制剂（法国等地曾用商品名 Cincofarm、Levothym、Tript-OH 等，二手来源）；美国无批准药品，FDA 2019 年合规政策针对**复方配制的口服 oxitriptan 制剂**（BH4 缺乏症用途）（`US-FR-2019`）。补充剂语境：以 *Griffonia simplicifolia* 种子提取物为原料的膳食补充剂（美／英／法等地 OTC 销售，二手综述）。**WHO 2026 索引未对本编码列 DDD** |
+| 关键药代摘要 | 本药可透过血脑屏障，外周大量被氨基酸脱羧酶转化为 5-HT（故历史上曾与卡比多巴等外周脱羧酶抑制剂合用）（`PMID:16023217`，综述）；iv 60 mg 人体激发试验见血浆 5-HTP 与皮质醇／β-内啡肽／褪黑素显著升高（`PMID:2139731`）。本轮未取得系统人体 PK 参数文本 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"oxitriptan / 5-羟色氨酸"；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件（本药吲哚 N1 为氢、3 位为丙氨酸侧链，其羧基未构成图式要求的环碳 -C(=O)Z-R3 排布，不符合合成大麻素类目录结构式图所列母核通式）。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国**：无批准的 oxitriptan 单方药品；openFDA 按 generic_name "5-HYDROXYTRYPTOPHAN" 检索 4 条均为多成分（顺势／复方）记录，DailyMed 检索命中的 NEURO 3 喷雾、ELEVATE、5-HTP PHENOLIC 均为多成分顺势制品，**不能用作本药批准证据**；FDA 仅有复方配制合规政策（2019-07-08 生效，`US-FR-2019`），**该政策≠药品批准**。**欧洲**：法国历史药品文本未定位（BDPM 现售名单 CINCO／TRIPT 前缀 0 条，只作检索缺口）；"某些欧洲国家以药品身份销售用于重症抑郁"出自英文维基（二手）。**中国**：药品身份与批准状态待核实；作为食品原料／补充剂的边界另待核实 |
+| 身份与统计 | WHO ATC `N06AX01`；**无 DDD**；CAS 4350-09-8；Wikidata [Q238544](https://www.wikidata.org/wiki/Q238544)；PubChem [439280](https://pubchem.ncbi.nlm.nih.gov/compound/439280)、[6971044](https://pubchem.ncbi.nlm.nih.gov/compound/6971044)；MeSH [D006916](https://meshb.nlm.nih.gov/record/ui?ui=D006916)；DrugBank [DB02959](https://www.drugbank.ca/r/DB02959)；RxNorm [RXCUI 94](https://rxnav.nlm.nih.gov/REST/rxcui/94.json)（首选名 5-hydroxytryptophan）；English Wikipedia（标题指针，未复制正文）：[5-Hydroxytryptophan](https://en.wikipedia.org/wiki/5-Hydroxytryptophan) |
 
-官方 2026 索引未对本编码列出 DDD。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。本条以**药品语境**为主锚定；补充剂语境单列区分，不参与同一场景评分。分数**不构成对个体是否用药的判断**。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | ① **嗜酸性粒细胞增多相关信号**：一例抑郁患者由 L-色氨酸换为 oxitriptan 后出现严重无症状嗜酸性粒细胞增多、停药后消失（`PMID:1603192`）；商品化 5-HTP 中被检出"peak X"类 EMS 病例相关污染物家族（8/8 样本含≥3 种）（`PMID:10721089`）。**归因边界必须写明：1989 年 EMS 大流行归因于受污染的 L-色氨酸批次（昭和电工），不能整体搬给 5-HTP；5-HTP 与 EMS 的关联 Cochrane 明言"未被阐明"**（`PMID:11869656`）；② 5-HT 综合征（与血清素能药合用，`PMID:16023217` 综述） |
+| 短期耐受负担 | 3 | iv 60 mg 激发试验中患者"尽管出现**严重副作用**仍无焦虑抑郁加重"（`PMID:2139731`）；补充剂综述列恶心、呕吐、腹泻、食欲下降（`PMID:16023217`）。外周转 5-HT 多，GI 反应突出，故分剂量给药为历史实践 |
+| 相互作用／监测负担 | 4 | 与 MAOI／SSRI 等血清素能药合用为 5-HT 综合征高危组合（`PMID:16023217`）；与外周脱羧酶抑制剂（卡比多巴）合用改变外周转归（药代相互作用，`PMID:16023217`）。前体供体的叠加机制使其与多类精神科用药合用需评估，评 4 |
+| 停药负担 | N/A | 无本药特异的随机停药／反跳研究，记 `N/A`；不得借 SSRI 撤药谱代填 |
+| 滥用／误用潜力 | N/A | 无强化效应、自身给药或带分母的非医疗使用证据，记 `N/A` |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本药无中国批准文本，2017 版中国 PIM 标准无逐名条目；补充剂使用无中国处方数据，记 `N/A` |
 
-- WHO ATC/DDD Index 2026：[N06AX01](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX01)
-- Wikidata（CC0）：[Q238544](https://www.wikidata.org/wiki/Q238544)
-- PubChem CID（经 Wikidata）：[439280](https://pubchem.ncbi.nlm.nih.gov/compound/439280)
-- PubChem CID（经 Wikidata）：[6971044](https://pubchem.ncbi.nlm.nih.gov/compound/6971044)
-- MeSH 描述符（经 Wikidata）：[D006916](https://meshb.nlm.nih.gov/record/ui?ui=D006916)
-- DrugBank ID（经 Wikidata）：[DB02959](https://www.drugbank.ca/r/DB02959)
-- English Wikipedia（标题指针，未复制正文）：[5-Hydroxytryptophan](https://en.wikipedia.org/wiki/5-Hydroxytryptophan)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 94](https://rxnav.nlm.nih.gov/REST/rxcui/94.json)
+总体解释：本药负担的难点不在常规不良反应，而在**归因纪律**：EMS 的历史大头属于 L-色氨酸污染批次，5-HTP 只有污染物检出与个别嗜酸增多个案，二者必须分层写；可确认的本药特异机制性风险是与血清素能药物的叠加（5-HT 综合征）。补充剂产品无标签外纯度监管，是长期风险的放大器，但这属于语境风险而非分子固有属性。
+
+### 2.2 按使用场景适宜度（A–D）
+
+| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
+| --- | --- | --- | --- |
+| 抑郁（轻中度单相抑郁的自用／辅助选择，药品与补充剂两个语境） | 美国：非药品、无批准（仅 BH4 缺乏复方配制合规政策）；欧洲：历史药品无可核现行文本；日常可得为膳食补充剂 | C- | Cochrane 检索到的合格试验极少、仅一项针对本药单药且为小样本，综述把 5-HTP 与 L-色氨酸**跨物质合并**给出汇总估计——**该合并 OR 不是本药效应量**（设计与数值见 §5，`PMID:11869656`）；难治抑郁开放对照中本药臂基本无效（`PMID:3146891`）；限制：GI 反应、嗜酸增多个案与血清素能叠加 |
+
+**不设为场景的内容**：① **难治性抑郁**——Nolen 1988 开放交叉比较中 L-5HTP 组除 1 例外均无改善（`PMID:3146891`），是阴性结果，但为开放设计且对照药为反苯环丙胺，本条把该证据并入上行做限定，不另设 D 行；② **惊恐障碍**——iv 5-HTP 无治疗声称证据（`PMID:2139731`），无当前决策价值，留 §5；③ 肥胖、失眠、纤维肌痛等补充剂用途无本药药品级证据，不进入 A–D；④ **BH4 缺乏症**属美国配制合规语境的特殊用药，本轮无疗效数据，只记 §4，不评分。
+
+## 3. 主要作用
+
+5-HTP 是色氨酸羟化酶产物、5-HT 的直接前体：**可透过血脑屏障，中枢内经脱羧生成 5-HT**；外周亦被芳香族 L-氨基酸脱羧酶大量转化（这是 GI 副作用与历史上合用卡比多巴的原因）（`PMID:16023217`）。人体 iv 60 mg 可见血浆皮质醇、β-内啡肽与褪黑素显著升高，提示 5-HT 供给增加确实产生了可测的内分泌效应（`PMID:2139731`）。这些是**前体供给的药理**，与再摄取抑制剂机制不同；不得引用仓库 SSRI／tryptophan 条目的机制结论。
+
+## 4. 适应范围
+
+**药品语境（历史／特殊）**：1960–70 年代起有抗抑郁临床使用；法国等地曾以药品身份销售（Cincofarm、Levothym、Tript-OH 等，二手来源），**本轮未定位任何现行核准文本**。美国侧唯一可核官方文本是 **FDA 复方配制合规政策**：对 BH4 缺乏症患者所用的口服 oxitriptan 配制制剂规定特定条件下 FDA 暂不执法（2019-07-08 起即时生效，`US-FR-2019`）——**这是执法政策，不是适应证批准**。剂量线索：临床综述记载抑郁研究多用口服、分次给药以减轻恶心；本轮取得的人体试验暴露仅有 iv 60 mg 激发试验（`PMID:2139731`），其余试验剂量未取得原文。**补充剂语境**：OTC 5-HTP 产品用于情绪／睡眠／食欲，属食品补充剂声称，不构成医疗适应证。WHO 未赋 DDD；中国状态待核实。
+
+## 5. 实际效果与局限
+
+- **Cochrane 2002**（`PMID:11869656`）：检索到 108 项试验，仅 2 项随机安慰剂对照合格（合计 64 例），其中**一项为 5-HTP 单药、另一项为 L-色氨酸**；因数量过小而合并分析得 Peto OR 4.10（1.28–13.15）、RD 0.36、NNT 2.78。作者结论为证据质量不足以定论，且与 EMS 的关联未阐明。**本条严禁把 OR 4.10 写作"5-HTP 的效应量"**；本轮未能从原文分离出 5-HTP 单药的独立数值（缺口，§10）。
+- **难治性抑郁（1988，n=47，两次交叉研究）**：第一研究为反苯环丙胺 vs **L-5-羟色氨酸的开放比较**——**L-5HTP 组除 1 例外均无改善**，反苯环丙胺对约 50% 有效（`PMID:3146891`）。这是本药最重要的阴性证据（注意其开放性质）。
+- **惊恐障碍激发试验（1990）**：20 例惊恐患者＋20 名健康人，iv 5-HTP 60 mg：患者无焦虑／抑郁加重（"部分反觉缓解"），**对照健康人反而出现情绪低落**；内分泌反应显著（`PMID:2139731`）。属药代／激发研究，非疗效试验。
+- **综述**：Turner 2006 汇总双盲安慰剂对照试验与安全性（EMS、5-HT 综合征），结论是本药抗抑郁证据有限、需进一步研究（`PMID:16023217`）。
+- **检索完整性**：已按通用名（oxitriptan、5-hydroxytryptophan，含 [Title] 限定）与历史商品名（Sertonil、Cincofarm 线索）分别检索 PubMed／DailyMed／openFDA／BDPM；未遗漏已知的大型确证试验——**本药确无现代 III 期确证文献**。
+
+## 6. 长期风险
+
+- **嗜酸性粒细胞增多／EMS 边界**：1989 年 EMS 流行由受污染的 **L-色氨酸**批次引起（该事件完整叙述见仓库 [tryptophan 条目](tryptophan.md)，本条只引其归属事实，不搬其数字给本药）。5-HTP 层面可核的是：L-色氨酸被限制后 5-HTP 作为替代品流行，期间有 EMS 样症状与本药相关的报告；商品化 5-HTP 检出 peak X 类污染物（`PMID:10721089`）；个案：换用 oxitriptan 后严重无症状嗜酸增多、停药后缓解（`PMID:1603192`）。Cochrane 明确"这些物质与潜在致命 EMS 的可能关联**未被阐明**"（`PMID:11869656`）。**不得写成"5-HTP 导致 EMS 流行"，也不得写成"与本药无关"——两头都是越界。**
+- **血清素能叠加**：与 MAOI／SSRI／其他前体合用的 5-HT 综合征风险（`PMID:16023217`）。
+- **补充剂质量风险**：OTC 批次的纯度／污染物监管与药品不同，长期风险随产品来源波动（语境风险）。
+
+## 7. 短期风险、停药与误用
+
+短期以**恶心、呕吐、腹泻、食欲下降**等外周 5-HT 相关 GI 反应为主（`PMID:16023217`）；iv 激发研究中可见严重副作用但无行为恶化（`PMID:2139731`）。出现不能解释的**肌痛＋嗜酸性粒细胞增多**应按 EMS 谱系评估并停药（个案参照 `PMID:1603192`）。**停药**：无本药特异撤药研究，`N/A`。**误用**：无药物特异非医疗使用证据，`N/A`。
+
+## 8. 重要相互作用
+
+- **MAOI／SSRI／SNRI 等血清素能药物**：前体供给＋再摄取阻断／降解抑制叠加，5-HT 综合征高危（`PMID:16023217`）；这是本药最重要的合用边界。
+- **外周氨基酸脱羧酶抑制剂（卡比多巴等）**：改变外周转归，历史上曾刻意合用以提高中枢利用、减少 GI 反应（`PMID:16023217`）；合用即改变暴露，需按药品语境处理。
+- **其他血清素能物质（曲马多、曲普坦、linezolid 等）**：类别层面叠加风险，本药无特异文本，按综述提示记录（`PMID:16023217`）。
+- **补充剂复方**：与含 St John's wort 等其他"天然抗抑郁"成分合用的叠加风险属机制推断。
+
+## 9. 特殊人群
+
+**妊娠／哺乳**：无本药人类安全性数据（补充剂语境亦无）；不作安全声明。**儿童**：美国 FDA 合规政策涉及**儿科 BH4 缺乏症患者的口服 5-HTP 配制制剂**（`US-FR-2019`），属专科代谢病用法，不能外推为一般儿童精神科用药。**老年／共病**：无特异研究；合用多类血清素能药物的老年人群叠加风险应按 §8 评估。以上不构成个体化建议。
+
+## 10. 证据边界
+
+1. **实体分离（最重要）**：本条只评价 5-HTP（oxitriptan）。仓库 tryptophan 条目中**两物质合并的 OR 4.10／NNT 2.78 不是本药效应量**；1989 EMS 流行的归因（污染 L-色氨酸批次）不搬给本药；反过来本药的污染物检出与嗜酸个案也不构成"5-HTP 致 EMS 流行"的证据。
+2. **药品 vs 补充剂语境**：美国是补充剂＋配制合规政策；欧洲历史药品文本未定位；不得互相充当证据。
+3. **未能分离 5-HTP 单药效应量**：Cochrane 合格 5-HTP 试验的独立数值本轮未取得原文。
+4. **撤市／注册零命中≠不存在**：BDPM／openFDA／DailyMed 的检索结果只作缺口记录。
+5. **Nolen 1988 为开放比较**，阴性结论按开放设计降级理解。
+6. **无 DDD**；iv 60 mg 为激发试验剂量，不是处方建议。
+7. **中国信息待核实**：NMPA／CDE 不可脚本检索；中国管制字段沿用 2026-10-06 已审计结论（含合成大麻素类结构定义不适用的辨析，未改动），本轮不重跑。
+8. **状态判定**：无可核药品文本、疗效证据为合并／小样本／开放设计，保留 `basic`。
+
+## 11. 深入分析与来源
+
+本条未建专题文件：最需要解释的是"5-HTP 与 L-色氨酸的证据与 EMS 归因如何分层"，已在 §1／§2／§6／§10 内闭环；若日后取得 Cochrane 的 5-HTP 单试验原文数值，可考虑升档。
+
+**监管与官方文件**：[FDA Compliance Policy for Certain Compounding of Oral Oxitriptan (5-HTP) Drug Products for Patients With BH4 Deficiency, 84 FR 32268（文档 2019-14355，2019-07-08）](https://www.federalregister.gov/documents/2019-07-08/2019-14355/compliance-policy-for-certain-compounding-of-oral-oxitriptan-5-htp-drug-products-for-patients-with)；[Federal Register "oxitriptan" 检索（7 条，含 503A 散装原料药名单）](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22oxitriptan%22)；[openFDA 按药名检索（4 条，均多成分／顺势记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%225-HYDROXYTRYPTOPHAN%22&limit=5)；[DailyMed 检索（仅多成分顺势制品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxitriptan)；[法国 BDPM 检索接口（CINCO／TRIPT 前缀 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIPT&page=1&limit=20)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+
+**研究与系统综述**：[Shaw 2002 Cochrane《Tryptophan and 5-hydroxytryptophan for depression》（PMID:11869656）](https://pubmed.ncbi.nlm.nih.gov/11869656/)；[Nolen 1988 难治抑郁交叉研究（PMID:3146891）](https://pubmed.ncbi.nlm.nih.gov/3146891/)；[den Boer 1990 惊恐障碍 iv 5-HTP 激发（PMID:2139731）](https://pubmed.ncbi.nlm.nih.gov/2139731/)；[García 1992 mianserin 粒缺后 oxitriptan 嗜酸增多个案（PMID:1603192）](https://pubmed.ncbi.nlm.nih.gov/1603192/)；[Klarskov 1999 商品化 5-HTP 的 peak X 类污染物（PMID:10721089）](https://pubmed.ncbi.nlm.nih.gov/10721089/)；[Turner 2006 综述（疗效与 EMS／5-HT 综合征安全性）（PMID:16023217）](https://pubmed.ncbi.nlm.nih.gov/16023217/)；[Calanca 1988 与经典抗抑郁药合用（题录，PMID:3263678）](https://pubmed.ncbi.nlm.nih.gov/3263678/)。
+
+**分类与身份**：[WHO ATC/DDD Index `N06AX01`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX01)；[Wikidata Q238544](https://www.wikidata.org/wiki/Q238544)；[PubChem CID 439280](https://pubchem.ncbi.nlm.nih.gov/compound/439280)；[PubChem CID 6971044](https://pubchem.ncbi.nlm.nih.gov/compound/6971044)；[MeSH D006916](https://meshb.nlm.nih.gov/record/ui?ui=D006916)；[DrugBank DB02959](https://www.drugbank.ca/r/DB02959)；[RxNorm RXCUI 94](https://rxnav.nlm.nih.gov/REST/rxcui/94.json)；English Wikipedia（标题指针，未复制正文）：[Oxitriptan](https://en.wikipedia.org/wiki/Oxitriptan)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
