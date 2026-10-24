@@ -395,7 +395,7 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 ## Wave 8 完成记录（2026-10-24）
 
-**状态**：32 份全部处理，**6 份达到 `reviewed`**（promazine、pipotiazine、triclofos 等以现行英国或法国文本为锚点）、**26 份保持 `basic`**（无现行产品文本，缺口逐份写明）；仓库实际计数 **147 reviewed / 71 indexed / 62 basic**，共 280 份；`analysis/` 仍 15 份。
+**状态**：32 份全部处理，**6 份达到 `reviewed`**（promazine、pipotiazine、triclofos 等以现行英国或法国文本为锚点）、**26 份保持 `basic`**（无现行产品文本，缺口逐份写明）；仓库实际计数 **147 reviewed / 70 indexed / 63 basic**，共 280 份；`analysis/` 仍 15 份。
 
 **主要来源**：法国 BDPM 的 PIPORTIL 片与 L4 长效注射、MARSILID 片、RAXONE 片；英国 emc 的 promazine 糖浆 SmPC；Cochrane 与原始试验（triclofos 2025 双盲试验、pipotiazine 1970 年代试验等）；美国 openFDA 仅 acetylcarnitine 补充剂标签；西班牙 CIMA 0 条。
 
