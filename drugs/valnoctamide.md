@@ -16,7 +16,7 @@
 | 关键药代摘要 | 可核对的是**不转化为 valnoctic acid**（与戊丙酰胺不同）以及**抑制环氧化物水解酶**：健康受试者中本药使卡马西平－10,11－环氧化物（卡马西平的活性代谢物）清除受损、血药浓度升高，有时达到毒性水平（`PMID:1352988`）。这条相互作用是药物特异证据，写入 §8 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"valnoctamide／戊诺酰胺"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类范围——本药为开链支链酰胺，无芬太尼的哌啶－酰胺排布、无苯并咪唑／苯并咪唑酮母核、无三氮杂螺癸烷酮，不落入任何整类。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
 | 主要法域批准状态 | **法国**：`FR-BDPM` 按 NIRVANIL 与 VALNOCTAMIDE 前缀均为 0 行（2026-10-24），现行在售产品库无记录；本轮**未取得 ANSM 的撤市公告**，故不写具体撤市日期与原因。**美国与英国**：`US-FDA` 与 `UK-EMC` 均无记录（2026-10-23／24）。中国上市与核准适应证待核实。现代研究把它作为**研究性抗癫痫／抗躁狂药**，没有取得任何法域的现行批准文本 |
-| 身份与统计 | WHO ATC `N05CM13`；DDD **0.6 g 口服**；CAS 4177-70-8（valnoctamide）；Wikidata [Q410468](https://www.wikidata.org/wiki/Q410468)；PubChem 未在本轮重新核对；别名 Nirvanil（历史商品名）；中文名"戊诺酰胺"为维基数据标签，未核对监管核准中文名 |
+| 身份与统计 | WHO ATC `N05CM13`；DDD **0.6 g 口服**；CAS 4171-13-5；Wikidata [Q410468](https://www.wikidata.org/wiki/Q410468)；PubChem [20140](https://pubchem.ncbi.nlm.nih.gov/compound/20140)；别名 Nirvanil（历史商品名）、valmethamide、Axiquel；中文名"戊诺酰胺"为维基数据标签，未核对监管核准中文名 |
 
 ## 2. 评分
 
@@ -112,6 +112,6 @@
 
 **研究**：[急性躁狂随机、安慰剂与利培酮对照试验（n=173，PMID:28605109）](https://pubmed.ncbi.nlm.nih.gov/28605109/)；[卡马西平环氧化物清除受损（健康受试者，PMID:1352988）](https://pubmed.ncbi.nlm.nih.gov/1352988/)；[Eilat XII 在研抗癫痫药报告（PMID:25769377）](https://pubmed.ncbi.nlm.nih.gov/25769377/)；[Eilat XIII／状态癫痫新治疗报告（PMID:31708430）](https://pubmed.ncbi.nlm.nih.gov/31708430/)；[1964 年 70 例神经精神科临床研究（PMID:14119722）](https://pubmed.ncbi.nlm.nih.gov/14119722/)；[1969 年 Nirvanil 病例系列（PMID:5306499）](https://pubmed.ncbi.nlm.nih.gov/5306499/)。
 
-**分类与身份**：[WHO ATC/DDD Index `N05CM13`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CM13)；[Wikidata Q410468](https://www.wikidata.org/wiki/Q410468)；English Wikipedia（标题指针，未复制正文）：[Valnoctamide](https://en.wikipedia.org/wiki/Valnoctamide)。
+**分类与身份**：[WHO ATC/DDD Index `N05CM13`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CM13)；[Wikidata Q410468](https://www.wikidata.org/wiki/Q410468)；[PubChem CID 20140](https://pubchem.ncbi.nlm.nih.gov/compound/20140)；English Wikipedia（标题指针，未复制正文）：[Valnoctamide](https://en.wikipedia.org/wiki/Valnoctamide)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
