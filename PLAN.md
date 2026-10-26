@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 8 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave8`，基于 Wave 7 已通过 PR #10 合并的 `main`。**本轮执行范围仅以文末 Wave 8 计划为准**。Wave 1–7 均为历史记录，不重复执行。
+> 当前任务：**Wave 9 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave9`，以 Wave 8 经审阅修补、通过 PR #11 合并的 `main` 为基线。**以本文件最后的 Wave 9 计划为唯一执行范围**，Wave 1–8 是历史记录，不重复执行。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -413,3 +413,51 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - `pipotiazine`、`loprazolam`：将评分表中的试验或标签详细剂量退回正文已有 §4／§5，保留场景依据。
 - `pramiracetam`：10 人阿尔茨海默病阴性探索性试验仍详载 §5／§10，因缺现行获批和当前决策价值依据，不为历史研究单设 D 场景。
 - 同步 README、目录索引与本计划的 **147 reviewed / 70 indexed / 63 basic** 口径。**不改本轮状态数量与 15 份专题**；待 PR 审阅合并后才进入主分支。
+
+
+## Wave 9 批量建档计划（2026-10-24）
+
+**状态：已完成（见文末“Wave 9 完成记录”。）** 分支 `plan/reviewed-expansion-wave9` 基于已合并 [PR #11](https://github.com/Adrerie/psychopharm-atlas/pull/11) 的 `main`。基线为 **147 reviewed / 70 indexed / 63 basic**，总计 280 份药物档案与 15 份专题。本轮 32 份已在 `main` 逐份确认全部为 `indexed`，无重复，也不重复 Wave 7 已评估却仍处于 `indexed` 的 fludiazepam、emylcamate、mephenoxalone。**一次派发、四组各 8 份，按实际证据决定最终状态**。
+
+### 任务清单
+
+- **A｜地区性抗精神病药及早期神经阻滞剂（8）**：`acetophenazine`、`butaperazine`、`clopenthixol`、`dixyrazine`、`moperone`、`mosapramine`、`sultopride`、`thioproperazine`。
+- **B｜历史镇静催眠、苯二氮䓬及氨基甲酸酯／巴比妥类（8）**：`doxefazepam`、`ethchlorvynol`、`methyprylon`、`methylpentynol`、`bromisoval`、`carbromal`、`allobarbital`、`hexobarbital`。
+- **C｜早期抗抑郁药、MAOI 与血清素前体（8）**：`alaproclate`、`etoperidone`、`iproclozide`、`minaprine`、`nizofenone`、`oxaflozane`、`oxitriptan`、`pivagabine`。
+- **D｜历史促醒／兴奋剂与认知研究药（8）**：`fenetylline`、`fencamfamin`、`fenozolone`、`fipexide`、`pipradrol`、`prolintane`、`deanol`、`linopirdine`。
+
+### 一次执行要求
+
+1. 主代理阅读 `AGENTS.md`、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 和喹硫平样板。**可以同时派发最多四个子代理**，A/B/C/D 每组一个，每个代理仅修改所分配的 8 份 `drugs/*.md`；无交叉编辑、无嵌套派发。主代理独自处理共享文档、复查与提交。**不分阶段申请审批，能一次完成的一次完成**。
+2. 以药物档案为主，快速核对**本药实体、ATC、盐型及代谢物、现行产品的国家／剂型／说明书版本、核准适应证、中国管制、关键疗效研究、风险、停药与误用、重要相互作用和缺口**。优先官方产品说明书／药监决定，其次指南、系统综述和药物特异原始试验。需要判断临床价值时核对试验人群、对照设计与主要终点。**未取得现行产品文本时如实保持 `basic` 或 `indexed`**，不得从药名、商品名、临床研究所在国家或数据库零命中推断获批、当前在售或撤市。
+3. **A 组**核对德国、法国、意大利及日本等地区性单方产品，与同名代谢物／复方分开。对于运动障碍、QT、镇静与高催乳素风险，类别警告和本药特异试验分别标注，只有类级黑框或未获批不能自动生成独立 D 场景。
+4. **B 组**重点分清各巴比妥类与替代镇静药的**单一成分、剂型、历史批准、撤销记录、当今管制**。同类依赖风险不能直接当成本药误用率，撤销／停产必须有本法域的公告和**生效日期**。仅有历史题录者不要凑满评分，不对儿童、老人或其他特殊人群单独设场景。
+5. **C 组**重点核对试验与上市阶段区别、不可逆／可逆 MAO 抑制的证据来源、严重肝损伤与撤市记录，尤其 `oxitriptan`（5-HTP）**不是** L-tryptophan。不可把既有 `tryptophan` 条目中两种前体合并后的 OR 直接分配给任一物质。
+6. **D 组**重点区分历史合法 fenetylline 药品与如今被称为“Captagon”的不同成分及非法压片制剂，**街头名称不等于原药分子身份**，不借用混合片检测结果判断本药强化效应、剂量或市场使用率。其余历史兴奋剂、认知研究药同样区分药品、研究化合物、补充剂、列管与现实非医疗使用；不借其他刺激剂疗效给 A–D 分。
+7. 评分遵守 `SCORING.md`：仅为**实际获批或有当前决策价值且药物特异证据足够**的场景给 A–D，负担六维不足写 `N/A`，研究阴性如属历史且无当前决策价值则保留正文不强制设 D 行。**随机直接对照 ≠ 间接网络比较，差异不显著 ≠ 已证明等效，现行标签的维持用量 ≠ 随机复发预防证据。** A–D 单元格只保留关键事实，剂量细节放 §4、试验数值放 §5。不得强求完成后 `reviewed` 数量或配额型专题。
+8. 最后仅核对本轮 32 份档案、相对链接和共享索引，按真实结果更新 `catalog/index.md`、`README.md`、本文件的完成记录。必要时主代理精简修订 `AGENTS.md`。提交、推送 `plan/reviewed-expansion-wave9`，**等待我方审阅，不得合并 `main`**。单药取不到来源时记录缺口并继续下一项。
+
+**不做**：不返工 Waves 1–8，不追求剩余 38 份 `indexed` 的同步完成，不新增 CI、数据库、爬虫、自动评分程序、复杂批次验收机制或无实际争议价值的专题。不把 32 份都升到 `reviewed` 作为完成标准。
+
+## Wave 9 完成记录（2026-10-25）
+
+**状态**：32 份全部处理完毕，**0 份达到 `reviewed`**、**32 份达到 `basic`**（ethchlorvynol、methyprylon 虽取得 FDA 历史 NDA 与撤销公告，但无说明书正文，复核后改回 `basic`）；仓库实际计数 **147 reviewed / 38 indexed / 95 basic**，共 280 份档案，`analysis/` 仍 15 份。
+
+**主要来源**：美国 FDA 撤销公告 `2012-6591`（77 FR 16039；公告 2012-03-19、生效 2012-04-18；NDA 010021 PLACIDYL 胶囊）与 `96-7309`（61 FR 13506；公告 1996-03-27、生效 1996-04-26；NDA 9-660 Noludar 片），两者均记载持证人告知不再销售并申请撤回，**公告未独立认定撤出销售不是由安全或有效性原因引起**，也没有现行产品说明书正文；DEA《Alphabetic Order of Controlled Substances》用于联邦列管层级核对；WHO ATC/DDD Index 2026 逐个回查 32 个编码（15 份无 DDD）；其余为本药特异的原始试验与系统综述（PubMed）。法国 BDPM、西班牙 CIMA、英国 emc 对多数条目 0 命中，只按检索缺口记录。
+
+**实体与事实校正（主代理复核）**：thiopropazate／Dartal（N05AB05）与 thioproperazine 分离，剔除误挂的舞蹈症／迟发性运动障碍试验；法国 CLOPIXOL 各规格实为 zuclopenthixol（N05AF05），故 clopenthixol 在法无现行产品；SEROTONINUM BOIRON 为顺势稀释制剂，不作 iproclozide 批准证据；Tenuate 归属 diethylpropion；carphenazine／Proketazine ≠ butaperazine；oxitriptan（5-HTP）与 L-tryptophan 分开，Cochrane 跨物质合并 OR 不归给本药；carbromal 代谢物不写成 bromisoval；“Avertin”属 tribromoethanol；Reposal 非 allobarbital 复方；“Captagon”街头压片化验不用于 fenetylline；prolintane→propylamphetamine 标为未证实；deanol 注明 2022 年实测对象为 centrophenoxine。
+
+**整合修正**：C 组 7 份与 methyprylon 的 A–D 表把 `待核实`／`不评分` 当作等级——按 AGENTS.md 改为表后显式“不评分”说明；未定维度统一 `N/A`；alaproclate、etoperidone、pivagabine 删除写入正文的内部检索措辞；ethchlorvynol、methyprylon、pipradrol、fencamfamin、fenetylline 增加 DEA 字母表交叉核对并注明 CFR 段落号未能独立复核到段落一级。
+
+**仍开放缺口**：32 份中国上市与核准适应证未取得（NMPA 412／CDE 202）；minaprine、iproclozide、fencamfamin、fipexide 的退出决定只有二手转述，正式文件未定位；mosapramine 无日文官方文本；丹麦 mdat.dk、意大利 AIFA、英国 emc 列表未能取回；ethchlorvynol 特征性宿醉与嗅味觉描述无单方出处；hexobarbital、allobarbital、doxefazepam、methylpentynol、bromisoval 无对照疗效原文。本轮未重写前八轮、未扩写计划外 `indexed`、未新增专题、未合并 `main`。
+
+
+### Wave 9 审阅修补记录（2026-10-26）
+
+- **跨药物实体修正**：`butaperazine` 混入的 Moditen-Retard／Moditen-Depot 实为**氟奋乃静／氟奋乃静癸酸酯**；撤销它在本药中的长效注射剂型、维持／复发预防 C− 场景、长期风险支持、研究链接及门诊用法的错误归属（FDA GSRS UNII FMU62K1L3C；PubMed 899478、1979463）。本药口服研究与 Repoise／Tyrylen 别名保留。
+- `clopenthixol`：Deanxit 正式产品为 **flupentixol＋melitracen**，并非 flupentixol＋clopenthixol，按西班牙 AEMPS CIMA 产品说明纠正复方边界。
+- `ethchlorvynol`、`methyprylon`：历史批准与正式撤准记录不等于已核齐现行／历史说明书的适应证、警告、禁忌、相互作用与监测要求，均改为 **`basic`**。持有人“产品不再销售、申请撤销”的 FDA 公告不得写成 FDA 已独立作出“非因安全或有效性撤出销售”的判断。
+- 删除 `sultopride`、`fipexide` 对没有当前决策价值的历史剂量／历史认知用途单列的 D 级行，并将其本药特异 PET、QTc、暴发性肝衰与药物热资料保留在 §2.1／§5–§7；同理移除 `pipradrol`、`prolintane` 对历史用法的独立 C− 行，保留人体原始研究。
+- 清理 `fencamfamin`、`deanol` A–D 单元格的 Markdown 加粗符号；全部本轮档案最终共 **147 reviewed / 38 indexed / 95 basic**（280 份），`analysis/` 15 份。
+
+经本次审阅修复后才允许合并，**本记录不等于已合并**。
