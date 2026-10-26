@@ -16,9 +16,9 @@
 | 关键药代 | 唯一带数值的人体来源是"治疗期血清浓度 2–8 µg/mL、毒性浓度 >20 µg/mL"，并报告一名单胖、甲状腺功能低下与高脂血症的长期用药者：总清除率 9.92 mL/min、分布容积 68.0 L、**半衰期 78 小时**，作者强调该值"与既往发表值显著不同"，甲状腺疾病可能改变本药处置（`PMID:3822854`）。**常规定量的人群半衰期、Tmax、蛋白结合率本轮未取得**，不用个案值充当群体参数 |
 | 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 290 项“乙氯维诺”（英文名 1-Chloro-3-ethylpent-1-en-4-yn-3-ol；CAS 113-18-8），目录备注“Ethchlorvynol”。 |
 | 主要法域批准状态 | **美国（历史批准、现无在市场）**：NDA 010021（PLACIDYL 胶囊）经 `FR-2012` 撤回批准——持证方书面告知 FDA 该产品**已不再上市**并请求撤回，依 21 CFR 314.150(c) 办理、申请人放弃听证机会、**"撤回不妨碍重新申报"（without prejudice to refiling）**，公告 2012-03-19、生效 2012-04-18，并允许公告生效时已在库产品继续 dispensing 至库存耗尽或效期届满。本公告仅确认**持证人声明产品不再销售并申请撤回**，**未独立认定停销不涉及安全性或疗效**。`FR-2012` 点名的是 NDA 010021 与其"all amendments and supplements thereto"，**未点名 ANDA 084463**（后者只见于 Drugs@FDA 的 Discontinued 状态）。**美国联邦管制**：Schedule IV，21 CFR 1308.14(c)(21)，DEA 码 2540（`CFR-1308`）。法国 BDPM、西班牙 CIMA、英国 emc 与 DailyMed 本轮检索 0 条（§11）；中国上市与核准适应证待核实 |
+| 身份与统计 | WHO ATC `N05CM08`；DDD **0.5 g 口服**（群体统计指标，不是处方剂量）；CAS 113-18-8；Wikidata [Q3085140](https://www.wikidata.org/wiki/Q3085140)；PubChem [3281](https://pubchem.ncbi.nlm.nih.gov/compound/3281)；MeSH [D004984](https://meshb.nlm.nih.gov/record/ui?ui=D004984)；DrugBank [DB00189](https://www.drugbank.ca/r/DB00189)；RxNorm [RXCUI 4118](https://rxnav.nlm.nih.gov/REST/rxcui/4118.json) |
 
 **本轮未取得现行或历史药品说明书正文，无法逐项核对核准适应证的原文、禁忌、警示、完整相互作用与监测要求。因此，即使有官方 NDA 批准／撤销记录及本药临床研究，也暂不满足本仓库 `reviewed` 的完整核查要求，状态调整为 `basic`。**
-| 身份与统计 | WHO ATC `N05CM08`；DDD **0.5 g 口服**（群体统计指标，不是处方剂量）；CAS 113-18-8；Wikidata [Q3085140](https://www.wikidata.org/wiki/Q3085140)；PubChem [3281](https://pubchem.ncbi.nlm.nih.gov/compound/3281)；MeSH [D004984](https://meshb.nlm.nih.gov/record/ui?ui=D004984)；DrugBank [DB00189](https://www.drugbank.ca/r/DB00189)；RxNorm [RXCUI 4118](https://rxnav.nlm.nih.gov/REST/rxcui/4118.json) |
 
 ## 2. 评分
 
