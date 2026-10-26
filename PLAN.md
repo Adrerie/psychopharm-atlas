@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 9 一次性建档，32 份 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave9`，以 Wave 8 经审阅修补、通过 PR #11 合并的 `main` 为基线。**以本文件最后的 Wave 9 计划为唯一执行范围**，Wave 1–8 是历史记录，不重复执行。
+> 当前任务：**Wave 10 一次性建档，35 份尚未深入处理的 `indexed` 药物**。工作分支 `plan/reviewed-expansion-wave10`，基于 Wave 9 经审阅修补、通过 [PR #12](https://github.com/Adrerie/psychopharm-atlas/pull/12) 合并的 `main`。**以本文件末尾的 Wave 10 计划为唯一任务清单**，Wave 1–9 均是历史完成记录，不重复派发。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -461,3 +461,27 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 - 清理 `fencamfamin`、`deanol` A–D 单元格的 Markdown 加粗符号；全部本轮档案最终共 **147 reviewed / 38 indexed / 95 basic**（280 份），`analysis/` 15 份。
 
 经本次审阅修复后才允许合并，**本记录不等于已合并**。
+
+
+## Wave 10 最后一批未深入建档药物计划（2026-10-26）
+
+**状态：待执行。** 基线为 Wave 9 PR #12 已合并的 `main`，**147 reviewed / 38 indexed / 95 basic**，280 份档案、15 份专题。经目录与 280 份文件交叉核对，38 份 `indexed` 中有 **35 份从未经过前九轮的深入建档**，本轮将它们**一次性派发**。另外三份 `fludiazepam`、`emylcamate`、`mephenoxalone` 已在 Wave 7 核查过且明确记载资料不足，**本次不返工**，除非得到新的权威来源，允许长期保留 `indexed`。**目标是完成档案事实核查，不是清零 indexed 数量或强制提升 reviewed。**
+
+### 分组与文件清单（35 份）
+
+- **A｜早期抗精神病／多巴胺拮抗相关药（8 份）**：`acepromazine`、`chlorproethazine`、`fluanisone`、`oxypertine`、`prothipendyl`、`thiopropazate`、`trifluperidol`、`triflupromazine`。
+- **B｜巴比妥类催眠药与历史剂型（10 份）**：`aprobarbital`、`barbital`、`butobarbital`、`cyclobarbital`、`etallobarbital`、`heptabarbital`、`proxibarbal`、`talbutal`、`vinbarbital`、`vinylbital`。
+- **C｜其他早期镇静催眠／抗焦虑制剂（9 份）**：`acetylglycinamide-chloral-hydrate`、`apronal`、`bromides`、`chloralodol`、`dichloralphenazone`、`hexapropymate`、`mebutamate`、`pinazepam`、`pyrithyldione`。
+- **D｜早期认知研究药、植物药与特殊用途制剂（8 份）**：`dimetacrine`、`gedocarnil`、`pirisudanol`、`reposal`、`scopolamine`、`temgicoluril`、`valerianae-radix`、`veralipride`。
+
+### 一次执行要求
+
+1. 主代理先阅读 `AGENTS.md`、`SCORING.md`、`SOURCES.md`、`METHODOLOGY.md`、`DISCLAIMER.md` 和喹硫平样板。允许 **4 个非嵌套并行子代理**按 A/B/C/D 分别处理 **8／10／9／8 份**，只修改各自分配的 `drugs/*.md`。主代理负责证据复核、共享文档、整合、提交与推送。**一次派发即可，不设中途审批或人为分阶段计划**。
+2. 档案优先。按药物实体核对 WHO ATC、盐／酯／异构体与复方归属、真实监管产品／法域／剂型／说明书版本、中国药物管制、核准用途、本药特异关键临床研究、短期／长期风险、相互作用、停药与误用。先官方说明书／公告，再高质量综述与原始试验；无来源不补结论。**撤准公告、生效日期、停销请求与 FDA 独立非安全／疗效认定分开。**
+3. **A 组的特殊边界**：`acepromazine` 必须区分**人用与兽用制剂**，兽药的标签与剂量不得直接变成人体适应证。`thiopropazate`（Dartal）与 `thioproperazine` 是不同药，优先检索商品名、MeSH 及原始受试物质，避免 Wave 9 跨药污染。历史 `trifluperidol`／`triflupromazine` 与近似拼写同系抗精神病药的试验不能混用。
+4. **B、C 组的特殊边界**：所有巴比妥类的**单方与复方、不同盐和口服／注射**分别核准。类别层面依赖、呼吸抑制和列管法律条款不能冒充本药特异发生率。历史撤市需要正式决定，不把数据库零命中视为撤销。`bromides` 是含多种盐的分类名称，**必须明确研究对象是哪种溴盐**，各盐剂量与风险不可混算。`acetylglycinamide-chloral-hydrate`、`dichloralphenazone`、`chloralodol` 与水合氯醛的药物身份及水解关系须按来源区分，不把母体或固定复方的批准与试验当作单方事实。
+5. **D 组的特殊边界**：`valerianae-radix` 要区分**药用缬草根、特定标准化提取物、传统草药注册及普通营养补充品**。`scopolamine` 区分给药途径与实际批准用途，不把晕动症或麻醉用药直接写成精神科适应证。`reposal` 先确认具体活性成分及商品名归属，不继承 allobarbital 旧记录。`veralipride` 的更年期用途、锥体外系风险与监管退出，应优先查 EMA／国家主管机构的正式文件，**公告和生效日期分别记录**。
+6. A–D 只设**确有当前临床决策价值且有本药特异证据**的场景。无现行说明书或仅有历史人体试验，可以保持 `basic` 乃至 `indexed`，不因篇幅、目录零命中或仅有 NDA 撤销公告升为 `reviewed`。负担六维无法量化写 `N/A`。严重历史危害进入 §5–§7，**不强行建立历史用途 D 行**。不得以其他分子、同一商品名的假冒产品、不同盐或交叉荟萃合并效应量支撑当前分子评分。数值、剂量与试验详述留正文，A–D 单元格保持简短、纯等级。
+7. 主代理收尾复核本轮所有文件的章节、六维表、场景等级、关键来源与相对链接，**按真实结果**更新 `catalog/index.md`、`README.md`、`PLAN.md` 的完成记录，必要时仅做极短 `AGENTS.md` 修订。提交并推送 `plan/reviewed-expansion-wave10`，**不合并 `main`，交由我方审阅**。单药官方资料打不开即记录缺口、继续其他药物，不增加额外机制、长期爬虫或审批环节。
+
+**不做**：不重复 Wave 1–9 已处理药物，不人为压成恰好 32 份，不因最后一批而强制将 35 份全部升 `reviewed`，不新增无必要的专题、CI、数据库、评分程序或人工多阶段流程。
