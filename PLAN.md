@@ -465,7 +465,7 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 
 ## Wave 10 最后一批未深入建档药物计划（2026-10-26）
 
-**状态：待执行。** 基线为 Wave 9 PR #12 已合并的 `main`，**147 reviewed / 38 indexed / 95 basic**，280 份档案、15 份专题。经目录与 280 份文件交叉核对，38 份 `indexed` 中有 **35 份从未经过前九轮的深入建档**，本轮将它们**一次性派发**。另外三份 `fludiazepam`、`emylcamate`、`mephenoxalone` 已在 Wave 7 核查过且明确记载资料不足，**本次不返工**，除非得到新的权威来源，允许长期保留 `indexed`。**目标是完成档案事实核查，不是清零 indexed 数量或强制提升 reviewed。**
+**状态：已完成（见文末“Wave 10 完成记录”。）** 基线为 Wave 9 PR #12 已合并的 `main`，**147 reviewed / 38 indexed / 95 basic**，280 份档案、15 份专题。经目录与 280 份文件交叉核对，38 份 `indexed` 中有 **35 份从未经过前九轮的深入建档**，本轮将它们**一次性派发**。另外三份 `fludiazepam`、`emylcamate`、`mephenoxalone` 已在 Wave 7 核查过且明确记载资料不足，**本次不返工**，除非得到新的权威来源，允许长期保留 `indexed`。**目标是完成档案事实核查，不是清零 indexed 数量或强制提升 reviewed。**
 
 ### 分组与文件清单（35 份）
 
@@ -485,3 +485,17 @@ PLAN 列出的 24 份全部处理完毕，逐批独立提交并推送到 `feat/r
 7. 主代理收尾复核本轮所有文件的章节、六维表、场景等级、关键来源与相对链接，**按真实结果**更新 `catalog/index.md`、`README.md`、`PLAN.md` 的完成记录，必要时仅做极短 `AGENTS.md` 修订。提交并推送 `plan/reviewed-expansion-wave10`，**不合并 `main`，交由我方审阅**。单药官方资料打不开即记录缺口、继续其他药物，不增加额外机制、长期爬虫或审批环节。
 
 **不做**：不重复 Wave 1–9 已处理药物，不人为压成恰好 32 份，不因最后一批而强制将 35 份全部升 `reviewed`，不新增无必要的专题、CI、数据库、评分程序或人工多阶段流程。
+
+## Wave 10 完成记录（2026-10-28）
+
+**状态**：35 份全部处理完毕，**2 份 `reviewed`、32 份 `basic`、1 份如实保留 `indexed`（`gedocarnil`）**；仓库实际计数 **149 reviewed / 4 indexed / 127 basic**，共 280 份档案，`analysis/` 仍 15 份。派发为 A(8)／B(10)／C(9)／D(8) 四个非嵌套子代理，其中 A、B、D 三组代理先后因中断与轮次上限停止，剩余 **A 组 4 份与 D 组 6 份由主代理接管完成**。
+
+**`reviewed` 只有两份的依据**：Wave 9 审阅后门槛为“必须有可逐节引用的说明书正文（适应证＋警告＋禁忌＋相互作用＋监测）”。`scopolamine` 取到美国现行贴剂标签（DailyMed setid b877a694-a1d0-4280-937a-a06820b12a88，NDA 017874）与法国现行注射剂 RCP（BDPM CIS 64665646，AMM「Valide」），两条锚定均由主代理在本机重新取回确认；`valerianae-radix` 取到西班牙 AEMPS 注册 72461 的现行 ficha técnica（文本修订 2016-09，§4.1 为传统草药注册口径）与 EU 草药专论。其余 32 份没有这样的正文，注册命中要么为 0、要么属别的分子或动物用药，因此一律 `basic` 或 `indexed`，未把结构齐全当作升级理由。
+
+**主要来源**：WHO ATC/DDD Index 2026（35 码逐个回查，12 份无 DDD）；PubChem／RxNorm 的 CAS 与同义词表；DEA《Alphabetic Order of Controlled Substances》PDF 实测行；美国 DailyMed（带 `/dailymed/` 前缀的检索接口）与 openFDA；法国 BDPM 前缀精确匹配接口；西班牙 CIMA REST；药物特异的原始试验与综述（PubMed）。中国 NMPA／CDE 恒不可脚本访问，上市与核准适应证全部“待核实”。
+
+**关键归属结论**：`acepromazine` 的现行 FDA 产品全为动物用药（PROMACE，NADA 117-532），兽用标签不转写为人用适应证；`fluanisone` 的芬太尼复方（Hypnorm 类）条款不计入单方，且复方中芬太尼的中国列管与本药分述；`reposal` 按 CAS 3625-25-0／N05CA12 独立成药，文献检索排除了“甲己巴比妥商品名”与“allobarbital 复方”两种误归属；`apronal` 是单一尿素化合物（CAS 528-92-7），与环巴比妥复方分开；`bromides` 为盐类集合名，禁止跨盐换算；`pinazepam`（CAS 52463-83-9）与 `propazepam` 在“Domar”归属上存在 DEA 与 PubChem 冲突，已按 CAS 锚定并记录冲突；巴比妥同族按 CAS 逐项分离，`proxibarbal` 的 Ipronal 线索与 carbromal 制剂碰撞需按 CAS 判读；`pirisudanol` 的 Stivane 与 Nadex 归并同一物质，维基别名 NEX431 无权威佐证不作依据。
+
+**整合修正**：A–D 表内被当作等级的 `待核实`／`不评分` 改为表后显式说明；未定维度统一 `N/A`；单元格清除剂量、试验数值与 Markdown 加粗；氯醛释放类不继承 `chloral-hydrate` 条目的批准与试验；类别证据与本药特异证据分开标注；联邦列管以 DEA 实测行为准并注明 2100 为类别码。
+
+**仍开放缺口**：35 份中国注册待核实；英国 emc、德／意／瑞士／比利时／日本官方库多数未取回；`gedocarnil` 无任何本药特异文献（四个研发代号检索亦 0 命中）；`etallobarbital` 同样零文献；`pirisudanol` 两份老年抑郁实践报告只到题录、未取得原文；`scopolamine`、`valerianae-radix` 的产品文本待补。本轮未重写 Wave 1–9、未扩写计划外档案、未新增专题、未合并 `main`。
