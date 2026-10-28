@@ -3,7 +3,7 @@
 > 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-10-04  
 > 人工选录，逐项记录纳入理由与原 ATC 编码；不是这些亚组的完整目录。
 
-**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面直接抓取生成，可逐项核对。「收录依据与待核实」列只说明为何纳入精神药理学图谱，除已明确提供监管资料的 nalmefene 陈述外，其中涉及的适应证、受体机制、上市与管制状态、研发阶段等实质性结论**本轮均未核实**，须按 [SOURCES.md](../SOURCES.md) 与 [METHODOLOGY.md](../METHODOLOGY.md) 在后续阶段附原始出处。
+**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面抓取生成。Wave 11 标记的四条已建档，临床与管制结论见各自药物档案；其余 42 条仍为选录候选，除已明确提供监管资料的 nalmefene 陈述外，适应证、受体机制、上市与管制状态、研发阶段等实质性结论尚待逐药核实。选录不是 WHO 亚组的完整目录。
 
 ## 选录分布
 
@@ -12,7 +12,10 @@
 | G04BD | Drugs for urinary frequency and incontinence | 2 |
 | N03AF | Carboxamide derivatives | 3 |
 | N03AG | Fatty acid derivatives | 2 |
+| N02BF | Gabapentinoids | 2 |
+| N03AE | Benzodiazepine derivatives | 1 |
 | N03AX | Other antiepileptics | 1 |
+| C07AA | Beta blockers, non-selective | 1 |
 | N06DA | Anticholinesterases | 8 |
 | N06DX | Other anti-dementia drugs | 7 |
 | N07BA | Drugs used in nicotine dependence | 3 |
@@ -22,8 +25,14 @@
 
 ## 条目
 
+> 选录总数 46 条，其中 Wave 11 已建档 4 条，剩余 42 条待建档。
+
 | ATC 编码 | 官方通用名 | 官方分类位置（2026 索引） | 收录依据与待核实 | 状态 |
 | --- | --- | --- | --- | --- |
+| `N02BF01` | gabapentin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids（2026 索引：`N03AX` 亚组页原文注明加巴喷丁与普瑞巴林改列 N02BF） | 焦虑相关用途的常见超适应证药；本轮按现行美国标签建档，焦虑用途标为超适应证。 **Wave 11 已建档**（[`drugs/gabapentin.md`](../drugs/gabapentin.md)，状态 `reviewed`） |
+| `N02BF02` | pregabalin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids | 部分法域收载广泛性焦虑适应证（本轮未取回该国正文，见档案 §10）；按现行美国标签建档。 **Wave 11 已建档**（[`drugs/pregabalin.md`](../drugs/pregabalin.md)，状态 `reviewed`） |
+| `N03AE01` | clonazepam | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AE Benzodiazepine derivatives | 惊恐障碍与癫痫用途在不同法域分别收载；中国为第二类精神药品第 17 项。 **Wave 11 已建档**（[`drugs/clonazepam.md`](../drugs/clonazepam.md)，状态 `reviewed`） |
+| `C07AA05` | propranolol | C CARDIOVASCULAR SYSTEM › C07 BETA BLOCKING AGENTS › C07A BETA BLOCKING AGENTS › C07AA BETA blockers, non-selective | 表现焦虑／情境性焦虑的躯体症状与其心血管批准用途；不属焦虑障碍常规治疗。 **Wave 11 已建档**（[`drugs/propranolol.md`](../drugs/propranolol.md)，状态 `reviewed`） |
 | `G04BD01` | emepronium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05CX05` 条目名称为 emepronium, combinations，作为该复方类别的成分被引用；精神科用途待核实。 | 待建档 |
 | `G04BD09` | trospium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05AX50` 条目名称为 xanomeline and trospium，故作为该复方的配对成分被引用；其作用性质待核实。 | 待建档 |
 | `N03AF01` | carbamazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 精神科资料常涉及的情绪稳定相关用药；适应证、剂量研究与地区监管状态待核实。 | 待建档 |
@@ -71,7 +80,7 @@
 
 - 上述条目本轮一律未建档，编码与名称均以官方索引为准。
 - `N07BC51 buprenorphine, combinations` 未指明全部成分，属 ATC 复方类别，不计作独立具体药物；`N06DX30 combinations` 等同类条目已从选录中剔除。
-- 加巴喷丁与普瑞巴林在本次抓取的亚组页面中未出现，其官方归属须另行逐条核实后再收录。
+- 加巴喷丁与普瑞巴林已于 2026-10-28 按 WHO 索引确认改列 `N02BF` Gabapentinoids（`N03AX` 亚组页原文注明），并据此收录与建档。
 - 情绪稳定相关条目均取自 `N03` 抗癫痫药亚组：ATC 位置不表示这些药物具有某一精神科适应证。
 
 回目录：[索引](index.md)
