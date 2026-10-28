@@ -1,40 +1,98 @@
-# chloralodol
+# chloralodol｜氯己二醇／氯醛己二醇（骨架取维基数据中文标签"氯丙醇"，**该中文标签口径存疑、与结构不符**；系统名 2-methyl-4-(2,2,2-trichloro-1-hydroxyethoxy)pentan-2-ol，别名 chlorhexadol／Lora／Mecoral／Medodorm／Merchloral）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CC02`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`PMID:……`＝PubMed。**本轮未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11；意大利／德国历史制剂无脚本入口、未取回），故不设说明书引用键，§N 在本条目无适用对象。本药（CAS 3563-58-4，chlorhexadolum／chlorhexadol）含氯醛结构，但**不得把同仓库 `chloral-hydrate`（N05CC01，水合氯醛单方）的批准、剂量、试验或警告当成本药事实**；氯醛释放关系只作机制说明并按来源区分。凡标"题录"者指本轮**只取得题名与出处、未取得全文数值**。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | chloralodol | WHO ATC/DDD Index 2026（`N05CC02`）|
-| 中文标签（维基数据，未核对监管核准名） | 氯丙醇（zh） | Wikidata [Q5102911](https://www.wikidata.org/wiki/Q5102911) |
-| ATC 编码 | `N05CC02`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N05CC Aldehydes and derivatives | WHO ATC/DDD Index 2026 |
-| 别名 | 2-Pentanol；Cloralodol；Lora；Mecoral；Medodorm；Merchloral | Wikidata 英文别名 |
-| 系统命名/研究代号（3 条，节选） | 2-Methyl-4-(2,2,2-trichloro-1-hydroxyethoxy)-2-pentanol；2-methyl-4-(2,2,2-trichloro-1-hydroxy-ethoxy)pentan-2-ol… | Wikidata 英文别名 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“chloralodol / 氯丙醇”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方催眠药，ATC 归 **N05CC 醛类及其衍生物**；为**氯醛与己二醇类（2-methyl-2,4-hexanediol）的加合物**，原文献把它称"**水合氯醛的一种新衍生物**（a new derivative of chloral hydrate）"（`PMID:13880824`）。通用名 chloralodol，INN 别名 chlorhexadol／chlorhexadolum，商品名线索 Lora、Mecoral、Medodorm、Merchloral |
+| 中文标签口径（**重要更正线索**） | 骨架取维基数据 zh 标签"氯丙醇"，但本药系统名为 2-methyl-4-(2,2,2-trichloro-1-hydroxyethoxy)pentan-2-ol（**己二醇**骨架，非"氯丙醇"／chloropropanol），二者不符；本波次未检得监管核准中文名出处，**故正文以 chloralodol／chlorhexadol 与英文系统名为准，中文标签按待核实处理**（§10 第 2 项）。此更正不影响下方中国管制字段（该字段逐字保留骨架已审计结论） |
+| 与母体水合氯醛的区分 | 本药**含氯醛结构**、体内可关联氯醛，但**本条目只评价 chloralodol 这一实体**；`chloral-hydrate` 条目的适应证、剂量、GABA_A／NMDA／5-HT3 机制、胃坏死与 QT 警告、儿科半衰期数据**一律不迁移为本药事实**（AGENTS.md 水解产物／母体不得借用原则） |
+| 剂型与产品 | 无可核官方剂型文字。意大利／德国历史制剂（简报要求逐个法域核）本轮**无脚本入口、未取回文本**；商品名 Lora、Medodorm、Merchloral、Mecoral **均未由官方来源核实** |
+| 关键药代摘要 | **本轮未取得本药人体吸收、半衰期、Tmax 或代谢物的可引数值**；三篇 1961–62 年人体研究以临床催眠效应为主要读数（`PMID:13880824`、`PMID:14452227`、`PMID:14494795`），未给出定量药代。故本条目不写 PK 数值 |
+| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“chloralodol / 氯丙醇”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 |
+| 主要法域批准状态 | **无可引的监管文本**。检索事实：openFDA 标签按通用名与 Drugs@FDA 均 **404（无记录）**；DailyMed v2 `spls.json?drug_name=chloralodol` 的 `total_elements`＝0；法国 BDPM `startBy=CHLORALODOL` `recordsTotal`＝0；西班牙 CIMA `nombre=chloralodol` `totalFilas`＝0；英国 emc 检索页结果由脚本加载、静态 HTML 未取到针对本名的可读命中清单。美国 1961–62 年曾以"新型催眠药 chlorhexadol"发表人体研究（`PMID:13880824` 等）——**属历史临床文献，不等同于取得现行上市许可文本**。**意大利／德国现行与历史状态、中国上市与核准适应证均待核实** |
+| 身份与统计 | WHO ATC `N05CC02`；DDD **1.6 g 口服**（群体统计指标，不是处方剂量）；Wikidata [Q5102911](https://www.wikidata.org/wiki/Q5102911)；PubChem [19094](https://pubchem.ncbi.nlm.nih.gov/compound/19094)；DrugBank [DB01534](https://www.drugbank.ca/r/DB01534)；CAS 3563-58-4 |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
-| --- | --- | --- | --- |
-| 1.6 | g | O | — |
+## 2. 评分
 
-DDD 是统计指标，不是推荐处方剂量。
+规则见 [SCORING.md](../SCORING.md)。基线按**口服单方的催眠用途**评。分数是证据与负担的整理，不构成对个体是否用药的判断。**类别证据与本药特异证据分开标注**：氯醛类的胃肠与心脏毒性为类内背景，凡只由类别支撑处均写明是类别证据，**不把 `chloral-hydrate` 单方的警告当作本药已证风险**。
 
-## 待核实
+### 2.1 药物负担（1–5，越高越重）
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 2 | 本轮**未检得本药特异的长期器官毒性、依赖或致癌研究**（仅 3 篇 1961–62 年人体催眠短期研究）；氯醛类（母体水合氯醛）的耐受与依赖为**类别背景**，**不作为本药发生率**。评 2：长期特异证据缺位 |
+| 短期耐受负担 | 2 | 药物特异：三项早期人体研究报告本药**催眠有效且耐受性被描述为良好**（`PMID:13880824`、`PMID:14452227`、`PMID:14494795`，题录，本轮未取得其不良事件频率表）；氯醛类的胃肠刺激属**类别层面**、未必见于本加合物。评 2：治疗剂量短期耐受读数偏轻，但缺频率表、不升分 |
+| 相互作用／监测负担 | 2 | **本轮未检得本药特异的药物—药物相互作用研究**；无说明书正文故无现行监测条款。评 2：证据缺位 |
+| 停药负担 | 2 | **未检得本药特异的依赖／停药研究**；不借母体水合氯醛的停药／谵妄警告充当当本药发生率。评 2 反映证据缺位，非"已证实无停药风险" |
+| 滥用／误用潜力 | N/A | 无本药特异的人体强化效应试验或带分母的非医疗使用率；母体水合氯醛的滥用条款**不迁移**为本药分数。按 SCORING 记 `N/A`（与停药负担分开判断） |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 2017 年版《中国老年人潜在不适当用药判断标准》与 AGS Beers 2023 本轮**未逐名收录本药**；无中国处方数据；中国上市本身待核实——**无分母即不评分** |
 
-## 来源
+总体解释：氯己二醇（chloralodol）的负担形状目前**只能停在"有本药特异的早期催眠研究、但长期与相互作用数据几乎空白"**。它的药物特异证据是三篇 1961–62 年人体催眠研究（疗效方向、耐受性被述良好），而非母体水合氯醛的警告；氯醛类的胃肠与心脏毒性按类别对待、不冒充本药发生率。滥用维度无本药特异证据，记 `N/A`。
 
-- WHO ATC/DDD Index 2026：[N05CC02](https://atcddd.fhi.no/atc_ddd_index/?code=N05CC02)
-- Wikidata（CC0）：[Q5102911](https://www.wikidata.org/wiki/Q5102911)
-- PubChem CID（经 Wikidata）：[19094](https://pubchem.ncbi.nlm.nih.gov/compound/19094)
-- DrugBank ID（经 Wikidata）：[DB01534](https://www.drugbank.ca/r/DB01534)
-- English Wikipedia（标题指针，未复制正文）：[Chloralodol](https://en.wikipedia.org/wiki/Chloralodol)
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不设场景评分。** 理由：本药**无现行或可引的说明书正文**（美／法／西／英 0 命中或不可读，意／德未取回），其催眠用途仅有 1961–62 年的三篇早期人体研究、**无当前监管锚点**，属"仅历史研究、无当前决策价值"，按 SCORING 不强行设 C／D 行；本药特异的早期人体研究留在 §5，不据此给 A–D 分。中国上市与列管情况（管制为"未发现列入"）也不构成任何场景行。若日后取得现行说明书，再行评分。
+
+## 3. 主要作用
+
+- **催眠（药物特异早期人体证据）**：本药作为"水合氯醛的新衍生物"在 1961 年被药理与临床评估——`PMID:13880824`（Am J Med Sci，"A pharmacological investigation of the hypnotic action of a new derivative of chloral hydrate, chlorhexadol"）与两篇临床评价（`PMID:14452227` Curr Ther Res、`PMID:14494795` Dis Nerv Syst）均针对**催眠作用**；本轮**只取得题录、未取得效应量与不良事件频率**，故只作"存在本药特异人体催眠研究"的记录，不给现代疗效结论。
+- **与氯醛的结构关联（机制层，非等同）**：本药分子含 2,2,2-三氯-1-羟基乙氧基（氯醛部分）（系统名，身份表），原文献称其为氯醛衍生物（`PMID:13880824`）；但**这一加合关系不等于本药即水合氯醛**，本药自身的批准、剂量与警告须独立取得，**不从 `chloral-hydrate` 条目移植**。
+- **机制未定量**：本轮未取得本药特异的受体／离子通道读数；不迁移水合氯醛的 GABA_A／NMDA／5-HT3 机制说明。
+
+## 4. 适应范围
+
+**无官方文字可引**：本轮四个监管入口均 0 条或不可读、意／德未取回，故不写批准适应证原文、禁忌、警告或给药规则（§10 第 1 项）。
+
+**文献记载的用途与给药口径（研究事实，非处方建议）**：催眠用途（`PMID:13880824`、`PMID:14452227`、`PMID:14494795`）；三篇研究的具体给药剂量本轮未取得全文数值。DDD 1.6 g 是统计指标、非处方剂量。**意大利／德国历史制剂与中国的上市剂型、核准适应证均待核实**。
+
+## 5. 实际效果与局限
+
+- **本药特异人体研究存在但仅为早期、且本轮只到题录**：`PMID:13880824`、`PMID:14452227`、`PMID:14494795`（均 1961–62）研究 chlorhexadol 的催眠作用与临床评价；本轮**未取得摘要全文与数值**，故**不引用其效应方向或对照差值**，只确认"有以本药为受试分子的人体催眠研究"。
+- **无现代对照试验**：以通用名与别名（chloralodol、chlorhexadol、chlorhexadolum）检索 PubMed，drug-specific 命中即上述三篇（其余检索词如按化学片段会命中无关化学／代谢文献），**未检得现代随机对照疗效试验**。因此本条目把效果停在"早期特异研究、无现代确证"层次，不声称"本药无效"。
+- **实体纪律**：本条目的效果与局限**只依据以 chloralodol／chlorhexadol 为受试分子的研究**；凡以"水合氯醛"为主体的试验一律不计入本页（§10 第 3 项）。
+
+## 6. 长期风险
+
+- **氯醛类母体的长期风险不迁移**：水合氯醛单方的耐受、依赖、胃坏死与 QT 等条款属 `chloral-hydrate` 条目，**不作为本药已证长期风险**。
+- **本药特异的长期读数**：本轮**未检得**以 chloralodol 为受试分子的长期器官毒性、依赖或动物致癌研究，**不写相应结论**（§2.1）。
+
+## 7. 短期风险、停药与误用
+
+**短期**：早期人体研究报告本药催眠且耐受性被述良好（`PMID:14452227`、`PMID:14494795`，题录）；氯醛类的胃肠刺激属**类别层面**、未必见于本加合物，故不写成本药已证不良反应。**停药**：见 §2.1——本药特异依赖／停药研究未检得，不借母体水合氯醛的停药／谵妄警告。**误用／滥用**：无本药特异证据，记 `N/A`。**过量**：本轮未检得以本药为受试分子的单纯过量结局系列，不据母体外推定量。
+
+## 8. 重要相互作用
+
+- **无本药人体药物—药物相互作用试验**：因无说明书正文且本轮未检得相应研究，本节**不写 CYP 分型表、不写与酒精或抗凝药的定量结论**；母体水合氯醛的抗凝／呋塞米相互作用**不迁移**为本药条款。
+
+## 9. 特殊人群
+
+无标签文字，本节只列可核条目。本轮**未检得本药特异的老年、妊娠、哺乳、肝肾功能或儿科研究**；母体水合氯醛对新生儿／卟啉症／重度心肝肾疾病的禁忌与警告**不作为本药已证事实**（避免跨实体移植）。故本节仅说明"特殊人群数据缺位"，不构成个体化建议。
+
+## 10. 证据边界
+
+1. **无说明书正文是保持 `basic`、不设场景的主因**：美（openFDA／Drugs@FDA 404）、法（BDPM 0）、西（CIMA 0）、英（emc 结果脚本加载未取到可读命中）本轮无现行文本，意／德未取回；404／0 只写成**检索缺口**，不写"未批准／已撤市"；文中 Lora、Medodorm、Merchloral 等商品名**未由官方来源核实**。
+2. **中文标签口径更正**：骨架 zh 标签"氯丙醇"与本药己二醇结构不符，本轮未核得监管核准名，正文以 chloralodol／chlorhexadol 为准；下方中国管制字段仍**逐字保留骨架已审计结论**（其中"chloralodol / 氯丙醇"字样为骨架原文，未改判）。
+3. **实体纪律（本组最关键）**：本药含氯醛结构，但**不继承 `chloral-hydrate`（N05CC01）的适应证、剂量、机制、警告或滥用数据**；氯醛释放关系仅按来源（`PMID:13880824` 的"氯醛衍生物"表述）作机制说明。本药特异证据只有以 chloralodol／chlorhexadol 为受试分子的三篇 1961–62 年人体研究。
+4. **早期研究仅到题录**：`PMID:13880824`、`PMID:14452227`、`PMID:14494795` 本轮未取得全文数值，不引用其效应量或不良事件频率。
+5. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），本轮未重跑、未改判；NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+6. **DDD 1.6 g 是统计指标**，不是处方剂量。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：需要解释的是"含氯醛结构的加合物为何不能借用母体水合氯醛的安全与疗效结论"，这一实体纪律属 AGENTS.md 通则、已在 §3、§6、§10 说清；本药特异证据体量小（三篇早期人体研究、均题录），不足以支撑单独专题。
+
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22chloralodol%22&limit=5)；[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22chloralodol%22&limit=5)；[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=chloralodol)；[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CHLORALODOL&limit=20)；[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=chloralodol)；[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=chloralodol)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+
+**指南与标准**：[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)；[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
+
+**研究（本药特异人体催眠研究，均题录）**：[chlorhexadol 催眠作用的药理学研究（水合氯醛新衍生物，`PMID:13880824`）](https://pubmed.ncbi.nlm.nih.gov/13880824/)；[新型催眠药 chlorhexadol 的临床结果（`PMID:14452227`）](https://pubmed.ncbi.nlm.nih.gov/14452227/)；[chlorhexadol 临床评价（`PMID:14494795`）](https://pubmed.ncbi.nlm.nih.gov/14494795/)。
+
+**分类与身份**：[WHO ATC/DDD Index `N05CC02`（DDD 1.6 g O）](https://atcddd.fhi.no/atc_ddd_index/?code=N05CC02)；[Wikidata Q5102911](https://www.wikidata.org/wiki/Q5102911)；[PubChem CID 19094](https://pubchem.ncbi.nlm.nih.gov/compound/19094)；[DrugBank DB01534](https://www.drugbank.ca/r/DB01534)；English Wikipedia（标题指针，未复制正文）：[Chloralodol](https://en.wikipedia.org/wiki/Chloralodol)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-

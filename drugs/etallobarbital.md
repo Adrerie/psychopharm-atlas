@@ -1,33 +1,86 @@
-# etallobarbital
+# etallobarbital｜依沙比妥（zh，维基数据标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA20`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行；本药未被单独列名，若受控则落入"Barbituric acid derivative 2100 III"通配行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | etallobarbital | WHO ATC/DDD Index 2026（`N05CA20`）|
-| 中文标签（维基数据，未核对监管核准名） | 依沙比妥（zh） | Wikidata [Q5402855](https://www.wikidata.org/wiki/Q5402855) |
-| ATC 编码 | `N05CA20`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N05CA Barbiturates, plain | WHO ATC/DDD Index 2026 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“etallobarbital / 依沙比妥”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**氧巴比妥类**，5-烯丙基-5-乙基巴比妥酸（allobarbital 的烯丙基／乙基取代同类物）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA）；**本药无自身实验证实的机制数据**，机制条目为类别归属 |
+| 主要剂型 | 无本药产品记录可确认剂型；本轮 openFDA、DailyMed、Drugs@FDA、法国 BDPM、CIMA 检索均 0 条，**无现行或历史说明书正文** |
+| 关键药代摘要 | 无任何本药药代数据；官方 2026 ATC/DDD 索引对 `N05CA20` **未列 DDD**，故无统计口径可引，也不填数值 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“etallobarbital / 依沙比妥”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药；现行 openFDA／DailyMed／Drugs@FDA 检索 0 条 → 无正文，按 `basic`，且**不据零命中断言"未批准／已撤市／不存在"**。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索） |
+| 身份与统计 | WHO ATC `N05CA20`（**无 DDD**）；CAS **2373-84-4**；分子式 **C9H12N2O3**（MW 196.20；5-烯丙基-5-乙基巴比妥酸，PubChem CID 48542）；PubChem [48542](https://pubchem.ncbi.nlm.nih.gov/compound/48542)；MeSH 无独立描述符（归入 Barbiturates）；RxNorm 未命中；DrugBank 无本药条目记录 |
 
-官方 2026 索引未对本编码列出 DDD。
+**身份陷阱（硬规则）**：**etallobarbital ≠ allobarbital**。allobarbital（5,5-二烯丙基巴比妥酸，Wave 9 已建）是不同分子，本档案**不继承其任何记录、评分或商品名**。商品名出现在题名不足以证明身份，本药须按物质名／CAS 2373-84-4／PubChem 结构确认——而本轮按这些标识检索**未得到任何本药特异的文献或产品记录**。
 
-## 待核实
+## 2. 评分
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+规则见 [SCORING.md](../SCORING.md)。本药**仅有类别身份（巴比妥类）而无任何本药特异证据、产品或药代记录**；在不把纯类别证据充当本药发生率／评分依据的前提下，本轮**不为负担维度定分**。
 
-## 来源
+### 2.1 药物负担（1–5，越高越重）
 
-- WHO ATC/DDD Index 2026：[N05CA20](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA20)
-- Wikidata（CC0）：[Q5402855](https://www.wikidata.org/wiki/Q5402855)
-- PubChem CID（经 Wikidata）：[48542](https://pubchem.ncbi.nlm.nih.gov/compound/48542)
-- English Wikipedia（标题指针，未复制正文）：[Ethallobarbital](https://en.wikipedia.org/wiki/Ethallobarbital)
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | N/A | 无本药特异人体或动物数据；仅有"巴比妥类可致耐受／依赖"的类别信息，不作本药评分依据 |
+| 短期耐受负担 | N/A | 无本药不良反应或药效数据 |
+| 相互作用／监测负担 | N/A | 无本药药酶／相互作用研究；类别酶诱导不单独充数 |
+| 停药负担 | N/A | 无本药停药／戒断数据 |
+| 滥用／误用潜力 | N/A | 无自身给药／人体强化／带分母非医疗使用数据；未列管亦不证明 1 分 |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 无当地处方数据，中国目录未命中，2017 版老年 PIM 标准无本药逐名条目 |
+
+**本轮不设负担分**：本药身份可核（ATC／CAS／结构），但**无任何本药特异的疗效、安全、药代或滥用证据**，也没有可引用的人体或动物研究，若强行按类别外推赋分将违反"类别证据≠本药证据"，故六维均记 `N/A`。
+
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不设场景评分。** 无现行或历史说明书正文、无本药人体对照研究、官方 ATC/DDD 甚至未给 DDD；历史催眠用途亦无本药特异记录，无任何具当前决策价值的可评分场景。
+
+## 3. 主要作用
+
+按**巴比妥类共有机制**归入 GABA-A 受体—氯通道调节剂（延长通道开放、高浓度直接拟 GABA），预期产生镇静／催眠／抗惊厥效应。**此为类别机制归属，非本药实验结果**；本轮无本药特异的机制或药效学数据。
+
+## 4. 适应范围
+
+本药未见现行或历史说明书正文，也未检索到明确的本药适应证记录；不填给药信息、禁忌与限制（§10）。**不得由 ATC 类别推定适应证**：ATC `N05CA` 亚组是"巴比妥类单方"这一化学分类，其成员的历史催眠／镇静用途不能自动套到本药。中国上市剂型与核准适应证待核实（NMPA／CDE 不可脚本检索）。
+
+## 5. 实际效果与局限
+
+以通用名"etallobarbital／ethallobarbital"检索 PubMed **返回 0 篇**（含别名与结构名"5-ethyl-5-(2-propenyl)"检索），既无疗效试验、也无本药 PK 或安全性研究；Drugs@FDA／openFDA label／DailyMed SPL／BDPM／CIMA 各渠道均 0 条。官方 2026 ATC/DDD 索引甚至未对本编码列出 DDD。**这是本条目的核心缺口**：本档案只能陈述其身份与类别归属，无法评估任何实际效果，也不据类别外推赋分。
+
+## 6. 长期风险
+
+无本药特异长期数据。类别层面巴比妥类可致耐受、依赖与认知损害——**仅作类别提示，不构成本药发生率**。
+
+## 7. 短期风险、停药与误用
+
+无本药特异的短期不良反应、停药或滥用数据可引；类别层面提示巴比妥类骤停可致戒断（失眠、激越、震颤，严重时惊厥）、过量可致深睡→昏迷与呼吸抑制——这些是**类别**框架，不作为本药的发生率或本药评分依据。滥用维度 `N/A`：法律层级与未列管均不证明滥用率，也无需据此赋 1 分（SCORING 明确"滥用潜力 1 分不能仅凭未列管、说明书无相关章节或试验未报告觅药行为推导"）。
+
+## 8. 重要相互作用
+
+无本药特异相互作用研究。类别层面巴比妥类诱导肝药酶（CYP2B／2C／3A）加速抗凝药、口服避孕药、糖皮质激素等代谢并降低其效应，与酒精、阿片、苯二氮䓬叠加中枢抑制——**仅作类别提示**，不构成本药发生率。
+
+## 9. 特殊人群
+
+无本药人群数据可引；类别层面老年／妊娠／肝肾功能不全者对巴比妥类更敏感。**不构成个体化建议。**
+
+## 10. 证据边界
+
+1. **零本药特异证据**：PubMed 通用名与别名检索 0 篇；openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 0 条；ATC/DDD 无 DDD → 本条目仅完成身份与分类核实。
+2. **不据零命中作否定结论**：0 命中只写成检索缺口，不断言"未批准／已撤市／不存在"。
+3. **etallobarbital ≠ allobarbital**：不借用同系物的机制、疗效、安全或商品名记录。
+4. **中国管制**：沿用 2026-10-06 已审计结论（未发现列入现行目录），本轮不重跑；NMPA／CDE 不可脚本检索。
+5. **维持 `basic`**：可靠的基础信息仅有"身份＋类别"，缺任何本药正文与数据，故不升级。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：无任何本药特异证据可深挖，专题无问题导向价值。
+
+**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（本药未单列，落"Barbituric acid derivative"通配行）；[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22etallobarbital%22)（0 条）；[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=etallobarbital)；[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22etallobarbital%22)（0 条）；[PubMed 通用名检索（0 篇）](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&term=etallobarbital%5Btiab%5D%20OR%20ethallobarbital%5Btiab%5D)。
+
+**分类与身份**：[WHO ATC/DDD `N05CA20`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA20)；[PubChem CID 48542](https://pubchem.ncbi.nlm.nih.gov/compound/48542)；[Wikidata Q5402855](https://www.wikidata.org/wiki/Q5402855)；English Wikipedia 指针：[Ethallobarbital](https://en.wikipedia.org/wiki/Ethallobarbital)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-

@@ -1,42 +1,88 @@
-# talbutal
+# talbutal｜他布比妥（zh，维基数据标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA07`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | talbutal | WHO ATC/DDD Index 2026（`N05CA07`）|
-| 中文标签（维基数据，未核对监管核准名） | 他布比妥（zh） | Wikidata [Q409942](https://www.wikidata.org/wiki/Q409942) |
-| ATC 编码 | `N05CA07`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N05CA Barbiturates, plain | WHO ATC/DDD Index 2026 |
-| 别名 | Lotusate；Talbutale；Talbutalum；sec-Butyl allyl barbituric acid | Wikidata 英文别名 |
-| 系统命名/研究代号（2 条，节选） | (RS)-5-allyl-5-sec-butylpyrimidine-2,4,6(1H,3H,5H)-trione；5-allyl-5-sec-butylbarbituric acid | Wikidata 英文别名 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `89810` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/89810.json) |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“talbutal / 他布比妥”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**氧巴比妥类**、中效催眠药，5-烯丙基-5-仲丁基巴比妥酸（(RS)-5-allyl-5-sec-butylbarbituric acid）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA） |
+| 主要剂型 | 历史口服（品牌 **Lotusate**）。本轮 openFDA、DailyMed、Drugs@FDA、BDPM、CIMA 检索均 0 条，**无现行或历史说明书正文** |
+| 关键药代摘要 | 无任何本药药代或临床数据；`PMID:7320137`、`PMID:16867520` 只是把本药作为被分析物（血中巴比妥 HPLC 法、NMR 构象研究），不含治疗参数，故不填数值 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“talbutal / 他布比妥”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **talbutal＝CSCN 2100，附表 III，非麻醉，品牌 Lotusate**（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 检索 0 条 → 无正文，按 `basic`，**不据零命中断言"未批准／已撤市／不存在"**。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索） |
+| 身份与统计 | WHO ATC `N05CA07`；DDD **0.1 g 口服**（统计指标非处方量）；CAS **115-44-6**；分子式 **C11H16N2O3**（MW 224.26，PubChem CID 8275）；PubChem [8275](https://pubchem.ncbi.nlm.nih.gov/compound/8275)；DrugBank [DB00306](https://www.drugbank.ca/r/DB00306)；RxNorm [89810](https://rxnav.nlm.nih.gov/REST/rxcui/89810.json)；MeSH 无独立描述符（归入 Barbiturates） |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
-| --- | --- | --- | --- |
-| 0.1 | g | O | — |
+**身份陷阱（硬规则）**：本药名以 "-butal／-tal" 结尾，易与**硫代巴比妥静脉麻醉药**（thiamylal、thiopental）或其他烯丙基巴比妥混淆；talbutal 为**口服氧巴比妥**（C2 羰基、非噻羰基），Lotusate 为其品牌。商品名出现在题名不足以证明身份，本档案只收按物质名／CAS 115-44-6／PubChem 结构确认的记录。
 
-DDD 是统计指标，不是推荐处方剂量。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。基线按口服单方评；分数为证据与负担的整理，不构成个体用药判断。凡标"类别"者为巴比妥类共有药理，非本药实测发生率。本药**无任何本药特异的临床／药理数据**，故各临床分为纯类别推断，滥用维度 `N/A`。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | **类别**：巴比妥类耐受与依赖；本药无特异长期数据 |
+| 短期耐受负担 | 3 | **类别**：镇静、共济失调，高剂量呼吸抑制；本药无频率表 |
+| 相互作用／监测负担 | 3 | **类别**：酶诱导与叠加中枢抑制；无本药特异研究 |
+| 停药负担 | 3 | **类别**：巴比妥类骤停可致戒断；本药无特异撤药谱 |
+| 滥用／误用潜力 | N/A | 附表 III 属法律层级；本轮未检索到本药特异的自身给药、人体强化效应或带分母非医疗使用数据，按 SCORING 记 `N/A` |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 无当地处方数据，中国目录未命中，2017 版老年 PIM 标准无本药逐名条目，记 `N/A` |
 
-- WHO ATC/DDD Index 2026：[N05CA07](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA07)
-- Wikidata（CC0）：[Q409942](https://www.wikidata.org/wiki/Q409942)
-- PubChem CID（经 Wikidata）：[8275](https://pubchem.ncbi.nlm.nih.gov/compound/8275)
-- DrugBank ID（经 Wikidata）：[DB00306](https://www.drugbank.ca/r/DB00306)
-- English Wikipedia（标题指针，未复制正文）：[Talbutal](https://en.wikipedia.org/wiki/Talbutal)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 89810](https://rxnav.nlm.nih.gov/REST/rxcui/89810.json)
+总体解释：本药仅有类别身份与 DEA 法律层级可核，**没有任何本药特异的疗效、安全、药代或滥用证据**，故负担各维以类别推断为上限、滥用维度 `N/A`。
+
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不设场景评分。** 无现行或历史说明书正文；历史催眠用途无当前决策价值，且无任何本药特异人体对照证据，故不列 A–D 行。
+
+## 3. 主要作用
+
+按**巴比妥类共有机制**：易化 GABA-A 受体—氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠与（高浓度）麻醉／呼吸抑制。**为类别机制归属**，本药无特异受体／通道或药效学数据；无本药的人体或动物 PK／PD 研究。本药 5 位为烯丙基与仲丁基、C2 为羰基（非噻羰基），故与硫代巴比妥静脉麻醉药（thiamylal／thiopental）在结构与用途谱上不同——这一结构区分对本档案的意义在于**避免把硫类麻醉的效应或风险误归入本药**。
+
+## 4. 适应范围
+
+本药历史上作为**中效催眠／镇静**用途（品牌 Lotusate，口服），无现行说明书正文；不填给药信息、禁忌与限制（§10）。**不得由 ATC 类别推定适应证或剂量**：Lotusate 的适应症、用法须以正文为准，而正文本轮缺失。美国 DEA《管制物质字母表》按物质名直接列出本药（brand Lotusate），可推知本药曾在或曾申请美国列管；但 `openFDA label / Drugs@FDA / DailyMed SPL` 三个渠道都无本药产品记录，无法确认持证方、现行规格或撤市公告。中国核准状态待核实。
+
+## 5. 实际效果与局限
+
+以通用名检索 PubMed **仅命中 2 篇，且均为分析化学／波谱方法**——`PMID:7320137`（1981 年《J Chromatogr》血中巴比妥 HPLC 法，把 talbutal 列为被分离／检出的分析物之一，不涉疗效）、`PMID:16867520`（1987 年钆／镧系位移试剂 NMR 研究，含 thiopental 与巴比妥类似物的谱图简化，为化学方法学）。**没有可引用的本药疗效或安全性研究**；亦无本药人体 PK、不良反应频率、戒断时程或滥用数据可引。因此本条目的"效果"栏只能记为**零本药特异证据**，不据文献赋分。
+
+## 6. 长期风险
+
+**类别**：巴比妥类长期使用可致耐受、依赖与认知—精神运动损害；酶诱导长期改变甾体／维生素 D 代谢、加速口服避孕药与抗凝药失效；反复超剂量或骤然停药与戒断反应、过量致死相关。**本药无特异长期数据**，以上仅为类别提示，不作发生率或本药人群结局。无本药人体随访研究、无戒断时程、无滥用流行病学。
+
+## 7. 短期风险、停药与误用
+
+**短期**：镇静、嗜睡、共济失调、精神运动损害，高剂量呼吸抑制——均为**类别**效应，本药无特异频率数据。**过量**：巴比妥类过量以深睡→昏迷、呼吸抑制、低血压与体温过低为特征，无特异解毒剂（**类别**层面；本药无说明书过量章节可引）。**停药**：类内通用，骤停可出现戒断表现（失眠、激越、震颤，严重时惊厥），本药无特异时程。**误用／滥用**：无本药特异的强化效应或带分母的非医疗使用数据，`N/A`（附表 III 属法律层级，非滥用量证据）。
+
+## 8. 重要相互作用
+
+**类别层面**：巴比妥类为肝药酶（CYP2B、CYP2C、CYP3A 等）诱导剂，加速抗凝药（华法林）、口服避孕药、糖皮质激素、部分抗惊厥药与强心苷等的代谢并降低其效应；与其他中枢抑制药（酒精、阿片、苯二氮䓬、其他催眠药）合用协同抑制呼吸与循环。**本药无特异临床相互作用研究**；以上为类别推断。
+
+## 9. 特殊人群
+
+无本药人群数据可引；类别层面老年、妊娠、哺乳、肝肾功能不全、呼吸功能不全者对巴比妥类镇静与呼吸抑制更敏感、易蓄积（本药为**中效经肝代谢**巴比妥，类别一致，但本药无特异药代数据）。本药无说明书正文给出人群剂量或禁忌（§10），不构成个体化建议。
+
+## 10. 证据边界
+
+1. **零本药临床证据＋无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 均 0 条，PubMed 仅 2 篇分析化学／波谱方法学（`PMID:7320137`、`PMID:16867520`，把本药作为被检分析物）→ 记检索缺口，**不据此断言"未批准／已撤市／不存在"**；维持 `basic`。
+2. **联邦公报对本名的检索**仅命中反兴奋剂清单等旁证文件（`HISA Anti-Doping and Medication Control Rule` 等），无本药产品许可或撤市公告；这属于具体检索缺口，不代表 FDA 已作出许可或撤销的正式决定。
+3. **勿与硫代巴比妥静脉麻醉药混淆**（thiamylal／thiopental）；talbutal 为口服氧巴比妥、品牌 Lotusate。
+4. **DEA／中国层级**：附表 III 为法律分类，不证明滥用率或疗效。
+5. **中国管制**：沿用 2026-10-06 已审计结论（未发现列入现行目录），本轮不重跑；NMPA／CDE 不可脚本检索。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：无任何本药特异证据可深挖，专题无问题导向价值。
+
+**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（talbutal 2100 III, Lotusate）；[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22talbutal%22)（0 条）；[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=talbutal)；[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22talbutal%22)（0 条）；[联邦公报按名检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22talbutal%22&per_page=5)（仅反兴奋剂／旁证文件）。
+
+**研究（非疗效，方法学）**：[血中巴比妥 HPLC 分析（PMID:7320137）](https://pubmed.ncbi.nlm.nih.gov/7320137/)；[巴比妥类似物 NMR 位移试剂研究（PMID:16867520）](https://pubmed.ncbi.nlm.nih.gov/16867520/)。
+
+**分类与身份**：[WHO ATC/DDD `N05CA07`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA07)；[PubChem CID 8275](https://pubchem.ncbi.nlm.nih.gov/compound/8275)；[DrugBank DB00306](https://www.drugbank.ca/r/DB00306)；[RxNorm 89810](https://rxnav.nlm.nih.gov/REST/rxcui/89810.json)；[Wikidata Q409942](https://www.wikidata.org/wiki/Q409942)；English Wikipedia 指针：[Talbutal](https://en.wikipedia.org/wiki/Talbutal)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-

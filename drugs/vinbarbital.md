@@ -1,41 +1,88 @@
-# vinbarbital
+# vinbarbital｜vinbarbital（中文名待核实，维基数据未给出可核标签）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA09`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | vinbarbital | WHO ATC/DDD Index 2026（`N05CA09`）|
-| 中文标签 | 待核实 | — |
-| ATC 编码 | `N05CA09`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N05CA Barbiturates, plain | WHO ATC/DDD Index 2026 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `89811` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/89811.json) |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“vinbarbital”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**氧巴比妥类**、中效催眠药（5-烯丙基-5-(1-甲基丙基)…vinbarbitone）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA） |
+| 主要剂型 | 历史**口服**（品牌 Delvinal、Sonuctane、Butenemal）与**钠盐静脉**制剂（产科镇静，`PMID:18888224`、`PMID:18140745`）——口服与注射、游离酸与钠盐须分开。另有 **aminophylline–vinbarbital 复方溶液**（`PMID:14907481`），属复方，条款不进单方。本轮 openFDA、DailyMed、Drugs@FDA、BDPM、CIMA 检索均 0 条，**无说明书正文** |
+| 关键药代摘要 | 无本药人体 PK 正文可引；文献为临床用途与死亡法证（见 §5），不含治疗参数，故不填数值 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“vinbarbital”；再按公告结构定义核查四个整类范围——芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **vinbarbital＝CSCN 2100，附表 III，非麻醉，品牌 Delvinal／vinbarbitone**（法律层级，不证明滥用率或疗效）；`PMID:1242639`（1975）称 vinbarbital"**已不再在美国药物市场供应**"，提示历史停售，但本轮未取到正式撤市决定与生效日，故只记文献陈述、不宣布撤市。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索） |
+| 身份与统计 | WHO ATC `N05CA09`；DDD **0.1 g 口服**（统计指标非处方量）；CAS **125-42-8**（另有登记号 75016-38-5）；分子式 **C11H16N2O3**（MW 224.26，与 vinylbital 互为同分异构，PubChem CID 5284636）；PubChem [5284636](https://pubchem.ncbi.nlm.nih.gov/compound/5284636)、[31319](https://pubchem.ncbi.nlm.nih.gov/compound/31319)；DrugBank [DB13377](https://www.drugbank.ca/r/DB13377)；RxNorm [89811](https://rxnav.nlm.nih.gov/REST/rxcui/89811.json)；MeSH 无独立描述符（归入 Barbiturates） |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
-| --- | --- | --- | --- |
-| 0.1 | g | O | — |
+**身份陷阱（硬规则）**：**vinbarbital ≠ vinylbital**（后者为 5-乙烯基取代、ATC `N05CA08`、本品 2430-49-1），两者是不同分子，记录不得互换；本档案按物质名／CAS 125-42-8／PubChem 结构确认。Sonuctane／Delvinal／Butenemal 为本药品牌，但商品名出现在题名不足以证明身份，须核对原文物质名。含 aminophylline 的复方（`PMID:14907481`）不作单方评分。
 
-DDD 是统计指标，不是推荐处方剂量。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。基线按口服单方评；分数为证据与负担的整理，不构成个体用药判断。凡标"类别"者为巴比妥类共有药理，非本药实测发生率。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | **类别**：巴比妥类耐受与依赖；本药无特异人体长期研究 |
+| 短期耐受负担 | 3 | **类别**：镇静、共济失调，高剂量呼吸抑制；历史临床（精神科、产科 IV）见 §5，但无不良反应频率表 |
+| 相互作用／监测负担 | 3 | **类别**：酶诱导与叠加中枢抑制；无本药特异临床相互作用研究。注射钠盐的快速镇静需监护（历史产科用法，`PMID:18888224`） |
+| 停药负担 | 3 | **类别**：巴比妥类骤停可致戒断；本药无特异撤药谱 |
+| 滥用／误用潜力 | N/A | 附表 III 属法律层级；`PMID:1242639` 记录本药**自杀性过量致死**属故意自伤、非觅药／强化数据，且无带分母的非医疗使用；按 SCORING 记 `N/A` |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 无当地处方数据，中国目录未命中，2017 版老年 PIM 标准无本药逐名条目，记 `N/A` |
 
-- WHO ATC/DDD Index 2026：[N05CA09](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA09)
-- Wikidata（CC0）：[Q409579](https://www.wikidata.org/wiki/Q409579)
-- PubChem CID（经 Wikidata）：[31319](https://pubchem.ncbi.nlm.nih.gov/compound/31319)
-- PubChem CID（经 Wikidata）：[5284636](https://pubchem.ncbi.nlm.nih.gov/compound/5284636)
-- DrugBank ID（经 Wikidata）：[DB13377](https://www.drugbank.ca/r/DB13377)
-- English Wikipedia（标题指针，未复制正文）：[Vinbarbital](https://en.wikipedia.org/wiki/Vinbarbital)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 89811](https://rxnav.nlm.nih.gov/REST/rxcui/89811.json)
+总体解释：本药负担形状是"中效巴比妥类共有的镇静—依赖—酶诱导 + 历史静脉钠盐的快速镇静风险"；过量致死个案（`PMID:1242639`）反映巴比妥类**治疗窗窄**的类别属性，滥用维度因缺合格证据记 `N/A`。
+
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不设场景评分。** 无现行或历史说明书正文；历史催眠、产科镇静与口腔科用途均为旧文献、无当前决策价值，缺本药现代随机对照，故不列 A–D 行，本药特异研究留在 §5。
+
+## 3. 主要作用
+
+按**巴比妥类共有机制**：易化 GABA-A 受体—氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠、抗惊厥与（高剂量／静脉）麻醉。**为类别机制**；本药静脉钠盐可快速起效（历史产科用法），属剂型／给药途径层面的效应，不改变药物本体基线。
+
+## 4. 适应范围
+
+本药历史上作为**催眠／镇静**，并曾以**静脉钠盐**用于**产科**（分娩期镇静，`PMID:18888224`、`PMID:18140745`）、口腔科（`PMID:5386072`）与神经精神科镇静（`PMID:5363794`、`PMID:5720289`）。口服（游离酸／片剂，品牌 Delvinal／Sonuctane）与静脉钠盐为不同剂型与途径，须分开记录；含 aminophylline 的复方溶液（`PMID:14907481`）另属复方，其条款不计入单方。**无现行说明书正文**，给药信息、禁忌与限制不予填写（§10）。中国核准状态待核实。
+
+## 5. 实际效果与局限
+
+本药历史临床证据均无现代对照质量：`PMID:5363794`（1969 年《Rev Lyon Med》，Sonuctane/vinbarbital 治疗 50 例神经精神患者，法语旧文，未取摘要）、`PMID:5720289`（1968 年，Sonuctane/vinbarbital 40 例心脏患者）、`PMID:5386072`（1969 年，口腔科研究，题录）、`PMID:18888224`（1948 年《Am J Obstet Gynecol》，静脉 sodium vinbarbital 于产科；`PMID:18140745`，1949 年同类）——**这些都不是随机对照试验**、无带分母的现代终点，本轮也不引用其方向或数值。`PMID:1242639`（1975 年《Arch Toxicol》）报道 vinbarbital 自杀摄入致死并经红外与薄层色谱鉴定，指出其"已不再在美国药物市场供应"——反映**治疗窗窄**的类别属性与停售事实，但不等于正式撤市公告。含 aminophylline 的复方溶液（`PMID:14907481`，1952 年）另属复方，其测定与用法不作为单方证据。
+
+## 6. 长期风险
+
+**类别**：耐受、依赖、认知—精神运动损害；酶诱导长期改变甾体／维生素 D 代谢。本药**无特异长期数据**；`PMID:1242639` 只反映单次致死性过量暴露的法医个案（属故意自伤，不用于发生率），不构成慢性治疗的长期风险量化。类级综述（如巴比妥类百年史文献）提示本类历史上作为长期催眠药使用与随后被苯二氮䓬替代的一般趋势，但不涉及本药特异的长期结局。
+
+## 7. 短期风险、停药与误用
+
+**短期**：镇静、共济失调、宿醉样次日损害、呼吸抑制，静脉钠盐尤其快速深度镇静（历史用法）；`PMID:1242639` 的致死个案体现**过量致命**（类别，非人群发生率）。**停药**：类内通用，骤停可出现失眠、激越、震颤，严重时惊厥，本药无特异撤药谱或时程。**误用／滥用**：无自身给药／人体强化／带分母非医疗使用数据，`N/A`；附表 III 为法律层级，不证明滥用率。**过量**：以深睡→昏迷、呼吸抑制、低血压为特征，无特异解毒剂（类别）；`PMID:1242639` 是本药特异的法医—毒理个案（1975 年，红外与薄层鉴定）。
+
+## 8. 重要相互作用
+
+**类别层面**：巴比妥类诱导肝药酶、降低抗凝药／口服避孕药／糖皮质激素等效应，与酒精、阿片、苯二氮䓬叠加中枢与呼吸抑制。本药无特异临床相互作用研究；含 aminophylline 的复方记录不作为单方证据。以上为类别推断。
+
+## 9. 特殊人群
+
+**历史产科静脉用法**（`PMID:18888224`、`PMID:18140745`）提示本药曾以钠盐静脉给药用于分娩期镇静，但产科镇静对母胎呼吸抑制、新生儿抑制为**类别**关注，且这两份文献均为 1940 年代旧文，不能替代现代产科用药规范。老年、哺乳、肝肾功能不全、呼吸功能不全者对巴比妥类更敏感（**类别**）。本药无说明书正文给出人群剂量或禁忌（§10），不构成个体化建议；不得把复方（含 aminophylline 或与其他药物固定组合）的特殊人群条款算作本药单方证据。
+
+## 10. 证据边界
+
+1. **无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 均 0 条 → 记检索缺口；维持 `basic`。
+2. **"已退出美国市场"来自 1975 年个案陈述**（`PMID:1242639`），本轮**未取到正式撤市决定与公告／生效日**，故不宣布撤市，只记文献说法。
+3. **vinbarbital ≠ vinylbital**；口服 vs 静脉钠盐、游离酸 vs 钠盐、单方 vs aminophylline 复方分开，复方条款不进单方。
+4. **DEA／中国层级**：附表 III 为法律分类，不证明滥用率或疗效。
+5. **中国管制**：沿用 2026-10-06 已审计结论（未发现列入现行目录），本轮不重跑；NMPA／CDE 不可脚本检索。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：本药特异证据为旧临床个案与一例外过量致死，无冲突或需独立解释的机制，主条目已足够。
+
+**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（vinbarbital 2100 III, Delvinal）；[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinbarbital%22)（0 条）；[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinbarbital)；[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22vinbarbital%22)（0 条）；[联邦公报按名检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22vinbarbital%22&per_page=5)。
+
+**研究（本药特异，均旧文）**：[神经精神科 50 例 Sonuctane/vinbarbital 试验（PMID:5363794）](https://pubmed.ncbi.nlm.nih.gov/5363794/)；[静脉钠盐产科应用（PMID:18888224）](https://pubmed.ncbi.nlm.nih.gov/18888224/)；[vinbarbital 自杀致死个案与停售陈述（PMID:1242639）](https://pubmed.ncbi.nlm.nih.gov/1242639/)。
+
+**分类与身份**：[WHO ATC/DDD `N05CA09`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA09)；[PubChem CID 5284636](https://pubchem.ncbi.nlm.nih.gov/compound/5284636)；[DrugBank DB13377](https://www.drugbank.ca/r/DB13377)；[RxNorm 89811](https://rxnav.nlm.nih.gov/REST/rxcui/89811.json)；[Wikidata Q409579](https://www.wikidata.org/wiki/Q409579)；English Wikipedia 指针：[Vinbarbital](https://en.wikipedia.org/wiki/Vinbarbital)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-

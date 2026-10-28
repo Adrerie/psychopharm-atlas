@@ -1,41 +1,88 @@
-# vinylbital
+# vinylbital｜乙烯比妥（zh，维基数据标签，未核对监管核准名）
 
-> 状态 `indexed`（仅核实身份与分类）｜ 核查 2026-10-04 ｜ 基准 WHO ATC/DDD Index 2026  
-> 类型：单方｜仅供学习研究，不构成用药指导（[免责声明](../DISCLAIMER.md)）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA08`（WHO ATC/DDD Index 2026）
+> 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-## 身份与分类
+**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行；本药未被单独列名，若受控则落入"Barbituric acid derivative 2100 III"通配行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
-| 项目 | 内容 | 来源 |
-| --- | --- | --- |
-| 英文通用名 | vinylbital | WHO ATC/DDD Index 2026（`N05CA08`）|
-| 中文标签（维基数据，未核对监管核准名） | 乙烯比妥（zh） | Wikidata [Q410157](https://www.wikidata.org/wiki/Q410157) |
-| ATC 编码 | `N05CA08`（2026 年索引） | WHO ATC/DDD Index 2026 |
-| 官方亚组 | N05CA Barbiturates, plain | WHO ATC/DDD Index 2026 |
-| 别名 | butylvinal；vinylbarbital | Wikidata 英文别名 |
-| 身份链接 | `atc-claim` | Wikidata 携带该 ATC 编码（P267） |
-| RxNorm 概念标识（名称检索） | RXCUI `19928` | [RxNorm](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)（RxNorm 首选名 `butylvinal`，与官方名不同） |
-| 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 305 项“乙烯比妥”（英文名 5-(1-Methylbutyl)-5-vinylbarbituric acid；CAS 2430-49-1），目录备注“Vinylbital”。 | [中国麻精药品管制来源基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+## 1. 基本信息
 
-## DDD（用药统计指标）
+| 项目 | 内容 |
+| --- | --- |
+| 类型／药理类别 | 单方，**氧巴比妥类**、5-乙烯基-5-(1-甲基丁基)巴比妥酸（butylvinal／vinylbarbital，RxNorm 首选名 `butylvinal`）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA） |
+| 主要剂型 | 历史**口服片剂**（Bykonox，150 mg）与**直肠栓剂**（Suppoptanox，聚乙二醇基质，200 mg），二者在同一人体交叉研究比较（`PMID:989344`）——口服与直肠为不同剂型、须分开。本轮 openFDA、DailyMed、Drugs@FDA、BDPM、CIMA 检索 0 条，**无说明书正文** |
+| 关键药代摘要 | **人体**：消除半衰期 17.6–33.5 h，口服均值 23.5 h、直肠均值 23.8 h，符合单室模型；片剂吸收更快（平均吸收 t½ 0.24 h）、栓剂lag time 更短（`PMID:989344`）。代谢经**1',2'-环氧–二醇通路**，脱乙烯基代谢物 5-(1-甲基丁基)巴比妥酸为主要尿排泄终产物（`PMID:6110286`） |
+| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 305 项“乙烯比妥”（英文名 5-(1-Methylbutyl)-5-vinylbarbituric acid；CAS 2430-49-1），目录备注“Vinylbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药（若受控落"Barbituric acid derivative 2100 III"通配行）。现行 openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 检索 0 条 → 无正文，按 `basic`，**不据零命中断言"未批准／已撤市／不存在"**。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索）。品牌线索 Speda；本组内 Bykonox／Suppoptanox 来自药代文献 |
+| 身份与统计 | WHO ATC `N05CA08`；DDD **0.15 g 口服**（统计指标非处方量）；CAS **2430-49-1**（另有登记号 5767-33-9、5821-16-9）；分子式 **C11H16N2O3**（MW 224.26，与 vinbarbital 互为同分异构，PubChem CID 72135）；PubChem [72135](https://pubchem.ncbi.nlm.nih.gov/compound/72135)；DrugBank [DB13770](https://www.drugbank.ca/r/DB13770)；RxNorm [19928](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)（首选名 `butylvinal`，与官方名不同）；MeSH 无独立描述符 |
 
-| DDD | 单位 | 给药途径 | 官方备注 |
-| --- | --- | --- | --- |
-| 0.15 | g | O | — |
+**身份陷阱（硬规则）**：**vinylbital ≠ vinbarbital**（5-烯丙基-5-仲丁基、ATC `N05CA09`、CAS 125-42-8），两者不同分子，不得互换记录；本药为 5-**乙烯基**取代（butylvinal）。RxNorm 首选名 `butylvinal` 与 WHO 官方名 `vinylbital` 指同一物质，检索时须一并考虑。商品名出现在题名不足以证明身份，本档案只收按物质名／CAS 2430-49-1／PubChem 结构确认的记录。
 
-DDD 是统计指标，不是推荐处方剂量。
+## 2. 评分
 
-## 待核实
+规则见 [SCORING.md](../SCORING.md)。基线按口服单方评，直肠栓剂作剂型修正说明；分数为证据与负担的整理，不构成个体用药判断。凡标"类别"者为巴比妥类共有药理，非本药实测发生率。
 
-作用机制、地区性获批适应证与安全警告本轮均未录入；不得由 ATC 类别推定。深入分析按 [分析方法](../METHODOLOGY.md) 附原始出处。
+### 2.1 药物负担（1–5，越高越重）
 
-## 来源
+| 维度 | 评分 | 依据 |
+| --- | ---: | --- |
+| 长期风险负担 | 3 | **类别**：巴比妥类耐受与依赖；本药**人体**半衰期偏长（约 17.6–33.5 h，`PMID:989344`）提示重复给药可蓄积（类别一致的本药观测） |
+| 短期耐受负担 | 3 | **类别**：镇静、共济失调，高剂量呼吸抑制；本药有人体 PK（`PMID:989344`）但无不良反应频率表 |
+| 相互作用／监测负担 | 3 | **类别**酶诱导与叠加中枢抑制；本药经**反应性环氧中间体**代谢（`PMID:6110286`，环氧水合可被 epoxide hydratase／TCPO 影响），提示代谢相互作用空间，但无人体特异研究 |
+| 停药负担 | 3 | **类别**：巴比妥类骤停可致戒断；本药无特异撤药谱 |
+| 滥用／误用潜力 | N/A | 通配附表 III 属法律层级；本轮未检索到本药特异的自身给药、人体强化效应或带分母非医疗使用数据，按 SCORING 记 `N/A` |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 中国列非药用类（管制≠处方不当率），无当地处方数据，2017 版老年 PIM 标准无本药逐名条目，记 `N/A` |
 
-- WHO ATC/DDD Index 2026：[N05CA08](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA08)
-- Wikidata（CC0）：[Q410157](https://www.wikidata.org/wiki/Q410157)
-- PubChem CID（经 Wikidata）：[72135](https://pubchem.ncbi.nlm.nih.gov/compound/72135)
-- DrugBank ID（经 Wikidata）：[DB13770](https://www.drugbank.ca/r/DB13770)
-- English Wikipedia（标题指针，未复制正文）：[Vinylbital](https://en.wikipedia.org/wiki/Vinylbital)
-- RxNorm（RxNav 公共接口，2026-10-04 检索）：[RXCUI 19928](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)
+总体解释：本药负担形状是"**较长半衰期的蓄积倾向 + 巴比妥类共有依赖／酶诱导 + 环氧代谢中间体**"；本药特异人体 PK 扎实，但疗效／滥用仍无合格直接数据，滥用维度 `N/A`。
+
+### 2.2 按使用场景适宜度（A–D）
+
+**本轮不设场景评分。** 无现行或历史说明书正文；历史催眠／镇静用途无当前决策价值，缺本药现代随机对照，故不列 A–D 行；直肠栓剂作为剂型修正只在 §7／§9 说明，不单列场景。
+
+## 3. 主要作用
+
+按**巴比妥类共有机制**：易化 GABA-A 受体—氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠与（高浓度）麻醉／呼吸抑制。**为类别机制**；本药人体 PK（单室、t½ 约 23.5 h `PMID:989344`）说明其作用持续偏长，但无本药特异受体／通道定量。
+
+## 4. 适应范围
+
+本药历史上作为**催眠／镇静**，有口服片剂（Bykonox，150 mg）与直肠栓剂（Suppoptanox，聚乙二醇基质 200 mg）两种剂型（`PMID:989344` 中同一 6 名志愿者的交叉研究同时使用两者以比较相对生物利用度）。**无现行说明书正文**，不填核准适应证、给药信息、禁忌与限制（§10）；文献中给药剂型与剂量是研究用法，不等于现行核准给药方案。中国核准状态待核实。
+
+## 5. 实际效果与局限
+
+本药有扎实的**人体药代**证据、但缺**疗效**证据：`PMID:989344` 在 6 名志愿者交叉比较口服（150 mg 片 Bykonox）与直肠（200 mg 栓 Suppoptanox，聚乙二醇基质）的吸收与相对生物利用度，得单室模型、消除 t½ 约 17.6–33.5 h；`PMID:6110286` 在鼠与 3 名志愿者阐明 5-乙烯基侧链经细胞色素 P450 环氧化为 1',2'-环氧中间体、再经环氧水合酶水合为二醇、随即"逆羟醛"分解为 5-(1'-甲基丁基)巴比妥酸的**环氧–二醇通路**（该通路可被 epoxide hydratase 抑制剂 TCPO 阻断，`PMID:6110286`）；另有较早的代谢系列（`PMID:1037252`、`PMID:5110033`、`PMID:5109505`）。这些都是 PK／代谢，**不是催眠疗效的随机对照**，故无场景评分；无带分母的临床终点可引。环氧中间体提示潜在反应性代谢物，但本药无对应的人体毒性发生率数据，不能据此赋分。
+
+## 6. 长期风险
+
+**类别**：耐受、依赖、认知—精神运动损害；酶诱导长期改变甾体／维生素 D 代谢。本药特异：较长半衰期（`PMID:989344` 中 6 名志愿者 17.6–33.5 h，均值约 23.5 h）→ 重复给药**蓄积**与宿醉样残留镇静风险高于短效同类（类别一致的本药观测）；环氧代谢中间体（`PMID:6110286`）在鼠与人尿中未见原型环氧积累，最终以"逆羟醛"分解为 5-(1'-甲基丁基)巴比妥酸经尿排泄——**为毒理学兴趣点**，但本药无对应的人体特异长期不良反应数据。无本药人体长期随访研究。
+
+## 7. 短期风险、停药与误用
+
+**短期**：镇静、共济失调、宿醉样次日损害，高剂量呼吸抑制（**类别**）。**剂型修正**：直肠栓剂（Suppoptanox，聚乙二醇基质 200 mg）与口服片（Bykonox 150 mg）吸收特征差异明确——**lag time 栓剂短于片剂**、但**平均吸收 t½ 片剂 0.24 h 短于栓剂 0.64 h**（`PMID:989344`）；两者消除 t½ 相近（口服 23.5 h vs 直肠 23.8 h）。剂型层面差异不改变药物本体基线分。**停药**：类内通用，骤停可致戒断，本药无特异时程。**误用／滥用**：无自身给药／人体强化／带分母非医疗使用数据，`N/A`；法律层级不证明滥用率。
+
+## 8. 重要相互作用
+
+**类别层面**：巴比妥类诱导肝药酶（CYP2B／2C／3A），降低抗凝药（华法林等）、口服避孕药、糖皮质激素、部分抗惊厥药与强心苷等效应，与酒精、阿片、苯二氮䓬叠加中枢与呼吸抑制。本药经细胞色素依赖的环氧化／环氧水合路径代谢（`PMID:6110286`）：环氧水合酶反应可被 epoxide hydratase 抑制剂 TCPO 近乎完全阻断，提示本药清除受相关酶通路影响的**药代空间**，但**无人体特异相互作用研究**；以上为类别＋本药代谢推断，不作为人群发生率。
+
+## 9. 特殊人群
+
+本药有直肠栓剂历史用法（Suppoptanox，`PMID:989344`），但人群剂量与禁忌无正文可引。较长半衰期（`PMID:989344`，6 名志愿者消除 t½ 约 17.6–33.5 h）使老年与肾功能／肝功能不全者更易蓄积（类别＋本药 PK 提示）；妊娠、哺乳、呼吸功能不全者对巴比妥类更敏感（**类别**）。本药无说明书正文给出人群禁忌（§10），不构成个体化建议；口服与直肠两条途径的人群注意事项须按各自剂型分开考虑。
+
+## 10. 证据边界
+
+1. **无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 均 0 条 → 记检索缺口，**不据此断言"未批准／已撤市／不存在"**；维持 `basic`。联邦公报对本名检索无本药产品许可或撤市公告。
+2. **本药特异证据限于 PK／代谢**：无催眠疗效的随机对照或带分母临床终点；半衰期与代谢数据来自小样本（志愿者 n＝6 与 n＝3 尿排泄）。
+3. **vinylbital ≠ vinbarbital**；口服 vs 直肠、`vinylbital`＝`butylvinal` 别名统一。
+4. **DEA 通配行／中国目录**：属法律分类，不证明滥用率或疗效。
+5. **中国管制**：沿用 2026-10-06 已审计结论（非药用类第 305 项，CAS 2430-49-1，备注 Vinylbital），本轮不重跑；NMPA／CDE 不可脚本检索。
+
+## 11. 深入分析与来源
+
+本条目未建专题文件：本药特异证据集中在"半衰期—代谢通路"这一条清晰 PK 线，未构成需独立解释的临床争议，主条目已足够。
+
+**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（本药未单列，落"Barbituric acid derivative"通配行）；[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinylbital%22)（0 条）；[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinylbital)；[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22vinylbital%22)（0 条）。
+
+**研究（本药特异，人体 PK／代谢）**：[口服与直肠药代与相对生物利用度（PMID:989344）](https://pubmed.ncbi.nlm.nih.gov/989344/)；[环氧–二醇代谢通路（鼠与人，PMID:6110286）](https://pubmed.ncbi.nlm.nih.gov/6110286/)；[人体生物转化系列（PMID:1037252）](https://pubmed.ncbi.nlm.nih.gov/1037252/)。
+
+**分类与身份**：[WHO ATC/DDD `N05CA08`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA08)；[PubChem CID 72135](https://pubchem.ncbi.nlm.nih.gov/compound/72135)；[DrugBank DB13770](https://www.drugbank.ca/r/DB13770)；[RxNorm 19928（butylvinal）](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)；[Wikidata Q410157](https://www.wikidata.org/wiki/Q410157)；English Wikipedia 指针：[Vinylbital](https://en.wikipedia.org/wiki/Vinylbital)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
-
