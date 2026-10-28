@@ -1,6 +1,6 @@
 # etallobarbital｜依沙比妥（zh，维基数据标签，未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-10-26（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA20`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA20`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行；本药未被单独列名，若受控则落入"Barbituric acid derivative 2100 III"通配行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。

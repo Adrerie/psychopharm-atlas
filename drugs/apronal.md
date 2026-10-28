@@ -1,6 +1,6 @@
 # apronal｜烯丙异丙基乙酰脲（维基数据中文标签"丙戊酰脲"，zh，**未核对监管核准名且口径存疑**；通用名 apronal／apronalide／allylisopropylacetylurea，商品名线索 Sedormid）
 
-> 状态：`basic` ｜ 最后核查：2026-10-26（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CM12`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CM12`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PMID:……`＝PubMed。**本轮未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11；日本／德国历史制剂无脚本入口、未取回），故不设说明书引用键，§N 在本条目无适用对象。凡标"题录"者指本轮**只取得题名与出处、未取得全文数值**。本药（CAS 528-92-7）是**单一酰脲类化合物** allylisopropylacetylurea（apronalide）；历史上的 "**Apronal／Apronal Compound**" 是**与环巴比妥（cyclobarbital）的固定复方**，复方不进单方评分；本药与 **bromisoval（溴异戊酰脲）、carbromal** 同为酰脲类但**是不同分子**，不互借数据。

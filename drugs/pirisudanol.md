@@ -1,8 +1,8 @@
 # pirisudanol｜中文名待核实（维基数据未给出监管核准中文名；RxNorm 首选名为 pyrisuccideanol，PubChem 把两式列为同义）
 
-> 状态：`basic` ｜ 最后核查：2026-10-26（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BX08`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BX08`（WHO ATC/DDD Index 2026）
 
-**引用键**：`PMID:……`＝PubMed；`REG-2026`＝本轮监管库检索记录（openFDA／DailyMed／BDPM／CIMA，检索日 2026-10-26）。本条目**没有任何说明书正文可引**，因此不使用说明书类引用键。§N 指相应章节。
+**引用键**：`PMID:……`＝PubMed；`REG-2026`＝本轮监管库检索记录（openFDA／DailyMed／BDPM／CIMA，检索日 2026-10-28）。本条目**没有任何说明书正文可引**，因此不使用说明书类引用键。§N 指相应章节。
 
 ## 1. 基本信息
 

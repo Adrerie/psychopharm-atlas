@@ -1,6 +1,6 @@
 # acepromazine｜乙酰丙嗪（维基数据中文标签，zh，未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-10-27（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AA04`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AA04`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-VET-INJ`＝美国 PROMACE® Injectable（乙酰丙嗪马来酸盐注射液 10 mg/mL）**动物用药标签**，持证方 Boehringer Ingelheim Animal Health USA Inc.，FDA 批准号 **NADA 015-030**，DailyMed 收录 2025-03-31、文本标注"Updated March 27, 2025"（标签内版权页 Rev. 08/19）；`US-VET-TAB`＝美国 PROMACE® Tablets（**仅限犬用**）动物用药标签，同一持证方，**NADA 117-532**，DailyMed 现行版（version 5）更新 2025-03-10；`PMID:……`＝PubMed。§N 指相应文件章节号。**本轮未取得任何法域的人用说明书正文**，故两份引用键所引内容全部属**兽用**产品与兽用物种。

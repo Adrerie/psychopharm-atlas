@@ -1,6 +1,6 @@
 # chloralodol｜氯己二醇／氯醛己二醇（骨架取维基数据中文标签"氯丙醇"，**该中文标签口径存疑、与结构不符**；系统名 2-methyl-4-(2,2,2-trichloro-1-hydroxyethoxy)pentan-2-ol，别名 chlorhexadol／Lora／Mecoral／Medodorm／Merchloral）
 
-> 状态：`basic` ｜ 最后核查：2026-10-26（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CC02`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CC02`（WHO ATC/DDD Index 2026）
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PMID:……`＝PubMed。**本轮未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11；意大利／德国历史制剂无脚本入口、未取回），故不设说明书引用键，§N 在本条目无适用对象。本药（CAS 3563-58-4，chlorhexadolum／chlorhexadol）含氯醛结构，但**不得把同仓库 `chloral-hydrate`（N05CC01，水合氯醛单方）的批准、剂量、试验或警告当成本药事实**；氯醛释放关系只作机制说明并按来源区分。凡标"题录"者指本轮**只取得题名与出处、未取得全文数值**。
