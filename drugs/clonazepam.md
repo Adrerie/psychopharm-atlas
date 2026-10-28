@@ -2,7 +2,7 @@
 
 > 状态：`reviewed` ｜ 最后核查：2026-10-28（身份与产品文本本轮逐页核对；中国管制按官方附件复核）｜ ATC：`N03AE01`（WHO ATC/DDD Index 2026）
 
-**引用键**：`US-TAB`＝美国 Clonazepam Tablets 处方信息（openFDA 命中三份现行文本，生效日 **2026-03-16**、**2026-01-02**、**2024-06-07**；§INDICATIONS、§BOXED WARNING、§WARNINGS、§DRUG ABUSE AND DEPENDENCE、§CONTRAINDICATIONS 逐节引用）；`ATC-01`＝WHO ATC/DDD 索引 `N03AE01` 页（Last updated 2026-01-20）；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 字节级检索）；`PMID:……`＝PubMed。§N 指所引标签章节号。
+**引用键**：`US-TAB`＝美国 Clonazepam Tablets 处方信息（DailyMed setid `3aa9c3eb-3a0a-4e8b-af68-4f87d87194dd`，页面更新 2026-07-03；另交叉核对 openFDA 中 2026-03-16、2026-01-02 与 2024-06-07 的标签；§INDICATIONS、§BOXED WARNING、§WARNINGS、§DRUG ABUSE AND DEPENDENCE、§CONTRAINDICATIONS 逐节引用）；`ATC-01`＝WHO ATC/DDD 索引 `N03AE01` 页（Last updated 2026-01-20）；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 字节级检索）；`PMID:……`＝PubMed。§N 指所引标签章节号。
 
 ## 1. 基本信息
 
@@ -21,7 +21,7 @@
 
 | 维度 | 评分 | 依据 |
 | --- | ---: | --- |
-| 长期风险负担 | 4 | §5：长期用药可出现**耐受与依赖**，标签原文提示疗程中"某些患者疗效减弱"；另有认知与精神运动损害、复杂睡眠行为、自杀意念的类内警示；失张力／肌阵挛发作者突然减量风险在 §5 单列。评 4：依赖与减量风险明确，但无本药特异的长期器官毒性队列 |
+| 长期风险负担 | 4 | §5：长期用药可出现**耐受与依赖**，标签原文提示疗程中"某些患者疗效减弱"；另有认知与精神运动损害、矛盾性反应及自杀意念／行为警示；失张力／肌阵挛发作者突然减量风险在 §5 单列。评 4：依赖与减量风险明确，但无本药特异的长期器官毒性队列 |
 | 短期耐受负担 | 3 | §6／§5：嗜睡、头晕、共济失调、构音障碍、行为抑制与"矛盾性兴奋"为常见；§7 提示与其他中枢抑制药合用加重。标签按发生率列表（数值见 §4／§6，不进场景格） |
 | 相互作用／监测负担 | 4 | §BOXED WARNING 与 §7：**与阿片类合用可致深度镇静、呼吸抑制、昏迷与死亡**；§7 列 CYP3A 抑制（如氟康唑、萘法唑酮）与合并中枢抑制剂的叠加效应；需监测镇静、呼吸与驾驶能力。监测要求高，故评 4 |
 | 停药负担 | 5 | §BOXED WARNING 明写**依赖与停药反应**，包括癫痫持续状态风险（原发癫痫者突然停药）；§5 要求在能监测下缓慢个体化减量。属本药标签明确条款，评 5 |
@@ -55,7 +55,7 @@
 
 ## 6. 长期风险
 
-§5：耐受、依赖与戒断；长期认知与精神运动损害、跌倒（类别层面，老年尤甚）；复杂睡眠行为与自杀意念在 §5 警示条目中；原发癫痫者骤停可诱发持续状态。**未取到本药特异的多年期安全性登记**，不据此外推器官毒性。
+§5：耐受、依赖与戒断；长期认知与精神运动损害、跌倒（类别层面，老年尤甚）；另有矛盾性反应与抗癫痫药类别的自杀意念／行为警示；原发癫痫者骤停可诱发持续状态。**未取到本药特异的多年期安全性登记**，不据此外推器官毒性。
 
 ## 7. 短期风险、停药与误用
 
@@ -79,7 +79,7 @@
 
 ## 11. 深入分析与来源
 
-**说明书与监管正文**：[openFDA 现行标签检索（clonazepam）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clonazepam%22&limit=5)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=clonazepam)；[WHO ATC `N03AE01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AE01)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**说明书与监管正文**：[DailyMed 当前片剂标签（setid `3aa9c3eb-3a0a-4e8b-af68-4f87d87194dd`）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3aa9c3eb-3a0a-4e8b-af68-4f87d87194dd)；[openFDA 标签检索（clonazepam）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clonazepam%22&limit=5)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=clonazepam)；[WHO ATC `N03AE01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AE01)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **研究与综述**：[成人惊恐障碍药物治疗的 Cochrane 网络荟萃（2023；跨药间接比较）](https://pubmed.ncbi.nlm.nih.gov/38014714/)；[苯二氮䓬反应轨迹的贝叶斯分析（2023；预测因子层面）](https://pubmed.ncbi.nlm.nih.gov/34593077/)。
 

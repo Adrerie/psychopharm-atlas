@@ -2,7 +2,7 @@
 
 > 状态：`reviewed` ｜ 最后核查：2026-10-28（身份与产品文本本轮逐页核对；中国管制按官方附件复核）｜ ATC：`C07AA05`（WHO ATC/DDD Index 2026）
 
-**引用键**：`US-TAB`＝美国 Propranolol Hydrochloride Tablets 处方信息（openFDA 命中多份现行文本，生效日 **2026-08-04**、**2026-01-09**、**2024-10-09**、**2024-08-09**；§INDICATIONS、§WARNINGS、§CONTRAINDICATIONS、§DRUG ABUSE AND DEPENDENCE、§OVERDOSAGE 逐节引用）；`US-ER`＝Propranolol Hydrochloride Extended-Release Capsules 现行文本（生效 **2025-09-19**，适应证集合与片剂不同）；`ATC-05`＝WHO ATC/DDD 索引 `C07AA05` 页（Last updated 2026-01-20）；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 字节级检索）；`PMID:……`＝PubMed。§N 指所引标签章节号。
+**引用键**：`US-TAB`＝美国 Propranolol Hydrochloride Tablets 处方信息（代表性 DailyMed 标签 setid `86c48c5a-0a59-43a7-b3b5-41ab5da72ce1`，页面更新 2026-10-09；另交叉核对 openFDA 中生效日 2026-08-04、2026-01-09、2024-10-09、2024-08-09 的片剂文本；§INDICATIONS、§WARNINGS、§CONTRAINDICATIONS、§DRUG ABUSE AND DEPENDENCE、§OVERDOSAGE 逐节引用）；`US-ER`＝Propranolol Hydrochloride Extended-Release Capsules 现行文本（生效 **2025-09-19**，适应证集合与片剂不同）；`ATC-05`＝WHO ATC/DDD 索引 `C07AA05` 页（Last updated 2026-01-20）；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 字节级检索）；`ATA-2016`＝美国甲状腺协会甲亢与甲状腺毒症指南（Recommendation 2；DOI 10.1089/thy.2016.0229）；`PMID:……`＝PubMed。§N 指所引标签章节号。
 
 ## 1. 基本信息
 
@@ -34,7 +34,8 @@
 
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 原发性震颤与甲状腺毒症等心血管／肾上腺素能症状的控制 | 美国批准（`US-TAB` §INDICATIONS；震颤条目原文限定家族性／遗传性） | B− | 标签收载且机制直接；限制：哮喘、心动过缓与传导阻滞者不可用，疗效为症状控制而非改变病程 |
+| 家族性／遗传性特发性震颤 | 美国批准（`US-TAB` §INDICATIONS；标签明确不适用于帕金森病相关震颤） | B− | 标签收载；一项标签内双盲随机研究仅 9 例、2 周，支持震颤严重度下降。限制：哮喘、心动过缓与传导阻滞者不可用，不能改变病程 |
+| 有症状甲状腺毒症的心动过速与肾上腺素能症状控制 | 超适应证：所引美国片剂标签 §INDICATIONS 未收载，§WARNINGS 提到甲亢症状可能被掩盖、骤停可致症状加重或甲状腺危象；`ATA-2016` 推荐有症状甲状腺毒症使用 β 阻滞剂，并指出该用途未获批 | B− | 指南支持症状控制，非病因治疗；需权衡非选择性 β 阻滞的支气管痉挛、心动过缓及骤停风险 |
 | **表演性／情境性焦虑的躯体症状**（演讲、考试、音乐演奏等场合的心悸、震颤、声音不稳） | **超适应证**：本轮四份美国现行文本 §INDICATIONS **均未收载任何焦虑适应证** | C− | 本药特异证据为小样本、以生理与任务表现为主终点：如把 propranolol 与记忆再巩固程序结合的恐惧演讲试点研究（`PMID:32499503`）、儿童与青少年社交沟通与焦虑的随机试验（`PMID:38086927`）、应激下认知灵活性的β受体阻滞机制研究（`PMID:17335395`），以及自主神经指标预测反应的观察性研究（`PMID:40710403`）。限制：无一致的行为学主要终点、群体多为特定情境、缺长期与功能结局，且不改善焦虑的认知成分；**不得据此写成广泛性焦虑障碍的治疗** |
 
 **不为「音乐家／运动员等表现增强语境下的自行使用」设场景行**：非医疗使用，非法域批准用途。现有材料是学生与表演者群体的横断面自报（如 `PMID:41787430`）与伦理评论（`PMID:42090162`），属**使用现象**而非临床适应证，按规则不进入 A–D 评分表，只在 §7 陈述
@@ -72,16 +73,16 @@
 ## 10. 证据边界
 
 1. **只核到美国正文**：本轮未取回欧盟／英国等现行 SmPC，故不写跨法域批准；**婴儿血管瘤用的 propranolol 口服溶液为单独注册产品，其正文本轮未取回**，不计入本档案适应证。
-2. **焦虑相关适应证在任何已核文本中都不存在**：四份现行美国文本的 §INDICATIONS 均无焦虑、惊恐或社交焦虑条目；本档案把表现焦虑明确标为超适应证，并限定为躯体症状层。
+2. **焦虑相关适应证在任何已核文本中都不存在**：四份现行美国文本的 §INDICATIONS 均无焦虑、惊恐或社交焦虑条目；本档案把表现焦虑明确标为超适应证，并限定为躯体症状层。甲状腺毒症也单独处理：所引片剂标签把它列在 §WARNINGS 而非 §INDICATIONS，指南推荐 β 阻滞剂作症状控制，但不代表该用途获批。
 3. 表现焦虑的本药特异研究样本小、终点以生理与任务表现为主，缺乏长期功能结局；预测因子研究不等同于疗效证据。
 4. 中国目录方面：**2025 年第 55 号公告两份附件与 2026 年第 58 号增列中按中文名与英文名均未命中**；非药用类 396 项原文不可访问（HTTP 521），**未逐名核对**，不作整体排除结论。
 5. 非医嘱使用证据为横断面自报，无带客观验证的使用率，故滥用维度维持低位并注明依据。
 
 ## 11. 深入分析与来源
 
-**说明书与监管正文**：[openFDA 现行标签检索（propranolol）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22propranolol%22&limit=10)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=propranolol)；[WHO ATC `C07AA05`](https://atcddd.fhi.no/atc_ddd_index/?code=C07AA05)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**说明书与监管正文**：[DailyMed 片剂标签（setid `86c48c5a-0a59-43a7-b3b5-41ab5da72ce1`）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86c48c5a-0a59-43a7-b3b5-41ab5da72ce1)；[openFDA 标签检索（propranolol）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22propranolol%22&limit=10)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=propranolol)；[WHO ATC `C07AA05`](https://atcddd.fhi.no/atc_ddd_index/?code=C07AA05)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**研究**：[恐惧演讲的再巩固式 propranolol 试点研究（2020）](https://pubmed.ncbi.nlm.nih.gov/32499503/)；[儿童与青少年社交沟通与焦虑的随机试验（2024）](https://pubmed.ncbi.nlm.nih.gov/38086927/)；[应激下认知灵活性的β肾上腺素能调节（2007）](https://pubmed.ncbi.nlm.nih.gov/17335395/)；[自主神经指标预测 propranolol 反应（2025）](https://pubmed.ncbi.nlm.nih.gov/40710403/)；[医学生非医嘱使用β阻滞剂的横断面调查（2026）](https://pubmed.ncbi.nlm.nih.gov/41787430/)；[音乐表演生物医学增强的伦理综述（2026）](https://pubmed.ncbi.nlm.nih.gov/42090162/)。
+**指南与研究**：[2016 American Thyroid Association hyperthyroidism guideline（Recommendation 2；有症状甲状腺毒症推荐 β 阻滞剂，明确说明该用途未获批）](https://doi.org/10.1089/thy.2016.0229)；[恐惧演讲的再巩固式 propranolol 试点研究（2020）](https://pubmed.ncbi.nlm.nih.gov/32499503/)；[儿童与青少年社交沟通与焦虑的随机试验（2024）](https://pubmed.ncbi.nlm.nih.gov/38086927/)；[应激下认知灵活性的β肾上腺素能调节（2007）](https://pubmed.ncbi.nlm.nih.gov/17335395/)；[自主神经指标预测 propranolol 反应（2025）](https://pubmed.ncbi.nlm.nih.gov/40710403/)；[医学生非医嘱使用β阻滞剂的横断面调查（2026）](https://pubmed.ncbi.nlm.nih.gov/41787430/)；[音乐表演生物医学增强的伦理综述（2026）](https://pubmed.ncbi.nlm.nih.gov/42090162/)。
 
 **分类与身份**：[PubChem CID 4949](https://pubchem.ncbi.nlm.nih.gov/compound/4949)；[Wikidata Q420021](https://www.wikidata.org/wiki/Q420021)；English Wikipedia（标题指针，未复制正文）：[Propranolol](https://en.wikipedia.org/wiki/Propranolol)。
 

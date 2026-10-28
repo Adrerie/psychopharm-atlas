@@ -2,7 +2,7 @@
 
 > 状态：`reviewed` ｜ 最后核查：2026-10-28（身份与产品文本本轮逐页核对；中国管制按官方附件复核）｜ ATC：`N02BF02`（WHO ATC/DDD Index 2026）
 
-**引用键**：`US-CAP`＝美国 Pregabalin Capsules 处方信息（openFDA 命中两份现行文本，生效日 **2026-04-07** 与 **2025-09-23**，§1／§5／§6／§7／§9 逐节引用）；`ATC-02`＝WHO ATC/DDD 索引 `N02BF02` 页（Last updated 2026-01-20）与 `N03AX` 亚组页注记；`CN-2025`＝国家药监局、公安部、国家卫生健康委 2025 年第 55 号公告附件与 2026 年第 58 号增列（上海药监局转载页 `.doc`／`.docx`，2026-10-28 字节级检索）；`PMID:……`＝PubMed。§N 指所引标签章节号。
+**引用键**：`US-CAP`＝美国 Pregabalin Capsules 处方信息（DailyMed setid `459f0d31-a73f-2c62-e063-6394a90a810c`；ScieGen Pharmaceuticals, Inc.；修订 2025-12；2026-10-28 复核；§1／§5／§6／§7／§9／§14 逐节引用）；`ATC-02`＝WHO ATC/DDD 索引 `N02BF02` 页（Last updated 2026-01-20）与 `N03AX` 亚组页注记；`CN-2025`＝国家药监局、公安部、国家卫生健康委 2025 年第 55 号公告附件与 2026 年第 58 号增列（上海药监局转载页 `.doc`／`.docx`，2026-10-28 字节级检索）；`PMID:……`＝PubMed。§N 指所引标签章节号。
 
 ## 1. 基本信息
 
@@ -12,7 +12,7 @@
 | 现行 ATC 与归属变更 | 现行码 `N02BF02`（**Gabapentinoids** 亚组，DDD **0.3 g 口服**，`ATC-02`）。旧码 `N03AX16` 属改版前分类；WHO 2026 的 `N03AX` 亚组页原文明写 "Gabapentin and pregabalin are classified in N02BF Gabapentinoids"，故本档案按现码归类、把旧码记为**归属变更史**而非并列分类 |
 | 主要剂型与规格 | 美国现行文本为 **胶囊**（标签 §16 列各规格；本轮按 openFDA 命中的 Pregabalin Capsules 文本引用）。剂量与滴定见 §4，不进场景表 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-28）**：按 2025 年第 55 号公告的药用类麻醉药品／精神药品目录附件与 2026 年第 58 号增列逐一检索，中文名"普瑞巴林"与英文名 Pregabalin **均未命中**（同一检索方法把地西泮解析为第二类第 24 项，与仓库 `diazepam` 档案一致，可作方法有效性回测）；非药用类 2025 年版目录的公安部原始附件对本机返回 HTTP 521，**未逐名核对**该表全文；芬太尼类、合成大麻素类、尼秦类、奥啡类四类整类的官方结构定义均不适用于本药母核。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国**：`US-CAP` §1 核准适应证只有三条——糖尿病周围神经病变性疼痛、带状疱疹后神经痛、部分性发作的辅助治疗（**无广泛性焦虑障碍条目**）。**欧盟／英国／澳大利亚等的 GAD 适应证本轮未取回任何现行正文**（EMA 站点与英国 emc 在本机分别遭遇 TLS 中断与脚本渲染限制，未逐节核对），因此本档案**不为 GAD 用途写批准状态**，只在 §10 记为缺口。中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
+| 主要法域批准状态 | **美国**：`US-CAP` §1 收载五项适应证——糖尿病周围神经病变性疼痛、带状疱疹后神经痛、1 个月及以上患者部分性发作的辅助治疗、纤维肌痛、脊髓损伤相关神经病理性疼痛（**无广泛性焦虑障碍条目**）。**欧盟／英国／澳大利亚等的 GAD 适应证本轮未取回任何现行正文**（EMA 站点与英国 emc 在本机分别遭遇 TLS 中断与脚本渲染限制，未逐节核对），因此本档案**不为 GAD 用途写批准状态**，只在 §10 记为缺口。中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
 | 身份与统计 | CAS 148553-50-8；[PubChem CID 440545](https://pubchem.ncbi.nlm.nih.gov/compound/440545)；[RxNorm 收录名 `pregabalin`](https://rxnav.nlm.nih.gov/REST/rxcui.json?search=1)；[ATC `N02BF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N02BF02)；DDD 0.3 g 口服（统计指标，非处方剂量） |
 
 ## 2. 评分
@@ -37,7 +37,8 @@
 | 糖尿病周围神经病变性疼痛 | 美国批准（`US-CAP` §1） | B | 标签 §1 收载且 §14 提供关键试验摘要；限制：疗效为疼痛评分改善、群体为 DPNP，且停药反应与中枢抑制负担需权衡 |
 | 带状疱疹后神经痛 | 美国批准（§1） | B | 同上；§14 摘要为短期随机试验，缺长期硬终点 |
 | 部分性发作的辅助治疗 | 美国批准（§1） | B | §1 与 §14；作为**辅助**用药，非单药控制 |
-| 纤维肌痛 | 本轮所引美国文本 §1 **未收载**（他国或旧版是否收载未核） | C | 无本条目可核的现行批准条目可依，按超适应证／未收载处理；不据文献存在就写成获批 |
+| 脊髓损伤相关神经病理性疼痛 | 美国批准（`US-CAP` §1、§14.5） | B | 标签收载；证据针对脊髓损伤后的神经病理性疼痛，不外推至其他疼痛病因，且须权衡中枢抑制与肾功能调整要求 |
+| 纤维肌痛 | 美国批准（`US-CAP` §1、§14.4） | B | 标签收载；临床试验支持疼痛与功能改善，但需权衡头晕、嗜睡、体重增加等耐受负担，长期功能结局仍有限 |
 
 **本轮不为广泛性焦虑障碍设场景行**：美国两份现行正文的 §1 均无 GAD 条目，欧盟／英国／澳大利亚的正文本轮未取回（§10 第 1 条），而按仓库规则"未获批"或"资料缺失"本身不构成评分场景。相关的正在进行中的证据见 §5。
 
@@ -47,7 +48,7 @@
 
 ## 4. 适应范围
 
-`US-CAP` §2 给出按适应证的起始与最大剂量、肾功能分层的调整表与停用方式；§16 列胶囊规格。上述内容属给药方案，按仓库规则不进入 §2.2 场景表。**未取回 GAD 正文，故不提供任何焦虑给药建议。** WHO 的 DDD 0.3 g 口服仅为统计口径，不是处方剂量。
+`US-CAP` §1 收载上表五项美国适应证；§2 给出按适应证的起始与最大剂量、肾功能分层的调整表与停用方式，§16 列胶囊规格。上述内容属给药方案，按仓库规则不进入 §2.2 场景表。**未取回 GAD 正文，故不提供任何焦虑给药建议。** WHO 的 DDD 0.3 g 口服仅为统计口径，不是处方剂量。
 
 ## 5. 实际效果与局限
 
@@ -73,7 +74,7 @@
 
 ## 10. 证据边界
 
-1. **GAD 的现行正文未取回**：EMA／英国 emc／澳大利亚 TGA 等入口本轮均因 TLS 中断或脚本渲染未能逐节核对，因此**不断言本药在任一欧盟成员国或澳洲是否收载 GAD 适应证**，只说明美国两份现行文本无该条目。这是本档案最大的未决缺口。
+1. **GAD 的现行正文未取回**：EMA／英国 emc／澳大利亚 TGA 等入口本轮均因 TLS 中断或脚本渲染未能逐节核对，因此**不断言本药在任一欧盟成员国或澳洲是否收载 GAD 适应证**，只说明本轮核对的美国现行标签未收载该用途。这是本档案最大的未决缺口。
 2. 中国目录按 2025 年第 55 号公告附件与 2026 年第 58 号增列**逐名检索未命中**；非药用类 396 项原文不可访问（HTTP 521），**未逐名核对**，不得写成整体排除。
 3. 剂量与疗效数值集中于标签 §2／§14，本条目只在场景表写结论层，避免把标签抄成主条目。
 4. 药物警戒类研究（不均衡分析、系统综述）只能生成假设；未取到带分母的处方或误用调查前，滥用维度不下更高结论。
@@ -81,7 +82,7 @@
 
 ## 11. 深入分析与来源
 
-**说明书与监管正文**：[openFDA 现行标签检索（pregabalin）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pregabalin%22&limit=5)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pregabalin)；[WHO ATC `N02BF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N02BF02)；[WHO `N03AX` 亚组页（含 gabapentinoids 改列注记）](https://atcddd.fhi.no/atc_ddd_index/?code=N03AX&display=subgroup)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**说明书与监管正文**：[DailyMed 现行胶囊标签（setid `459f0d31-a73f-2c62-e063-6394a90a810c`）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=459f0d31-a73f-2c62-e063-6394a90a810c)；[openFDA 标签检索（pregabalin）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pregabalin%22&limit=5)；[DailyMed 按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pregabalin)；[WHO ATC `N02BF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N02BF02)；[WHO `N03AX` 亚组页（含 gabapentinoids 改列注记）](https://atcddd.fhi.no/atc_ddd_index/?code=N03AX&display=subgroup)；[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)；[2025 年第 55 号公告目录附件（上海药监局转载）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **研究**：[PETRA：治疗抵抗性 GAD 的 pregabalin 双盲随机试验方案（2026；尚未出结果）](https://pubmed.ncbi.nlm.nih.gov/42717383/)；[普瑞巴林不良事件年龄分层不均衡性分析（2026）](https://pubmed.ncbi.nlm.nih.gov/42889226/)；[神经行为后果系统综述（2026）](https://pubmed.ncbi.nlm.nih.gov/42872661/)。
 
