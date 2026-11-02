@@ -3,7 +3,7 @@
 > 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-10-04  
 > 人工选录，逐项记录纳入理由与原 ATC 编码；不是这些亚组的完整目录。
 
-**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面抓取生成。Wave 11 标记的四条已建档，临床与管制结论见各自药物档案；其余 42 条仍为选录候选，除已明确提供监管资料的 nalmefene 陈述外，适应证、受体机制、上市与管制状态、研发阶段等实质性结论尚待逐药核实。选录不是 WHO 亚组的完整目录。
+**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面抓取生成。Wave 11 与 Wave 12 标记的十条已建档，临床与管制结论见各自药物档案；其余 36 条仍为选录候选，除已明确提供监管资料的 nalmefene 陈述外，适应证、受体机制、上市与管制状态、研发阶段等实质性结论尚待逐药核实。选录不是 WHO 亚组的完整目录。
 
 ## 选录分布
 
@@ -25,22 +25,22 @@
 
 ## 条目
 
-> 选录总数 46 条，其中 Wave 11 已建档 4 条，剩余 42 条待建档。
+> 选录总数 46 条，其中 Wave 11 已建档 4 条、Wave 12 已建档 6 条，剩余 36 条待建档。
 
 | ATC 编码 | 官方通用名 | 官方分类位置（2026 索引） | 收录依据与待核实 | 状态 |
 | --- | --- | --- | --- | --- |
-| `N02BF01` | gabapentin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids（2026 索引：`N03AX` 亚组页原文注明加巴喷丁与普瑞巴林改列 N02BF） | 焦虑相关用途的常见超适应证药；本轮按现行美国标签建档，焦虑用途标为超适应证。 **Wave 11 已建档**（[`drugs/gabapentin.md`](../drugs/gabapentin.md)，状态 `reviewed`） |
-| `N02BF02` | pregabalin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids | 部分法域收载广泛性焦虑适应证（本轮未取回该国正文，见档案 §10）；按现行美国标签建档。 **Wave 11 已建档**（[`drugs/pregabalin.md`](../drugs/pregabalin.md)，状态 `reviewed`） |
-| `N03AE01` | clonazepam | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AE Benzodiazepine derivatives | 惊恐障碍与癫痫用途在不同法域分别收载；中国为第二类精神药品第 17 项。 **Wave 11 已建档**（[`drugs/clonazepam.md`](../drugs/clonazepam.md)，状态 `reviewed`） |
-| `C07AA05` | propranolol | C CARDIOVASCULAR SYSTEM › C07 BETA BLOCKING AGENTS › C07A BETA BLOCKING AGENTS › C07AA BETA blockers, non-selective | 表现焦虑／情境性焦虑的躯体症状与其心血管批准用途；不属焦虑障碍常规治疗。 **Wave 11 已建档**（[`drugs/propranolol.md`](../drugs/propranolol.md)，状态 `reviewed`） |
+| `N02BF01` | gabapentin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids（2026 索引：`N03AX` 亚组页原文注明加巴喷丁与普瑞巴林改列 N02BF） | 焦虑相关用途的常见超适应证药；本轮按现行美国标签建档，焦虑用途标为超适应证。 | **Wave 11 已建档**（[`drugs/gabapentin.md`](../drugs/gabapentin.md)，状态 `reviewed`） |
+| `N02BF02` | pregabalin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids | 部分法域收载广泛性焦虑适应证（本轮未取回该国正文，见档案 §10）；按现行美国标签建档。 | **Wave 11 已建档**（[`drugs/pregabalin.md`](../drugs/pregabalin.md)，状态 `reviewed`） |
+| `N03AE01` | clonazepam | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AE Benzodiazepine derivatives | 惊恐障碍与癫痫用途在不同法域分别收载；中国为第二类精神药品第 17 项。 | **Wave 11 已建档**（[`drugs/clonazepam.md`](../drugs/clonazepam.md)，状态 `reviewed`） |
+| `C07AA05` | propranolol | C CARDIOVASCULAR SYSTEM › C07 BETA BLOCKING AGENTS › C07A BETA BLOCKING AGENTS › C07AA BETA blockers, non-selective | 表现焦虑／情境性焦虑的躯体症状与其心血管批准用途；不属焦虑障碍常规治疗。 | **Wave 11 已建档**（[`drugs/propranolol.md`](../drugs/propranolol.md)，状态 `reviewed`） |
 | `G04BD01` | emepronium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05CX05` 条目名称为 emepronium, combinations，作为该复方类别的成分被引用；精神科用途待核实。 | 待建档 |
 | `G04BD09` | trospium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05AX50` 条目名称为 xanomeline and trospium，故作为该复方的配对成分被引用；其作用性质待核实。 | 待建档 |
-| `N03AF01` | carbamazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 精神科资料常涉及的情绪稳定相关用药；适应证、剂量研究与地区监管状态待核实。 | 待建档 |
-| `N03AF02` | oxcarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 常与卡马西平一并讨论的类似物；结构关系与替换证据待核实。 | 待建档 |
-| `N03AF04` | eslicarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 同亚组内较新的条目；精神科用途与监管状态待核实。 | 待建档 |
-| `N03AG01` | valproic acid | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 精神科资料常涉及的情绪稳定相关用药；适应证、剂型差异（酸/盐）与地区监管状态待核实。 | 待建档 |
-| `N03AG02` | valpromide | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 与丙戊酸相关的酰胺类条目；上市范围与精神科用途待核实。 | 待建档 |
-| `N03AX09` | lamotrigine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AX Other antiepileptics | 精神科资料常涉及的情绪稳定相关用药；具体适应证（含双相各期的处理地位）须以指南与标签核实。 | 待建档 |
+| `N03AF01` | carbamazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国普通片标签收载癫痫与三叉神经痛；独立产品 EQUETRO 缓释胶囊另批准成人 Bipolar I disorder 急性躁狂或混合发作。英国与法国文本另有各自心境相关用途；HLA-B\*1502 与再障、粒细胞缺乏为黑框条款。 | **Wave 12 已建档**（[`drugs/carbamazepine.md`](../drugs/carbamazepine.md)，状态 `reviewed`） |
+| `N03AF02` | oxcarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国与法国正文均只收载部分性发作，无精神科与疼痛适应证；低钠血症为本药特异警示，且无卡马西平的自动诱导。双相与周围神经病理性疼痛的随机证据有限或阴性；三叉神经痛另有基于 very low-quality evidence 与临床经验的指南建议。 | **Wave 12 已建档**（[`drugs/oxcarbazepine.md`](../drugs/oxcarbazepine.md)，状态 `reviewed`） |
+| `N03AF04` | eslicarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国文本为 4 岁及以上部分性发作（单药与添加），法国仿制药文本的年龄与人群措辞不同；与卡马西平共享活性代谢途径但不继承其批准；滥用维度有本药的人体阴性研究。 | **Wave 12 已建档**（[`drugs/eslicarbazepine.md`](../drugs/eslicarbazepine.md)，状态 `reviewed`） |
+| `N03AG01` | valproic acid | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 按 valproic acid 实体写：所引美国文本的 §INDICATIONS 只有癫痫，急性躁狂与偏头痛预防属 divalproex sodium 产品；酸、钠盐与制剂不互换；致畸与神经发育毒性的黑框，以及育龄女性用药限制与有效避孕要求逐节引用。 | **Wave 12 已建档**（[`drugs/valproic-acid.md`](../drugs/valproic-acid.md)，状态 `reviewed`） |
+| `N03AG02` | valpromide | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 独立实体（丙戊酸的双链酰胺前药），不继承丙戊酸的批准：法国 DEPAMIDE 现行文本的唯一适应证为成人躁狂发作（锂禁忌或不耐受时），未收载癫痫；美国无产品记录。 | **Wave 12 已建档**（[`drugs/valpromide.md`](../drugs/valpromide.md)，状态 `reviewed`） |
+| `N03AX09` | lamotrigine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AX Other antiepileptics | 癫痫添加（≥2 岁）、转换单药（≥16 岁）与双相 I 型维持治疗分行写；标签 Limitations of Use 原文不推荐用于急性躁狂或混合发作；缓释制剂文本无精神科条目。 | **Wave 12 已建档**（[`drugs/lamotrigine.md`](../drugs/lamotrigine.md)，状态 `reviewed`） |
 | `N06DA01` | tacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方亚组名称为胆碱酯酶抑制剂；适应证与当前上市状态待核实。 | 待建档 |
 | `N06DA02` | donepezil | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上。 | 待建档 |
 | `N06DA03` | rivastigmine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上。 | 待建档 |
