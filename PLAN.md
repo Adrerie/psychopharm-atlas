@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 12 跨组情绪稳定剂相关抗癫痫药建档，6 份新档案**。工作分支 `plan/mood-stabilizers-wave12`，基于 Wave 11 经审阅修补并通过 [PR #14](https://github.com/Adrerie/psychopharm-atlas/pull/14) 合并的 `main`。**以本文件末尾的 Wave 12 计划为唯一当前任务**，Wave 1–11 均为历史记录，不重复派发。
+> 当前任务：**Wave 13 N07B 物质使用障碍药物建档，最多 15 份新档案**。工作分支 `plan/substance-use-treatment-wave13`，基于 Wave 12 经审阅修补并通过 [PR #15](https://github.com/Adrerie/psychopharm-atlas/pull/15) 合并后的 `main`（基线 `805db350da9215957bcdbd60a27581c2511022c8`）。**以本文件末尾的 Wave 13 计划为唯一当前任务**，Wave 1–12 均为历史记录，不重复派发。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -622,7 +622,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 1. 一次完成 15 份档案，不拆成逐组审批阶段。允许三个非嵌套子代理并行，各负责 A、B、C 一组；主代理负责实体核对、来源交叉检查、评分一致性、共享目录与状态统计。子代理不得编辑 `AGENTS.md`、`PLAN.md`、`README.md`、`catalog/index.md` 或 `catalog/related.md`。
 2. 每种药先核实 WHO ATC/DDD Index 2026 的身份与编码，再按具体产品、法域、剂型和版本核对现行监管标签或说明书。优先使用 FDA/DailyMed、英国 emc、EMA、法国 BDPM 及其他国家药监机构；研究证据使用原始 RCT、系统综述与相关指南。分别记录文内 Revised、SPL 生效日与数据库发布日。检索零命中、历史文本或接口失败只能写具体缺口，不推断为未批准、已撤市或不存在。
 3. **戒烟药物**：区分 nicotine replacement therapy 的具体剂型与产品、varenicline、cytisinicline 的受体作用和临床证据。核实 cytisinicline 与 cytisine 的名称、实体及监管关系，不因名称相近直接合并。尼古丁不同剂型的标签、给药方式与使用限制分别核对。
-4. **酒精依赖药物**：区分 disulfiram／calcium carbimide 的厌恶或惩罚性治疗机制、acamprosate 的维持戒酒用途、naltrexone 与 nalmefene 的饮酒减少或复发预防用途；逐药核对适应证、人群选择、肝肾限制、与阿片类药物的相互作用。对 ondelopran 优先确认其当前研发、批准与上市状态，不得仅凭 ATC 编码将其写成已上市药物。
+4. **酒精依赖药物**：区分 disulfiram／calcium carbimide 的厌恶性威慑治疗、acamprosate 的维持戒酒用途，以及 naltrexone 与 nalmefene 在减少饮酒、降低渴求或复发预防方面的具体证据；逐药核对适应证、人群选择、肝肾限制及与阿片类药物的相互作用，不预设二者的标签与疗效相同。对 ondelopran 优先确认其当前研发、批准与上市状态，不得仅凭 ATC 编码将其写成已上市药物。
 5. **阿片依赖药物**：区分 buprenorphine、methadone、levomethadone、diamorphine 的 OUD 维持或监督治疗用途，与 lofexidine 的戒断症状管理；核实 levacetylmethadol 的历史批准、停销与当前可及状态。必须区分 OUD 标签与疼痛标签，区分不同剂型、途径和产品；不得把一种药的管制级别外推给同类药或其他法域。
 6. 中国管制字段按现行官方目录逐药核对；中国上市与核准适应证只有在可靠官方来源可核实时才写为已确认。美国 DEA、英国 Misuse of Drugs Regulations、欧盟成员国及其他法域的管制结论按各自官方目录记录，不将不同国家的分类互换。不要重做全库管制审计。
 7. 严格沿用既有评分规则。A–D 只保留有本药特异证据且具有当前临床决策价值的场景。戒烟、戒酒、减少饮酒、OUD 维持治疗、戒断症状缓解等场景分开评分。未获批本身、缺少证据、管制身份或 ATC 归属不得单独构成评分行；证据不足时写 `N/A` 或“待核实”，不得为完成批次强行升级状态。
