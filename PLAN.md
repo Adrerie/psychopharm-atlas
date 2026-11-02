@@ -615,7 +615,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 - **B 组，N07BB 酒精依赖药物（6）**：`disulfiram`（N07BB01）、`calcium-carbimide`（N07BB02）、`acamprosate`（N07BB03）、`naltrexone`（N07BB04）、`nalmefene`（N07BB05）、`ondelopran`（N07BB06）。
 - **C 组，N07BC 阿片依赖药物（6）**：`buprenorphine`（N07BC01）、`methadone`（N07BC02）、`levacetylmethadol`（N07BC03）、`lofexidine`（N07BC04）、`levomethadone`（N07BC05）、`diamorphine`（N07BC06）。
 
-**不纳入本轮**：`N07BA02` bupropion 已有核心档案 [`drugs/bupropion.md`](../drugs/bupropion.md)，不重复建档；如需比较戒烟用途，引用该档案并单独核对 bupropion 的戒烟证据。`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
+**不纳入本轮**：`N07BA02` bupropion 已有核心档案 [`drugs/bupropion.md`](drugs/bupropion.md)，不重复建档；如需比较戒烟用途，引用该档案并单独核对 bupropion 的戒烟证据。`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
 
 ### 一次执行要求
 
