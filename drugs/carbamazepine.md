@@ -2,7 +2,7 @@
 
 > 状态：`reviewed` ｜ 最后核查：2026-10-28（身份、ATC 与三份现行正文本轮逐节核对；中国管制按官方附件复核）｜ ATC：`N03AF01`（WHO ATC/DDD Index 2026）
 
-**引用键**：`US-TAB`＝美国 Carbamazepine Tablets（100 mg／200 mg）处方信息与用药指南（DailyMed setid `047bc284-060a-4db9-bf37-75d10f95a0a6`，Labeler A-S Medication Solutions、ANDA207798、NDC 50090-5740，由 Umedica Laboratories 生产、为 Nivagen Pharmaceuticals 供应，文内标注 Revised January 2024, V-08，SPL 生效 2025-02-18，DailyMed 发布 2025-02-21；§INDICATIONS AND USAGE、§CONTRAINDICATIONS、§BOXED WARNING、§WARNINGS AND PRECAUTIONS、§PRECAUTIONS（含 Drug Interactions、Laboratory Tests）、§ADVERSE REACTIONS 逐节引用）；`UK-SMPC`＝英国 Tegretol 100mg Tablets SmPC（emc 产品 1040，Novartis Pharmaceuticals UK Limited，PL 00101/0461，§10 文本修订日 2026-04-20）；`FR-RCP`＝法国 CARBAMAZEPINE VIATRIS L.P. 200 mg  comprimé sécable RCP（公开药物数据库 SpecId 61547468，§4.1／§4.4 逐节引用；其 §10"文本更新日期"字段由持有人留为待补占位）；`ATC-01`＝WHO ATC/DDD 索引 `N03AF01` 页；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 逐名检索）；`PMID:……`＝PubMed。§N 指所引正文章节号。
+**引用键**：`US-TAB`＝美国 Carbamazepine Tablets（100 mg／200 mg）处方信息与用药指南（DailyMed setid `047bc284-060a-4db9-bf37-75d10f95a0a6`，Labeler A-S Medication Solutions、ANDA207798、NDC 50090-5740，由 Umedica Laboratories 生产、为 Nivagen Pharmaceuticals 供应，文内标注 Revised January 2024, V-08，SPL 生效 2025-02-18，DailyMed 发布 2025-02-21；§INDICATIONS AND USAGE、§CONTRAINDICATIONS、§BOXED WARNING、§WARNINGS AND PRECAUTIONS、§PRECAUTIONS（含 Drug Interactions、Laboratory Tests）、§ADVERSE REACTIONS 逐节引用））；`US-EQ`＝美国 EQUETRO carbamazepine extended-release capsules 处方信息（DailyMed setid `be478f3c-40f6-47cc-8ab9-f420a9372b1c`，Validus Pharmaceuticals LLC，NDA 021710，文内标注 Revised 10/2022，SPL 生效日期与 DailyMed 页面 Updated 日期均为 2025-08-19；§1.1–§1.3、§14.1 逐节核对）；`UK-SMPC`＝英国 Tegretol 100mg Tablets SmPC（emc 产品 1040，Novartis Pharmaceuticals UK Limited，PL 00101/0461，§10 文本修订日 2026-04-20）；`FR-RCP`＝法国 CARBAMAZEPINE VIATRIS L.P. 200 mg  comprimé sécable RCP（公开药物数据库 SpecId 61547468，§4.1／§4.4 逐节引用；其 §10"文本更新日期"字段由持有人留为待补占位）；`ATC-01`＝WHO ATC/DDD 索引 `N03AF01` 页；`CN-2025`＝2025 年第 55 号公告目录附件与 2026 年第 58 号增列（2026-10-28 逐名检索）；`PMID:……`＝PubMed。§N 指所引正文章节号。
 
 ## 1. 基本信息
 
@@ -10,11 +10,11 @@
 | --- | --- |
 | 类型／药理类别 | 单方，卡马西平碱基（亚甲二苯并氮杂䓬-5-甲酰胺类，标签 §11）；`US-TAB` §DESCRIPTION 称其为抗惊厥药与"三叉神经痛的特异性镇痛药"，`UK-SMPC` §5.1 的治疗学分类原文为"抗癫痫、神经营养与精神作用药（anti-epileptic, neurotropic and psychotropic agent）"。结构与三环类抗抑郁药相关，标签因此把"潜在精神病激活、老年意识混乱或激越"列为一般注意事项（`US-TAB` §WARNINGS, General） |
 | 现行 ATC 与 DDD | `N03AF01`（N NERVOUS › N03 ANTIEPILEPTICS › N03A › N03AF Carboxamide derivatives），DDD **1 g 口服、1 g 直肠**（`ATC-01`）。这是群体统计口径，不用于推算个体等效剂量 |
-| 主要剂型（本轮所引） | 美国所引文本为**普通片 100／200 mg**（§3、§16）；同一文本的 §2 仍保留缓释片与口服混悬液的转换说明，混悬液峰值更高、需低剂量起步（§PRECAUTIONS, Information for Patients）。**本档案的批准表述只代表该 setid 的片剂文本**；Carbatrol／Tegretol-XR 等其他产品需另引 setid |
+| 主要剂型（本轮所引） | 美国 `US-TAB` 为普通片 100／200 mg；另核 `US-EQ` 为缓释胶囊 100／200／300 mg（NDA 021710，独立产品标签）。两份产品的批准范围按各自 setid 记录；Carbatrol、Tegretol-XR 等其他产品未逐份核对 |
 | 主要活性代谢物 | carbamazepine-10,11-epoxide：由 CYP3A4 生成，动物筛选中与母药抗惊厥效力相当；环氧水解酶生成 10,11-transdiol（§12.3）。自动诱导使半衰期由 25–65 h 降至 12–17 h，3–5 周完成 |
 | 关键药代摘要 | 血浆蛋白结合 76%；常规治疗浓度区间 4–12 mcg/mL，个体差异大且与剂量相关性差；尿排泄 72%（以羟基化与结合型代谢物为主，原形仅 3%）（§12.3） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-28）**：按 2025 年第 55 号公告的药用类麻醉药品／精神药品目录附件与 2026 年第 58 号增列逐一检索，中文名"卡马西平"与英文名 Carbamazepine **均未命中**（同一检索方法把地西泮解析为第二类第 24 项，与仓库 `diazepam` 档案一致，可作方法回测）；非药用类 2025 年版目录原始附件对本机返回 HTTP 521，**未逐名核对**，不得写成整体排除；芬太尼类、合成大麻素类、尼秦类、奥啡类四类整类的官方结构定义均不适用于本药母核。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）；中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
-| 主要法域批准状态 | **美国**：`US-TAB` §INDICATIONS AND USAGE 通读后只有两类——癫痫（部分性伴复杂症状、全身强直阵挛、含上述类型的混合型；原文明写 **absence seizures（petit mal）似不受本药控制**）与三叉神经痛（并把舌咽神经痛列为"已有获益报告"）；**该文本无双相障碍或任何精神科适应证条目**，用药指南"What is carbamazepine"也只列上述癫痫发作类型与两类神经痛。**英国**：`UK-SMPC` §4.1 收载癫痫（全面强直阵挛与部分性发作，并注明失神与肌阵挛通常无效、非典型失神可能加重）、三叉神经痛的阵发性疼痛，以及 **锂盐无反应者的躁狂抑郁性精神病（manic-depressive psychosis）预防**。**法国**：`FR-RCP` §4.1 除癫痫（成人／儿童，单药或联用）、三叉神经与舌咽神经阵发性疼痛、**成人神经病理性疼痛**外，另设精神科条目：双相障碍复发预防（尤见于相对抵抗者），以及锂盐抵抗或禁忌的躁狂抑郁性精神病之躁狂／轻躁狂发作 |
+| 主要法域批准状态 | **美国**：`US-TAB` 普通片 §INDICATIONS AND USAGE 收载癫痫（部分性伴复杂症状、全身强直阵挛及相关混合型）与三叉神经痛，并把舌咽神经痛列为已有获益报告；该标签未收载精神科适应证。独立产品 `US-EQ`（EQUETRO 缓释胶囊）§1.1 另批准成人 Bipolar I disorder 的 acute manic or mixed episodes，§1.2 收载三叉神经痛，§1.3 收载癫痫。**英国**：`UK-SMPC` §4.1 收载癫痫、三叉神经痛及锂盐无反应者的躁狂抑郁性精神病预防。**法国**：`FR-RCP` §4.1 收载癫痫、三叉神经与舌咽神经阵发性疼痛、成人神经病理性疼痛，以及双相复发预防与锂盐抵抗／禁忌者的躁狂或轻躁狂发作 |
 | 身份与统计 | CAS 298-46-4；UNII 33CM23913M（SPL 记录）；[PubChem CID 2554](https://pubchem.ncbi.nlm.nih.gov/compound/2554)；[Wikidata Q410412](https://www.wikidata.org/wiki/Q410412)；[ATC `N03AF01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AF01)；美国标签 §DRUG ABUSE AND DEPENDENCE 原文"未见与滥用相关的证据，人体也无心理或躯体依赖证据"，该文本无联邦列管表述 |
 
 ## 2. 评分
@@ -41,19 +41,19 @@
 | 部分性发作（伴复杂症状）与全身强直阵挛发作、混合型癫痫 | 美国批准（`US-TAB` §INDICATIONS，成人及按年龄分层的儿童）；英国批准（§4.1） | B | 标签写明疗效证据来自以活性药为对照的试验而非安慰剂对照，并明确失神发作不受控制、英国文本另记非典型失神可能加重；监测与相互作用负担重，故不上 A |
 | 三叉神经痛（舌咽神经痛按美国文本为"已有获益报告"） | 美国批准（§INDICATIONS，原文强调"非普通镇痛药，不用于轻微疼痛"）；英国批准其阵发性疼痛 | B | 两个法域正文均收载，英国把它作为独立适应证列出；本档案未取回该用途的现代随机对照原文，故按标签层面判定，不外推到其他神经病理性疼痛 |
 | 双相障碍复发预防（限锂盐无反应者） | 英国 SmPC 收载、法国 RCP 收载；所引美国文本未收载 | C | 批准措辞本身限定在锂盐无效人群；`PMID:33946323` 的对照试验汇总认为其抗躁狂与防躁狂复发的效力优于抗抑郁方向，`PMID:26360999` 的网络分析属跨药间接比较；强诱导剂与皮肤／血液学风险构成实际限制 |
-| 急性躁狂或轻躁狂发作 | 法国 RCP 收载（限锂盐抵抗或禁忌）；英国与美国文本的 §4.1／§INDICATIONS 均无以"急性躁狂治疗"为措辞的条目 | C− | 唯一收载该措辞的是法国正文；`PMID:33946323` 指出各类双相急性期对照研究对抑郁相普遍不足，且本药起效与耐受受滴定与相互作用制约 |
+| 急性躁狂或混合发作（成人 Bipolar I） | 美国 EQUETRO 缓释胶囊批准（`US-EQ` §1.1）；法国 RCP 收载躁狂发作（限锂盐抵抗或禁忌）；英国所引文本未收载急性治疗 | B | `US-EQ` §14.1 报告两项 3 周随机双盲安慰剂对照试验（EQUETRO 组 n=94 与 n=120），YMRS 主要终点分别 P=0.033 与 P<0.0001；强 CYP 诱导、严重皮肤／血液学风险与监测负担限制其适用范围 |
 
 **不为"成人神经病理性疼痛"设场景行**：仅法国 §4.1 收载，美国与英国正文未收载，且本轮未取得本药该用途的药品特异对照证据原文，按规则留在 §4 与 §10 说明，不占等级列。
 
 ## 3. 主要作用
 
-`UK-SMPC` §5.1 原文写机制"仅被部分阐明"：稳定过度兴奋的神经膜、抑制重复性神经元放电、减少兴奋性冲动的突触传播，而"经使用依赖与电压依赖的钠通道阻断来防止去极化神经元的重复发放**可能**是其主要机制"；同段进一步提出谷氨酸释放减少与神经膜稳定对应抗癫痫效应，而**对多巴胺与去甲肾上腺素转换的抑制作用"可能负责"其抗躁狂特性**——这是机制假说而非疗效证明。真正解释其临床形象的是三点：一是它同时是**癫痫、三叉神经痛与（在英法）心境复发预防**三类不同终点的用药，各自证据与人群不可互换；二是**活性环氧化物代谢物**与母药同具抗惊厥活性，且环氧水解酶被丙戊酸等抑制时该代谢物升高，构成"疗效与毒性同源"的结构；三是**强诱导加自动诱导**，使它在同一张标签里既是被影响者也是影响者。以上为标签与机制层面表述，不构成人体机制证明。
+`UK-SMPC` §5.1 原文写机制"仅被部分阐明"：稳定过度兴奋的神经膜、抑制重复性神经元放电、减少兴奋性冲动的突触传播，而"经使用依赖与电压依赖的钠通道阻断来防止去极化神经元的重复发放**可能**是其主要机制"；同段进一步提出谷氨酸释放减少与神经膜稳定对应抗癫痫效应，而**对多巴胺与去甲肾上腺素转换的抑制作用"可能负责"其抗躁狂特性**——这是机制假说而非疗效证明。真正解释其临床形象的是三点：一是它同时涉及**癫痫、三叉神经痛、美国 EQUETRO 缓释胶囊标签收载的急性躁狂／混合发作，以及英法文本中的心境复发预防**等不同终点，各自证据与人群不可互换；二是**活性环氧化物代谢物**与母药同具抗惊厥活性，且环氧水解酶被丙戊酸等抑制时该代谢物升高，构成"疗效与毒性同源"的结构；三是**强诱导加自动诱导**，使它在同一张标签里既是被影响者也是影响者。以上为标签与机制层面表述，不构成人体机制证明。
 
 ## 4. 适应范围
 
-**获批用途（按法域，不可互相外推）**：美国片剂文本＝癫痫三类（附"失神不受控制"原文限定）＋三叉神经痛（并记舌咽神经痛获益报告）。英国＝癫痫（全面强直阵挛与部分性）＋三叉神经痛阵发性疼痛＋锂盐无反应者的躁狂抑郁性精神病预防。法国＝癫痫（成人及儿童单药或联用）＋三叉神经与舌咽神经阵发性疼痛＋成人神经病理性疼痛＋双相复发预防与锂盐抵抗／禁忌者的躁狂或轻躁狂发作。
+**获批用途（按法域与产品，不可互相外推）**：美国 `US-TAB` 普通片＝癫痫（附失神发作不受控制的标签限定）＋三叉神经痛；美国独立产品 `US-EQ` 缓释胶囊另批准成人 Bipolar I disorder 的 acute manic or mixed episodes，并收载三叉神经痛与癫痫。英国＝癫痫＋三叉神经痛＋锂盐无反应者的躁狂抑郁性精神病预防。法国＝癫痫＋三叉神经与舌咽神经阵发性疼痛＋成人神经病理性疼痛＋双相复发预防与锂盐抵抗／禁忌者的躁狂或轻躁狂发作。
 
-**常见但未获批／超说明书**：急性躁狂的单独治疗地位在美英文本未收载；三叉神经痛以外的神经病理性疼痛在美国文本未收载（`US-TAB` §INDICATIONS 明确"不是简单镇痛药"）；冲动攻击、间歇性爆发障碍与精神分裂症等用途在任一法域正文中均未见收载，本轮亦未取回可评定的本药特异证据，不列评分行。
+**其他未收载用途**：英国所引文本未收载急性躁狂治疗，法国仅限锂盐抵抗或禁忌者；三叉神经痛以外的神经病理性疼痛在美国所引标签未收载（`US-TAB` §INDICATIONS 明确"不是简单镇痛药"）；冲动攻击、间歇性爆发障碍与精神分裂症等用途在所引法域正文中均未见收载，本轮亦未取回可评定的本药特异证据，不列评分行。
 
 ## 5. 实际效果与局限
 
@@ -87,16 +87,16 @@
 
 ## 10. 证据边界
 
-1. **美国文本无精神科适应证**：`US-TAB` §INDICATIONS 通读后只有癫痫与三叉神经痛两类，用药指南的"What is carbamazepine"同样只列上述用途；本档案关于双相的表述只引英国 SmPC 与法国 RCP 的 §4.1 原文，**不得把文献中的双相抗躁狂证据写成任一法域的批准适应证**。
-2. **所引法域与剂型有限**：美国只代表 A-S Medication Solutions 持证、ANDA207798 的 100／200 mg 普通片文本（该 setid 已发布 4 个版本，本轮核对生效 2025-02-18 版本）；缓释胶囊／片、口服混悬液与 Tegretol／Carbatrol 品牌产品需另引 setid。英国只代表 PL 00101/0461 的 100 mg 片 SmPC；欧盟其他成员国的国家批准正文本轮未逐份比对，**EMA 站点对本机的产品条目查询未取回可逐节阅读的正文**。法国正文 §10"文本更新日期"字段为持有人占位（"à compléter ultérieurement"），故其版本日期无法从页面确定。
-3. **本药特异原始试验原文未取得**：三叉神经痛与双相急性躁狂／维持期随机试验的设计、例数与效应量本轮未取到原文，§2.2 的等级因此建立在标签条款加综述／二次证据之上；`PMID:33946323` 为叙述性综述、`PMID:26360999` 与 `PMID:34642461` 为跨药网络分析，均属间接比较。
+1. **美国批准范围必须按产品区分**：`US-TAB` 普通片标签只有癫痫与三叉神经痛，未收载精神科适应证；独立产品 `US-EQ`（EQUETRO 缓释胶囊）§1.1 明确批准成人 Bipolar I disorder 的 acute manic or mixed episodes。不得把 EQUETRO 的适应证直接写成 `US-TAB` 普通片的批准范围。
+2. **所引法域与剂型有限**：美国现核 `US-TAB` 普通片（A-S Medication Solutions，ANDA207798，100／200 mg，SPL 生效 2025-02-18）与 `US-EQ` 缓释胶囊（Validus Pharmaceuticals LLC，NDA 021710，100／200／300 mg，文内 Revised 10/2022，SPL 生效及 DailyMed Updated 2025-08-19）；两者是不同产品标签，不代表其他 carbamazepine 产品均有相同适应证。英国只代表 PL 00101/0461 的 100 mg 片 SmPC；欧盟其他成员国的国家批准正文本轮未逐份比对。法国正文 §10 日期字段由持有人留为占位，故不推定文本修订日期。
+3. **原始试验论文的取证边界**：急性躁狂／混合发作的两项 3 周随机试验已由 `US-EQ` §14.1 提供设计、样本量与主要终点结果（P=0.033、P<0.0001），但本轮未取回两篇原始论文全文；三叉神经痛与双相维持期的本药特异原始试验仍未取回。`PMID:33946323` 为叙述性综述，`PMID:26360999` 与 `PMID:34642461` 为跨药网络分析，均须按其证据类型解释。
 4. **中国只有"逐名未命中"结论**：上市与核准适应证待核实；非药用类 2025 年版目录原文对本机不可访问，未逐名核对，不得写成整体排除。
 5. HLA 分型在两法域文本的强度不同：美国要求高危 ancestry 用药前筛查 B\*1502 并把 A\*3101 作为风险权衡项，英国对 A\*3101 明确"数据不足以支持筛查推荐"；两者都不能替代临床警惕，且阳性者未必发病、阴性者仍可发生反应（黑框原文）。
 6. DDD 1 g 为癫痫用药框架的群体统计口径，不可用于疼痛或心境适应证的剂量推断。
 
 ## 11. 深入分析与来源
 
-**说明书与监管正文**：[DailyMed 现行 Carbamazepine Tablets 标签（setid `047bc284-060a-4db9-bf37-75d10f95a0a6`）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=047bc284-060a-4db9-bf37-75d10f95a0a6)；[DailyMed 该成分按药名检索（带 /dailymed/ 前缀）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=carbamazepine)；[英国 Tegretol 100mg Tablets SmPC（emc 1040，修订 2026-04-20）](https://www.medicines.org.uk/emc/product/1040/smpc)；[公开药物数据库 CARBAMAZEPINE VIATRIS L.P. 200 mg 条目（SpecId 61547468）](https://base-donnees-publique.medicaments.gouv.fr/medicament/61547468/extrait)；[WHO ATC `N03AF01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AF01)；[2025 年第 55 号公告目录附件（上海药监局转载）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c.html)；[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**说明书与监管正文**：[DailyMed 现行 Carbamazepine Tablets 标签（setid `047bc284-060a-4db9-bf37-75d10f95a0a6`）]；[DailyMed EQUETRO 缓释胶囊现行标签（setid `be478f3c-40f6-47cc-8ab9-f420a9372b1c`，NDA 021710，Revised 10/2022，DailyMed Updated 2025-08-19）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=be478f3c-40f6-47cc-8ab9-f420a9372b1c)；
 
 **研究与综述**：[卡马西平及其衍生物在双相障碍中的疗效（2021，对照试验汇总）](https://pubmed.ncbi.nlm.nih.gov/33946323/)；[双相维持期治疗的对照试验比较（2022）](https://pubmed.ncbi.nlm.nih.gov/34642461/)；[双相维持期药物的系统综述与网络分析（2014；跨药间接比较）](https://pubmed.ncbi.nlm.nih.gov/26360999/)；[卡马西平、奥卡西平与艾司利卡西平的 HLA 基因型检测指南（英国 CERSI-PGx，2026）](https://pubmed.ncbi.nlm.nih.gov/42002301/)。
 
