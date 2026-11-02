@@ -615,7 +615,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 - **B 组，N07BB 酒精依赖药物（6）**：`disulfiram`（N07BB01）、`calcium-carbimide`（N07BB02）、`acamprosate`（N07BB03）、`naltrexone`（N07BB04）、`nalmefene`（N07BB05）、`ondelopran`（N07BB06）。
 - **C 组，N07BC 阿片依赖药物（6）**：`buprenorphine`（N07BC01）、`methadone`（N07BC02）、`levacetylmethadol`（N07BC03）、`lofexidine`（N07BC04）、`levomethadone`（N07BC05）、`diamorphine`（N07BC06）。
 
-**不纳入本轮**：`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
+**不纳入本轮**：`N07BA02` bupropion 已有核心档案 [`drugs/bupropion.md`](../drugs/bupropion.md)，不重复建档；如需比较戒烟用途，引用该档案并单独核对 bupropion 的戒烟证据。`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
 
 ### 一次执行要求
 
@@ -623,7 +623,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 2. 每种药先核实 WHO ATC/DDD Index 2026 的身份与编码，再按具体产品、法域、剂型和版本核对现行监管标签或说明书。优先使用 FDA/DailyMed、英国 emc、EMA、法国 BDPM 及其他国家药监机构；研究证据使用原始 RCT、系统综述与相关指南。分别记录文内 Revised、SPL 生效日与数据库发布日。检索零命中、历史文本或接口失败只能写具体缺口，不推断为未批准、已撤市或不存在。
 3. **戒烟药物**：区分 nicotine replacement therapy 的具体剂型与产品、varenicline、cytisinicline 的受体作用和临床证据。核实 cytisinicline 与 cytisine 的名称、实体及监管关系，不因名称相近直接合并。尼古丁不同剂型的标签、给药方式与使用限制分别核对。
 4. **酒精依赖药物**：区分 disulfiram／calcium carbimide 的厌恶性威慑治疗、acamprosate 的维持戒酒用途，以及 naltrexone 与 nalmefene 在减少饮酒、降低渴求或复发预防方面的具体证据；逐药核对适应证、人群选择、肝肾限制及与阿片类药物的相互作用，不预设二者的标签与疗效相同。对 ondelopran 优先确认其当前研发、批准与上市状态，不得仅凭 ATC 编码将其写成已上市药物。
-5. **阿片依赖药物**：区分 buprenorphine、methadone、levomethadone、diamorphine 的 OUD 维持或监督治疗用途，与 lofexidine 的戒断症状管理；核实 levacetylmethadol 的历史批准、停销与当前可及状态。必须区分 OUD 标签与疼痛标签，区分不同剂型、途径和产品；不得把一种药的管制级别外推给同类药或其他法域。
+5. **阿片依赖药物**：区分 buprenorphine、methadone、levomethadone、diamorphine 的 OUD 维持或监督治疗用途，与 lofexidine 的戒断症状管理；单独核实 naltrexone 在 OUD 复发预防中的口服或长效制剂证据与批准范围，不将其与酒精依赖用途合并评分；核实 levacetylmethadol 的历史批准、停销与当前可及状态。必须区分 OUD 标签与疼痛标签，区分不同剂型、途径和产品；不得把一种药的管制级别外推给同类药或其他法域。
 6. 中国管制字段按现行官方目录逐药核对；中国上市与核准适应证只有在可靠官方来源可核实时才写为已确认。美国 DEA、英国 Misuse of Drugs Regulations、欧盟成员国及其他法域的管制结论按各自官方目录记录，不将不同国家的分类互换。不要重做全库管制审计。
 7. 严格沿用既有评分规则。A–D 只保留有本药特异证据且具有当前临床决策价值的场景。戒烟、戒酒、减少饮酒、OUD 维持治疗、戒断症状缓解等场景分开评分。未获批本身、缺少证据、管制身份或 ATC 归属不得单独构成评分行；证据不足时写 `N/A` 或“待核实”，不得为完成批次强行升级状态。
 8. 不设专题配额。只有发现重要证据冲突或一个无法在主条目内简洁解释、且确有独立决策价值的问题时，才新增问题导向专题。主条目保持快速判断导向，完整给药方案与次要试验细节留在原始来源或必要的正文段落。
