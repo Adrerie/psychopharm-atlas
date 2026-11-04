@@ -1,9 +1,9 @@
-# calcium-carbimide｜卡巴米得钙（英文名 Carbimide／Calcium Carbimide，即氰胺钙 calcium cyanamide；我国核准中文名待核实，档案不自行造名；历史商品名线索 Temposil、Alcover、Carbidix 见 §10）
+# calcium-carbimide｜卡巴米得钙（英文名 Carbimide／Calcium Carbimide；主体身份按 WHO ATC N07BB02 与 PubChem CID 56955933 记录；历史产品名称 Temposil 的监管数据库记录见 §10）
 
 > 状态：`basic` ｜ 最后核查：2026-11-03（WHO ATC `N07BB02` 码页复核；美国 DailyMed 与英国 emc 按通用名检索；法国 BDPM 未单独立项核验；中国四份管制目录逐名检索；未获得任何现行核准说明书正文，故不升级 `reviewed`）｜ ATC：`N07BB02`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`ATC-B02`＝WHO ATC/DDD 索引 `N07BB02` 码页（原文"N07BB02 calcium carbimide"，无 DDD、无给药途径字母；页面脚注 Last updated 2026-01-20）；`DM-0`＝DailyMed 现行 SPL 接口检索（spls.json?drug_name=carbimide，2026-11-03，data[] 为空——检索事实）；`EMC-0`＝英国 emc 检索 q=carbimide，no products found（检索事实）；`PMID:42753357`＝SOGC 临床实践指南 No.471（Alcohol and Pregnancy，J Obstet Gynaecol Can 2026）；`PCID`＝PubChem CID 56955933（calcium carbimide）。`PMID:……`＝PubMed；本实体的四项人体研究为 `PMID:2673441`（1989 随机双盲安慰剂对照交叉试验，疗效端）、`PMID:2688764`（同试验医学检查端）、`PMID:1543940`（1992 复饮预防咨询随机试验）、`PMID:16433735`（2006 门诊长期队列，与双硫仑合并暴露）；氰胺（cyanamide，本实体的母体／活性分子，属另一注册实体）相关为 `PMID:12554608`、`PMID:15991038`。二手聚合库（DrugBank 等）仅用于形成检索线索，其陈述未作为本档案任何监管结论的依据。§N 指所引正文章节号。
+**引用键**：`ATC-B02`＝WHO ATC/DDD 索引 `N07BB02` 码页（原文"N07BB02 calcium carbimide"，无 DDD、无给药途径字母；页面脚注 Last updated 2026-01-20）；`DM-0`＝DailyMed 现行 SPL 接口检索（spls.json?drug_name=carbimide，2026-11-03，data[] 为空——检索事实）；`EMC-0`＝英国 emc 检索 q=carbimide，no products found（检索事实）；`PMID:42753357`＝SOGC 临床实践指南 No.471（Alcohol and Pregnancy，J Obstet Gynaecol Can 2026）；`PCID`＝PubChem CID 56955933（calcium carbimide）；`HC-DPD`＝Health Canada Drug Product Database 历史产品记录 TEMPOSIL TAB 50MG，DIN 00014958，原始上市日 1959-12-31，1999-04-12 标记 Cancelled Post Market；`FDA-SRS`＝FDA Substance Registration System，UNII 21ZCD2AA4H（CALCIUM CYANAMIDE CITRATED，官方同义名映射含 TEMPOSIL）；`EMA-ALCOVER`＝EMA 官方页面确认 Alcover 175 mg/ml 的活性成分为 sodium oxybate，不属于 calcium carbimide。`PMID:……`＝PubMed；本实体的四项人体研究为 `PMID:2673441`（1989 随机双盲安慰剂对照交叉试验，疗效端）、`PMID:2688764`（同试验医学检查端）、`PMID:1543940`（1992 复饮预防咨询随机试验）、`PMID:16433735`（2006 门诊长期队列，与双硫仑合并暴露）；氰胺（cyanamide，本实体的母体／活性分子，属另一注册实体）相关为 `PMID:12554608`、`PMID:15991038`。二手聚合库（DrugBank 等）仅用于形成检索线索，其陈述未作为本档案任何监管结论的依据。§N 指所引正文章节号。
 
 ## 1. 基本信息
 
@@ -11,11 +11,11 @@
 | --- | --- |
 | 类型／药理类别 | 单方；氰胺（cyanamide，H₂N—C≡N）的钙盐，按氨甲酰／carbimide 口径登记于 WHO ATC；药理类别为酒精增敏／厌恶性威慑剂（乙醛脱氢酶抑制路径，与双硫仑同机制族不同实体） |
 | 现行 ATC 与 DDD | `N07BB02` calcium carbimide，**无 DDD、无给药途径字母**（`ATC-B02`）。WHO 亚组注："This group comprises drugs used for maintenance treatment of addictive disorders…"——归类本身不证明现行上市或现行批准 |
-| 主要剂型（本轮所引） | 本轮未取得任何法域现行核准说明书正文，剂型与规格不作档案级陈述。历史文献与二手线索提示曾有柠檬酸盐（carbimide citrate）口服制剂与液体剂型（如意大利、奥地利以 Alcover 名销售的口径来自开发企业自述页，未经监管源核验） |
+| 主要剂型（本轮所引） | 未取得任何法域现行核准说明书正文，当前剂型与规格不作档案级陈述。历史产品 TEMPOSIL TAB 50MG 有 Health Canada DPD 记录，记录列明 calcium carbimide 50 mg/tablet、口服片剂及历史上市状态（`HC-DPD`）；FDA SRS 将 `CALCIUM CYANAMIDE CITRATED` 与 `TEMPOSIL` 列为同一物质记录的名称映射（`FDA-SRS`）。两项数据库记录未提供原始产品说明书，不能据此把不同化学形态或制剂视为可互换。 |
 | 实体边界 | **与双硫仑是两个独立实体**：同为 ALDH 抑制／厌恶性威慑治疗，但化学实体（二硫代氨基甲酸酯二硫化物 vs 氰胺钙盐）、上市法域与证据互不继承；不得把 [disulfiram](disulfiram.md) 的标签条款、试验结果或风险评分套用于本实体，反之亦然。氰胺另为双硫仑的体内代谢产物之一，代谢亲缘不改变"独立药物实体"的建档口径 |
 | 关键药代摘要 | 本轮无可引用的现行标签药代数据；写为缺口（待核实） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-03）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）中，逐名检索"卡巴米得／羰二酰亚胺／Carbimide／CYANAMIDE／氰胺／氰氨化钙"均未命中；四个整类核查：芬太尼类、合成大麻素类、尼秦类按结构定义不适用（氰胺钙盐仅含单一 C-N 三键碳骨架，无哌啶苯胺、无芳香吲哚、无氮杂萘酮母核）；奥啡类按公告以溴啡（1-{1-[1-(4-溴苯基)乙基]哌啶-4-基}-1,3-二氢-2H-苯并咪唑-2-酮）与螺溴啡（8-[1-(4-溴苯基)乙基]-1-苯基-1,3,8-三氮杂螺[4.5]癸烷-4-酮）两种母体为基准，本实体为无环碳二亚胺钙盐，不含哌啶、苯并咪唑酮或螺环哌啶酮，不适用。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | 美国：DailyMed 现行 SPL 检索 0 条（`DM-0`，检索事实，**不写成"FDA 从未批准"的推定**；如需批准沿革应回 Drugs@FDA／联邦公报另行核验，本轮未完成）；英国：emc 无现行产品（`EMC-0`）；加拿大／欧洲大陆：历史上市线索（Temposil、Alcover 等商品名）来自检索与二手聚合库，监管源文件本轮未取得，写为待核实；日本：未取得 PMDA 相关页面；中国：NMPA 恒 HTTP 412、CDE 校验页拦截，待核实 |
+| 主要法域批准状态 | 美国：DailyMed 现行 SPL 检索 0 条（`DM-0`，仅为当前数据库检索事实，不推断 FDA 从未批准）；英国：emc 无现行产品（`EMC-0`）；加拿大：Health Canada DPD 记录 TEMPOSIL TAB 50MG（DIN 00014958），原始上市日 1959-12-31，1999-04-12 标记 Cancelled Post Market（`HC-DPD`），仅证明历史产品记录，不代表当前上市；欧洲大陆：Alcover 为 sodium oxybate（`EMA-ALCOVER`），不属于本实体；日本：未取得 PMDA 相关页面；中国：NMPA 恒 HTTP 412、CDE 校验页拦截，待核实 |
 | 身份与统计 | WHO ATC `N07BB02`；[PubChem CID 56955933](https://pubchem.ncbi.nlm.nih.gov/compound/56955933)（2026-11-03 读取：分子式 CCaN2、分子量 80.10、系统名 calcium azanidylidenemethylideneazanide，即氰胺钙；CAS 号本轮未从该记录逐字段取到，保留为待核） |
 
 ## 2. 评分
@@ -35,11 +35,7 @@
 
 ### 2.2 按使用场景适宜度（A–D）
 
-| 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
-| --- | --- | --- | --- |
-| 酒精依赖的厌恶性威慑治疗（以维持戒酒为目标的辅助用药） | 现行核准状态待核实：本轮在美、英、法、日、中五处均未取得现行说明书正文，历史上市线索见 §10 | C | 本实体唯一可核对的随机双盲安慰剂对照试验未把卡巴米得与安慰剂分开——两组相对治疗前的饮酒量下降幅度相同，78% 患者自认全程在服活性药，作者据此把它的主要成分归为心理威慑而非药理差异化效应（`PMID:2673441`）；与复饮预防咨询结合时在 18 个月随访仅有未达显著的趋势（`PMID:1543940`）；长期队列把本药与双硫仑合并暴露、且因禁忌而服安慰剂者结局更好，属适应证混杂而非随机比较（`PMID:16433735`）；代价端是可核查的肝损登记信号与甲功／血液学监测要求。故该场景可考虑，但既无可支持的常规使用证据、也缺少现行文本可引 |
-
-**不再另设行**：减少饮酒与复发预防两个目标在本实体没有可归属的药物特异证据；威慑策略与戒酒维持／减少饮酒的分界见 [disulfiram](disulfiram.md)、[acamprosate](acamprosate.md) 与 [nalmefene](nalmefene.md)。
+**本档案暂无可评分的现行临床使用场景。** 可核对的随机试验与历史观察研究说明了卡巴米得类威慑治疗的历史使用，但本轮没有取得现行核准说明书、当前上市产品或足以确认当前临床决策价值的证据。按仓库规则，历史研究不单独构成当前 A–D 评分行；试验结果与证据边界保留在 §5、§10。
 
 ## 3. 主要作用
 
@@ -47,11 +43,11 @@
 
 ## 4. 适应范围
 
-历史口径：作为酒精依赖的辅助／威慑治疗（厌恶性策略），与双硫仑属同一治疗家族但不同实体。现行适应证措辞：**待核实**——本轮在四个主要可检索法域（美、英、日、中）均未取得现行说明书正文；欧洲大陆个别市场（意大利、奥地利等，商品名 Alcover 线索）的存在性陈述只有企业自述与二手库支撑，按规则不得写成监管事实。
+历史口径：作为酒精依赖的辅助／威慑治疗（厌恶性策略），与双硫仑属同一治疗家族但不同实体。现行适应证措辞：**待核实**——本轮未取得任何法域现行说明书正文。此前的 Alcover 商品名线索应删除：EMA 明确将奥地利与意大利的 Alcover 175 mg/ml 识别为 sodium oxybate，而非 calcium carbimide（`EMA-ALCOVER`）。
 
 ## 5. 实际效果与局限
 
-本实体的试验遗产集中在 1989—1992 年加拿大一组研究：128 名酒精依赖者的随机双盲安慰剂对照单交叉试验（4 个月，55% 完成）显示两组饮酒量都较治疗前显著下降、**组间无差异**，尿核黄素标记与自我报告的依从率很高，78% 患者自认全程服用活性药，作者据此把疗效归到“强心理威慑”而不是药物与安慰剂的差异（`PMID:2673441`）；同一试验的医学检查端未见肝毒性与行为毒性，白细胞轻度升高并在停药后回基线，1 例基线甲功减退者用药后出现甲状腺功能低下（`PMID:2688764`）。56 例的复饮预防咨询随机试验比较“医生建议”与“复饮预防”两种给药情境，后者内部归因增长，18 个月饮酒指标仅呈未达显著的趋势（F=2.82，P<0.06）（`PMID:1543940`）。1957—1960 年的柠檬酸卡巴米得（Temposil）系列属历史开放观察（`PMID:13480874`、`PMID:13627270`）。9 年门诊队列把双硫仑与卡巴米得合并为“饮酒威慑剂”暴露，因禁忌而服安慰剂者累积戒酒概率反而更高（0.86 对 0.49，P=0.03），这是适应证混杂而非随机比较（`PMID:16433735`）。当代指南层面：2026 年 SOGC《酒精与妊娠》在检索策略中把本药与双硫仑并列为检索词，但正文未引用本实体的临床研究（`PMID:42753357`）。**结论边界**：以上证据只支持“威慑效应存在、药物特异效应未被证实”这一格局，不得用双硫仑的试验结果或标签条款替代本实体的结论，也不得把氰胺（母体、另一注册实体）的阳性试验读作本盐的疗效。
+本实体的试验遗产集中在 1989—1992 年加拿大一组研究：128 名酒精依赖者的随机双盲安慰剂对照单交叉试验（4 个月，55% 完成）显示两组饮酒量都较治疗前显著下降、**组间无差异**，尿核黄素标记与自我报告的依从率很高，78% 患者自认全程服用活性药，作者据此把疗效归到“强心理威慑”而不是药物与安慰剂的差异（`PMID:2673441`）；同一试验的医学检查端未见肝毒性与行为毒性，白细胞轻度升高并在停药后回基线，1 例基线甲功减退者用药后出现甲状腺功能低下（`PMID:2688764`）。56 例的复饮预防咨询随机试验比较“医生建议”与“复饮预防”两种给药情境，后者内部归因增长，18 个月饮酒指标仅呈未达显著的趋势（F=2.82，P<0.06）（`PMID:1543940`）。1957—1960 年的柠檬酸卡巴米得（citrated calcium carbimide）系列属历史开放观察，文献使用 Temposil 名称（`PMID:13480874`、`PMID:13627270`）；该历史制剂形式与档案主体的具体化学形态未由原始产品说明书完成逐字段核对，不将其视为可直接互换的制剂。9 年门诊队列把双硫仑与卡巴米得合并为“饮酒威慑剂”暴露，因禁忌而服安慰剂者累积戒酒概率反而更高（0.86 对 0.49，P=0.03），这是适应证混杂而非随机比较（`PMID:16433735`）。当代指南层面：2026 年 SOGC《酒精与妊娠》在检索策略中把本药与双硫仑并列为检索词，但正文未引用本实体的临床研究（`PMID:42753357`）。**结论边界**：以上证据只支持“威慑效应存在、药物特异效应未被证实”这一格局，不得用双硫仑的试验结果或标签条款替代本实体的结论，也不得把氰胺（母体、另一注册实体）的阳性试验读作本盐的疗效。
 
 ## 6. 长期风险
 
@@ -71,9 +67,9 @@
 
 ## 10. 证据边界
 
-- 本档案的核心缺口：**未能取得任何法域的现行核准说明书正文**；`DM-0`、`EMC-0` 与 BDPM 未核验、PMDA 未取得，均为检索事实，不构成"未批准／已撤市／不存在"的监管结论。历史批准／撤市沿革（如加拿大早期上市、Temposil 商品名存续期）需要 Drugs@FDA、加拿大 TPD、各国药监档案与联邦公报级来源，本轮未完成。
+- 本档案的核心缺口：**未能取得任何法域的现行核准说明书正文**；`DM-0`、`EMC-0` 与 BDPM 未核验、PMDA 未取得，均为检索事实，不构成"未批准／已撤市／不存在"的监管结论。加拿大历史产品记录已由 Health Canada DPD 确认：TEMPOSIL TAB 50MG（DIN 00014958），原始上市日 1959-12-31，1999-04-12 标记 Cancelled Post Market（`HC-DPD`）；该数据库未提供产品说明书，不能据此补写历史剂型以外的标签细节。
 - DrugBank 等聚合库显示该实体存在"Approved, Withdrawn"式状态标记与"1959 年加拿大首次上市"叙事——按 [AGENTS.md](../AGENTS.md) 与 [SOURCES.md](../SOURCES.md) 口径，此类二手记录只作检索线索，不作监管事实；引用它们的价值仅在于指明下一步应去官方库核对什么。
-- **商品名与实体的归属**：1957—1960 年系列论文的受试分子是 **citrate 型（citrad/citrated calcium carbimide，Temposil）**（`PMID:13480874`、`PMID:13627270`），与本档案的 calcium carbimide 同一活性分子、不同盐型表述；Alcover 与 Carbidix 等商品名对应的现行持有人与各法域注册状态本轮仍未从监管公告逐项确证（Alcover 在文献中亦与母体氰胺关联），不得自动等同。**氰胺（cyanamide）与卡巴米得（calcium carbimide）按两个注册实体分列**：本盐在体内释放氰胺发挥 ALDH 抑制，母体的阳性随机试验（`PMID:12554608`）与血液学个案（`PMID:15991038`）只在"母体证据"标注下引用，不计入本实体的疗效结论或评分。
+- **商品名与实体的归属**：1957—1960 年系列论文将受试物记为 citrated calcium carbimide，并使用 Temposil 名称（`PMID:13480874`、`PMID:13627270`）。Health Canada DPD 的 TEMPOSIL TAB 50MG 历史产品记录列明 calcium carbimide 50 mg/tablet（`HC-DPD`）；FDA SRS 的 `CALCIUM CYANAMIDE CITRATED` 物质记录将 TEMPOSIL、ABSTEM、COLME、CYAMID、DIPSAN 列为同义名（`FDA-SRS`）。两项官方数据库记录共同支持 Temposil 与卡巴米得类物质的历史关联，但没有提供足以协调盐型、配方与试验产品的原始说明书；因此本档案只将其作为历史产品关联，不推断当前上市或制剂可互换。**Alcover 明确为 sodium oxybate**（`EMA-ALCOVER`），不得列作本药商品名；`Carbidix` 未取得可靠监管或物质登记来源，不保留为已确认商品名。**氰胺（cyanamide）与卡巴米得钙按不同注册实体分列**：母体氰胺的阳性随机试验（`PMID:12554608`）与血液学个案（`PMID:15991038`）只在"母体证据"标注下引用，不计入本实体的疗效结论或评分。
 - 双硫仑条目与本条目互不继承证据与评分（分界见 §1）。
 
 ## 11. 深入分析与来源
@@ -86,6 +82,9 @@
 - 历史上市观察：[JAMA 1957](https://pubmed.ncbi.nlm.nih.gov/13480874/)；[Am J Psychiatry 1959](https://pubmed.ncbi.nlm.nih.gov/13627270/)
 - `PMID:42753357`：SOGC Clinical Practice Guideline No. 471: Alcohol and Pregnancy：https://pubmed.ncbi.nlm.nih.gov/42753357/
 - `PCID`：https://pubchem.ncbi.nlm.nih.gov/compound/56955933
+- `HC-DPD`：Health Canada TEMPOSIL TAB 50MG，DIN 00014958，历史产品记录：https://health-products.canada.ca/dpd-bdpp/search-fast-recherche-rapide?lang=eng&no=0107656001
+- `FDA-SRS`：CALCIUM CYANAMIDE CITRATED，UNII 21ZCD2AA4H：https://precision.fda.gov/uniisearch/srs/unii/21ZCD2AA4H
+- `EMA-ALCOVER`：EMA sodium oxybate／Alcover 官方说明：https://www.ema.europa.eu/en/medicines/human/referrals/sodium-oxybate-containing-syrup-oral-solution-alcohol-dependence
 - 同组交叉：[disulfiram](disulfiram.md)（同机制族的独立实体档案）、[acamprosate](acamprosate.md)、[naltrexone](naltrexone.md)、[nalmefene](nalmefene.md)、[ondelopran](ondelopran.md)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
