@@ -19,6 +19,8 @@ ATC 在线索引可免费检索；完整电子数据的获取与再利用须遵�
 - **[DailyMed](https://dailymed.nlm.nih.gov/dailymed/)**：查询美国药品企业提交且处于使用中的药品标签。其现行标签版本可能与 Drugs@FDA 最近批准的版本不同。
 - **[European Medicines Agency (EMA)](https://www.ema.europa.eu/en/medicines)**：查询 EMA 评估药品的监管资料、产品信息和公开评估报告。其数据库不覆盖全部由欧盟成员国单独批准的药物。
 - **[国家药品监督管理局（NMPA）](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)**：通过国产药品、进口药品等官方入口核实中国的注册信息与批准情况。
+- **[Health Canada Drug Product Database（DPD）](https://health-products.canada.ca/dpd-bdpp/index-eng.jsp)**：核对加拿大药品产品记录、DIN、活性成分、剂型及上市状态；历史记录不等于当前可获得。
+- **[FDA Substance Registration System（SRS）／UNII](https://precision.fda.gov/uniisearch/)**：核对物质身份、UNII 与官方同义名映射；物质登记本身不代表监管批准或上市。
 
 ### 中国麻醉药品和精神药品管制
 
