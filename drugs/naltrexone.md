@@ -99,6 +99,6 @@
 - `ATC-BB`：https://atcddd.fhi.no/atc_ddd_index/?code=N07BB&display=subgroup
 - `PMID:23075288` Meta-analysis of naltrexone and acamprosate…，Addiction 2013：https://pubmed.ncbi.nlm.nih.gov/23075288/
 - 同组交叉：[acamprosate](acamprosate.md)（头对头汇总比较与合用）、[disulfiram](disulfiram.md)（肝毒性叠加禁忌）、[nalmefene](nalmefene.md)（同为阿片拮抗剂但场景不同：欧盟减量 vs 美国过量逆转）。
-- 中国目录逐名检索记录见 §1；奥啡类整类边界情形的结构定义见 [SOURCES.md](../SOURCES.md)。
+- 中国目录逐名检索记录及奥啡类整类结构定义的字面比对见 §1 与 [SOURCES.md](../SOURCES.md#整类列管的结构定义结构核查基准)。按公告所列溴啡与螺溴啡两种母体及其替代条件，本药不落入该整类；该判断限于公告文本的结构比对。
 
 统计与缺口见 [目录索引](../catalog/index.md)。
