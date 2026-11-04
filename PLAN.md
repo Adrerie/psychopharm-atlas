@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 13 N07B 物质使用障碍药物建档已完成并推送，等待人工审阅**（15 份新档案：10 `reviewed`／4 `basic`／1 `indexed`）。工作分支 `plan/substance-use-treatment-wave13`，基于 Wave 12 经审阅修补并通过 [PR #15](https://github.com/Adrerie/psychopharm-atlas/pull/15) 合并后的 `main`（基线 `805db350da9215957bcdbd60a27581c2511022c8`）。本轮不合并 `main`；Wave 1–12 均为历史记录，不重复派发。
+> 当前任务：**Wave 13 N07B 物质使用障碍药物建档及审阅修补已完成，待合并**（15 份新档案：10 `reviewed`／4 `basic`／1 `indexed`，审阅修补不改变状态计数）。工作分支 `plan/substance-use-treatment-wave13`，基于 Wave 12 经审阅修补并通过 [PR #15](https://github.com/Adrerie/psychopharm-atlas/pull/15) 合并后的 `main`（基线 `805db350da9215957bcdbd60a27581c2511022c8`）。本轮修补完成后合并；Wave 1–12 均为历史记录，不重复派发。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -650,6 +650,13 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 
 **主代理整合修正**：① 奥啡类结构判据按公告母体重写（尼古丁、伐尼克兰、cytisinicline、双硫仑、阿坎酸、纳曲酮、纳美芬、丁丙诺啡共 8 份），并把纳曲酮与纳美芬由误设的“边界·待核实”改为“按定义不落入”；② nalmefene 表内两条 `不评分` 占位移出 A–D 表，其历史产品 Revex 的批准与撤出改引联邦公报一手认定通知（82 FR 51282，FR Doc 2017-23952：NDA 20-459 初始批准 1995-04-17，Baxter 2009-06-05 函告生产与分销于 2008-05-21 停止且理由为商业，FDA 认定非因安全或疗效撤出销售）；③ **calcium carbimide 原写“本实体无可归属随机试验”不成立**，按通用名与历史商品名检索补入其自身证据（1989 年 128 例随机双盲安慰剂对照交叉试验未把药与安慰剂分开、78% 患者自认全程服活性药；同试验医学检查端；1992 年复饮预防情境随机试验仅呈未达显著趋势；2006 年九年在队列为适应证混杂的非随机比较），并据此定三个负担维度与一个 C 级场景；④ **ondelopran 原记“PubChem 无 CID、四整类无法判定”有误**，按 CID 10457387（同义名段含 Odelepran [USAN]、LY2196044、CAS 676501-25-0、UNII 4VZT670SD9）补齐结构判据，并补入其 II 期随机双盲试验（375 例，主要终点大量饮酒日变化 −43.02% 对 −38.72%、P=0.12 未分离，两个次要终点与预设基因亚组提示信号）与生理药剂吸收建模研究，新增一行 C− 场景；⑤ cytisinicline 的监管时间线改挂申请人公告原始页面并明示“FDA 不公布 CRL 原文”，2006 年系统评述改用可校验的 PMID 链接；⑥ 尼古丁的“OTC 专论”表述按各条目申请号实况改写；⑦ lofexidine 场景格内的合用时点细节移回 §8；⑧ levomethadyl 的立体异构体链条补入 PubChem 同义名与两组 CAS 对照；⑨ diamorphine 把“重度疼痛”与“急性肺水肿呼吸困难”两个证据结构不同的收载用途拆成两行；⑩ naltrexone 场景格内的试验例数移出。
 
-**仍开放的来源缺口**：15 份的中国上市与核准适应证全部待核实；本轮未取得任何欧盟成员国、瑞士、德国、荷兰、俄罗斯、日本、加拿大的现行说明书正文（纳美芬与丁丙诺啡、美沙酮、阿坎酸、双硫仑以英国 emc 现行 SmPC 为跨法域锚点，EMA 的 Orlaam 页与 Selincro EPAR 可访问但未按成员国逐份核对）；cytisinicline 的保加利亚／波兰等现行注册条目未从各国药监库核到；ondelopran 的 III 期结果未张贴、后续申报法域未知；calcium carbimide 的加拿大与欧洲现行注册未核；levomethadone 与 diamorphine 的瑞士、德国、荷兰处方文本以 BAG／BfArM 法规页为主而未取产品正文；levacetylmethadol 与 levomethadone、ondelopran 无现行说明书正文，状态据此保持。历史批准细节（如 1993 年 ORLAAM 与 1995 年 REVEX 的立项文件）以联邦公报原文为据，未回 Orange Book 历史卷逐字段复核。
+**仍开放的来源缺口**：15 份的中国上市与核准适应证全部待核实；本轮未取得任何欧盟成员国、瑞士、德国、荷兰、俄罗斯、日本、加拿大的现行说明书正文（纳美芬与丁丙诺啡、美沙酮、阿坎酸、双硫仑以英国 emc 现行 SmPC 为跨法域锚点，EMA 的 Orlaam 页与 Selincro EPAR 可访问但未按成员国逐份核对）；cytisinicline 的保加利亚／波兰等现行注册条目未从各国药监库核到；ondelopran 的 III 期结果未张贴、后续申报法域未知；calcium carbimide 的加拿大历史 Temposil 产品记录已由 Health Canada DPD 确认，但当前上市与欧洲现行注册仍未核；levomethadone 与 diamorphine 的瑞士、德国、荷兰处方文本以 BAG／BfArM 法规页为主而未取产品正文；levacetylmethadol 与 levomethadone、ondelopran 无现行说明书正文，状态据此保持。历史批准细节（如 1993 年 ORLAAM 与 1995 年 REVEX 的立项文件）以联邦公报原文为据，未回 Orange Book 历史卷逐字段复核。
 
 **未做事项**：未重审既有 290 份档案；未建立 `N07BC51` 复方档案；未纳入 naloxone 或其他清单外药物；未重做中国全库管制审计（仅新增本批 15 份的逐名核对与转载附件入口）；未强制把 15 份标为 `reviewed`；未新增数据库、爬虫、CI、自动评分器或多阶段审批；未新增专题；未合并 `main`，等待人工审阅。
+## Wave 13 审阅修补记录（2026-11-04）
+
+1. **卡巴米得钙实体与商品名**：删除错误的 Alcover 归属（EMA 明确 Alcover 175 mg/ml 为 sodium oxybate），删除未获可靠来源支持的 Carbidix 商品名；补入 Health Canada DPD 的 TEMPOSIL TAB 50MG 历史记录（DIN 00014958，原始上市日 1959-12-31，1999-04-12 Cancelled Post Market）与 FDA SRS 的 citrated calcium cyanamide／Temposil 同义名映射。原始产品说明书未取得，故不推断精确盐型、剂型互换或当前可获得性，档案保持 `basic`。卡巴米得钙的 A–D 表移除历史用途占位行，历史试验留在正文。
+2. **场景评分收口**：cytisinicline 的美国固定剂量三期方案与 ondelopran 的研究阶段用途移出 A–D 表；disulfiram 的无支持减量场景移除；acamprosate 的减少饮酒场景依据直接阴性 RCT 调整为 D，复发后继续用药合并至戒酒维持行；lofexidine 的纳曲酮相互作用移回 §8；diamorphine 的误用与过量风险移回 §7。上述修改不删除研究结果或风险资料。
+3. **尼古丁与交叉引用**：删除“合并吸烟必然产生高于单独吸烟的尼古丁峰浓度”这一缺乏直接 PK 支撑的断言，保留标签对持续吸烟与尼古丁过量症状的谨慎提示；修复 naltrexone 与 nalmefene 关于奥啡类结构归属的两处过时交叉引用。
+4. **目录与规则**：`catalog/related.md` 核查日期更新至 2026-11-04，并明确剩余 20 条为具体药物候选、`N07BC51` 为分类记录；`catalog/index.md` 状态统计日期更新至 2026-11-04。`SOURCES.md` 补入 Health Canada DPD 与 FDA SRS。`AGENTS.md` 不作重复修改，其现有规则已明确 A–D 仅评价有当前临床决策价值的临床场景，研究阶段、相互作用与误用风险不单独占用评分行。
+5. **验收**：本次只修补 Wave 13 的 10 份药物档案与共享来源、目录和计划文件；未新建药物档案或专题。全库仍为 305 份，状态仍为 170 `reviewed`／5 `indexed`／130 `basic`；跨组主题仍为 25 份。后续按更新后的文件内容复核内部链接、表格结构、场景评分与统计后合并 `main`。
