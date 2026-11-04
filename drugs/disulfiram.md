@@ -40,7 +40,7 @@
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
 | 酒精依赖的戒酒维持（辅助治疗，与心理社会支持并用、依约 supervised 服药） | 美国标签适应证（aid in the management of selected chronic alcohol patients who want to remain in a state of enforced sobriety）；英国 SmPC §4.1（selected and co-operative patients，限期复审） | B | 在配合度经监督保障、同时接受心理治疗的条件下现实世界结果最好，近年评论据此主张回归一线（`PMID:39150091`）；但自行服药条件下缺乏优势、且要求患者完全知情同意并具备无严重心脑疾病等门槛 |
-| 戒酒维持的"威慑"定位与其他阶段（减少饮酒／减量治疗）并用 | 标签未收载减量治疗用途 | C | 本药只在已戒酒、能够并愿意避免任何酒精暴露的患者中可用；以"边喝边治／减少饮酒"为目标的患者属于另一场景（见 [nalmefene](nalmefene.md)、[acamprosate](acamprosate.md)），双硫仑在该目标下既无批准措辞也无支持性证据，反而把可预期饮酒变成急性危险 |
+
 
 ## 3. 主要作用
 
