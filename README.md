@@ -9,7 +9,7 @@ Psychopharm Atlas 是一个以精神药理学为核心的开放阅读型知识�
 ## 项目文档
 
 - [catalog/index.md](catalog/index.md)：分类目录索引与覆盖进度。
-- [PLAN.md](PLAN.md)：Wave 14 N06D 抗痴呆药物计划与 Wave 1–13 完成记录。
+- [PLAN.md](PLAN.md)：Wave 14 的 30 条 N06D 与 Alzheimer’s disease 候选药物计划及 Wave 1–13 完成记录。
 - [WAVE2-CLOSEOUT.md](WAVE2-CLOSEOUT.md)：已完成的 Wave 2 修补记录。
 - [SCORING.md](SCORING.md)：药物负担和按使用场景适宜度的统一评分规则。
 - [SOURCES.md](SOURCES.md)：官方数据库、监管资料及文献来源。
