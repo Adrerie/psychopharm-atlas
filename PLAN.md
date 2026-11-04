@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 14 N06D 抗痴呆药物建档计划**（15 条 ATC 候选，实际独立档案数量以产品身份核实为准）。工作分支 `plan/dementia-drugs-wave14`，基于 Wave 13 经审阅修补并通过 [PR #16](https://github.com/Adrerie/psychopharm-atlas/pull/16) 合并后的 `main`（基线 `87f1c9133c30b57db13333dfef289b7c18e2a91c`）。Wave 13 已合并；Wave 1–13 均为历史记录，不重复派发。
+> 当前任务：**Wave 14：30 条 N06D 与 Alzheimer’s disease 候选药物建档计划**（15 条 WHO ATC N06D 候选＋15 条补充候选，实际独立档案数量以实体核实为准）。工作分支 `plan/dementia-drugs-wave14`，基于 Wave 13 经审阅修补并通过 [PR #16](https://github.com/Adrerie/psychopharm-atlas/pull/16) 合并后的 `main`（基线 `87f1c9133c30b57db13333dfef289b7c18e2a91c`）。Wave 13 已合并；Wave 1–13 均为历史记录，不重复派发。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -660,30 +660,85 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 3. **尼古丁与交叉引用**：删除“合并吸烟必然产生高于单独吸烟的尼古丁峰浓度”这一缺乏直接 PK 支撑的断言，保留标签对持续吸烟与尼古丁过量症状的谨慎提示；修复 naltrexone 与 nalmefene 关于奥啡类结构归属的两处过时交叉引用。
 4. **目录与规则**：`catalog/related.md` 核查日期更新至 2026-11-04，并明确剩余 20 条为具体药物候选、`N07BC51` 为分类记录；`catalog/index.md` 状态统计日期更新至 2026-11-04。`SOURCES.md` 补入 Health Canada DPD 与 FDA SRS。`AGENTS.md` 不作重复修改，其现有规则已明确 A–D 仅评价有当前临床决策价值的临床场景，研究阶段、相互作用与误用风险不单独占用评分行。
 5. **验收**：本次只修补 Wave 13 的 10 份药物档案与共享来源、目录和计划文件；未新建药物档案或专题。全库仍为 305 份，状态仍为 170 `reviewed`／5 `indexed`／130 `basic`；跨组主题仍为 25 份。后续按更新后的文件内容复核内部链接、表格结构、场景评分与统计后合并 `main`。
-## Wave 14 计划：N06D 抗痴呆药物（2026-11-04）
+## Wave 14 计划：N06D 与 Alzheimer’s disease 候选药物（2026-11-04）
 
 **分支**：`plan/dementia-drugs-wave14`，从 Wave 13 审阅修补合并后的 `main`（`87f1c9133c30b57db13333dfef289b7c18e2a91c`）创建。
 
-**目标与基线**：当前 `drugs/` 共 305 份（核心六组 280、跨组主题 25），状态为 170 `reviewed`／5 `indexed`／130 `basic`；`catalog/related.md` 共 46 条选录，25 条已建档、20 条具体药物候选待建档、1 条 `N07BC51` 仅为未指明成分的分类记录。本轮处理其中全部 15 条 `N06D` 抗痴呆药物候选，不扩展到其余 5 条。若 15 条均核实为独立药物或固定复方实体并建立档案，总档案数将由 305 增至 320，跨组主题由 25 增至 40；**这只是上限，不得为了达到数字而把分类项或无法确认的组合当成药物产品建档**。
+**目标与基线**：本轮扩展为 **30 条候选**，由 15 条 WHO ATC N06D 候选与 15 条非 N06D 的 Alzheimer’s disease／相关神经精神症状候选组成。当前 `drugs/` 共 305 份（核心六组 280、跨组主题 25），状态为 170 `reviewed`／5 `indexed`／130 `basic`。若 30 条全部核实为互不重复的独立药物实体或具体固定复方并建立档案，总数上限为 335，跨组主题上限为 55；**这只是理论上限，不得为了达到数字而把 ATC 分类、未确认的组合、同义名或没有独立实体的研发代号强行建档**。
 
-### 本轮清单
+本轮前 15 条来自 WHO ATC/DDD Index 2026 的 N06D；后 15 条是补充的 AD 药物研发与区域性用药候选，不属于 N06D 官方清单，也不应伪造 ATC 编码。当前 `catalog/related.md` 的 46 条 WHO 选录不因这 15 条补充候选而改变；只有完成实体核实并实际建档后，才按项目目录规则记录其跨组归属。
 
-- **A 组：胆碱酯酶抑制剂（6）**：`tacrine`（N06DA01）、`donepezil`（N06DA02）、`rivastigmine`（N06DA03）、`galantamine`（N06DA04）、`ipidacrine`（N06DA05）、`benzgalantamine`（N06DA06）。
-- **B 组：其他症状治疗、植物药与 ATC 复方候选（4）**：`donepezil and memantine`（N06DA52）、`donepezil, memantine and Ginkgo folium`（N06DA53）、`memantine`（N06DX01）、`Ginkgo folium`（N06DX02）。
-- **C 组：抗淀粉样蛋白单克隆抗体（3）**：`aducanumab`（N06DX03）、`lecanemab`（N06DX04）、`donanemab`（N06DX05）。
-- **D 组：研发阶段候选（2）**：`blarcamesine`（N06DX06）、`hydromethylthionine`（N06DX07）。
+### 本轮 30 条候选
+
+**A 组：胆碱酯酶抑制剂（6）**
+
+- `tacrine`（N06DA01）
+- `donepezil`（N06DA02）
+- `rivastigmine`（N06DA03）
+- `galantamine`（N06DA04）
+- `ipidacrine`（N06DA05）
+- `benzgalantamine`（N06DA06）
+
+**B 组：其他 N06D 症状治疗、植物药、复方与研发候选（6）**
+
+- `donepezil and memantine`（N06DA52）
+- `donepezil, memantine and Ginkgo folium`（N06DA53）
+- `memantine`（N06DX01）
+- `Ginkgo folium`（N06DX02）
+- `blarcamesine`（N06DX06）
+- `hydromethylthionine`（N06DX07）
+
+**C 组：抗淀粉样蛋白与相关疾病修饰候选（6）**
+
+- `aducanumab`（N06DX03）
+- `lecanemab`（N06DX04）
+- `donanemab`（N06DX05）
+- `remternetug`
+- `valiltramiprosate`（ALZ-801）
+- `gantenerumab`
+
+**D 组：区域性用药与非淀粉样蛋白疾病修饰候选（6）**
+
+- `huperzine A`
+- `sodium oligomannate`（GV-971）
+- `AR1001`
+- `buntanetap`
+- `masitinib`
+- `zervimesine`（CT1812）
+
+**E 组：认知／神经精神症状及其他研发候选（6）**
+
+- `ACP-204`
+- `ITI-1284`（deulumateperone）
+- `zatolmilast`
+- `MK-1167`
+- `JNJ-2056`（ACI-35.030）
+- `simufilam`
+
+候选清单是本轮预审范围，不预设所有项目在 2026-11-04 仍处于活跃研发阶段。研发阶段、试验状态、监管状态与商业供应必须逐项以当前可核实来源确认。
 
 ### 一次执行要求
 
-1. 一次完成本轮全部 15 条候选的核查，不拆成需要人工逐阶段确认的子计划。允许四个互不嵌套子代理并行，分别负责 A、B、C、D 组；主代理负责实体边界、来源交叉检查、评分一致性、共享目录与状态统计。子代理只编辑分配给自己的药物档案，不编辑 `AGENTS.md`、`PLAN.md`、`README.md`、`catalog/index.md` 或 `catalog/related.md`。
-2. 每项先核实 WHO ATC/DDD Index 2026 的名称、编码和分类注，再核对药物实体、盐型、剂型、产品、法域和当前上市状态。**ATC 收录不等于批准、上市或临床有效**；历史批准、现行批准、商业供应与研发阶段分别记录。监管数据库零命中或网页不可访问只记录为检索缺口，不推断未批准或已撤市。
+1. 一次完成全部 30 条候选的核查，不拆成需要人工逐阶段确认的子计划。允许五个互不嵌套的子代理并行，分别负责 A、B、C、D、E 组；主代理负责实体边界、交叉核查、共享目录、评分一致性和最终验收。子代理只编辑分配给自己的药物档案，不编辑 `AGENTS.md`、`PLAN.md`、`README.md`、`catalog/index.md` 或 `catalog/related.md`。
+2. N06D 项先核实 WHO ATC/DDD Index 2026 的名称、编码和分类注，再核对具体药物实体、盐型、剂型、产品、法域与当前上市状态。**ATC 收录不等于批准、上市或临床有效**；历史批准、现行批准、商业供应与研发阶段分别记录。监管数据库零命中或网页不可访问只记录为检索缺口，不推断未批准或已撤市。
 3. **胆碱酯酶抑制剂**：分别核实 tacrine 的历史批准与撤市／供应状态及肝毒性；donepezil、rivastigmine、galantamine 的具体法域、剂型和适应证；ipidacrine、benzgalantamine 的实体身份、研发或上市状态与可核实产品。不得把整个药理类别的证据或标签互相外推。
-4. **Memantine、Ginkgo 与复方**：memantine 单方与固定复方分开建档和评分。`N06DA52`、`N06DA53` 必须核实是否存在可识别的具体产品、确切成分、配比、剂型及监管文本；若只能确认 ATC 分类而不能确认具体产品，不创建虚构的固定复方档案，保留分类记录并说明缺口。`Ginkgo folium` 是多组分植物药，不是单一化学实体；必须明确所评估的标准化提取物或具体产品，区分药品、传统植物药、补充剂、叶粉与不同提取物，不跨产品继承疗效或批准结论。
-5. **抗淀粉样蛋白抗体**：逐产品核实 aducanumab、lecanemab、donanemab 的现行批准、商业供应和法域差异。重点记录疾病阶段与患者筛选条件、淀粉样蛋白生物标志物确认、给药途径与方案、ARIA-E／ARIA-H 风险、MRI 监测安排及 APOE ε4 相关风险。区分临床量表变化、疾病进程终点与生物标志物变化，不把机制或影像学变化直接写成已证实的临床获益。aducanumab 的批准状态与商业化停止／供应变化必须分别记录。
-6. **研发阶段候选**：对 blarcamesine 与 hydromethylthionine 核实研发代号、试验登记、主要终点、结果发布日期、监管申报与终止／继续开发状态。已完成试验不等于阳性或已批准；没有当前临床使用场景时不设置 A–D 评分行，保留研究证据与证据边界。
-7. 中国管制字段按现行官方目录逐项核对名称、别名和可适用的整类定义；其他法域按本药实际监管文本核对。不要重做全库管制审计，也不要由抗体类别、ATC 归属或药理机制推断管制状态。
-8. 严格沿用现有评分规则。A–D 只评价有本药特异证据且具有当前临床决策价值的临床场景；研究方案、单纯机制、ATC 分类、未批准状态、相互作用、特殊人群和风险来源不单独占用场景评分。药物负担各维度按本药证据评分，缺证据写 `N/A`，不得以类别印象填分。不得为完成批次强制升级 `reviewed`。
-9. 不设专题配额。只有发现重要证据冲突或一个无法在主条目内简洁解释、且确有独立决策价值的问题，才新增问题导向专题。主条目保持快速判断导向，完整试验设计与次要数值留在原始来源或必要的正文段落。
-10. 完成后更新实际建立的药物档案、`catalog/related.md`、`catalog/index.md`、`README.md`、`PLAN.md`，并按需要对 `AGENTS.md` 做最小修订。核对总档案数、核心／跨组数量与 `reviewed/indexed/basic` 计数；检查产品身份、来源、内部链接、表格和状态字段。提交并推送本分支，交由审阅，不自行合并 `main`。
+4. **Memantine、Ginkgo 与 ATC 复方**：memantine 单方与固定复方分开建档和评分。N06DA52、N06DA53 必须核实是否存在可识别的具体产品、确切成分、配比、剂型及监管文本；若只能确认 ATC 分类而不能确认具体产品，不创建虚构的固定复方档案，保留分类记录并说明缺口。Ginkgo folium 是多组分植物药，必须明确所评估的标准化提取物或具体产品，区分药品、传统植物药、补充剂、叶粉与不同提取物，不跨产品继承疗效或批准结论。
+5. **抗淀粉样蛋白候选**：逐产品核实 aducanumab、lecanemab、donanemab、remternetug、gantenerumab 的研发／批准／商业供应状态与法域差异；区分抗体与 valiltramiprosate 这类小分子／前药候选。重点记录疾病阶段、患者筛选、生物标志物确认、ARIA-E／ARIA-H、MRI 监测及 APOE ε4 相关风险。区分临床量表变化、疾病进程终点与生物标志物变化，不把机制或影像学变化直接写成已证实的临床获益。失败或停止开发的项目保留历史证据，不设置当前临床使用场景评分。
+6. **区域性药物与非淀粉样蛋白候选**：huperzine A 与 sodium oligomannate 必须核对中国具体注册产品、现行说明书、批准范围和商业供应；不得由中国市场记录推断其他法域批准。AR1001、buntanetap、masitinib、zervimesine 必须核实研发代号、试验登记、主要终点、结果发布日期、当前试验状态及申办方后续决策；综述或商业 pipeline 数据只作候选发现入口，不替代试验登记与原始结果。
+7. **神经精神症状候选**：ACP-204 与 ITI-1284 需明确其研究目标是 AD 相关 psychosis／其他 neuropsychiatric symptoms，而不是认知增强或疾病修饰。Zatolmilast、MK-1167、JNJ-2056 分别核实机制、试验人群、主要终点和当前研发状态；不因其进入 AD 试验就推断已具有临床疗效。
+8. **Simufilam 与历史失败项目**：核对 RETHINK-ALZ、REFOCUS-ALZ 的共同主要终点、次要终点、结果发布日期、试验提前终止及申办方项目后续决定；区分 ClinicalTrials.gov 的记录状态、试验实际完成情况与研发项目是否继续。阴性或未达主要终点的结果应明确记录，不用事后亚组或探索性结果覆盖主要结论。
+9. 中国管制字段按现行官方目录逐项核对名称、别名和可适用的整类定义；其他法域按本药实际监管文本核对。不要重做全库管制审计，也不要由抗体类别、ATC 归属或药理机制推断管制状态。
+10. 严格沿用现有评分规则。A–D 只评价有本药特异证据且具有当前临床决策价值的临床场景；研究方案、单纯机制、ATC 分类、未批准状态、相互作用、特殊人群和风险来源不单独占用场景评分。药物负担各维度按本药证据评分，缺证据写 `N/A`，不得以类别印象填分。没有当前临床使用场景的研发或失败项目不设置 A–D 行；不得为完成批次强制升级 `reviewed`。
+11. 项目中已存在的 `caffeine`、`escitalopram`、`xanomeline-and-trospium` 等档案不重复建档；如其 AD 试验对本轮有意义，只作交叉引用。研发代号与通用名、前药与活性成分、固定复方与单方必须先做重复检查。
+12. 不设专题配额。只有发现重要证据冲突或一个无法在主条目内简洁解释、且确有独立决策价值的问题，才新增问题导向专题。主条目保持快速判断导向，完整试验设计与次要数值留在原始来源或必要的正文段落。
+13. 完成后更新实际建立的药物档案、`catalog/related.md`、`catalog/index.md`、`README.md`、`PLAN.md`，并按需要对 `AGENTS.md` 做最小修订。核对总档案数、核心／跨组数量与 `reviewed/indexed/basic` 计数；检查产品身份、来源、内部链接、表格和状态字段。提交并推送本分支，交由审阅，不自行合并 `main`。
 
-**不做**：不重审既有 305 份档案；不处理剩余 G04BD 与 V03AB 候选；不把 `N07BC51` 分类记录变成药物档案；不强制创建全部 15 个候选文件；不强制升级状态；不新增数据库、爬虫、CI、自动评分器或多阶段审批；不新增专题配额；不合并 `main`。
+**候选发现与核查入口**
+
+- Cummings JL et al. *Alzheimer's disease drug development pipeline: 2026*. Alzheimer's & Dementia: Translational Research & Clinical Interventions. DOI: [10.1002/trc2.70251](https://doi.org/10.1002/trc2.70251)。该综述以 2026-01-01 为 pipeline 截点，作为候选发现与研究阶段交叉核对入口，不代替当前试验登记或监管文本。
+- [ClinicalTrials.gov](https://clinicaltrials.gov/)：核对试验注册、状态、终点、结果与更新时间。
+- [FDA Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/)、[DailyMed](https://dailymed.nlm.nih.gov/dailymed/)：核对美国批准与现行标签。
+- [国家药品监督管理局 NMPA](https://www.nmpa.gov.cn/)：核对中国区域性产品注册与批准信息。
+- [Alzheimer's disease pipeline tracker（November 2026）](https://cnspulse.com/indication/alzheimers-disease/)：仅作补充候选发现入口，所有阶段和状态必须回到临床试验登记、申办方公告或监管文件核实。
+
+**不做**：不重审既有 305 份档案；不处理剩余 G04BD 与 V03AB 候选；不把 `N07BC51` 分类记录变成药物档案；不强制创建全部 30 个候选文件；不强制升级状态；不新增数据库、爬虫、CI、自动评分器或多阶段审批；不新增专题配额；不合并 `main`。
