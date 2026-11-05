@@ -1,4 +1,4 @@
-# zervimesine｜zervimesine（研发代号 CT-1812，Cognition Therapeutics；Sigma-2 受体方向的口服在研小分子，未获批）
+# zervimesine｜zervimesine（研发代号 CT-1812，Cognition Therapeutics；Sigma-2 受体方向的口服在研小分子，本轮未检得可核验批准记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-05（WHO ATC/DDD 2026 的 N06D 各亚组页逐页回读；DailyMed 现行 SPL 检索；PubChem 物质记录；ClinicalTrials.gov v2 逐项回读，其中 II 期结果张贴的条目类型与主要终点性质取自登记原文；Cummings 2026 pipeline 全文逐字检索后的表行核对；中国四份现行管制目录逐名检索）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体；页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
@@ -9,7 +9,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 类型／药理类别 | 单方口服在研小分子，**未获批**。pipeline 表行的机制口径（逐字核对）：DTT（疾病修饰方向）小分子；"Sigma-2 receptor antagonist; competes with oligomeric Aβ binding; protects against Aβ-induced synaptic toxicity"——即以 Sigma-2 受体位点竞争性结合、干扰 Aβ 寡聚体结合为设计思路（`PIPELINE-2026` 表行；登记内同为申办方口径）。**机制声明不等于已证实疾病修饰获益** |
+| 类型／药理类别 | 单方口服在研小分子，**本轮未检得可核验批准记录**。pipeline 表行的机制口径（逐字核对）：DTT（疾病修饰方向）小分子；"Sigma-2 receptor antagonist; competes with oligomeric Aβ binding; protects against Aβ-induced synaptic toxicity"——即以 Sigma-2 受体位点竞争性结合、干扰 Aβ 寡聚体结合为设计思路（`PIPELINE-2026` 表行；登记内同为申办方口径）。**机制声明不等于已证实疾病修饰获益** |
 | 现行 ATC 与 DDD | 无 ATC 编码、无 DDD（见文首） |
 | 主要剂型（登记口径） | 口服（登记干预描述口径）；规格未由一手文本取得 |
 | 实体边界 | CT-1812＝zervimesine 同一实体（`PC-118278088` 与登记干预名互证）。**不是胆碱酯酶抑制剂**，与 [donepezil](donepezil.md) 等无机制继承；与 Sigma-2／sigma 受体配体的精神科历史药物（如既往氟哌啶醇高亲和位点研究）亦无证据继承；同组小分子候选（[buntanetap](buntanetap.md)、[ar1001](ar1001.md)、[masitinib](masitinib.md)、[simufilam](simufilam.md)）申办方与机制各异，互不通用 |
@@ -31,11 +31,11 @@
 | 相互作用／监测负担 | N/A | 无标签条款与张贴的相互作用研究可引 |
 | 停药负担 | N/A | 无患者层面停药证据 |
 | 滥用／误用潜力 | N/A | 无本药特异人体强化效应或阴性滥用研究；未列管不足以判 1 分 |
-| 非适应证／潜在不适当处方风险（中国） | N/A | 从未上市，无当地处方或利用证据可言 |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本轮未检得可核验上市记录，无当地处方或利用证据可言 |
 
 ### 2.2 按使用场景适宜度（A–D）
 
-本轮不设场景评分行。理由：无任何法域批准；唯一的疗效层信息（II 期认知与功能终点）不在登记张贴的主要条目内，其数值须回到具体发表或申办方材料并核对性质后才能陈述（本轮未完成，§10）；现行 II 期处于 ACTIVE_NOT_RECRUITING。按规则，待核实不是 A–D 等级，缺证据不设行。轻中度与早期 AD 的已上市治疗框架见 [donepezil](donepezil.md)、[rivastigmine](rivastigmine.md)、[galantamine](galantamine.md)、[memantine](memantine.md)；疾病修饰方向的已获批对照见 [lecanemab](lecanemab.md)、[donanemab](donanemab.md)——五者的证据与评分均不得移用于本药。
+本轮不设场景评分行。理由：本轮未检得任何法域的可核验批准文件；唯一的疗效层信息（II 期认知与功能终点）不在登记张贴的主要条目内，其数值须回到具体发表或申办方材料并核对性质后才能陈述（本轮未完成，§10）；现行 II 期处于 ACTIVE_NOT_RECRUITING。按规则，待核实不是 A–D 等级，缺证据不设行。轻中度与早期 AD 的已上市治疗框架见 [donepezil](donepezil.md)、[rivastigmine](rivastigmine.md)、[galantamine](galantamine.md)、[memantine](memantine.md)；疾病修饰方向的已获批对照见 [lecanemab](lecanemab.md)、[donanemab](donanemab.md)——五者的证据与评分均不得移用于本药。
 
 ## 3. 主要作用
 
