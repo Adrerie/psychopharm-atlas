@@ -1,8 +1,58 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 14：30 条 N06D 与 Alzheimer’s disease 候选药物建档计划**（15 条 WHO ATC N06D 候选＋15 条补充候选，实际独立档案数量以实体核实为准）。工作分支 `plan/dementia-drugs-wave14`，基于 Wave 13 经审阅修补并通过 [PR #16](https://github.com/Adrerie/psychopharm-atlas/pull/16) 合并后的 `main`（基线 `87f1c9133c30b57db13333dfef289b7c18e2a91c`）。Wave 13 已合并；Wave 1–13 均为历史记录，不重复派发。
+> 当前任务：**Wave 15：50 条跨组神经精神与神经药物建档计划**。工作分支 `plan/neuropsych-crossgroup-wave15`，基于 Wave 14 审阅修补合并后的 `main`（基线 `91702d126c2981d55e7e8de08946b9af3e41e553`）。Wave 14 及 Wave 1–13 均已完成并合并，不重复派发。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
+
+## Wave 15：50 条跨组神经精神与神经药物建档（2026-11-05）
+
+**分支**：`plan/neuropsych-crossgroup-wave15`。基于 Wave 14 审阅修补合并后的 `main`，基线 `91702d126c2981d55e7e8de08946b9af3e41e553`。
+
+**目标**：一次推进 50 个跨组候选。以主药物档案为交付主体，按证据实际情况定为 `reviewed`、`basic` 或 `indexed`，不预设升级数量。允许五个互不重叠的子代理并行完成五组；不拆成多轮人工审批，不为每个药物预建专题。
+
+### 候选清单
+
+A. 下尿路药物与抗胆碱负担（13）
+`emepronium`、`flavoxate`、`oxybutynin`、`terodiline`、`propiverine`、`tolterodine`、`solifenacin`、`trospium`、`darifenacin`、`fesoterodine`、`imidafenacin`、`mirabegron`、`vibegron`
+
+B. 前庭与眩晕治疗（7）
+`betahistine`、`cinnarizine`、`flunarizine`、`acetylleucine`、`meclizine`、`dimenhydrinate`、`cinnarizine-and-dimenhydrinate`
+
+C. 急性中毒与解毒药（10）
+`pralidoxime`、`sodium-thiosulfate`、`sodium-nitrite`、`dimercaprol`、`obidoxime`、`naloxone`、`physostigmine`、`acetylcysteine`、`flumazenil`、`fomepizole`
+
+D. 帕金森病与多巴胺能药物（10）
+`trihexyphenidyl`、`biperiden`、`levodopa`、`amantadine`、`bromocriptine`、`ropinirole`、`pramipexole`、`selegiline`、`rasagiline`、`safinamide`
+
+E. 神经退行性、运动与神经肌肉疾病药物（10）
+`riluzole`、`sodium-oxybate`、`amifampridine`、`tetrabenazine`、`fampridine`、`pitolisant`、`valbenazine`、`edaravone`、`deutetrabenazine`、`trofinetide`
+
+### 执行分工
+
+1. **Agent A**：A 组 13 条；**Agent B**：B 组 7 条；**Agent C**：C 组 10 条；**Agent D**：D 组 10 条；**Agent E**：E 组 10 条。每个子代理只处理分配给自己的 `drugs/<slug>.md`，不得编辑共享文件，不得嵌套派生子代理。
+2. 主代理负责核对身份与重复项、处理跨组目录 `catalog/related.md`、更新 `catalog/index.md`、`README.md`、`PLAN.md` 与必要的 `AGENTS.md`，并统一检查引用、链接、状态与文件数量。
+3. 如发现候选实际为别名、代谢物、未指明成分的类别码或已存在实体，不得创建重复档案。按同一主题替换为一个有明确实体身份的候选，维持 50 个独立候选；在执行记录中简要说明替换原因。
+
+### 必须遵守的核查要求
+
+- **身份与分类**：逐项确认 INN／通用名、盐型、立体异构体、代谢物、研发代号与产品边界；以 WHO ATC/DDD Index 2026 核对官方 ATC 编码与名称。没有适用 ATC 编码时如实说明，不得猜码。`meclizine` 与 `dimenhydrinate` 按各自 R06A 分类记录，不得为凑主题改列 N07CA。`cinnarizine-and-dimenhydrinate` 必须按具体固定复方及完整成分建档，不建立抽象的“cinnarizine combinations”类别档案。
+- **A 组**：区分 antimuscarinic 与 β3-adrenoceptor agonist。重点核对中枢穿透、抗胆碱负担、认知结局、老年人跌倒／谵妄风险、尿潴留及心血管风险；不得假定所有膀胱药都具有相同中枢作用。`terodiline` 等历史药物须区分正式撤市／撤销决定、持证人停销与当前供应状态。
+- **B 组**：区分 vertigo、motion sickness、Ménière’s disease 等具体场景及急性症状控制与长期治疗。对抗组胺药和抗胆碱药核对镇静、认知、跌倒与 vestibular compensation；不要把不同前庭疾病或不同药物的证据合并。
+- **C 组**：按中毒物质、毒理机制、适用时窗、给药途径与具体解毒方案分别核查。急诊解毒用途与长期或精神科超适应证研究分开记录；不得将一种中毒的解毒证据外推到另一种中毒。没有合理的长期用药场景时，不为 A–D 表制造占位行。
+- **D 组**：区分 Parkinson’s disease 的运动症状治疗、其他批准用途与超适应证精神科使用。重点核对 impulse-control disorders、幻觉／精神病性症状、冲动行为、嗜睡／睡眠发作、运动并发症与停药风险；不得从多巴胺机制推导抗抑郁或抗精神病疗效。
+- **E 组**：分别处理 ALS、narcolepsy、Lambert–Eaton myasthenic syndrome、multiple sclerosis、hyperkinetic movement disorders 与 Rett syndrome。严格区分疾病、产品、盐型与治疗目标；`amifampridine` 与 `fampridine`、`tetrabenazine` 与 `deutetrabenazine`／`valbenazine` 不得互相继承适应证或剂量。
+- **监管状态**：按“法域＋具体产品＋剂型＋文本版本”核查现行标签与历史决定。数据库零命中只写检索事实，不推断“从未获批／从未上市”；批准、撤销、持证人停销和商业供应分别记录。
+- **中国管制**：50 条逐项复核四份现行目录及 2026-07-01 生效的 16 种非药用类增列附表。名称未命中不自动排除整类列管；结构定义、盐型、异构体和例外按官方原文判断。不得仅沿用既有条目的阴性结果。
+- **临床证据与评分**：适应证按法域分列；A–D 只评有临床决策价值的真实使用场景。证据不足写 `N/A`／“待核实”，不强行评分；没有合理使用场景的历史候选或失败项目不设占位行。风险评分与疗效场景评分不得合并为总分。
+- **药物利用与专题**：仅在存在可靠且与该药相关的数据时纳入，注明地区、年份、人群与分母；不为每个条目强制搜集滥用率或处方量。只有满足 `AGENTS.md` 既有问题导向标准时才新增专题，不设专题配额。
+
+### 交付与验收
+
+- 50 个候选均完成实体核对并建立独立档案；如发生替换，执行记录列明原候选、替代项与理由。
+- 更新 `catalog/related.md`：复用已有的 emepronium、trospium、naloxone、physostigmine、flumazenil 待建档行，不重复插入；其余核实后的实体按官方 ATC 位置补入。固定复方必须对应具体产品。更新各组分布与已建档状态。
+- 更新 `catalog/index.md` 的跨组档案数量、状态统计与 Wave 15 执行记录；核心六组统计不因跨组扩展而改变。
+- 更新 `README.md` 当前计划与基线统计；在本节末尾记录实际建档数、`reviewed/basic/indexed` 数量、替换项、未解决缺口及是否新增专题。
+- 仅做必要的 Markdown、链接、重复档案与数量核对；不新增 CI、数据库、爬虫、自动评分器、空白模板或其他基础设施。完成后提交并推送本分支，等待人工审阅，不自行合并 `main`。
 
 ## Wave 3 历史药物清单（24 份）
 
