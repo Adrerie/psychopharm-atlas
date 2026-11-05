@@ -20,7 +20,7 @@
 
 ## 2. 评分
 
-规则见 [SCORING.md](../SCORING.md)。本实体处在"两项 III 期共同主要终点均未达显著＋项目未获批"的证据层，且没有可逐节引用的现行产品文本，因此负担维度按"缺可归属本药的量化证据"处理，不为完成批次强行赋分。
+规则见 [SCORING.md](../SCORING.md)。本实体处在"两项 III 期共同主要终点均未达显著＋本轮未检得可核验批准记录"的证据层，且没有可逐节引用的现行产品文本，因此负担维度按"缺可归属本药的量化证据"处理，不为完成批次强行赋分。
 
 ### 2.1 药物负担（1–5，越高越重）
 
@@ -35,7 +35,7 @@
 
 ### 2.2 按使用场景适宜度（A–D）
 
-本轮不设场景评分行。理由：两项 III 期的共同主要终点（认知量表与日常生活能力量表）在登记张贴结果中均未达统计学显著，一项 III 期提前终止、延伸研究由申办方决定终止，且本轮未检得任何法域的可核验现行批准或供应记录——不存在"有本药特异证据且具有当前临床决策价值"的临床场景。按 [AGENTS.md](../AGENTS.md) 与 [SCORING.md](../SCORING.md) 的口径，"失败项目"保留历史证据而不进入场景评分；待核实与不评分都不是 A–D 等级。治疗阶段与人群分界的框架见 [lecanemab](lecanemab.md)、[donanemab](donanemab.md)、[memantine](memantine.md) 与 [donepezil](donepezil.md)；同为未获批小分子候选而按同一规则处理的先例见 [blarcamesine](blarcamesine.md) 与 [hydromethylthionine](hydromethylthionine.md)。
+本轮不设场景评分行。理由：两项 III 期的共同主要终点（认知量表与日常生活能力量表）在登记张贴结果中均未达统计学显著，一项 III 期提前终止、延伸研究由申办方决定终止，且本轮未检得任何法域的可核验现行批准或供应记录——不存在"有本药特异证据且具有当前临床决策价值"的临床场景。按 [AGENTS.md](../AGENTS.md) 与 [SCORING.md](../SCORING.md) 的口径，"失败项目"保留历史证据而不进入场景评分；待核实与不评分都不是 A–D 等级。治疗阶段与人群分界的框架见 [lecanemab](lecanemab.md)、[donanemab](donanemab.md)、[memantine](memantine.md) 与 [donepezil](donepezil.md)；同为本轮未检得可核验批准记录的小分子候选而按同一规则处理的先例见 [blarcamesine](blarcamesine.md) 与 [hydromethylthionine](hydromethylthionine.md)。
 
 ## 3. 主要作用
 
