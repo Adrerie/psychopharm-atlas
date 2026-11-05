@@ -27,6 +27,11 @@ D. 帕金森病与多巴胺能药物（10）
 E. 神经退行性、运动与神经肌肉疾病药物（10）
 `riluzole`、`sodium-oxybate`、`amifampridine`、`tetrabenazine`、`fampridine`、`pitolisant`、`valbenazine`、`edaravone`、`deutetrabenazine`、`trofinetide`
 
+### 候选实体边界
+
+- 初筛中的 `meladrazine` 不纳入本轮候选：FDA Substance Registration System 将该名称映射至 hydramitrazine，和本轮选定的下尿路／前庭主题不匹配（[FDA UNII](https://precision.fda.gov/uniisearch/srs/unii/2V6Z0JG2X0)）。
+- 初筛中的 `desfesoterodine` 不单独建档：PubChem 将其描述为 tolterodine 的代谢物，本轮不把代谢物重复计作独立上市药物（[PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/9819382)）。
+- 以上两项由 `meclizine` 与 `dimenhydrinate` 替换。两者用于前庭症状／晕动病相关场景，但 WHO ATC 归入 R06A 抗组胺药组，不得为贴合 N07CA 而错误分类；具体产品与现行文本仍须逐项核验（[WHO ATC R06AA](https://atcddd.fhi.no/atc_ddd_index/?code=R06AA)、[DailyMed meclizine](https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=598eb392-1dfe-c08c-e063-6394a90a4c7d)）。
 ### 执行分工
 
 1. **Agent A**：A 组 13 条；**Agent B**：B 组 7 条；**Agent C**：C 组 10 条；**Agent D**：D 组 10 条；**Agent E**：E 组 10 条。每个子代理只处理分配给自己的 `drugs/<slug>.md`，不得编辑共享文件，不得嵌套派生子代理。
