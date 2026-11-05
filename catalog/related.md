@@ -25,7 +25,7 @@
 
 ## 条目
 
-> 选录总数 46 条，其中 Wave 11 已建档 4 条、Wave 12 已建档 6 条、Wave 13 已建档 15 条，合计 25 条；剩余 21 条未建档，其中 20 条仍为待建档候选，`N07BC51` 一条属未指明全部成分的 ATC 复方类别、仅作分类记录不建档。
+> 选录总数 46 条，其中 Wave 11 已建档 4 条、Wave 12 已建档 6 条、Wave 13 已建档 15 条、Wave 14 已建档 14 条，合计 39 条；剩余 7 条未建档，其中 6 条仍为待建档候选，`N07BC51` 一条属未指明全部成分的 ATC 复方类别、仅作分类记录不建档，`N06DA53` 一条经 2026-11-05 复核暂不建档（见该行状态列）。
 
 | ATC 编码 | 官方通用名 | 官方分类位置（2026 索引） | 收录依据与待核实 | 状态 |
 | --- | --- | --- | --- | --- |
@@ -41,21 +41,21 @@
 | `N03AG01` | valproic acid | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 按 valproic acid 实体写：所引美国文本的 §INDICATIONS 只有癫痫，急性躁狂与偏头痛预防属 divalproex sodium 产品；酸、钠盐与制剂不互换；致畸与神经发育毒性的黑框，以及育龄女性用药限制与有效避孕要求逐节引用。 | **Wave 12 已建档**（[`drugs/valproic-acid.md`](../drugs/valproic-acid.md)，状态 `reviewed`） |
 | `N03AG02` | valpromide | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AG Fatty acid derivatives | 独立实体（丙戊酸的双链酰胺前药），不继承丙戊酸的批准：法国 DEPAMIDE 现行文本的唯一适应证为成人躁狂发作（锂禁忌或不耐受时），未收载癫痫；美国无产品记录。 | **Wave 12 已建档**（[`drugs/valpromide.md`](../drugs/valpromide.md)，状态 `reviewed`） |
 | `N03AX09` | lamotrigine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AX Other antiepileptics | 癫痫添加（≥2 岁）、转换单药（≥16 岁）与双相 I 型维持治疗分行写；标签 Limitations of Use 原文不推荐用于急性躁狂或混合发作；缓释制剂文本无精神科条目。 | **Wave 12 已建档**（[`drugs/lamotrigine.md`](../drugs/lamotrigine.md)，状态 `reviewed`） |
-| `N06DA01` | tacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方亚组名称为胆碱酯酶抑制剂；适应证与当前上市状态待核实。 | 待建档 |
-| `N06DA02` | donepezil | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上。 | 待建档 |
-| `N06DA03` | rivastigmine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上。 | 待建档 |
-| `N06DA04` | galantamine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上。 | 待建档 |
-| `N06DA05` | ipidacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上；是否仍在市场及可及地区待核实。 | 待建档 |
-| `N06DA06` | benzgalantamine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 同上；是否仍在市场及可及地区待核实。 | 待建档 |
-| `N06DA52` | donepezil and memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方条目点名两种成分，属成分明确的固定复方；配比与适应证待核实。 | 待建档 |
-| `N06DA53` | donepezil, memantine and Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方条目点名三种成分（含植物药组分）；配比与适应证待核实。 | 待建档 |
-| `N06DX01` | memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 受体作用性质与下游效应未在本轮核实，见 METHODOLOGY.md 要求。 | 待建档 |
-| `N06DX02` | Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 植物药/多组分制剂；证据强度与地区监管状态待核实。 | 待建档 |
-| `N06DX03` | aducanumab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 通用名词干表明为单克隆抗体；靶点、疗效性质（是否属疾病修饰）及各法域监管结论待核实。 | 待建档 |
-| `N06DX04` | lecanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 同上。 | 待建档 |
-| `N06DX05` | donanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 同上。 | 待建档 |
-| `N06DX06` | blarcamesine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 研发阶段、试验结果与监管状态均待核实，不假定为在研或已获批。 | 待建档 |
-| `N06DX07` | hydromethylthionine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 研发阶段、试验结果与监管状态均待核实，不假定为在研或已获批。 | 待建档 |
+| `N06DA01` | tacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国曾批准（NDA 020070，原始批准状态日 1993-09-09）；2025-07 复核确认现行 SPL 0 条，2013-08-19 起依 21 CFR 314.150(c) 由持证人请求撤销批准（78 FR 43210，非因安全或疗效）；无现行说明书文本。 | **Wave 14 已建档**（[`drugs/tacrine.md`](../drugs/tacrine.md)，状态 `basic`） |
+| `N06DA02` | donepezil | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国现行（原研片＋ODT 共用条目与口服液条目）；英国 emc 与欧盟现行文本未取得（emc 检索在浏览器 UA 下有产品列表，未逐份读取）。 | **Wave 14 已建档**（[`drugs/donepezil.md`](../drugs/donepezil.md)，状态 `reviewed`） |
+| `N06DA03` | rivastigmine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国贴剂现行条目与仿制胶囊现行条目；欧盟 EPAR 内胶囊／口服溶液／贴剂三份 SmPC；重度 AD 与 PDD 收载按法域与剂型分列。 | **Wave 14 已建档**（[`drugs/rivastigmine.md`](../drugs/rivastigmine.md)，状态 `reviewed`） |
+| `N06DA04` | galantamine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国三条现行仿制条目（片／缓释胶囊／口服溶液）；“部分法域适应证含血管性痴呆”本轮取证为未证。 | **Wave 14 已建档**（[`drugs/galantamine.md`](../drugs/galantamine.md)，状态 `reviewed`） |
+| `N06DA05` | ipidacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | ATC 在册（无 DDD）＋PubChem 身份确证；DailyMed／emc／ClinicalTrials 按英文名与商品名转写均 0 命中，任何法域现行正文未取得。 | **Wave 14 已建档**（[`drugs/ipidacrine.md`](../drugs/ipidacrine.md)，状态 `indexed`） |
+| `N06DA06` | benzgalantamine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国现行（ZUNVEYL，NDA 218549）；适应证为成人轻中度 AD；疗效依据为母体（加兰他敏）试验＋生物利用度桥接，按独立实体记载。 | **Wave 14 已建档**（[`drugs/benzgalantamine.md`](../drugs/benzgalantamine.md)，状态 `reviewed`） |
+| `N06DA52` | donepezil and memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 按具体复方产品 NAMZARIC（NDA 206439）建档，非抽象复方码；适应证限定于已稳定于多奈哌齐的中重度 AD；无黑框。 | **Wave 14 已建档**（[`drugs/donepezil-and-memantine.md`](../drugs/donepezil-and-memantine.md)，状态 `reviewed`） |
+| `N06DA53` | donepezil, memantine and Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方条目点名三种成分（含植物药组分）。2026-11-05 主代理复核：DailyMed 现行复方清单按三成分组合检索 0 条、英国 emc 无三成分产品、ClinicalTrials.gov 0 项、美国 Drugs@FDA 无对应申请；仅确认 WHO 分类记录，未证实成分明确、配比与剂型可核的具体产品，按规则暂不建档，取得具体产品文本后再建。 | 待建档（暂不建档，理由见左列） |
+| `N06DX01` | memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（速释片／口服溶液／缓释胶囊三条原研申请线＋大量仿制现行）；原研商品名现行条目缺失仅记为检索事实。 | **Wave 14 已建档**（[`drugs/memantine.md`](../drugs/memantine.md)，状态 `reviewed`） |
+| `N06DX02` | Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 多组分植物药；按标准化提取物／注册层分层书写（EGb 761 层的 AD 阴性证据）；任何法域现行注册文本未取得；N06DA53 的三成分产品未能确证，不据此建档。 | **Wave 14 已建档**（[`drugs/ginkgo-folium.md`](../drugs/ginkgo-folium.md)，状态 `basic`） |
+| `N06DX03` | aducanumab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国 2021-06-07 加速批准（BLA 761178，89 FR 14869 逐字）；企业 2024 年停止开发与商业化（公司口径）；无现行说明书正文；欧盟 2022-04 撤回 MAA。 | **Wave 14 已建档**（[`drugs/aducanumab.md`](../drugs/aducanumab.md)，状态 `basic`） |
+| `N06DX04` | lecanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（LEQEMBI，含皮下维持方案）；欧盟 2025-04 许可且人群限于 ε4 非携带／杂合；美国允许纯合子并须告知；ARIA 黑框与 MRI 监测按现行文本逐节写入。 | **Wave 14 已建档**（[`drugs/lecanemab.md`](../drugs/lecanemab.md)，状态 `reviewed`） |
+| `N06DX05` | donanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（KISUNLA，BLA 761248，2024-07-02）；欧盟 2025-09 许可且纯合子不覆盖；按 PET 阈值停药与抗栓前提写入。 | **Wave 14 已建档**（[`drugs/donanemab.md`](../drugs/donanemab.md)，状态 `reviewed`） |
+| `N06DX06` | blarcamesine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 在研；关键 IIb/III 期完成但结果未张贴，OLE 未张贴；欧盟撤回（2026-03-25，公司口径）；不设 A–D 行。 | **Wave 14 已建档**（[`drugs/blarcamesine.md`](../drugs/blarcamesine.md)，状态 `basic`） |
+| `N06DX07` | hydromethylthionine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 在研；LUCIDITY 结果已张贴但 52 周主要临床终点因对照臂问题无法分离；与亚甲蓝实体的用途边界逐节分写；不设 A–D 行。 | **Wave 14 已建档**（[`drugs/hydromethylthionine.md`](../drugs/hydromethylthionine.md)，状态 `basic`） |
 | `N07BA01` | nicotine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BA Drugs used in nicotine dependence | 已按剂型与产品逐份核对：咀嚼胶、含片、贴剂为面向消费者的现行标签（含片挂 NDA 022360、贴剂引用 NDA 020076 与 ANDA 074612，本轮所引咀嚼胶条目未挂申请号），鼻喷与吸入剂为处方文本；DDD 按途径分列且"咀嚼胶与含片相同"。只评价戒烟用途。 | **Wave 13 已建档**（[`drugs/nicotine.md`](../drugs/nicotine.md)，状态 `reviewed`） |
 | `N07BA03` | varenicline | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BA Drugs used in nicotine dependence | 戒烟口服片与 TYRVAYA（鼻用、干眼症）是两个产品、两个治疗目标，结论互不合并；2016-12-16 黑框移除与 2021 年 N-亚硝基召回分别记录批准状态与供应状态。 | **Wave 13 已建档**（[`drugs/varenicline.md`](../drugs/varenicline.md)，状态 `reviewed`） |
 | `N07BA04` | cytisinicline | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BA Drugs used in nicotine dependence | 与 cytisine 为同一化合物（PubChem 两名同指 CID 10235），ATC 用 cytisinicline；美国无现行说明书正文（NDA 经 CRL 后拟重提，属申请人自述），ORCA-2／ORCA-3 三期阳性，中东欧现行注册条目未逐国核到。 | **Wave 13 已建档**（[`drugs/cytisinicline.md`](../drugs/cytisinicline.md)，状态 `basic`） |
@@ -78,7 +78,7 @@
 
 ## 说明
 
-- 表中状态为“待建档”的 20 条具体药物仍未建档，编码与名称以 WHO 官方索引为准；`N07BC51` 仅保留为分类记录，不建立成分不明确的药物档案。
+- 表中状态为“待建档”的 6 条具体药物仍未建档，编码与名称以 WHO 官方索引为准；`N07BC51` 仅保留为分类记录，不建立成分不明确的药物档案；`N06DA53` 在 2026-11-05 复核后暂不建档，理由见其状态列。
 - `N07BC51 buprenorphine, combinations` 未指明全部成分，属 ATC 复方类别，不计作独立具体药物；`N06DX30 combinations` 等同类条目已从选录中剔除。
 - 加巴喷丁与普瑞巴林已于 2026-10-28 按 WHO 索引确认改列 `N02BF` Gabapentinoids（`N03AX` 亚组页原文注明），并据此收录与建档。
 - 情绪稳定相关条目均取自 `N03` 抗癫痫药亚组：ATC 位置不表示这些药物具有某一精神科适应证。

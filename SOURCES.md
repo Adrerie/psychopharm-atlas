@@ -17,6 +17,7 @@ ATC 在线索引可免费检索；完整电子数据的获取与再利用须遵�
 
 - **[Drugs@FDA](https://www.fda.gov/drugs/drug-approvals-and-databases/resources-information-approved-drugs)**：核实美国药品批准信息、监管历程及 FDA 批准的处方资料。
 - **[DailyMed](https://dailymed.nlm.nih.gov/dailymed/)**：查询美国药品企业提交且处于使用中的药品标签。其现行标签版本可能与 Drugs@FDA 最近批准的版本不同。
+- **[Federal Register](https://www.federalregister.gov/documents/)／[govinfo 联邦公报全文](https://www.govinfo.gov/app/collection/fr)**：核实美国监管行为的法律文本与日期，包括撤销批准（如依 21 CFR 314.150(c) 由持证人请求的撤销）、黑框警告修订与列管调整公告；**公告日与生效日须分别引用**，且"持证人请求撤销"不等于"因安全或疗效撤销"。检索用 `https://www.federalregister.gov/api/v1/documents.json?conditions[term]=…`；federalregister.gov 的文档正文页对脚本请求返回反爬校验页时，改取 govinfo 全文 `https://www.govinfo.gov/content/pkg/FR-YYYY-MM-DD/html/<doc-number>.htm`。
 - **[European Medicines Agency (EMA)](https://www.ema.europa.eu/en/medicines)**：查询 EMA 评估药品的监管资料、产品信息和公开评估报告。其数据库不覆盖全部由欧盟成员国单独批准的药物。
 - **[国家药品监督管理局（NMPA）](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)**：通过国产药品、进口药品等官方入口核实中国的注册信息与批准情况。
 - **[Health Canada Drug Product Database（DPD）](https://health-products.canada.ca/dpd-bdpp/index-eng.jsp)**：核对加拿大药品产品记录、DIN、活性成分、剂型及上市状态；历史记录不等于当前可获得。
