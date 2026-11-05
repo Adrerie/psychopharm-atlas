@@ -5,7 +5,7 @@
 
 **为什么不是 `reviewed`**：本轮取到的是**历史批准的一手监管文本**（联邦公报审查期认定）与**欧盟审评结论的一手页面**，但**未取得任何现行产品说明书正文**（美国 DailyMed 现行条目 0 条），按仓库规则，仅有历史批准／撤销记录而缺说明书正文时不升级 `reviewed`（见 §10）。
 
-**引用键**：`FR-ADU`＝*Federal Register* 89 FR 14869–14870（公告 2024-02-29，文号 2024-04214，Docket Nos. FDA-2022-E-0654 与 FDA-2022-E-0655）"Determination of Regulatory Review Period for Purposes of Patent Extension; ADUHELM"（govinfo 全文）；`EU-EPAR`＝EMA Aduhelm"撤回上市许可申请"页（EMA/225498/2022 问答首份发布 2022-04-22；撤回评估报告 EMA/CHMP/557556/2022 首份发布 2022-08-01；页面 last updated 2022-08-01）；`DM-CUR`＝DailyMed 现行 SPL 接口 `drug_name=aducanumab` 返回 **0 条**（库内数据发布标记 2026-11-04，检索 2026-11-05）；`DFA`＝openFDA Drugs@FDA 接口检索结果（详见 §10）；`NCT02477800`／`NCT02484547`＝两项关键 III 期登记（研究编号 221AD301 与 221AD302，均 TERMINATED，结果张贴 2021-09-02）；`NCT05310071`＝确认性研究（ENVISION，TERMINATED 2022-06-02→2024-08-12，结果张贴 2025-04-23）；`NCT04241068`＝长期开放标签安全性研究（TERMINATED 2020-03-02→2024-07-22，结果张贴 2025-02-21）。§N 指所引文本章节号。
+**引用键**：`FR-ADU`＝*Federal Register* 89 FR 14869–14870（公告 2024-02-29，文号 2024-04214，Docket Nos. FDA-2022-E-0654 与 FDA-2022-E-0655）"Determination of Regulatory Review Period for Purposes of Patent Extension; ADUHELM"（govinfo 全文）；`EU-EPAR`＝EMA Aduhelm"撤回上市许可申请"页（EMA/225498/2022 问答首份发布 2022-04-22；撤回评估报告 EMA/CHMP/557556/2022 首份发布 2022-08-01；页面 last updated 2022-08-01）；`DM-CUR`＝DailyMed 现行 SPL 接口 `drug_name=aducanumab` 返回 **0 条**（库内数据发布标记 2026-11-04，检索 2026-11-05）；`DFA`＝openFDA Drugs@FDA 接口检索结果（详见 §10）；`FDA-AA-WITHDRAWN`＝FDA 加速批准撤回清单（BLA 761178，Aduhelm，withdrawal date 2024-11-01）；`BIIB-PR`＝Biogen 2024-01-31 公司公告（停止 ADUHELM 开发与商业化并终止 ENVISION）；`NCT02477800`／`NCT02484547`＝两项关键 III 期登记（研究编号 221AD301 与 221AD302，均 TERMINATED，结果张贴 2021-09-02）；`NCT05310071`＝确认性研究（ENVISION，TERMINATED 2022-06-02→2024-08-12，结果张贴 2025-04-23）；`NCT04241068`＝长期开放标签安全性研究（TERMINATED 2020-03-02→2024-07-22，结果张贴 2025-02-21）。§N 指所引文本章节号。
 
 ## 1. 基本信息
 
@@ -15,7 +15,7 @@
 | 剂型（历史文本口径） | `FR-ADU` 逐字记为 ADUHELM（aducanumab-avwa）生物制品，适应症为阿尔茨海默病；`EU-EPAR` 记为静脉输注用浓溶液。本轮未取得现行说明书，故规格、浓度与输注安排均不作断言 |
 | 关键药代摘要 | 本轮未取得现行标签正文，无药代字段可引；登记库内的给药途径与生物利用度研究（`NCT04924140`、`NCT05216887`、`NCT02782975`）状态为 COMPLETED 但**未张贴结果**，不足以建立可引用的 PK 结论 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：《药用类麻醉药品目录（2025 年版）》32 项、《药用类精神药品目录（2025 年版）》第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、《非药用类麻醉药品和精神药品目录》396 项，按中文名与英文名逐名检索"阿杜卡尼单抗／阿杜那单抗／阿杜卡单抗／aducanumab／Aduhelm／BIIB037"及音译变体均未命中（目录正文无任何"单抗"或 `-mab` 条目）。限定：单克隆抗体为蛋白类大分子，四个整类的小分子母核式结构定义不覆盖蛋白类实体，"按名称逐名检索已完成、整类结构定义不覆盖蛋白类实体"不等于已排除一切管制风险。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）。中国上市与核准适应证**待核实**：本轮 NMPA 检索页返回 HTTP 412、CDE 目录页返回 202 校验页；公开报道曾称企业于 2023 年初向 CDE 递交临床试验申请，属二手信息，不作注册事实记载 |
-| 主要法域批准状态 | **美国（四种性质分开写）**：① 加速批准——`FR-ADU` 逐字载明 "This indication is approved under **accelerated approval** based on reduction in amyloid beta plaques observed in patients treated with ADUHELM. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s)."，并记 IND 生效 2011-05-04、BLA 761178 递交 2020-07-07、**批准 2021-06-07**；② 持证人申请撤销——本轮**未检索到**此类文件；③ 因安全或疗效退出——本轮未检索到任何 FDA 作出的此类认定；④ FDA 认定非因安全或疗效撤出销售——本轮亦未检索到。现行可及性只有检索事实：`DM-CUR` 为 0 条，`DFA` 按品牌名／通用名／申请号／持证人均无命中（§10）。企业方 2024-01-31 声明停止开发与商业化并终止确认性研究、把权利转回原发明方，属**企业公告口径**，本轮只取到二级来源转述，未取一手公告原文，故不作为监管结论引用 |
+| 主要法域批准状态 | **美国（四种性质分开写）**：① 加速批准——`FR-ADU` 逐字载明 "This indication is approved under **accelerated approval** based on reduction in amyloid beta plaques observed in patients treated with ADUHELM. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s)."，并记 IND 生效 2011-05-04、BLA 761178 递交 2020-07-07、**批准 2021-06-07**；② FDA 撤回状态——FDA 当前加速批准撤回清单将 Aduhelm（BLA 761178）列为 **Not FDA-approved**，撤回日期为 **2024-11-01**（`FDA-AA-WITHDRAWN`）。该清单未说明撤回的法律路径或原因，因此不将其写成持证人申请撤销、因安全／疗效撤出或 FDA 作出非安全／疗效撤出认定；③ 当前产品文本与可及性——DailyMed 现行 SPL 0 条（`DM-CUR`），openFDA Drugs@FDA 按品牌名／通用名／申请号／持证人均无命中（`DFA`），均属检索事实。Biogen 于 2024-01-31 公告停止开发与商业化并终止 ENVISION（`BIIB-PR`），这是企业决策，早于 FDA 清单所列撤回日期，不替代监管撤回状态或原因认定 |
 | 欧盟状态（独立核实，不由美国推定） | `EU-EPAR`：Aduhelm 上市许可申请由 Biogen Netherlands B.V. 提交（EMA 产品号 EMEA/H/C/005558）；CHMP 于 **2021 年 12 月建议拒绝**；申请人请求再审查，并在再审查期间于 **2022-04-20 撤回申请**；撤回时 EMA 仍认为获益不大于风险。EMA 给出的两点理由逐字可归纳为：尽管本药降低脑内 Aβ，但**该效应与临床改善之间的联系未被确立**；关键研究结果互相矛盾、未能令人信服地显示疗效；影像显示 ARIA（提示脑内水肿或出血），**不能明确这些异常在临床实践中可被妥善管理**。本药在欧盟从未获上市许可 |
 | 其他法域 | 日本、英国、加拿大、澳大利亚与中国：本轮未取一手文本，不作推定（§10） |
 | 身份与统计 | WHO ATC `N06DX03`（无 DDD）；`FR-ADU` 中的产品标识 aducanumab-avwa 与 BLA 761178；PubChem 化合物库对该抗体名无 CID 记录（大分子不入库，非否定实体） |
@@ -37,7 +37,7 @@
 
 ### 2.2 按使用场景适宜度（A–D）
 
-**本节不设 A–D 行。** 理由：美国现行条目为 0 条、欧盟从未获上市许可，两者都不是"可评的临床使用场景"；而"仅说明某用途未获批或缺少证据"按规则不构成独立评分场景。历史用途（2021-06-07 至企业声明停止商业化期间，在美国按加速批准用于早期 AD）只作为沿革保留在 §4 与 §5，不赋 A–D。若后续取回该期间的现行说明书或正式撤销文件，再评估是否建行。
+**本节不设 A–D 行。** 理由：美国加速批准适应证已于 2024-11-01 列入 FDA 撤回清单（`FDA-AA-WITHDRAWN`），Biogen 于 2024-01-31 已宣布停止开发与商业化（`BIIB-PR`）；欧盟上市许可申请于 2022-04-20 撤回。当前没有可核验的现行产品文本或临床使用场景。历史用途只作为沿革保留在 §4 与 §5，不赋 A–D。
 
 ## 3. 主要作用
 
@@ -80,17 +80,19 @@ ARIA-E（水肿／积液）与 ARIA-H（含铁血黄素沉积）是本类药物�
 
 ## 10. 证据边界
 
-- **已核到的一手文件**：`FR-ADU`（89 FR 14869，含 BLA 号、递交与批准日期、加速批准语句）、`EU-EPAR`（撤回日期、CHMP 建议拒绝时间、再审查过程、撤回理由问答与评估报告文号）、`DM-CUR`（0 条）、四项登记条目状态与结果张贴日期、WHO ATC 页、中国四份目录逐名检索。
+- **已核到的一手文件**：`FR-ADU`（89 FR 14869，含 BLA 号、递交与批准日期、加速批准语句）、`FDA-AA-WITHDRAWN`（FDA 清单列明 BLA 761178 的加速批准适应证于 2024-11-01 撤回）、`BIIB-PR`（Biogen 2024-01-31 停止开发与商业化公告）、`EU-EPAR`（撤回日期、CHMP 建议拒绝时间、再审查过程、撤回理由问答与评估报告文号）、`DM-CUR`（0 条）、四项登记条目状态与结果张贴日期、WHO ATC 页、中国四份目录逐名检索。
 - **检索缺口（照原样写，不作否定推断）**：openFDA Drugs@FDA 接口按 `openfda.brand_name:"Aduhelm"`、`openfda.generic_name:"aducanumab"`、`products.generic_name:"aducanumab"`、`application_number:"214017"`、`openfda.sponsor_name:"Biogen MA "` 检索均返回 "No matches found!"；DailyMed 现行 SPL 0 条；openFDA 标签接口按品牌名与药物警戒（enforcement）接口检索亦无命中；*Federal Register* 按 "aducanumab" 命中 5 条、按 "Aduhelm" 命中 2 条，其中与本品监管直接相关的只有上述专利期审查期认定一条（另含顾问委员会会议与 Medicare 费率类文件）。**这些零命中只构成检索缺口，不得写成"FDA 从未撤销"或"批准仍然有效"**；两种表述都超出可证范围。
-- 企业 2024-01-31 声明（停止开发与商业化、终止确认性研究、权利转回原发明方）本轮仅取到患者组织与行业媒体转述，**未见公司公告原件**；按仓库规则，持证人声明不再销售不等于监管机构已独立认定"非因安全或疗效原因撤出销售"。
+- `BIIB-PR` 为 Biogen 2024-01-31 一手公告，明确公司停止 ADUHELM 开发与商业化并终止 ENVISION；公告将决策背景表述为资源重新配置、确认性研究所需时间与投资、以及未找到战略合作伙伴或外部融资。该企业解释不等于 FDA 对 2024-11-01 撤回原因的独立认定。
 - 名称对应缺口：EMERGE／ENGAGE 与 `NCT02484547`／`NCT02477800` 的配对未由一手文本确证；以 `NCT04575808`、`NCT04576096` 两个常见登记号按单条检索时，登记接口返回 "NCT number ... not found"（2026-11-05）。
 - 文献核对缺口：本轮 PubMed 检索接口返回 HTTP 500、Europe PMC 返回 HTTP 503，**未做任何 PMID 级校验**，故本档案不列 PMID。
 - 状态判定：因缺现行说明书正文，保留 `basic`，不因加入沿革或评分而升级。
 
 ## 11. 深入分析与来源
 
-未建专题分析；本条档案的核心缺口是"历史加速批准—确认性义务未完成—无现行文本"这一链条的最后一公里，若日后取回公司公告原件、正式撤销文件或历史 SPL 存档，可考虑单独建"aducanumab 的加速批准与验证义务"专题。
+未建专题分析；当前 FDA 撤回日期已有官方清单确认。剩余缺口是撤回的具体法律路径与原因、历史 SPL 完整正文及确认性研究的完整临床结果，不把企业停研理由等同于 FDA 撤回理由。
 
+- FDA 加速批准撤回清单：`https://www.fda.gov/drugs/accelerated-approval-program/withdrawn-non-malignant-hematological-neurological-and-other-disorder-indications-accelerated`
+- Biogen 2024-01-31 一手公告：`https://investors.biogen.com/news-releases/news-release-details/biogen-realign-resources-alzheimers-disease-franchise`
 - 联邦公报全文：`https://www.govinfo.gov/content/pkg/FR-2024-02-29/html/2024-04214.htm`
 - 欧盟撤回页：`https://www.ema.europa.eu/en/medicines/human/EPAR/aduhelm`
 - 现行 SPL 清单接口：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=aducanumab`
