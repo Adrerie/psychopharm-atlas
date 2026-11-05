@@ -82,7 +82,7 @@ ARIA-E（水肿／积液）与 ARIA-H（含铁血黄素沉积）是本类药物�
 
 - **已核到的一手文件**：`FR-ADU`（89 FR 14869，含 BLA 号、递交与批准日期、加速批准语句）、`FDA-AA-WITHDRAWN`（FDA 清单列明 BLA 761178 的加速批准适应证于 2024-11-01 撤回）、`BIIB-PR`（Biogen 2024-01-31 停止开发与商业化公告）、`EU-EPAR`（撤回日期、CHMP 建议拒绝时间、再审查过程、撤回理由问答与评估报告文号）、`DM-CUR`（0 条）、四项登记条目状态与结果张贴日期、WHO ATC 页、中国四份目录逐名检索。
 - **检索缺口（照原样写，不作否定推断）**：openFDA Drugs@FDA 接口按 `openfda.brand_name:"Aduhelm"`、`openfda.generic_name:"aducanumab"`、`products.generic_name:"aducanumab"`、`application_number:"214017"`、`openfda.sponsor_name:"Biogen MA "` 检索均返回 "No matches found!"；DailyMed 现行 SPL 0 条；openFDA 标签接口按品牌名与药物警戒（enforcement）接口检索亦无命中；*Federal Register* 按 "aducanumab" 命中 5 条、按 "Aduhelm" 命中 2 条，其中与本品监管直接相关的只有上述专利期审查期认定一条（另含顾问委员会会议与 Medicare 费率类文件）。**这些零命中只构成检索缺口，不得写成"FDA 从未撤销"或"批准仍然有效"**；两种表述都超出可证范围。
-- `BIIB-PR` 为 Biogen 2024-01-31 一手公告，明确公司停止 ADUHELM 开发与商业化并终止 ENVISION；公告将决策背景表述为资源重新配置、确认性研究所需时间与投资、以及未找到战略合作伙伴或外部融资。该企业解释不等于 FDA 对 2024-11-01 撤回原因的独立认定。
+- `BIIB-PR` 为 Biogen 2024-01-31 一手公告，明确公司停止 ADUHELM 开发与商业化并终止 ENVISION；公司明确表示该决定**与安全性或疗效问题无关**，并将决策背景表述为资源重新配置、确认性研究所需时间与投资、以及未找到战略合作伙伴或外部融资。该企业声明不等于 FDA 对 2024-11-01 撤回原因的独立认定。
 - 名称对应缺口：EMERGE／ENGAGE 与 `NCT02484547`／`NCT02477800` 的配对未由一手文本确证；以 `NCT04575808`、`NCT04576096` 两个常见登记号按单条检索时，登记接口返回 "NCT number ... not found"（2026-11-05）。
 - 文献核对缺口：本轮 PubMed 检索接口返回 HTTP 500、Europe PMC 返回 HTTP 503，**未做任何 PMID 级校验**，故本档案不列 PMID。
 - 状态判定：因缺现行说明书正文，保留 `basic`，不因加入沿革或评分而升级。
