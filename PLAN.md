@@ -748,14 +748,23 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 
 **结果统计**：30 条候选实际建档 **29 份**——8 份 `reviewed`（donepezil、rivastigmine、galantamine、benzgalantamine、donepezil-and-memantine、memantine、lecanemab、donanemab）、2 份 `indexed`（ipidacrine、remternetug）、19 份 `basic`；**`N06DA53`（donepezil, memantine and Ginkgo folium）不建档**（见下方裁决记录）。全库 334 份（核心六组 280＋跨组主题 54），状态 **178 reviewed／7 indexed／149 basic**（核心 150/4/126 未变，跨组 28/3/23）。未新增专题（`analysis/` 仍 15 份）。
 
-**主代理预检与取证**（先于子代理完成）：WHO ATC 2026 的 N06DA／N06DX 全部候选码逐页回读（含 DDD 逐行核对；`N06DX30 combinations` 为分类条目不入候选）；DailyMed／openFDA／PubChem／emc／ClinicalTrials.gov v2 的身份与状态锚点（ZUNVEYL、NAMZARIC、LEQEMBI、KISUNLA 等 setid；**AR1001 的 PubChem 同名碰撞**——字符串解析为 N-methylbenzylamine，CID 7669——被识别并在档案中显式甄别）；中国四份现行管制目录对 30 条候选按英文名、中文译名与代号变体逐名扫描**全部未命中**（目录全文缓存于仓库外）；Cummings 2026 pipeline 全文取回并逐字核对可引用表述（158 药／192 试验、DTT 73%、"no DTTs approved for preclinical AD…"等）；联邦公报一手文本（**78 FR 43210**：Cognex／NDA 020070 依 21 CFR 314.150(c) 持证人请求撤销、公告 2013-07-19、生效 2013-08-19；**89 FR 14869**：ADUHELM 专利期审查期认定含加速批准表述）；10 项试验的登记张贴结果逐项核对（RETHINK-ALZ、REFOCUS-ALZ、GRADUATE、buntanetap 两项、gantenerumab 两条、LUCIDITY、ACI-35.030 Ib/IIa 等）。
+**主代理预检与取证**（先于子代理完成）：WHO ATC 2026 的 N06DA／N06DX 全部候选码逐页回读（含 DDD 逐行核对；`N06DX30 combinations` 为分类条目不入候选）；DailyMed／openFDA／PubChem／emc／ClinicalTrials.gov v2 的身份与状态锚点（ZUNVEYL、NAMZARIC、LEQEMBI、KISUNLA 等 setid；**AR1001 的 PubChem 同名碰撞**——字符串解析为 N-methylbenzylamine，CID 7669——被识别并在档案中显式甄别）；中国四份现行管制目录及 2026-07-01 增列 16 种附表对 30 条候选按英文名、中文译名、研发代号与已核同义名逐名扫描**全部未命中**（16 种附表转录见 SOURCES.md）；Cummings 2026 pipeline 全文取回并逐字核对可引用表述（158 药／192 试验、DTT 73%、"no DTTs approved for preclinical AD…"等）；联邦公报一手文本（**78 FR 43210**：Cognex／NDA 020070 依 21 CFR 314.150(c) 持证人请求撤销、公告 2013-07-19、生效 2013-08-19；**89 FR 14869**：ADUHELM 专利期审查期认定含加速批准表述）；10 项试验的登记张贴结果逐项核对（RETHINK-ALZ、REFOCUS-ALZ、GRADUATE、buntanetap 两项、gantenerumab 两条、LUCIDITY、ACI-35.030 Ib/IIa 等）。
 
 **执行实况**：五个子代理并行（A 胆碱酯酶抑制剂 6、B 其他 N06D 与复方 5＋1 条不建档、C 抗淀粉样蛋白 6、D 区域性用药 6、E 神经精神与研发候选 6）。A、B、C 组如期交付；**D 组与 E 组先后触及子代理轮次上限**——D 组未落盘任何文件、复派一次后仍未落盘，E 组交付 3／6；D 组六份与 E 组剩余三份（mk-1167、jnj-2056、simufilam）由主代理接管完成。E 组已交付的三份经验收保留。
 
 **主代理在验收中的修正**：① C 组四份 §2.1 的"待核实"改 `N/A`（缺证据写 N/A 的口径）；② A 组六份中国管制行名由"中国上市与管制"改为仓库统一的"中国管制状态"，行内"上述现行目录"展开为四份目录枚举；③ donepezil／rivastigmine／galantamine／ipidacrine 的英国 emc 检索缺口补入复核事实（浏览器 UA 下分别返回 21／34／11／0 条结果），防止"无结果"被误读为"英国无产品"；④ valiltramiprosate 的 PubChem property URL 由省略号占位改为可解析 URL；⑤ 清除主代理自身补丁引入的内部工作措辞（"主代理复核"→"独立复核"）。
 
-**本轮裁决记录**：`N06DA53` 三成分复方无可识别具体产品（DailyMed／emc／ClinicalTrials／Drugs@FDA 均无），只保留目录分类行；`tacrine` 美国状态按"持证人请求撤销（314.150(c)）＋实际退市年代待核实"分层；`aducanumab` 保持 `basic`（加速批准有文、无现行文本、现状不作推断）；甘露特钠按"附条件批准→确认性 III 期搁置→注册证到期→再注册未获批准（媒体层）"分层且不设 A–D 行；`buntanetap` 的 PDD III 期与 AD 试验分列、POST_HOC 亚组不得覆盖主要终点；`simufilam` 两项 III 期共同主要终点阴性按登记张贴 P 值记录（RETHINK-ALZ：ADAS-Cog12 p=0.5335/0.5836、ADCS-ADL p=0.0763/0.1530；REFOCUS-ALZ：0.4308、0.4034）；`zervimesine` 已张贴 II 期的"主要"条目只有安全性计数，疗效方向不作表述。
+**本轮裁决记录**：`N06DA53` 三成分复方无可识别具体产品（DailyMed／emc／ClinicalTrials／Drugs@FDA 均无），只保留目录分类行；`tacrine` 美国状态按"持证人请求撤销（314.150(c)）＋实际退市年代待核实"分层；`aducanumab` 保持 `basic`（FDA 撤回清单列明加速批准适应证于 2024-11-01 撤回；Biogen 2024-01-31 已公告停止开发与商业化；两项事件分开记录，缺现行文本不升级）；甘露特钠按"附条件批准→确认性 III 期搁置→注册证到期→媒体据未见批准证明文件解读为未获再注册，官方文书待核实"分层且不设 A–D 行；`buntanetap` 的 PDD III 期与 AD 试验分列、POST_HOC 亚组不得覆盖主要终点；`simufilam` 两项 III 期共同主要终点阴性按登记张贴 P 值记录（RETHINK-ALZ：ADAS-Cog12 p=0.5335/0.5836、ADCS-ADL p=0.0763/0.1530；REFOCUS-ALZ：0.4308、0.4034）；`zervimesine` 已张贴 II 期的"主要"条目只有安全性计数，疗效方向不作表述。
 
 **验收方式**：仓库外脚本对 29 份档案做结构与体例检查（H1／状态条／免责声明／11 节／2.1 六维／2.2 四列／密度带／内部链接／工作流措辞泄漏），全部通过；来源审计并发验证全部 PMID（37）、DailyMed setid（15）、NCT（96）与外链（133），除已在档案内如实标注的 404／403 检索缺口外无失效引用。跨组重复检查：30 条候选与既有 305 份无同名或同实体档案；`tacrine` 的唯一子串命中 `dimetacrine.md`、`deulumateperone` 对照 `lumateperone.md`、`benzgalantamine` 对照 `galantamine.md`、`AR1001` 同名碰撞均已按实体边界写入档案。
 
 **仍开放的证据缺口**：29 份的中国上市与核准适应证全部未取得（NMPA 412／CDE 202）；石杉碱甲与甘露特钠的中国产品文本只有门户与转载层；文献接口本轮多次 500／503，C 组六份与 D／E 多份未列 PMID（已在各档案记录）；blarcamesine 欧盟审评正文、hydromethylthionine MHRA 结论、tacrine 其他法域文本未取得；buntanetap／AR1001 等已完成试验的张贴数值未逐条读取。
+
+
+## Wave 14 审阅修补记录（2026-11-05）
+
+**审阅结论**：主体档案与结构验收通过，按审阅意见完成定点修补，不重做 29 份档案。
+
+**实际修补**：① Aducanumab 补入 FDA 加速批准撤回清单（BLA 761178，2024-11-01）与 Biogen 2024-01-31 一手停研公告，区分企业停研与 FDA 撤回，不把撤回原因写成未经证实的法律路径；② Galantamine 删除重度 AD 与皮疹两个不构成独立临床使用场景的评分行；benzgalantamine 删除重度 AD 续用评分行；③ Ginkgo folium 按产品与人群收窄评分：EGb 761 240 mg/day 在德国 2026 S3 指南所列轻中度 AD／伴非精神病性行为症状的血管性痴呆场景保留 C，MCI 调整为 D，卒中后认知障碍不再与指南场景合并；Cochrane 2026 对痴呆的低确定性小到中度获益不支持把所有痴呆场景一律降为 D；④ Gantenerumab、ACP-204、AR1001、Blarcamesine、Buntanetap、Deulumateperone、Hydromethylthionine、JNJ-2056、Masitinib、MK-1167、Remternetug、Simufilam、Valiltramiprosate、Zatolmilast 与 Zervimesine 等研究候选的全球性“从未获批／无任何法域批准”改为可复现的检索事实与状态待核实；⑤ 甘露特钠的再注册结论改为媒体层解读，官方文书未取得，现行注册状态待核实；⑥ Lecanemab 中国管制行补入奥啡类；⑦ SOURCES.md 纳入 2026-07-01 增列 16 种完整逐名核查清单，29 个候选的名称、代号与已核同义名逐项对照均未命中；ipidacrine.md 对该附表的检索缺口据此关闭；⑧ AGENTS.md 修正标点并增加否定性批准状态的证据规则。
+
+**复核结果**：29 份档案数量与状态不变（8 `reviewed`、2 `indexed`、19 `basic`）；未新增药物文件或专题；所有修补均为局部证据边界与评分修正。
