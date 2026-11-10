@@ -42,8 +42,6 @@
 | --- | --- | --- | --- |
 | 成人眩晕的短期症状治疗（其他治疗无效后，限期使用） | 澳大利亚已批适应证；欧洲系多国上市线索 | B | 现行批准口径＋多项双盲随机试验（含 vs 倍他司汀非劣效设计与单方便利对照）支持症状改善；但澳方编辑评论明确疗效优势"幅度可能很小"、单方桂利嗪在当地不可及使对照实践受限（`AU-AP2021`）；证据池由持证方关联团队维护（`PMID:35864302` 披露），须带偏倚权重阅读 |
 | 外周性前庭眩晕中与倍他司汀的头对头选择 | 复方批准口径 vs 倍他司汀各自注册口径（见两单方页） | C | 已读摘要层面：非劣效试验与系统综述报告复方减分幅度与完全缓解比例更高（`PMID:41038567`、`PMID:35864302`），两研究均有产业关联披露；倍他司汀英国文本的适应证轴（Ménière 综合征）与本复方人群并不全同轴，故不写成可互换结论 |
-| 已确诊 Ménière 病的维持治疗 | 无该口径批准；试验人群主动排除 | D | 澳方评论转述：该头对头交叉试验仅纳入"梅尼埃样症状群"者，已确诊 Ménière 病者被排除（`AU-AP2021` 对 Scholtz 2019 试验的描述）；把"梅尼埃样"读作"梅尼埃病"是本复方最易发生的外推错误 |
-| 晕动病预防 | 复方无此口径（成分单方有各自口径） | D | 澳方批准适应证为眩晕而非晕动病；复方试验结局均为眩晕量表；单方口径（[cinnarizine](cinnarizine.md) 英国晕动病文本、[dimenhydrinate](dimenhydrinate.md) 美国 OTC 口径）不迁移给复方 |
 
 **本表不设行的场景**：严重肝肾损害（批准口径列为禁忌，属禁忌清单非评分场景）；妊娠哺乳儿童（无已核数据，§9）；偏头痛预防（那是氟桂利嗪口径，见 [flunarizine](flunarizine.md)）；促前庭代偿类主张（无证据，且方向与本复方抑制属性相反）。
 
@@ -109,3 +107,5 @@
 - 相关档案：[cinnarizine](cinnarizine.md)、[dimenhydrinate](dimenhydrinate.md)、[betahistine](betahistine.md)、[flunarizine](flunarizine.md)、[meclizine](meclizine.md)、[piracetam-and-cinnarizine](piracetam-and-cinnarizine.md)（复方建档体例参照）；中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)
 
 统计与缺口见 [目录索引](../catalog/index.md)。
+
+- [澳大利亚 CIZINATE 官方药品信息（2026-02 修订，具体固定复方 20/40 mg）](https://www.safetyandquality.gov.au/medicine-finder/cizinate)
