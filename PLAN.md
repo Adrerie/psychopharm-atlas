@@ -59,6 +59,40 @@ E. 神经退行性、运动与神经肌肉疾病药物（10）
 - 更新 `README.md` 当前计划与基线统计；在本节末尾记录实际建档数、`reviewed/basic/indexed` 数量、替换项、未解决缺口及是否新增专题。
 - 仅做必要的 Markdown、链接、重复档案与数量核对；不新增 CI、数据库、爬虫、自动评分器、空白模板或其他基础设施。完成后提交并推送本分支，等待人工审阅，不自行合并 `main`。
 
+## Wave 15 完成记录（2026-11-06）
+
+**实际建档数**：50 条候选全部完成实体核对并各自建立独立档案，仓库总数由 334 份增至 384 份（跨组主题档案 54 → 104，核心六组 280 份不变）。
+
+**状态分布**：**40 份 `reviewed`、10 份 `basic`、0 份 `indexed`**，未强制升级。
+- `basic` 的 10 份及原因：`emepronium`、`terodiline`、`propiverine`、`imidafenacin`、`biperiden`、`obidoxime`、`physostigmine`、`acetylleucine`、`flunarizine`、`cinnarizine-and-dimenhydrinate` —— 共同原因是本轮未取得任何法域的现行监管说明书正文（DailyMed／emc／BDPM 检索为 0 条或站点拦截），"给药方案"与"核准适应证"两项核心模块无法绑定法域＋产品＋文本版本；`cinnarizine-and-dimenhydrinate` 另因具体产品的现行监管文本仅取得转载口径。
+- `reviewed` 的 40 份均至少有一份可逐节引用的现行正文（美国 DailyMed SPL／英国 emc SmPC／欧盟 EPAR 之一）或等效一手监管文本，且中国管制字段逐项核查完成。
+
+**替换项**：
+1. `meladrazine` → 不纳入。FDA Substance Registration System 将该名称映射至 hydramitrazine，与本轮下尿路／前庭主题不符；官方 ATC `G04BD03` 条目保留为分类事实记录，不建档。
+2. `desfesoterodine` → 不单独建档。官方与 PubChem 口径均为 tolterodine 的活性代谢物，官方 `G04BD13`（DDD 3.5 mg）保留为分类记录。
+3. 替换为 `meclizine` 与 `dimenhydrinate`。两者用于晕动病／前庭症状场景，但 WHO ATC 分别归 `R06AE05`（官方条目名 meclozine）与 `R06AA11`，档案按官方编码记录，未为贴合 N07CA 主题改写分类。
+
+**候选实体边界的处理**：
+- `acetylleucine` 与官方 `N07XX27` levacetylleucine 为不同实体，聚合库曾把两者混映射，档案按 WHO 官方行分别记录。
+- `cinnarizine-and-dimenhydrinate` 按具体固定复方（Cizinate 20/40 mg）建档，未建立抽象的 "cinnarizine combinations" 类别档案；官方 `N07CA52` 与 `R06AA61` 两个复方类别在目录中标为类别记录。
+- `levodopa` 档案只评价该分子本身：现行美国单方产品为吸入制剂，持续的口服替代治疗由含脱羧酶抑制剂的固定复方承载，复方的批准与方案不计入单方评分；`safinamide` 同理按标签口径限定为左旋多巴／卡比多巴背景上的添加治疗。
+- `amifampridine`／`fampridine`、`tetrabenazine`／`deutetrabenazine`／`valbenazine` 三者适应证、剂量与禁忌互不继承。
+- `terodiline` 与 `emepronium` 等历史药物只记录检索缺口，未写成"已撤市／从未获批"。
+
+**目录与统计更新**：`catalog/related.md` 复用 5 条既有待建档行（emepronium、trospium、naloxone、physostigmine、flumazenil），另按官方 ATC 位置插入 45 行，选录总数 46 → 91，已建档 39 → 89，未建档 2（`N07BC51` 复方类别、`N06DA53` 暂不建档）；分布表补入 G04BD、N04AA/BA/BB/BC/BD、N07CA、N07XX、R06AA/AE、V03AB 各亚组计数。`catalog/index.md` 与 `README.md` 的基线改为 218 reviewed / 7 indexed / 159 basic。
+
+**中国管制**：50 条逐项复核 2025 年版麻醉药品目录（32 项）、2025 年版精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 种非药用类增列附表。唯一逐项命中为 `sodium oxybate`——归第一类精神药品第 6 项 γ-羟丁酸，并按目录总注 1（盐与单方制剂）处理钠盐归属；`naloxone` 仅在第二类第 74 项"丁丙诺啡和纳洛酮复方口服固体制剂"中以复方形式出现，不构成单方列管。四类整类范围按公告列举的母体名称逐字判读，未以药理族属或骨架名称推定。
+
+**未解决的共同缺口**：
+1. 中国 NMPA 对本机恒返回 HTTP 412、CDE 目录接口返回 202 校验页，50 份档案的中国上市与核准适应证全部标注待核实；未使用商业药品库补足。
+2. 英国 emc 的脚本端检索在本轮多数请求中返回 429／反爬页，现行正文仅按已验证的产品编号读取；欧盟、日本、韩国、澳大利亚等法域未逐国核对。
+3. PubMed 与 Europe PMC 在部分时段返回 500／503，个别档案的研究性用途只保留检索事实与题名级引用，未抽取数值。
+4. `trofinetide` 的审批路径（是否加速批准及确认性试验状态）未取得可核验的监管决定原文，DailyMed 正文无该字段、Drugs@FDA 提交事项为空，档案写为待核实。
+
+**专题与基础设施**：本轮未新增 `analysis/` 专题（仍为 15 份），分歧均可在主条目 §2.2、§5 与 §10 就近并列；未新增数据库、CI、爬虫、自动评分器或空白模板。
+
+**执行方式的如实记录**：五个子代理按 A–E 分组并行，其中两组在长时间无响应后被中止，未完成的部分由主线程按同一核查标准补写并统一复核；中途一次主线程简报对 `trofinetide` 黑框提示有误，经与现行标签逐字比对后更正（该标签 §4 禁忌为 None，无黑框，腹泻／体重下降／呕吐载于 §5.1–§5.3）。
+
 ## Wave 3 历史药物清单（24 份）
 
 - **三环类抗抑郁药**：`clomipramine`、`imipramine`、`nortriptyline`、`doxepin`
