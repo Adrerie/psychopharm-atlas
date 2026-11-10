@@ -1,26 +1,26 @@
 # barbital｜巴比妥（zh-cn，维基数据标签，未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-10-28（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA04`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域复核；身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA04`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行，段落号未独立复核）；`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
+**引用键**：`DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行，段落号未独立复核）。`PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
 ## 1. 基本信息
 
 | 项目 | 内容 |
 | --- | --- |
 | 类型／药理类别 | 单方，**氧巴比妥类**、5,5-二乙基巴比妥酸（二乙基丙二酰脲，diethylbarbituric acid／barbitone），是历史上最早商品化的巴比妥（Veronal，Bayer）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA），本药为**长效**代表 |
-| 主要剂型 | 历史上口服（游离酸与**钠盐** sodium barbital；品牌 Veronal／Plexonal，`DEA-ALPHA`）。本轮 openFDA、DailyMed、Drugs@FDA 检索 0 条，**无现行或历史说明书正文**；钠盐（用于动物麻醉／缓冲体系）与游离酸单方须分开，勿把复方或缓冲"Veronal"记入本药 |
-| 关键药代摘要 | 本药为**长效**、经肾以原型排泄（类别一致）；本轮无人体半衰期／清除的说明书正文可引，`PMID:9383746` 仅为离体大鼠肝灌流的分布研究，不外推人体参数，故不填数值 |
+| 主要剂型 | 历史上口服（游离酸与**钠盐** sodium barbital；品牌 Veronal／Plexonal，`DEA-ALPHA`）。本次核查 openFDA、DailyMed、Drugs@FDA 检索 0 条，**无现行或历史说明书正文**；钠盐（用于动物麻醉／缓冲体系）与游离酸单方须分开，勿把复方或缓冲"Veronal"记入本药 |
+| 关键药代摘要 | 本药为**长效**、经肾以原型排泄（类别一致）；本次核查无人体半衰期／清除的说明书正文可引，`PMID:9383746` 仅为离体大鼠肝灌流的分布研究，不外推人体参数，故不填数值 |
 | 中国管制状态 | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 4 项“巴比妥”（英文名 Barbital；CAS 57-44-3）。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **barbital＝CSCN 2145，附表 IV，非麻醉，品牌 Veronal／Plexonal**（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA 检索 0 条 → 无正文，按 `basic`。**法国** BDPM 检索 0 条；**中国**上市与核准适应证待核实（NMPA／CDE 不可脚本检索） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **barbital＝CSCN 2145，附表 IV，非麻醉，品牌 Veronal／Plexonal**（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA 检索 0 条，NDC 仅原料（bulk ingredient），无正文，按 `basic`。**法国** BDPM 检索 0 条；**西班牙** CIMA 检索命中 3 条但均为 fenobarbital／tiobarbital 的子串命中，无 barbital 产品；**英国** emc 0 条。**中国**上市与核准适应证待核实 |
 | 身份与统计 | WHO ATC `N05CA04`；DDD **0.5 g 口服**（本组最高 DDD，反映长效低效价，统计指标非处方量）；CAS **57-44-3**；分子式 **C8H12N2O3**（MW 184.19，PubChem CID 2294）；MeSH [D001462](https://meshb.nlm.nih.gov/record/ui?ui=D001462)；PubChem [2294](https://pubchem.ncbi.nlm.nih.gov/compound/2294)；DrugBank [DB01483](https://www.drugbank.ca/r/DB01483)；RxNorm [1325](https://rxnav.nlm.nih.gov/REST/rxcui/1325.json) |
 
-**身份陷阱（硬规则）**："**Veronal 已通用化**"——作为商标词它可指代不同产品或作缓冲盐／复方成分，**商品名出现在题名不足以证明药物身份**；本档案只收入按物质名（barbital／barbitone／5,5-diethylbarbituric acid）或 MeSH `D001462` 确认的记录。别把别的巴比妥盐、含 barbital 的复方（如与解热镇痛或咖啡因的固定组合）并入单方评分。
+**身份陷阱（硬规则）**："**Veronal 已通用化**"。作为商标词它可指代不同产品或作缓冲盐／复方成分，**商品名出现在题名不足以证明药物身份**。本档案只收入按物质名（barbital／barbitone／5,5-diethylbarbituric acid）或 MeSH `D001462` 确认的记录。别把别的巴比妥盐、含 barbital 的复方（如与解热镇痛或咖啡因的固定组合）并入单方评分。
 
 ## 2. 评分
 
-规则见 [SCORING.md](../SCORING.md)。基线按口服游离酸评；分数为证据与负担的整理，不构成个体用药判断。凡标"类别"者为巴比妥类共有药理，非本药实测发生率。
+规则见 [SCORING.md](../SCORING.md)。基线按口服游离酸评。分数为证据与负担的整理，不构成个体用药判断。凡标"类别"者为巴比妥类共有药理，非本药实测发生率。
 
 ### 2.1 药物负担（1–5，越高越重）
 
@@ -30,59 +30,70 @@
 | 短期耐受负担 | 3 | **类别**：镇静、宿醉样次日精神运动损害（长效尤著）、共济失调；本药无不良反应频率表 |
 | 相互作用／监测负担 | 3 | **类别**酶诱导（CYP2B/2C/3A）与叠加中枢抑制；肾排泄特性使利尿／肾功能变化显著影响暴露。无本药特异临床相互作用研究 |
 | 停药负担 | 3 | **类别**：巴比妥类骤停可致戒断（失眠、激越、惊厥风险）；本药无特异撤药谱或时程 |
-| 滥用／误用潜力 | N/A | 附表 IV 属**法律层级**；本药仅有**动物**强化信号——`PMID:14557719` 钠 barbital 全身与脑室内给药在大鼠诱导条件位置偏爱——但**非自身给药、非人体强化效应、无带分母的非医疗使用数据**，按 SCORING 门槛记 `N/A`（长效、慢起效通常降低而非升高即时强化） |
+| 滥用／误用潜力 | N/A | 附表 IV 属**法律层级**；本药仅有**动物**强化信号：`PMID:14557719` 钠 barbital 全身与脑室内给药在大鼠诱导条件位置偏爱，但**非自身给药、非人体强化效应、无带分母的非医疗使用数据**，按 SCORING 门槛记 `N/A`（长效、慢起效通常降低而非升高即时强化） |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 无当地本药处方数据；中国已列第二类精神药品（管制≠处方不当率），2017 版老年 PIM 标准无本药逐名条目，记 `N/A` |
 
-总体解释：本药负担形状是"**长效巴比妥的蓄积与宿醉镇静 + 类依赖**"，起效慢、作用长，滥用维度缺合格证据故 `N/A`；各临床分为类别推断，本药人体特异数据仅一例致畸观察。
+总体解释：本药负担形状是"**长效巴比妥的蓄积与宿醉镇静 + 类依赖**"，起效慢、作用长，滥用维度缺合格证据故 `N/A`。各临床分为类别推断，本药人体特异数据仅一例致畸观察。
 
 ### 2.2 按使用场景适宜度（A–D）
 
-**本轮不设场景评分。** 无现行或历史说明书正文，历史催眠／镇静用途无当前决策价值，且无本药特异人体对照证据可绑定到具体适应证，故不列 A–D 行。
+**本次核查不设场景评分。** 无现行或历史说明书正文，历史催眠／镇静用途无当前决策价值，且无本药特异人体对照证据可绑定到具体适应证，故不列 A–D 行。
 
 ## 3. 主要作用
 
-按**巴比妥类共有机制**：易化 GABA-A 受体—氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠、抗惊厥与（高浓度）麻醉。**为类别机制**；本药为长效、肾原型排泄，这一药代特征（类别一致）解释了其在肾功能不全时更易蓄积与次日常残留镇静。本药 5 位为两个乙基、C2 为羰基（非噻羰基），故**不属于静脉麻醉性硫代巴比妥**，其历史用途限于口服镇静／催眠而非麻醉诱导——此为本药与硫喷妥／海索那类的作用谱区别。
+按**巴比妥类共有机制**：易化 GABA-A 受体与氯通道、延长开放，高浓度直接拟 GABA。效应为镇静、催眠与抗惊厥，高浓度时尚有麻醉作用。**为类别机制**。本药为长效、肾原型排泄，这一药代特征（类别一致）解释了其在肾功能不全时更易蓄积与次日常残留镇静。本药 5 位为两个乙基、C2 为羰基（非噻羰基），故**不属于静脉麻醉性硫代巴比妥**，其历史用途限于口服镇静／催眠而非麻醉诱导。此为本药与硫喷妥／海索那类的作用谱区别。
 
 ## 4. 适应范围
 
-本药历史上作为**长效催眠／镇静**用途——barbital 是最早商品化的巴比妥（1903 年以 Veronal 之名由 Bayer 上市），此后 "**Veronal**" 一名被通用化并沿用至多种 barbital 制剂与"barbitone"表述；本药也曾在旧文献中作为镇静对照与酒精性精神障碍处理比较对象（`PMID:5687418`，1968 年旧文献，未逐节取得数值）。无现行说明书正文，给药信息、禁忌与限制**不予填写**（§10）。中国核准状态待核实。
+本药历史上作为**长效催眠／镇静**用途。barbital 是最早商品化的巴比妥（1903 年以 Veronal 之名由 Bayer 上市），此后 "**Veronal**" 一名被通用化并沿用至多种 barbital 制剂与"barbitone"表述。本药也曾在旧文献中作为镇静对照与酒精性精神障碍处理比较对象（`PMID:5687418`，1968 年旧文献，未逐节取得数值）。无现行说明书正文，给药信息、禁忌与限制**不予填写**（§10）。中国核准状态待核实。
 
 ## 5. 实际效果与局限
 
-本药特异的**人体**证据薄弱：`PMID:18818187` 为 1960–1993 年布达佩斯毒理科孕妇自杀队列（1044 名自伤孕妇中 411 名活产、367 名子代被评估），比较以超剂量 barbital、hexobarbital、butobarbital（部分含 barbital 的复方 Barbamid＝butobarbital＋aminophenazone）自杀者子代与其同胞对照的先天异常与发育结局；它是**观察性、过量暴露**研究，不能当作治疗剂量的疗效或安全性，也不能把复方暴露计入 barbital 单方。其余命中多为分析化学、Veronal 缓冲液用途或动物麻醉（`PMID:7906735` 以 barbital 麻醉小鼠）。**没有可引用的本药现代随机对照**，故无场景评分。历史上 barbital 曾被作为镇静对照药与酒精性精神障碍的处理比较对象（`PMID:5687418`，1968 年旧文献，本轮仅取题录、未引其数值与结论）。
+本药特异的**人体**证据薄弱：`PMID:18818187` 为 1960–1993 年布达佩斯毒理科孕妇自杀队列（1044 名自伤孕妇中 411 名活产、367 名子代被评估），比较以超剂量 barbital、hexobarbital、butobarbital（部分含 barbital 的复方 Barbamid＝butobarbital＋aminophenazone）自杀者子代与其同胞对照的先天异常与发育结局。它是**观察性、过量暴露**研究，不能当作治疗剂量的疗效或安全性，也不能把复方暴露计入 barbital 单方。其余命中多为分析化学、Veronal 缓冲液用途或动物麻醉（`PMID:7906735` 以 barbital 麻醉小鼠）。**没有可引用的本药现代随机对照**，故无场景评分。历史上 barbital 曾被作为镇静对照药与酒精性精神障碍的处理比较对象（`PMID:5687418`，1968 年旧文献，本次核查仅取题录、未引其数值与结论）。
 
 ## 6. 长期风险
 
-**类别**：耐受、依赖、认知—精神运动损害；酶诱导长期改变甾体／维生素 D 代谢。本药特异：长效＋**经肾以原型排泄**（少肝代谢）→ 肾功能减退时**药物蓄积、半衰期显著延长与过度镇静**为主要长期隐患，也是其在历史上被用作药代／肾清除研究标准物的原因；孕妇超剂量暴露的致畸观察见 `PMID:18818187`（属案例级、非常规剂量）。无本药人体长期对照数据。
+**类别**：耐受、依赖、认知与精神运动损害。酶诱导长期改变甾体／维生素 D 代谢。本药特异。长效＋**经肾以原型排泄**（少肝代谢）→ 肾功能减退时**药物蓄积、半衰期显著延长与过度镇静**为主要长期隐患，也是其在历史上被用作药代／肾清除研究标准物的原因。孕妇超剂量暴露的致畸观察见 `PMID:18818187`（属案例级、非常规剂量）。无本药人体长期对照数据。
 
 ## 7. 短期风险、停药与误用
 
-**短期**：镇静、宿醉样次日损害、共济失调、认知下降，高剂量呼吸抑制（**类别**）；长效本药尤以次日残留镇静为特征。**停药**：类内通用，骤停可致戒断（失眠、激越、震颤，严重时惊厥），本药无特异撤药谱或时程。**误用／滥用**：本药有动物条件位置偏爱证据（`PMID:14557719`），但缺自身给药／人体强化／带分母非医疗使用数据，评分维度记 `N/A`；附表 IV 与"第二类精神药品"均为法律层级，不证明滥用率。**过量**：长效致延迟性昏迷与呼吸抑制，无特异解毒剂（类别）；`PMID:18818187` 报告孕妇以超剂量 barbital 自杀的子代随访。
+- **短期**：镇静、宿醉样次日损害、共济失调、认知下降，高剂量呼吸抑制（**类别**）。长效本药尤以次日残留镇静为特征。
+- **停药**：类内通用，骤停可致戒断（失眠、激越、震颤，严重时惊厥），本药无特异撤药谱或时程。
+- **误用／滥用**：本药有动物条件位置偏爱证据（`PMID:14557719`），但缺自身给药／人体强化／带分母非医疗使用数据，评分维度记 `N/A`。附表 IV 与"第二类精神药品"均为法律层级，不证明滥用率。
+- **过量**：长效致延迟性昏迷与呼吸抑制，无特异解毒剂（类别）。`PMID:18818187` 报告孕妇以超剂量 barbital 自杀的子代随访。
 
 ## 8. 重要相互作用
 
-**类别层面**：巴比妥类诱导肝药酶，降低抗凝药、口服避孕药、糖皮质激素、部分抗惊厥药与强心苷等效应；与酒精、阿片、苯二氮䓬叠加中枢与呼吸抑制；因经肾原型排泄，与影响肾小管功能／尿 pH 的药物可显著改变其清除。以上均为**类别推断**，本药无特异临床相互作用研究正文。
+**类别层面**：巴比妥类诱导肝药酶，降低抗凝药、口服避孕药、糖皮质激素、部分抗惊厥药与强心苷等效应。与酒精、阿片、苯二氮䓬叠加中枢与呼吸抑制。因经肾原型排泄，与影响肾小管功能／尿 pH 的药物可显著改变其清除。以上均为**类别推断**，本药无特异临床相互作用研究正文。
 
 ## 9. 特殊人群
 
-老年、妊娠、哺乳、肝肾功能不全、呼吸功能不全者对巴比妥类的镇静与呼吸抑制更敏感、易蓄积（本药长效尤需注意肾蓄积）——**类别**注意；`PMID:18818187` 提示妊娠期超剂量暴露的胎儿风险关注。本药无说明书正文给出人群剂量或禁忌（§10），不构成个体化建议。
+对巴比妥类的镇静与呼吸抑制更敏感、易蓄积的人群包括：
+- 老年
+- 妊娠
+- 哺乳
+- 肝肾功能不全
+- 呼吸功能不全
+本药长效，尤需注意肾蓄积。**类别**注意。`PMID:18818187` 提示妊娠期超剂量暴露的胎儿风险关注。本药无说明书正文给出人群剂量或禁忌（§10），不构成个体化建议。
 
 ## 10. 证据边界
 
-1. **无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM 均 0 条 → 记检索缺口，**不据此断言"未批准／已撤市／不存在"**；维持 `basic`。联邦公报对本名检索命中反兴奋剂清单、豁免化学制剂清单与 DEA 相关公告等旁证文件，无本药产品许可或撤市公告。
-2. **本药人体特异证据极少**：仅一例孕妇超剂量暴露的观察队列（`PMID:18818187`）与一项动物强化信号（`PMID:14557719`），其余为类别外推；官方 DDD 0.5 g 口服为本组最高，只反映历史长效低效价的**统计口径**，不代表本药当前有可评的适应症或人体疗效。
-3. **Veronal 通用化**：商标词不能单独证明身份，复方与缓冲用途的 barbital 条款不计入单方；游离酸与钠盐分开。
+**2026-11-10 复核记录**：西班牙 CIMA `nombre=barbital` 返回 3 条，但均为子串命中（FENOBARBITAL BASI 100 MG/ML SOLUCION INYECTABLE、TIOBARBITAL B. BRAUN 0.5 G／1 G 注射用粉末），**没有 barbital 产品**。美国 openFDA 标签 0 条，NDC 目录仅有 Chemische Fabrik Berg 的 **bulk ingredient**（原料）记录，DailyMed 0 条、法国 BDPM 0 行。英国 emc 0 条。美国 DEA 附表 IV 的法律层级不变（§1）。核准说明书未取得，状态保持 `basic`。
+
+1. **无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM 均 0 条 → 记检索缺口，**不据此断言"未批准／已撤市／不存在"**。维持 `basic`。联邦公报对本名检索命中反兴奋剂清单、豁免化学制剂清单与 DEA 相关公告等旁证文件，无本药产品许可或撤市公告。
+2. **本药人体特异证据极少**：仅一例孕妇超剂量暴露的观察队列（`PMID:18818187`）与一项动物强化信号（`PMID:14557719`），其余为类别外推。官方 DDD 0.5 g 口服为本组最高，只反映历史长效低效价的**统计口径**，不代表本药当前有可评的适应症或人体疗效。
+3. **Veronal 通用化**：商标词不能单独证明身份，复方与缓冲用途的 barbital 条款不计入单方。游离酸与钠盐分开。
 4. **DEA／中国层级**：附表 IV 与中国第二类精神药品为法律分类，不证明滥用率或疗效，不用于滥用维度定分。
-5. **中国管制**：沿用 2026-10-06 已审计结论（药用类精神药品第二类第 4 项，CAS 57-44-3），本轮不重跑；NMPA／CDE 不可脚本检索。
+5. **中国管制**：沿用 2026-10-06 已审计结论（药用类精神药品第二类第 4 项，CAS 57-44-3），本次核查不重跑。NMPA／CDE 不可脚本检索。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：可深挖的本药特异证据仅一项动物强化信号与一项孕妇过量观察，不足以支撑问题导向专题。
 
-**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（barbital 2145 IV）；[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22barbital%22)（0 条）；[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=barbital)（total_elements＝0）；[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22barbital%22)（0 条）；[法国 BDPM 检索](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BARBITAL)；[联邦公报按名检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22barbital%22&per_page=5)。
+**监管与检索**：[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（barbital 2145 IV）。[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22barbital%22)（0 条）。[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=barbital)（total_elements＝0）。[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22barbital%22)（0 条）。[法国 BDPM 检索](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BARBITAL)。[联邦公报按名检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22barbital%22&per_page=5)。
 
-**研究**：[钠 barbital 大鼠条件位置偏爱（PMID:14557719）](https://pubmed.ncbi.nlm.nih.gov/14557719/)；[孕妇超剂量 barbital／hexobarbital／butobarbital 自杀的致畸随访（PMID:18818187）](https://pubmed.ncbi.nlm.nih.gov/18818187/)；[离体大鼠肝灌流 barbital 分布（PMID:9383746）](https://pubmed.ncbi.nlm.nih.gov/9383746/)。
+**研究**：[钠 barbital 大鼠条件位置偏爱（PMID:14557719）](https://pubmed.ncbi.nlm.nih.gov/14557719/)。[孕妇超剂量 barbital／hexobarbital／butobarbital 自杀的致畸随访（PMID:18818187）](https://pubmed.ncbi.nlm.nih.gov/18818187/)。[离体大鼠肝灌流 barbital 分布（PMID:9383746）](https://pubmed.ncbi.nlm.nih.gov/9383746/)。
 
-**分类与身份**：[WHO ATC/DDD `N05CA04`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA04)；[MeSH D001462](https://meshb.nlm.nih.gov/record/ui?ui=D001462)；[PubChem CID 2294](https://pubchem.ncbi.nlm.nih.gov/compound/2294)；[DrugBank DB01483](https://www.drugbank.ca/r/DB01483)；[RxNorm 1325](https://rxnav.nlm.nih.gov/REST/rxcui/1325.json)；[Wikidata Q412409](https://www.wikidata.org/wiki/Q412409)；English Wikipedia 指针：[Barbital](https://en.wikipedia.org/wiki/Barbital)。
+**分类与身份**：[WHO ATC/DDD `N05CA04`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA04)。[MeSH D001462](https://meshb.nlm.nih.gov/record/ui?ui=D001462)。[PubChem CID 2294](https://pubchem.ncbi.nlm.nih.gov/compound/2294)。[DrugBank DB01483](https://www.drugbank.ca/r/DB01483)。[RxNorm 1325](https://rxnav.nlm.nih.gov/REST/rxcui/1325.json)。[Wikidata Q412409](https://www.wikidata.org/wiki/Q412409)。English Wikipedia 指针。[Barbital](https://en.wikipedia.org/wiki/Barbital)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

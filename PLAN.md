@@ -40,6 +40,24 @@
 **交付**：提交到本分支，等待人工审阅，不合并 `main`，不推送。
 
 
+## Wave 16 完成记录（2026-11-10）
+
+**实际处理**：159 份 `basic` 主档案全部按法域、具体产品与现行监管文本重做检索与改写，覆盖 8 个批次（每批 19–21 份）。**27 份升级为 `reviewed`、132 份保持 `basic`**（逐份把检索范围与缺口写入 §10）；总数 384 份不变（核心六组 280、跨组 104），专题仍 15 份。
+
+**升级名单（27 份）**：acetylleucine、biperiden、bromperidol、chlorprothixene、cinnarizine-and-dimenhydrinate、cinolazepam、cytisinicline、flunarizine、flunitrazepam、ginkgo-folium、hyperici-herba、imidafenacin、levomethadone、levosulpiride、medazepam、melperone、mexazolam、mosapramine、perazine、physostigmine、propiomazine、propiverine、prothipendyl、sertindole、sultopride、tofisopam、vinpocetine。
+
+**取证范围**：新增或补充的现行文本覆盖西班牙 CIMA（Sibelium 55.352、Mictonorm 81879、Serdolect、AKINETON 28994/51224、VINPOCETINA COVEX 等）、日本 PMDA 添付文書（ウリトス、サイレース、バルネチール、クレミン、MELEX、レスミット、ブロムペリドール）、瑞典 FASS（Truxal、Propavan、Buronil）、匈牙利 GRANDAXIN、波兰 RPL Pernazinum、斯洛伐克 Gerodorm、德国 Dominal/Levomethadon/Anticholium、英国 emc（Cytisinicline PL 51228/0001、THR 33336/0003、CIZINATE SmPC 15869）、澳大利亚 TGA（CIZINATE PI CP-2021-PI-02009-1）、法国 BDPM（Tanganil、Tanakan）。`cinnarizine-and-dimenhydrinate` 的两法域文本与 `hexobarbital` 的中国管制结论关闭了 Wave 15 遗留。
+
+**中国管制复核**：159 份逐项复核 2025/2026 三份药用类目录、非药用类 396 项与两批增列；交接时 10 份待核实全部重审——`pimavanserin` 明确不落入四类整类；`pimozide`、`benperidol` 按公告文字落入奥啡类条件（二）但保留「归属待核实」；`hexobarbital` 明确「未发现列入」并辨明同名冲突；`lisdexamfetamine`、`bupropion-and-dextromethorphan` 与三份天然产物保留「待核实」并写明未决条件。
+
+**证据修复**：交叉审计发现升级中压缩掉的 5 条文献引用，已恢复——prothipendyl（14170115、1675298、4263179）、melperone（22356215、81118）、biperiden（42057551）、levosulpiride（36154321）、perazine（6140694）；另修复 11 份文件中的占位符损坏（NUL 字节与丢失 URL），按 HEAD 与正文语境逐行恢复。
+
+**语言审计（[STYLE.md](STYLE.md)）**：全部 384 份主档案与 15 份专题审订。硬指标（基线→本轮结束，按扫描口径统计正文）：破折号 2713→37；分号 20837→1307；3 项以上并列句 3558→2172（4 项以上长枚举专项改写）；内部流程语 2796→18；夸大词 1392→674；元表述 7→3；文档字符数 2641092→2727875（升级新增内容与列表化改写）。保留全部数字、剂量、日期、编码、setid/PL/CIS、PMID/DOI、URL、表格结构、章节编号与证据边界；术语统一为「核准适应证」「半衰期」等；交叉审计按审计前快照逐文件比对，未发现证据丢失（除上述已修复项）。
+
+**执行方式**：8 个升级子代理、多个审计/改写子代理并行，批次文件互不重叠；主代理负责共享文件、统计、标题与状态行收尾及最终验收。子代理未提交、未推送、未合并 `main`。
+
+**仍开放**：NMPA 的 412 与 CDE 的 202 仍不可脚本检索，132 份 `basic` 的中国上市与核准适应证继续按待核实记录；部分历史药物（terodiline、emepronium、obidoxime 等）在任何检索法域均无现行产品文本；德国、意大利、丹麦等官方入口仍不可达。本轮未新增专题、未扩写计划外药物。
+
 ## Wave 15：50 条跨组神经精神与神经药物建档（2026-11-05）
 
 **分支**：`plan/neuropsych-crossgroup-wave15`。基于 Wave 14 审阅修补合并后的 `main`，基线 `91702d126c2981d55e7e8de08946b9af3e41e553`。

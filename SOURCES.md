@@ -23,6 +23,20 @@ ATC 在线索引可免费检索；完整电子数据的获取与再利用须遵�
 - **[Health Canada Drug Product Database（DPD）](https://health-products.canada.ca/dpd-bdpp/index-eng.jsp)**：核对加拿大药品产品记录、DIN、活性成分、剂型及上市状态；历史记录不等于当前可获得。
 - **[FDA Substance Registration System（SRS）／UNII](https://precision.fda.gov/uniisearch/)**：核对物质身份、UNII 与官方同义名映射；物质登记本身不代表监管批准或上市。
 
+### 其他法域的现行产品文本入口
+
+以下入口用于逐法域核对「产品＋剂型＋文本版本」；每个入口只代表该法域，不能外推为其他地区或其他产品。
+
+- **[英国 emc（medicines.org.uk）](https://www.medicines.org.uk/emc/)**：厂商提交并持续维护的 SmPC／PIL；记录产品号、PL 或 PLGB 编号与 §10 文本修订日。检索 0 命中只写检索事实，不等于未获批。
+- **[法国 BDPM（base-donnees-publique.medicaments.gouv.fr）](https://base-donnees-publique.medicaments.gouv.fr/)**：ANSM 公开药品数据库，提供 RCP（产品特性摘要）与 CIS 编号；字母序接口按商品名前缀匹配，检索通用名需改用商品名或主要别名。授权状态与商业状态分列（如「已废止」不等于因安全或疗效撤市）。
+- **[西班牙 CIMA（AEMPS）](https://cima.aemps.es/cima/publico/home.html)**：ficha técnica 与注册号入口；本地化通用名（如 flunarizina、biperideno）常比英文名更易命中。
+- **[日本 PMDA 添付文書検索](https://www.pmda.go.jp/PmdaSearch/iyakuSearch/)** 与 **[KEGG MEDICUS](https://www.kegg.jp/medicus-bin/japic_med)**：核对日本核准适应证、剂量与添付文書改订日；记录添付文書番号与承認番号，二手转录与官方 PDF 分层标注。
+- **[瑞典 FASS／Läkemedelsverket](https://fass.se/)**：现行 produktresumé（SmPC）与产品信息；记录上市许可号与文本复核日。
+- **[波兰 RPL／rejestrymedyczne.ezdrowie.gov.pl](https://rejestrymedyczne.ezdrowie.gov.pl/)**、**[斯洛伐克 ŠÚKL](https://www.sukl.sk/)**、**[匈牙利 OGYÉI／NEAK](https://ogyei.gov.hu/)**：中东欧现行 ChPL／SmPC 入口，记录产品识别号、批准文号与文本日期。
+- **[瑞士 Swissmedicinfo](https://www.swissmedicinfo-pro.ch/)**：瑞士专业信息（Fachinformation／FI）入口。
+- **[澳大利亚 TGA eBS／PICMI](https://www.ebs.tga.gov.au/)**：ARTG 登记与产品信息（PI）PDF；记录 ARTG 号、PI 编号与修订日。tga.gov.au 主站超时时可改走 eBS 公开库。
+- 德国官方与商业数据库：BfArM 核准信息、Gelbe Liste、univadis、ABDA 等常提供二级转录；只在无法取得一手 PDF 时使用，并在档案内标注「二级转录」。
+
 ### 中国麻醉药品和精神药品管制
 
 中国管制状态与药品上市批准分开核对。当前基准（核查 2026-11-05）：

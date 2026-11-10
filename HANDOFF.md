@@ -1,13 +1,14 @@
-# 接手说明 | Psychopharm Atlas · Wave 15 收尾（2026-11-10）
+# 接手说明 | Psychopharm Atlas · Wave 16 收尾（2026-11-10）
 
 本文件只汇总**接手所需事实与未决问题**，不启动新任务，也不增加新流程。后续维护以 GitHub `main` 为唯一基线，先读 [AGENTS.md](AGENTS.md)、[SCORING.md](SCORING.md)、[SOURCES.md](SOURCES.md)、[PLAN.md](PLAN.md)。
 
 ## 当前完成度
 
-- 药物主档案：**384** 份（核心六组 280，跨组 104）；状态 **218 reviewed / 7 indexed / 159 basic**。
+- 药物主档案：**384** 份（核心六组 280，跨组 104）；状态 **245 reviewed / 7 indexed / 132 basic**。
 - 跨组选录目录：**91** 条，其中 **89** 条已建档；余下 `N07BC51` 和 `N06DA53` 仅为尚无可核验具体产品的复方分类记录，**不计为缺失药品**。
 - 专题分析：`analysis/` **15** 份，采用问题导向，未设配额。
 - Wave 15：50 份（A 下尿路 13，B 前庭 7，C 解毒 10，D 帕金森及多巴胺 10，E 其他神经疾病 10）；**40 reviewed / 10 basic / 0 indexed**。已完成逐组评分修补、结构及内部链接检查，结果记于 [PLAN.md](PLAN.md)。
+- Wave 16：159 份 `basic` 全部重做跨法域现行监管文本检索，**27 份升级 reviewed**、132 份保持 basic（缺口逐份写入 §10）；同时完成全库语言审订并修复 5 条被压缩的文献引用。完成记录见 [PLAN.md](PLAN.md)。
 
 ## 对接时必须保留的判断边界
 
@@ -20,8 +21,9 @@
 ## 尚未消除的证据缺口
 
 - 部分中国 NMPA / CDE 官方入口响应 412 / 202 校验页，许多药物的**中国上市状态及核准适应证仍待官方文本核实**。中国**列管**核对与中国**批准**是两项独立工作。
-- Wave 15 的 10 份 `basic`：`emepronium`、`terodiline`、`propiverine`、`imidafenacin`、`biperiden`、`obidoxime`、`physostigmine`、`acetylleucine`、`flunarizine`、`cinnarizine-and-dimenhydrinate`，主要缺具体产品＋法域＋现行监管正文，不能因本轮审阅通过就升级。
-- 澳大利亚 [Cizinate 药品资料](https://www.safetyandquality.gov.au/medicine-finder/cizinate) 已定位，含 2026-02 修订与完整 20/40 mg 成分；未来若逐节复核监管原文，可重新评价复方档案状态，但本轮不预先升级。
+- Wave 15 遗留的 10 份 `basic` 在 Wave 16 已重审：`propiverine`、`imidafenacin`、`biperiden`、`physostigmine`、`acetylleucine`、`flunarizine`、`cinnarizine-and-dimenhydrinate` 取得现行文本后升级为 `reviewed`；`emepronium`、`terodiline`、`obidoxime` 仍无任何法域现行监管正文，保持 `basic`。
+- 现存的 132 份 `basic` 中，多数在任何检索法域均无现行产品文本（历史药物或地区性产品），检索范围与缺口已逐份写入各档案 §10；这些档案的给药方案与核准适应证仍不能按监管级引用。
+- `cinnarizine-and-dimenhydrinate` 的澳大利亚 TGA 产品信息（CP-2021-PI-02009-1，修订 2025-12-23）与英国 SmPC（emc 15869，PL 25298/0366）已在 Wave 16 取得并写入，档案升级为 `reviewed`；欧洲大陆其他法域文本仍未逐国核对。
 - 个别历史药品的正式撤销／停供文件、部分非英美法域产品文本、部分研究全文与中国具体产品数据仍缺，逐条以原档案 §10 的事实层级为准。
 
 ## 推荐的继续方式
