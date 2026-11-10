@@ -1,6 +1,6 @@
 # 精神药物建档计划与执行记录
 
-> 当前任务：**Wave 15：50 条跨组神经精神与神经药物建档计划**。工作分支 `plan/neuropsych-crossgroup-wave15`，基于 Wave 14 审阅修补合并后的 `main`（基线 `91702d126c2981d55e7e8de08946b9af3e41e553`）。Wave 14 及 Wave 1–13 均已完成并合并，不重复派发。
+> 当前阶段：**Wave 15 已完成建档与审阅修补，转入交接维护**。本轮工作分支 `plan/neuropsych-crossgroup-wave15`，基础提交 `91702d126c2981d55e7e8de08946b9af3e41e553`；合并后的 `main` 为后续工作唯一基线。Wave 1–15 均为历史完成任务，不重复派发；接手说明见 [HANDOFF.md](HANDOFF.md)。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -857,3 +857,15 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **实际修补**：① Aducanumab 补入 FDA 加速批准撤回清单（BLA 761178，2024-11-01）与 Biogen 2024-01-31 一手停研公告，区分企业停研与 FDA 撤回，不把撤回原因写成未经证实的法律路径；② Galantamine 删除重度 AD 与皮疹两个不构成独立临床使用场景的评分行；benzgalantamine 删除重度 AD 续用评分行；③ Ginkgo folium 按产品与人群收窄评分：EGb 761 240 mg/day 在德国 2026 S3 指南所列轻中度 AD／伴非精神病性行为症状的血管性痴呆场景保留 C，MCI 调整为 D，卒中后认知障碍不再与指南场景合并；Cochrane 2026 对痴呆的低确定性小到中度获益不支持把所有痴呆场景一律降为 D；④ Gantenerumab、ACP-204、AR1001、Blarcamesine、Buntanetap、Deulumateperone、Hydromethylthionine、JNJ-2056、Masitinib、MK-1167、Remternetug、Simufilam、Valiltramiprosate、Zatolmilast 与 Zervimesine 等研究候选的全球性“从未获批／无任何法域批准”改为可复现的检索事实与状态待核实；⑤ 甘露特钠的再注册结论改为媒体层解读，官方文书未取得，现行注册状态待核实；⑥ Lecanemab 中国管制行补入奥啡类；⑦ SOURCES.md 纳入 2026-07-01 增列 16 种完整逐名核查清单，29 个候选的名称、代号与已核同义名逐项对照均未命中；ipidacrine.md 对该附表的检索缺口据此关闭；⑧ AGENTS.md 修正标点并增加否定性批准状态的证据规则。
 
 **复核结果**：29 份档案数量与状态不变（8 `reviewed`、2 `indexed`、19 `basic`）；未新增药物文件或专题；所有修补均为局部证据边界与评分修正。
+
+## Wave 15 审阅修补与交接记录（2026-11-10）
+
+**审阅范围**：50 份本轮档案与 `AGENTS.md`、`PLAN.md`、`README.md`、`catalog/index.md`、`catalog/related.md`。不对既有 334 份药物重新评估。
+
+**实质修补**：按 `AGENTS.md` 和 `SCORING.md` 的规则，删除 89 条仅凭禁忌证、特殊人群、相互作用、监测、机制推测、无对照证据或固定复方外推形成的独立 A–D 评分行，保留可核实的实际治疗场景。高风险禁忌仍保留在 §6–§9 与相关主适应证的限制说明中，删除独立评分不代表降低或否定风险。更正 naloxone 妊娠期紧急逆转的错误风险暗示，flumazenil 对 benzodiazepine 抗惊厥保护的拮抗表述，levodopa 单方与固定复方边界；betahistine 按 Cochrane 2023 公开摘要的低确定性证据下调场景等级，flunarizine 的 PMID:42572044 从错误的 RCT 定性改为回顾性两中心队列并加入随机证据综述；trofinetide 主场景反映效应量有限与胃肠道负担。amifampridine 成人与已批准的 ≥6 岁儿童 LEMS 场景分别陈述。E 组 9 份重复 §2.2 标题已清理。
+
+**结构复核**：50 份均含 1–10 主要章节、唯一 §2.2 标题和引用键；全部内部 Markdown 文件链接可解析，无 A–D 表格字段结构错误。`terodiline` 与 `obidoxime` 无可评分的当前治疗场景，保持无评分行而非填充占位。原有 40 `reviewed`、10 `basic`、0 `indexed` 状态保持不变。
+
+**目录复核**：修正 `catalog/index.md` 遗留的 334／54／46／39／7 旧统计，并把 `ipidacrine` 与 `remternetug` 补入七份 `indexed` 名单。`catalog/related.md` 对 aducanumab 的 FDA 撤回日期与企业停售分别注明。最终总数 **384 份**，其中核心六组 **280**、跨组 **104**；**218 reviewed／7 indexed／159 basic**；跨组选录 **91**，已建档 **89**，未建档的 **2 条均为未落地具体产品的 ATC 复方类别**；专题仍为 15 份。
+
+**移交边界**：中国 NMPA 412 与 CDE 202 拦截、部分欧洲／亚洲官方标签未取得、个别历史药物批准及撤回文书未核实，均不视为已解决；以 [HANDOFF.md](HANDOFF.md) 所列范围作为下一接手方起点，不自动启动新波次。
