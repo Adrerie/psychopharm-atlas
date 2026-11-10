@@ -99,7 +99,12 @@
 
 未建专题分析。若展开，值得单独成文的问题是"gantenerumab：淀粉样 PET 大幅下降而临床量表无分离，这一组合说明什么"，但它必须以主条目引用的登记数据为界，不再堆数据。
 
-- 试验登记（单条检索接口），`https://clinicaltrials.gov/api/v2/studies/NCT03443973`、`.../NCT03444870`、`.../NCT01224106`、`.../NCT02051608`、`.../NCT05256134`、`.../NCT04339413`、`.../NCT04374253`、`.../NCT04592341`、`.../NCT06424236`、`.../NCT01760005`
+- 试验登记（单条检索接口）：
+  - `https://clinicaltrials.gov/api/v2/studies/NCT03443973`、`.../NCT03444870`
+  - `.../NCT01224106`、`.../NCT02051608`
+  - `.../NCT05256134`、`.../NCT04339413`
+  - `.../NCT04374253`、`.../NCT04592341`
+  - `.../NCT06424236`、`.../NCT01760005`
 - 检索式：`https://clinicaltrials.gov/api/v2/studies?query.term=gantenerumab&pageSize=20`（19 条命中，2026-11-05）
 - WHO ATC 亚组页：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DX&display=subgroup`
 - DailyMed 现行清单：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=gantenerumab`（0 条）

@@ -122,14 +122,15 @@
 - 中国：NMPA 对本机恒 **HTTP 412**、CDE 目录接口恒 **202 校验页** → 上市与核准适应证待核实。未使用商业库补足。
 - 疗效证据：本档案不给 A／B 分的依据是文本自身（无人体对照研究、时间窗与"效果不佳／价值可疑／不应使用"清单），而非外部阴性结论。对 DMSA／DMPS 的比较性证据本次核查未检索到可归属本药的头对头资料。
 - 文献层面锚点（题名／来源级，未回原文提取数值）：
-- `PMID:417891`（G6PD 缺乏儿童 BAL 驱铅期溶血
-1978）、`PMID:4293707`（硫酸铜致溶血与 G6PD 抑制机制讨论，1967）、`PMID:31644190`、`PMID:17712859`（威尔逊病相关）、`PMID:1745163`（家庭性铅中毒病例系列）。
+- `PMID:417891`（G6PD 缺乏儿童 BAL 驱铅期溶血，1978）与 `PMID:4293707`（硫酸铜致溶血与 G6PD 抑制机制讨论，1967）
+- `PMID:31644190` 与 `PMID:17712859`（威尔逊病相关）
+- `PMID:1745163`（家庭性铅中毒病例系列）
 - PubMed 检索式：`dimercaprol AND (glucosephosphate dehydrogenase deficiency OR hemolytic anemia OR haemolysis)`，HTTP 200，count 32。
 - 无 DDD（`ATC-V03AB` 组注），标签剂量以 mg/kg 与疗程频次表达，二者不可换算成任何"日剂量口径"。
 
 ## 11. 深入分析与来源
 
-- `US-BAL`（现行官方标签正文）：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bee9a137-160f-47e8-a551-ca461ae4f51e （DESCRIPTION、CLINICAL PHARMACOLOGY、INDICATIONS、CONTRAINDICATIONS、WARNINGS、PRECAUTIONS（含花生油与药用铁）、ADVERSE REACTIONS、DRUG ABUSE AND DEPENDENCE、OVERDOSE、DOSAGE AND ADMINISTRATION、HOW SUPPLIED、ANIMAL TOXICOLOGY、INGREDIENTS AND APPEARANCE／UNII）
+- `US-BAL`（现行官方标签正文）：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bee9a137-160f-47e8-a551-ca461ae4f51e （DESCRIPTION、CLINICAL PHARMACOLOGY 与 INDICATIONS。CONTRAINDICATIONS 与 WARNINGS、PRECAUTIONS（含花生油与药用铁）。ADVERSE REACTIONS、DRUG ABUSE AND DEPENDENCE 与 OVERDOSE。DOSAGE AND ADMINISTRATION、HOW SUPPLIED 与 ANIMAL TOXICOLOGY。INGREDIENTS AND APPEARANCE／UNII）
 - `DM-2`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimercaprol （HTTP 200，total_elements 2）
 - `EMC-0`：https://www.medicines.org.uk/emc/search?q=dimercaprol （HTTP 200，无产品条目）
 - `ATC-V03AB`：https://atcddd.fhi.no/atc_ddd_index/?code=V03AB&display=subgroup

@@ -95,7 +95,12 @@
 - `US-IN`（OPVEE）：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=999a4269-9e54-4801-b2ac-2a7276f0b94f
 - FDA 认定通知（一手）：[82 FR 51282，FR Doc 2017-23952（2017-11-03）](https://www.govinfo.gov/content/pkg/FR-2017-11-03/html/2017-23952.htm)（govinfo 全文，本客户端返回 200，同一文件的联邦公报站点页面在本机自动请求下被反爬拦截，故以 govinfo 为准）
 - ACMT/AACT 联合立场（2023-12-19，纳美芬不应取代纳洛酮作一线解毒剂）：https://www.acmt.net/news/acmt-aact-joint-position-statement-on-nalmefene-should-not-replace-naloxone-as-the-primary-opioid-antidote-at-this-time/
-- `PMID:42351784`、`PMID:35228081`、`PMID:33969378`、`PMID:32359104`、`PMID:32115477`、`PMID:32378631`、`PMID:31643618`、`PMID:33431755`、`PMID:38560051`、`PMID:40781860`：均见 https://pubmed.ncbi.nlm.nih.gov/<PMID>/
+- 以下 PMID 均见 https://pubmed.ncbi.nlm.nih.gov/<PMID>/：
+  - `PMID:42351784`、`PMID:35228081`
+  - `PMID:33969378`、`PMID:32359104`
+  - `PMID:32115477`、`PMID:32378631`
+  - `PMID:31643618`、`PMID:33431755`
+  - `PMID:38560051`、`PMID:40781860`
 - `ATC-BB`：https://atcddd.fhi.no/atc_ddd_index/?code=N07BB&display=subgroup
 - 同组交叉：[naltrexone](naltrexone.md)、[acamprosate](acamprosate.md)、[disulfiram](disulfiram.md)、[ondelopran](ondelopran.md)。
 

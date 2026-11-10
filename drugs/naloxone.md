@@ -64,7 +64,7 @@
 
 ## 7. 短期风险、停药与误用
 
-短期：注射部位反应、恶心呕吐、头晕、出汗、心动过速等按标签列出。在阿片依赖者、长期用药者与新生儿暴露者可促发**急性戒断综合征**，标签对此有专门警示与分次给药要求（`US-INJ` §5、§6）。停药：本药无自身撤药综合征条款，停药负担维度记 N/A（理由见 §2.1）。误用：无药物特异强化效应研究。标签的 Schedule: None 只说明未受美国管制。
+短期：注射部位反应、恶心呕吐与头晕、出汗与心动过速等按标签列出。在阿片依赖者、长期用药者与新生儿暴露者可促发**急性戒断综合征**，标签对此有专门警示与分次给药要求（`US-INJ` §5、§6）。停药：本药无自身撤药综合征条款，停药负担维度记 N/A（理由见 §2.1）。误用：无药物特异强化效应研究。标签的 Schedule: None 只说明未受美国管制。
 
 ## 8. 重要相互作用
 
@@ -87,6 +87,6 @@
 - `US-NAR`：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0ebc83d-2892-40de-bc0a-775ce90b30db（NARCAN 鼻喷，页首 OTC DRUG LABEL，Updated 2026-08-17）
 - `DM-100`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=naloxone
 - `ATC-VA`：https://atcddd.fhi.no/atc_ddd_index/?code=V03AB（Last updated 2026-01-20）
-- 同组与相邻交叉：[nalmefene](nalmefene.md)、[naltrexone](naltrexone.md)、[buprenorphine](buprenorphine.md)、[flumazenil](flumazenil.md)（另一类受体拮抗／逆转药，同样以时程错配为主要风险）、[physostigmine](physostigmine.md)（抗胆碱能中毒的逆转，机制不同轴，不得混用场景）。
+- 同组与相邻交叉：[nalmefene](nalmefene.md) 与 [naltrexone](naltrexone.md)、[buprenorphine](buprenorphine.md)。[flumazenil](flumazenil.md)（另一类受体拮抗／逆转药，同样以时程错配为主要风险）。另见 [physostigmine](physostigmine.md)（抗胆碱能中毒的逆转，机制不同轴，不得混用场景）。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

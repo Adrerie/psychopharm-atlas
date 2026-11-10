@@ -153,7 +153,7 @@
 
 ## 11. 深入分析与来源
 
-本药未建专题：现有问题不是证据冲突需要解释，而是单产品文本的法域边界与德国文本缺口，写在主条目已足够。
+本药未建专题：现有问题在于单产品文本的法域边界与德国文本缺口，写在主条目已足够。
 
 **监管文件**：[瑞典 Buronil 25 mg 产品信息（FASS 收录的 Läkemedelsverket 批准 SmPC，MA 8636，复核日 2026-04-01）](https://fass.se/health/product/19720519000015/smpc)。[FASS 患者版说明（Buronil）](https://fass.se/product/19720519000015/pl)。**其他法域检索（0 条，2026-11-10）**：[法国 BDPM](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=melperone&page=1&limit=5)。[西班牙 CIMA](https://cima.aemps.es/cima/publico/home.html)。[英国 emc](https://www.medicines.org.uk/emc/search?q=melperone)。[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22melperone%22&limit=5)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 

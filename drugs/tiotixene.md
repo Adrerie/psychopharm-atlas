@@ -96,7 +96,7 @@
 
 ## 11. 深入分析与来源
 
-本药未建专题文件：全部争议集中在"命名与批准状态"这一层，已由 §1 与 §10 第 1–2 项分别写清。疗效侧的缺口是"没有当代试验"，这不是需要专题解释的冲突，而是需要补做试验的空白。
+本药未建专题文件：全部争议集中在"命名与批准状态"这一层，已由 §1 与 §10 第 1–2 项分别写清。疗效侧的缺口是"没有当代试验"，属需要补做试验的空白。
 
 **监管与官方文件**：[美国 thiothixene 胶囊现行标签（DailyMed setid 313e893c-a6d0-46ae-e063-6294a90a6025，生效 2025-03-26）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=313e893c-a6d0-46ae-e063-6294a90a6025)。[Amneal 版本（2024-11-16）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=81c40311-7dc4-4332-8920-a39a8466aea6)。[认定 Cortone 等并非因安全或疗效退出销售（82 FR 43388，2017-09-15）](https://www.federalregister.gov/documents/2017/09/15/2017-19611/determination-that-cortone-cortisone-acetate-tablets-and-other-drug-products-were-not-withdrawn-from)。[Pfizer 等撤销 23 个 NDA（89 FR 47566，2024-06-03 公告、2024-07-03 生效）](https://www.federalregister.gov/documents/2024/06/03/2024-12065/pfizer-inc-et-al-withdrawal-of-approval-of-23-new-drug-applications)。[Novartis 等撤销 92 个 NDA（74 FR 23407，2009-05-19 公告、2009-06-18 生效）](https://www.federalregister.gov/documents/2009/05/19/E9-11628/novartis-pharmaceuticals-corp-et-al-withdrawal-of-approval-of-92-new-drug-applications-and-49)。[认定 Vosol 等并非因安全或疗效退出销售（90 FR 19721，2025-05-09）](https://www.federalregister.gov/documents/2025/05/09/2025-08207/determination-that-vosol-acetic-acid-glacial-2-otic-solutiondrops-and-other-drug-products-were-not)。[emc 检索 thiothixene（ 0 条）](https://www.medicines.org.uk/emc/search?q=thiothixene)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=NAVANE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 

@@ -31,7 +31,7 @@
 | 滥用／误用潜力 | 3 | **Schedule IV**（`US-QUV` §9.1，`DEA-α` 列 Daridorexant，分级别 IV、非麻醉品、商品名 QUVIVIQ）。人体滥用潜力试验（`PMID:34480579`，63 名娱乐性镇静药使用者）呈剂量依赖性药物喜好：50 mg 的 VAS Emax 73.2 明显低于唑吡坦 30 mg 的 79.9 与苏沃雷生 150 mg 的 80.7，但 **100 mg 的 79.1 与 150 mg 的 81.3 与两者相当，且各剂量均高于安慰剂**。中国 2025 年版目录与 2026 年增列均未命中本药（§1） |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 在 2017 年《中国老年人潜在不适当用药判断标准》全文文本内检索"达利雷生／daridorexant"，**0 命中**。Beers 2023 对本药亦 0 命中。浙江单中心 3,155 名 ≥65 岁抑郁门诊队列（`PMID:42756141`）无本药逐药计数。两套标准都未点名本药，且**不因同类（suvorexant／lemborexant）被类别条款覆盖而推定**，故记 N/A |
 
-总体解释：本药的负担形状是"**依赖与戒断几乎不在标签上，风险集中在次晨残留与一条 CYP3A4 剂量天花板**"。它与 [zolpidem](zolpidem.md)、[zaleplon](zaleplon.md) 的区别不是"更嗜睡"（嗜睡率与安慰剂相同），而是残留损害以**首剂最重、连用数晚后均值消退**的形态出现。它与 [suvorexant](suvorexant.md)、[lemborexant](lemborexant.md) 处在同一类别评分带上，差异体现在剂量调整条款与法国／英国的列管与处方分级（同类辨析见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md)）。
+总体解释：本药的负担形状是"**依赖与戒断几乎不在标签上，风险集中在次晨残留与一条 CYP3A4 剂量天花板**"。它与 [zolpidem](zolpidem.md)、[zaleplon](zaleplon.md) 的区别在残留损害的形态：以**首剂最重、连用数晚后均值消退**出现，嗜睡率则与安慰剂相同。它与 [suvorexant](suvorexant.md)、[lemborexant](lemborexant.md) 处在同一类别评分带上，差异体现在剂量调整条款与法国／英国的列管与处方分级（同类辨析见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md)）。
 
 ### 2.2 按使用场景适宜度（A–D）
 

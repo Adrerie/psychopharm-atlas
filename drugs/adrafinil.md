@@ -20,13 +20,7 @@
 
 ## 2. 评分
 
-规则见 [SCORING.md](../SCORING.md)。**本节六维全部为 `N/A`，原因不是"没查"，而是本药缺少任何可用于评分的临床级数据**：
-- 没有现行文本（无禁忌、监测、发生率分母）
-- 没有人体对照试验（无疗效或耐受量值）
-- 没有人体滥用潜力研究
-- 没有中国的处方数据
-
-按 SCORING"证据不足写 N/A，不得凭印象补分"，不以动物数据、莫达非尼的数据或"补充剂常见"的印象替代。
+规则见 [SCORING.md](../SCORING.md)。**本节六维全部为 `N/A`，原因是本药缺少任何可用于评分的临床级数据**：
 
 ### 2.1 药物负担（1–5，越高越重）
 
@@ -110,7 +104,7 @@
 
 ## 11. 深入分析与来源
 
-不设专题：本药的核心问题不是"证据冲突"，而是"证据缺失 + 语境混淆"。药物语境（无现行文本）、前药语境（莫达非尼数据不可借用）与非药物语境（补充剂与体育禁用）已在正文分开承载。具体位置见 §4、§7 与 §10 第 1–4、8 项。在取得 OLMIFON 的 RCP 或任一法域现行文本、并有本药特异的人体对照试验之前，建专题只会把动物结论放大成临床定论。
+不设专题：本药的核心问题在于"证据缺失 + 语境混淆"。药物语境（无现行文本）、前药语境（莫达非尼数据不可借用）与非药物语境（补充剂与体育禁用）已在正文分开承载。具体位置见 §4、§7 与 §10 第 1–4、8 项。在取得 OLMIFON 的 RCP 或任一法域现行文本、并有本药特异的人体对照试验之前，建专题只会把动物结论放大成临床定论。
 
 **监管与检索记录**：[法国 BDPM 检索入口（OLMIFON 与 ADRAFI 前缀均 0 条，2026-10-23）](https://base-donnees-publique.medicaments.gouv.fr/)。[openFDA 按通用名 adrafinil 检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22adrafinil%22)。[openFDA 按品牌 Olmifon 检索（404）](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Olmifon%22)。[英国 emc 按 adrafinil 检索（0 条）](https://www.medicines.org.uk/emc/search?q=adrafinil)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

@@ -82,7 +82,7 @@
 - 抗胆碱药：互相削弱药效（`EU-EPAR` 4.5 举例如奥西布宁、托特罗定）。
 - 麻醉：预计延长琥珀胆碱类肌松作用，需在选择麻醉用药时谨慎。
 - 心脏相关合用：与β受体阻滞剂（含阿替洛尔）叠加心动过缓并可致晕厥，与延长 QT 或致尖端扭转的药物合用需谨慎并考虑心电监测（`EU-EPAR` 4.4／4.5）。
-- 代谢性相互作用：本药主要经酯酶水解，体外未见对主要 CYP 同工酶的相互作用预期。口服给药与地高辛、华法林、地西泮、氟西汀未见药代相互作用（`US-PATCH` §12.3、`EU-EPAR` 4.5）。
+- 代谢性相互作用：本药主要经酯酶水解，体外未见对主要 CYP 同工酶的相互作用预期。口服给药与地高辛、华法林未见药代相互作用。地西泮与氟西汀亦然（`US-PATCH` §12.3、`EU-EPAR` 4.5）。
 
 ## 9. 特殊人群
 
@@ -107,6 +107,6 @@
 - 欧盟 EPAR：`。0。；产品信息文件 `https://www.ema.europa.eu/en/documents/product-information/exelon-epar-product-information_en.pdf`
 - WHO ATC/DDD 索引 N06DA 亚组：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DA&display=subgroup`
 - 检索缺口记录：`https://www.medicines.org.uk/emc/search?q=Exelon`（返回脚本壳页，未取得产品列表）。独立复核：同一检索入口在浏览器 User-Agent 下可达且返回 34 条产品结果，因此“未渲染”属本机取页限制而非英国无产品。本次仍未逐份读取 SmPC，英国适应证与 PL 号继续待核实
-- 相关档案：[donepezil](donepezil.md)、[galantamine](galantamine.md)、[benzgalantamine](benzgalantamine.md)、[tacrine](tacrine.md)、[ipidacrine](ipidacrine.md)
+- 相关档案：[donepezil](donepezil.md) 与 [galantamine](galantamine.md)、[benzgalantamine](benzgalantamine.md)。另见 [tacrine](tacrine.md) 与 [ipidacrine](ipidacrine.md)
 
 统计与缺口见 [目录索引](../catalog/index.md)。

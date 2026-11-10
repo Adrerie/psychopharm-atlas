@@ -97,7 +97,8 @@
 - `DM-23`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=flumazenil
 - `ATC-VA`：https://atcddd.fhi.no/atc_ddd_index/?code=V03AB（Last updated 2026-01-20）
 - 同组交叉：
-- [naloxone](naloxone.md)（另一类逆转药
-时程错配风险同型）、[physostigmine](physostigmine.md)、[acetylcysteine](acetylcysteine.md)、[fomepizole](fomepizole.md)、[diazepam](diazepam.md)、[midazolam](midazolam.md)。
+- [naloxone](naloxone.md)（另一类逆转药，时程错配风险同型）与 [physostigmine](physostigmine.md)
+- [acetylcysteine](acetylcysteine.md) 与 [fomepizole](fomepizole.md)
+- [diazepam](diazepam.md) 与 [midazolam](midazolam.md)
 
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -116,7 +116,7 @@ MAOI、拟交感药与降压药等同类兴奋剂常被列出的相互作用条�
 
 ## 11. 深入分析与来源
 
-未建专题文件：本条目的问题不是"证据冲突需要拆解"，而是"证据断层"，已在 §5 与 §10 写清。
+未建专题文件：本条目的问题在于"证据断层"，已在 §5 与 §10 写清。
 
 **监管与官方文件**：[21 CFR 1308.11 Schedule I（eCFR 全文 XML）](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.11)。[Schedule II](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.12)。[Schedule III](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.13)。[Schedule IV](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.14)。[Schedule V](https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=1308&section=1308.15)（五段全文逐段检索，fenozolone 均无条目）。[DailyMed v2 SPL 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fenozolone)。[openFDA 药品标签检索](https://api.fda.gov/drug/label.json?search=%22fenozolone%22)。[法国 BDPM 字母索引（startBy=FEN）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FEN&page=1&limit=20)。[西班牙 CIMA REST（nombre=fenozolone）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=fenozolone)。[英国 emc 检索](https://www.medicines.org.uk/emc/search?q=fenozolone)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 

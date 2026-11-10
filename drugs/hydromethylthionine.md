@@ -96,7 +96,11 @@
 
 - WHO ATC：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DX07`、`?code=N06DX&display=subgroup`
 - DailyMed 检索：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=hydromethylthionine`
-- 登记条目：`https://clinicaltrials.gov/api/v2/studies/NCT03446001`、`…NCT01689233`、`…NCT01689246`、`…NCT01626378`、`…NCT01626391`、`…NCT02245568`、`…NCT03539380`
+- 登记条目：
+  - `https://clinicaltrials.gov/api/v2/studies/NCT03446001`、`…NCT01689233`
+  - `…NCT01689246`、`…NCT01626378`
+  - `…NCT01626391`、`…NCT02245568`
+  - `…NCT03539380`
 - 已校验文献：`PMID:36281683`（J Prev Alzheimers Dis 2022。9(4):780-790，III 期设计与进展，申办方署名关系见其声明）、`PMID:41570392`（J Prev Alzheimers Dis 2026。13(3):100480，III 期临床／影像／血液标志物结局）、`PMID:41917677`（Br J Clin Pharmacol 2026。92(8):2645-2656，群体药代与"意外的症状学活性"解释）、`PMID:41396167`（Behav Pharmacol 2026，动物药理模型中与利斯的明比较）
 - 另一实体的现行监管文本（用于划清边界）：EMA Methylthioninium chloride Proveblue 人用药品条目页 `https://www.ema.europa.eu/en/medicines/human/EPAR/methylthioninium-chloride-proveblue`（EU 许可 2011-05-06，ATC `V03AB17`，适应证为高铁血红蛋白血症）
 - 相关档案：[blarcamesine](blarcamesine.md)（另一在研小分子）、[memantine](memantine.md)（症状治疗基准）、[donepezil-and-memantine](donepezil-and-memantine.md)。中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)
