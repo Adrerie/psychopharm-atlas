@@ -2,6 +2,8 @@
 
 本仓库用于精神药理学资料建档与证据分析。执行任务前阅读当前 [PLAN.md](PLAN.md)，并沿用 [SOURCES.md](SOURCES.md)、[METHODOLOGY.md](METHODOLOGY.md)、[SCORING.md](SCORING.md) 与 [DISCLAIMER.md](DISCLAIMER.md)。
 
+书写与审订按 [STYLE.md](STYLE.md) 执行。
+
 ## 证据原则
 
 - WHO ATC/DDD 负责分类；Wikidata、RxNorm、PubChem 等只用于身份与标识符交叉核对，不能替代监管文件或原始研究。
@@ -85,3 +87,4 @@
 - 只做必要的来源、链接、地区和事实检查；不启用哈希校验、复杂 CI、数据库服务、长期爬虫、自动评分程序或批量空模板。
 - 仅当新任务的 `PLAN.md` 明确授权时才启用子代理。Wave 1–15 均已完成，不得把其历史候选清单重新当作待执行任务；接手情况见 `HANDOFF.md`。新一轮并行任务须分配互不重叠的药物文件；子代理不得同时编辑 `AGENTS.md`、`PLAN.md`、`catalog/index.md`、`catalog/related.md`、`README.md` 等共享文件，也不得自行合并 `main`。主代理负责共享文件、证据边界复核与合并前验收。不得嵌套派生子代理。
 - 新任务在独立分支实施，审阅通过并获明确同意后再合并 `main`。
+- 档案与专题的新增、改写与审订都按 [STYLE.md](STYLE.md) 执行；审订不得删除数字、引用、表格结构、证据边界与来源节。
