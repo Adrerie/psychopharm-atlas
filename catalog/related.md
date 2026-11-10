@@ -1,31 +1,40 @@
 # 跨组药物清单｜补充目录
 
-> 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-11-04  
+> 基准 WHO ATC/DDD Index 2026 ｜ 核查 2026-11-04，Wave 15 扩充核查 2026-11-06  
 > 人工选录，逐项记录纳入理由与原 ATC 编码；不是这些亚组的完整目录。
 
-**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面抓取生成。Wave 11、Wave 12 与 Wave 13 标记的二十五条已建档，临床、管制与批准结论见各自药物档案；其余 20 条为具体药物候选，另有 `N07BC51` 为未指明全部成分的 ATC 复方分类记录，不作为独立药物候选。候选条目的适应证、受体机制、上市与管制状态、研发阶段等实质性结论尚待逐药核实。选录不是 WHO 亚组的完整目录。
+**本清单的依据边界**：「官方分类位置」列由 WHO 官方索引页面抓取生成。Wave 11–Wave 15 标记的八十九条已建档，临床、管制与批准结论见各自药物档案；未建档的 2 条均非具体药物候选（`N07BC51` 为未指明全部成分的 ATC 复方分类记录，`N06DA53` 经复核暂不建档）。候选条目的适应证、受体机制、上市与管制状态、研发阶段等实质性结论尚待逐药核实。选录不是 WHO 亚组的完整目录。
 
 ## 选录分布
 
-| 官方亚组 | 亚组名称 | 选录 |
-| --- | --- | --- |
-| G04BD | Drugs for urinary frequency and incontinence | 2 |
-| N03AF | Carboxamide derivatives | 3 |
-| N03AG | Fatty acid derivatives | 2 |
-| N02BF | Gabapentinoids | 2 |
-| N03AE | Benzodiazepine derivatives | 1 |
-| N03AX | Other antiepileptics | 1 |
-| C07AA | Beta blockers, non-selective | 1 |
-| N06DA | Anticholinesterases | 8 |
-| N06DX | Other anti-dementia drugs | 7 |
-| N07BA | Drugs used in nicotine dependence | 3 |
-| N07BB | Drugs used in alcohol dependence | 6 |
-| N07BC | Drugs used in opioid dependence | 7 |
-| V03AB | Antidotes | 3 |
+| 官方亚组 | 亚组名 | 选录 | 已建档 |
+| --- | --- | --- | --- |
+| C07AA | Beta blockers, non-selective | 1 | 1 |
+| G04BD | Drugs for urinary frequency and incontinence | 13 | 13 |
+| N02BF | Gabapentinoids | 2 | 2 |
+| N03AE | Benzodiazepine derivatives | 1 | 1 |
+| N03AF | Carboxamide derivatives | 3 | 3 |
+| N03AG | Fatty acid derivatives | 2 | 2 |
+| N03AX | Other antiepileptics | 1 | 1 |
+| N04AA | Tertiary amines | 2 | 2 |
+| N04BA | Dopa and dopa derivatives | 1 | 1 |
+| N04BB | Adamantane derivatives | 1 | 1 |
+| N04BC | Dopamine agonists | 3 | 3 |
+| N04BD | Monoamine oxidase B inhibitors | 3 | 3 |
+| N06DA | Anticholinesterases | 8 | 7 |
+| N06DX | Other anti-dementia drugs | 7 | 7 |
+| N07BA | Drugs used in nicotine dependence | 3 | 3 |
+| N07BB | Drugs used in alcohol dependence | 6 | 6 |
+| N07BC | Drugs used in opioid dependence | 7 | 6 |
+| N07CA | Antivertigo preparations | 5 | 5 |
+| N07XX | Other nervous system drugs | 10 | 10 |
+| R06AA | Aminoalkyl ethers | 1 | 1 |
+| R06AE | Piperazine derivatives | 1 | 1 |
+| V03AB | Antidotes | 10 | 10 |
 
 ## 条目
 
-> 选录总数 46 条，其中 Wave 11 已建档 4 条、Wave 12 已建档 6 条、Wave 13 已建档 15 条、Wave 14 已建档 14 条，合计 39 条；剩余 7 条未建档，其中 6 条仍为待建档候选，`N07BC51` 一条属未指明全部成分的 ATC 复方类别、仅作分类记录不建档，`N06DA53` 一条经 2026-11-05 复核暂不建档（见该行状态列）。
+> 选录总数 91 条，其中 Wave 11 已建档 4 条、Wave 12 已建档 6 条、Wave 13 已建档 15 条、Wave 14 已建档 14 条、Wave 15 已建档 50 条，合计 89 条；剩余 2 条未建档，`N07BC51` 一条属未指明全部成分的 ATC 复方类别、仅作分类记录不建档，`N06DA53` 一条经 2026-11-05 复核暂不建档（见该行状态列）。
 
 | ATC 编码 | 官方通用名 | 官方分类位置（2026 索引） | 收录依据与待核实 | 状态 |
 | --- | --- | --- | --- | --- |
@@ -33,8 +42,8 @@
 | `N02BF02` | pregabalin | N NERVOUS SYSTEM › N02 OTHER ANALGESICS › N02B Other analgesics › N02BF Gabapentinoids | 部分法域收载广泛性焦虑适应证（本轮未取回该国正文，见档案 §10）；按现行美国标签建档。 | **Wave 11 已建档**（[`drugs/pregabalin.md`](../drugs/pregabalin.md)，状态 `reviewed`） |
 | `N03AE01` | clonazepam | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AE Benzodiazepine derivatives | 惊恐障碍与癫痫用途在不同法域分别收载；中国为第二类精神药品第 17 项。 | **Wave 11 已建档**（[`drugs/clonazepam.md`](../drugs/clonazepam.md)，状态 `reviewed`） |
 | `C07AA05` | propranolol | C CARDIOVASCULAR SYSTEM › C07 BETA BLOCKING AGENTS › C07A BETA BLOCKING AGENTS › C07AA BETA blockers, non-selective | 表现焦虑／情境性焦虑的躯体症状与其心血管批准用途；不属焦虑障碍常规治疗。 | **Wave 11 已建档**（[`drugs/propranolol.md`](../drugs/propranolol.md)，状态 `reviewed`） |
-| `G04BD01` | emepronium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05CX05` 条目名称为 emepronium, combinations，作为该复方类别的成分被引用；精神科用途待核实。 | 待建档 |
-| `G04BD09` | trospium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05AX50` 条目名称为 xanomeline and trospium，故作为该复方的配对成分被引用；其作用性质待核实。 | 待建档 |
+| `G04BD01` | emepronium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05CX05` 条目名称为 emepronium, combinations，作为该复方类别的成分被引用；精神科用途待核实。 | **Wave 15 已建档**（[`drugs/emepronium.md`](../drugs/emepronium.md)，状态 `basic`） |
+| `G04BD09` | trospium | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `N05AX50` 条目名称为 xanomeline and trospium，故作为该复方的配对成分被引用；其作用性质待核实。 | **Wave 15 已建档**（[`drugs/trospium.md`](../drugs/trospium.md)，状态 `reviewed`） |
 | `N03AF01` | carbamazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国普通片标签收载癫痫与三叉神经痛；独立产品 EQUETRO 缓释胶囊另批准成人 Bipolar I disorder 急性躁狂或混合发作。英国与法国文本另有各自心境相关用途；HLA-B\*1502 与再障、粒细胞缺乏为黑框条款。 | **Wave 12 已建档**（[`drugs/carbamazepine.md`](../drugs/carbamazepine.md)，状态 `reviewed`） |
 | `N03AF02` | oxcarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国与法国正文均只收载部分性发作，无精神科与疼痛适应证；低钠血症为本药特异警示，且无卡马西平的自动诱导。双相与周围神经病理性疼痛的随机证据有限或阴性；三叉神经痛另有基于 very low-quality evidence 与临床经验的指南建议。 | **Wave 12 已建档**（[`drugs/oxcarbazepine.md`](../drugs/oxcarbazepine.md)，状态 `reviewed`） |
 | `N03AF04` | eslicarbazepine | N NERVOUS SYSTEM › N03 ANTIEPILEPTICS › N03A ANTIEPILEPTICS › N03AF Carboxamide derivatives | 美国文本为 4 岁及以上部分性发作（单药与添加），法国仿制药文本的年龄与人群措辞不同；与卡马西平共享活性代谢途径但不继承其批准；滥用维度有本药的人体阴性研究。 | **Wave 12 已建档**（[`drugs/eslicarbazepine.md`](../drugs/eslicarbazepine.md)，状态 `reviewed`） |
@@ -48,10 +57,10 @@
 | `N06DA05` | ipidacrine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | ATC 在册（无 DDD）＋PubChem 身份确证；DailyMed／emc／ClinicalTrials 按英文名与商品名转写均 0 命中，任何法域现行正文未取得。 | **Wave 14 已建档**（[`drugs/ipidacrine.md`](../drugs/ipidacrine.md)，状态 `indexed`） |
 | `N06DA06` | benzgalantamine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 美国现行（ZUNVEYL，NDA 218549）；适应证为成人轻中度 AD；疗效依据为母体（加兰他敏）试验＋生物利用度桥接，按独立实体记载。 | **Wave 14 已建档**（[`drugs/benzgalantamine.md`](../drugs/benzgalantamine.md)，状态 `reviewed`） |
 | `N06DA52` | donepezil and memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 按具体复方产品 NAMZARIC（NDA 206439）建档，非抽象复方码；适应证限定于已稳定于多奈哌齐的中重度 AD；无黑框。 | **Wave 14 已建档**（[`drugs/donepezil-and-memantine.md`](../drugs/donepezil-and-memantine.md)，状态 `reviewed`） |
-| `N06DA53` | donepezil, memantine and Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方条目点名三种成分（含植物药组分）。2026-11-05 主代理复核：DailyMed 现行复方清单按三成分组合检索 0 条、英国 emc 无三成分产品、ClinicalTrials.gov 0 项、美国 Drugs@FDA 无对应申请；仅确认 WHO 分类记录，未证实成分明确、配比与剂型可核的具体产品，按规则暂不建档，取得具体产品文本后再建。 | 待建档（暂不建档，理由见左列） |
+| `N06DA53` | donepezil, memantine and Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DA Anticholinesterases | 官方条目点名三种成分（含植物药组分）。2026-11-05 复核：DailyMed 现行复方清单按三成分组合检索 0 条、英国 emc 无三成分产品、ClinicalTrials.gov 0 项、美国 Drugs@FDA 无对应申请；仅确认 WHO 分类记录，未证实成分明确、配比与剂型可核的具体产品，按规则暂不建档，取得具体产品文本后再建。 | 待建档（暂不建档，理由见左列） |
 | `N06DX01` | memantine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（速释片／口服溶液／缓释胶囊三条原研申请线＋大量仿制现行）；原研商品名现行条目缺失仅记为检索事实。 | **Wave 14 已建档**（[`drugs/memantine.md`](../drugs/memantine.md)，状态 `reviewed`） |
 | `N06DX02` | Ginkgo folium | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 多组分植物药；按标准化提取物／注册层分层书写（EGb 761 层的 AD 阴性证据）；任何法域现行注册文本未取得；N06DA53 的三成分产品未能确证，不据此建档。 | **Wave 14 已建档**（[`drugs/ginkgo-folium.md`](../drugs/ginkgo-folium.md)，状态 `basic`） |
-| `N06DX03` | aducanumab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国 2021-06-07 加速批准（BLA 761178，89 FR 14869 逐字）；企业 2024 年停止开发与商业化（公司口径）；无现行说明书正文；欧盟 2022-04 撤回 MAA。 | **Wave 14 已建档**（[`drugs/aducanumab.md`](../drugs/aducanumab.md)，状态 `basic`） |
+| `N06DX03` | aducanumab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国 2021-06-07 加速批准（BLA 761178）；FDA 加速批准撤回清单列明 2024-11-01 撤回；Biogen 2024-01-31 企业公告停止开发与商业化，企业决定与 FDA 撤回时间、原因分别记录；无现行说明书正文；欧盟 2022-04 撤回 MAA。 | **Wave 14 已建档**（[`drugs/aducanumab.md`](../drugs/aducanumab.md)，状态 `basic`） |
 | `N06DX04` | lecanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（LEQEMBI，含皮下维持方案）；欧盟 2025-04 许可且人群限于 ε4 非携带／杂合；美国允许纯合子并须告知；ARIA 黑框与 MRI 监测按现行文本逐节写入。 | **Wave 14 已建档**（[`drugs/lecanemab.md`](../drugs/lecanemab.md)，状态 `reviewed`） |
 | `N06DX05` | donanemab | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 美国现行（KISUNLA，BLA 761248，2024-07-02）；欧盟 2025-09 许可且纯合子不覆盖；按 PET 阈值停药与抗栓前提写入。 | **Wave 14 已建档**（[`drugs/donanemab.md`](../drugs/donanemab.md)，状态 `reviewed`） |
 | `N06DX06` | blarcamesine | N NERVOUS SYSTEM › N06 PSYCHOANALEPTICS › N06D ANTI-DEMENTIA DRUGS › N06DX Other anti-dementia drugs | 在研；关键 IIb/III 期完成但结果未张贴，OLE 未张贴；欧盟撤回（2026-03-25，公司口径）；不设 A–D 行。 | **Wave 14 已建档**（[`drugs/blarcamesine.md`](../drugs/blarcamesine.md)，状态 `basic`） |
@@ -72,13 +81,58 @@
 | `N07BC05` | levomethadone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 美沙酮的左旋异构体，德国与瑞士在法定替代治疗框架下使用；本轮未取回任何法域现行说明书正文，证据为观察性与治疗药物监测研究。 | **Wave 13 已建档**（[`drugs/levomethadone.md`](../drugs/levomethadone.md)，状态 `basic`） |
 | `N07BC06` | diamorphine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 英国现行注射用 SmPC 收载重度疼痛与急性肺水肿呼吸困难，不含阿片依赖取代治疗；瑞士与德国在专门法律框架下允许监督注射；美国无批准；中国命中非药用类目录第 347 项海洛因。 | **Wave 13 已建档**（[`drugs/diamorphine.md`](../drugs/diamorphine.md)，状态 `reviewed`） |
 | `N07BC51` | buprenorphine, combinations | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07B DRUGS USED IN ADDICTIVE DISORDERS › N07BC Drugs used in opioid dependence | 官方条目仅写作 buprenorphine, combinations，未指明全部配对成分，属 ATC 复方类别；不将其当作某一具体上市配方。 | 分类记录，不建档 |
-| `V03AB15` | naloxone | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；使用场景与限制待核实。 | 待建档 |
-| `V03AB19` | physostigmine | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；是否用于抗胆碱能谵妄及其证据待核实。 | 待建档 |
-| `V03AB25` | flumazenil | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；受体作用与急性处置场景中的使用条件待核实。 | 待建档 |
+| `V03AB15` | naloxone | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；使用场景与限制待核实。 | **Wave 15 已建档**（[`drugs/naloxone.md`](../drugs/naloxone.md)，状态 `reviewed`） |
+| `V03AB19` | physostigmine | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；是否用于抗胆碱能谵妄及其证据待核实。 | **Wave 15 已建档**（[`drugs/physostigmine.md`](../drugs/physostigmine.md)，状态 `basic`） |
+| `V03AB25` | flumazenil | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方位置为 V03AB 解毒药；受体作用与急性处置场景中的使用条件待核实。 | **Wave 15 已建档**（[`drugs/flumazenil.md`](../drugs/flumazenil.md)，状态 `reviewed`） |
+| `G04BD02` | flavoxate | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD` 排尿频率与尿失禁用药，DDD 0.8 g 口服；中枢穿透与抗胆碱负担待核实 | **Wave 15 已建档**（[`drugs/flavoxate.md`](../drugs/flavoxate.md)，状态 `reviewed`） |
+| `G04BD04` | oxybutynin | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 15 mg 口服／3.9 mg 经皮；官方另设 `G04BD04` 经皮条目，认知与跌倒风险为本药特异警示 | **Wave 15 已建档**（[`drugs/oxybutynin.md`](../drugs/oxybutynin.md)，状态 `reviewed`） |
+| `G04BD05` | terodiline | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 50 mg 口服；历史药物，其退出决定的性质须区分正式撤市、持证人停销与当前供应 | **Wave 15 已建档**（[`drugs/terodiline.md`](../drugs/terodiline.md)，状态 `basic`） |
+| `G04BD06` | propiverine | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 30 mg 口服；欧洲与加拿大口径在用，本轮未取到现行说明书正文 | **Wave 15 已建档**（[`drugs/propiverine.md`](../drugs/propiverine.md)，状态 `basic`） |
+| `G04BD07` | tolterodine | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 4 mg 口服；其活性代谢物（官方 `G04BD13`）不单独建档 | **Wave 15 已建档**（[`drugs/tolterodine.md`](../drugs/tolterodine.md)，状态 `reviewed`） |
+| `G04BD08` | solifenacin | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 5 mg 口服；认知安全性与其他抗毒蕈碱药的差异为本组比较重点 | **Wave 15 已建档**（[`drugs/solifenacin.md`](../drugs/solifenacin.md)，状态 `reviewed`） |
+| `G04BD10` | darifenacin | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 7.5 mg 口服；M3 选择性与其便秘／QT 条款待逐项核对现行文本 | **Wave 15 已建档**（[`drugs/darifenacin.md`](../drugs/darifenacin.md)，状态 `reviewed`） |
+| `G04BD11` | fesoterodine | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 4 mg 口服；托特罗定前药，身份按活性成分与酯型分开核对 | **Wave 15 已建档**（[`drugs/fesoterodine.md`](../drugs/fesoterodine.md)，状态 `reviewed`） |
+| `G04BD12` | mirabegron | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD12`，DDD 50 mg 口服；β3 受体激动剂，血压升高、尿路感染与尿道症状为其特异警示，不得与同组抗毒蕈碱药的抗胆碱负担合并结论 | **Wave 15 已建档**（[`drugs/mirabegron.md`](../drugs/mirabegron.md)，状态 `reviewed`） |
+| `G04BD14` | imidafenacin | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD` 在册但**未给 DDD 与给药途径**；地区性用药，现行监管正文本轮未取到 | **Wave 15 已建档**（[`drugs/imidafenacin.md`](../drugs/imidafenacin.md)，状态 `basic`） |
+| `G04BD15` | vibegron | G GENITO URINARY SYSTEM AND SEX HORMONES › G04 UROLOGICALS › G04B UROLOGICALS › G04BD Drugs for urinary frequency and incontinence | 官方 `G04BD`，DDD 75 mg 口服；β3 受体激动剂，与同组抗毒蕈碱药机制不同，不得继承其抗胆碱负担结论 | **Wave 15 已建档**（[`drugs/vibegron.md`](../drugs/vibegron.md)，状态 `reviewed`） |
+| `N04AA01` | trihexyphenidyl | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04A ANTICHOLINERGIC AGENTS › N04AA Tertiary amines | 官方 `N04AA` 叔胺类抗胆碱药，DDD 10 mg 口服；精神科药源性锥体外系反应与抗胆碱谵妄语境下的中枢负担为重点 | **Wave 15 已建档**（[`drugs/trihexyphenidyl.md`](../drugs/trihexyphenidyl.md)，状态 `reviewed`） |
+| `N04AA02` | biperiden | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04A ANTICHOLINERGIC AGENTS › N04AA Tertiary amines | 官方 `N04AA`，DDD 10 mg 口服／注射；美国无现行正文，日本与韩国文本的适应证措辞待核实 | **Wave 15 已建档**（[`drugs/biperiden.md`](../drugs/biperiden.md)，状态 `basic`） |
+| `N04BA01` | levodopa | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BA Dopa and dopa derivatives | 官方 `N04BA`，DDD 3.5 g 口服；持续治疗多由含脱羧酶抑制剂的固定复方交付，复方产品为独立对象 | **Wave 15 已建档**（[`drugs/levodopa.md`](../drugs/levodopa.md)，状态 `reviewed`） |
+| `N04BB01` | amantadine | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BB Adamantane derivatives | 官方 `N04BB` 金刚烷衍生物，DDD 0.2 g 口服；速释与缓释产品的适应证与剂量按各自标签分列 | **Wave 15 已建档**（[`drugs/amantadine.md`](../drugs/amantadine.md)，状态 `reviewed`） |
+| `N04BC01` | bromocriptine | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BC Dopamine agonists | 官方 `N04BC`，DDD 40 mg 口服；`G02CB` 另设低剂量片条目用于高泌乳素血症，两处编码不得混写 | **Wave 15 已建档**（[`drugs/bromocriptine.md`](../drugs/bromocriptine.md)，状态 `reviewed`） |
+| `N04BC04` | ropinirole | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BC Dopamine agonists | 官方 `N04BC`，DDD 6 mg 口服；速释与缓释的适应证差异（不安腿仅速释收载）按具体产品核对 | **Wave 15 已建档**（[`drugs/ropinirole.md`](../drugs/ropinirole.md)，状态 `reviewed`） |
+| `N04BC05` | pramipexole | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BC Dopamine agonists | 官方 `N04BC`，DDD 2.5 mg 口服；双相抑郁增效与冲动控制风险为其精神科争议点，须按试验原文引用 | **Wave 15 已建档**（[`drugs/pramipexole.md`](../drugs/pramipexole.md)，状态 `reviewed`） |
+| `N04BD01` | selegiline | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BD Monoamine oxidase B inhibitors | 官方 `N04BD`，DDD 5 mg 口服；口服、口腔崩解与经皮贴剂的剂量与适应证按产品分别核对 | **Wave 15 已建档**（[`drugs/selegiline.md`](../drugs/selegiline.md)，状态 `reviewed`） |
+| `N04BD02` | rasagiline | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BD Monoamine oxidase B inhibitors | 官方 `N04BD`，DDD 1 mg 口服；与 selegiline 同组但代谢物、禁忌清单与文本口径不同 | **Wave 15 已建档**（[`drugs/rasagiline.md`](../drugs/rasagiline.md)，状态 `reviewed`） |
+| `N04BD03` | safinamide | N NERVOUS SYSTEM › N04 ANTI-PARKINSON DRUGS › N04B DOPAMINERGIC AGENTS › N04BD Monoamine oxidase B inhibitors | 官方 `N04BD`，DDD 75 mg 口服；美国适应证仅为左旋多巴／卡比多巴背景上的添加治疗 | **Wave 15 已建档**（[`drugs/safinamide.md`](../drugs/safinamide.md)，状态 `reviewed`） |
+| `N07CA01` | betahistine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07C ANTIVERTIGO PREPARATIONS › N07CA Antivertigo preparations | 官方 `N07CA` 抗眩晕药，DDD 24 mg 口服；美国无现行正文，英国 emc 现行文本用于适应证口径核对 | **Wave 15 已建档**（[`drugs/betahistine.md`](../drugs/betahistine.md)，状态 `reviewed`） |
+| `N07CA02` | cinnarizine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07C ANTIVERTIGO PREPARATIONS › N07CA Antivertigo preparations | 官方 `N07CA`，DDD 90 mg 口服；官方注释：与吡拉西坦的复方归 `N06BX53`、与二苯海拉明茶氯酸盐等的复方归 `N07CA52` | **Wave 15 已建档**（[`drugs/cinnarizine.md`](../drugs/cinnarizine.md)，状态 `reviewed`） |
+| `N07CA03` | flunarizine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07C ANTIVERTIGO PREPARATIONS › N07CA Antivertigo preparations | 官方 `N07CA`，DDD 10 mg 口服；抑郁、体重增加与锥体外系反应为其特异警示 | **Wave 15 已建档**（[`drugs/flunarizine.md`](../drugs/flunarizine.md)，状态 `basic`） |
+| `N07CA04` | acetylleucine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07C ANTIVERTIGO PREPARATIONS › N07CA Antivertigo preparations | 官方 `N07CA04` 在册但**未给 DDD**；须与官方 `N07XX27` levacetylleucine 区分，两者不是同一实体 | **Wave 15 已建档**（[`drugs/acetylleucine.md`](../drugs/acetylleucine.md)，状态 `basic`） |
+| `N07CA52` | cinnarizine, combinations | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07C ANTIVERTIGO PREPARATIONS › N07CA Antivertigo preparations | 官方 `N07CA52` 为复方类别、DDD 指向氟桂利嗪成分；本行按具体上市固定复方建档，不建立抽象复方类别档案 | **Wave 15 已建档**（[`drugs/cinnarizine-and-dimenhydrinate.md`](../drugs/cinnarizine-and-dimenhydrinate.md)，状态 `basic`） |
+| `N07XX02` | riluzole | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX`，DDD 0.1 g 口服；ALS 病程用药，肝酶监测与人群限定为标签条款 | **Wave 15 已建档**（[`drugs/riluzole.md`](../drugs/riluzole.md)，状态 `reviewed`） |
+| `N07XX04` | sodium oxybate | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX04`，DDD 7.5 g 口服；速释与缓释产品分别核对，中国按 γ-羟丁酸（第一类精神药品第 6 项）处理盐类范围 | **Wave 15 已建档**（[`drugs/sodium-oxybate.md`](../drugs/sodium-oxybate.md)，状态 `reviewed`） |
+| `N07XX05` | amifampridine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX05`，DDD 40 mg 口服；LEMS 用药，惊厥史为禁忌、剂量按 NAT2 代谢型与肾功能分层 | **Wave 15 已建档**（[`drugs/amifampridine.md`](../drugs/amifampridine.md)，状态 `reviewed`） |
+| `N07XX06` | tetrabenazine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX06`，DDD 0.1 g 口服；美国适应证仅亨廷顿病舞蹈症，与氘代产品、缬苯那嗪不互换 | **Wave 15 已建档**（[`drugs/tetrabenazine.md`](../drugs/tetrabenazine.md)，状态 `reviewed`） |
+| `N07XX07` | fampridine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX07`，DDD 20 mg 口服；美国条目名为 dalfampridine，与 amifampridine 为不同实体，不得互借适应证 | **Wave 15 已建档**（[`drugs/fampridine.md`](../drugs/fampridine.md)，状态 `reviewed`） |
+| `N07XX11` | pitolisant | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX11`，DDD 18 mg 口服；H3 受体拮抗剂／反向激动剂，QT 与药物相互作用为其特异限制 | **Wave 15 已建档**（[`drugs/pitolisant.md`](../drugs/pitolisant.md)，状态 `reviewed`） |
+| `N07XX13` | valbenazine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX13` 在册但**未给 DDD**；VMAT2 抑制剂，适应证与剂量按本产品标签核对 | **Wave 15 已建档**（[`drugs/valbenazine.md`](../drugs/valbenazine.md)，状态 `reviewed`） |
+| `N07XX14` | edaravone | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX14` 在册但**未给 DDD**；静脉与口服混悬两产品文本分别核对，超敏与亚硫酸盐警示为标签条款 | **Wave 15 已建档**（[`drugs/edaravone.md`](../drugs/edaravone.md)，状态 `reviewed`） |
+| `N07XX16` | deutetrabenazine | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX16` 在册但**未给 DDD**；氘代产品不继承 tetrabenazine 的适应证范围与剂量 | **Wave 15 已建档**（[`drugs/deutetrabenazine.md`](../drugs/deutetrabenazine.md)，状态 `reviewed`） |
+| `N07XX24` | trofinetide | N NERVOUS SYSTEM › N07 OTHER NERVOUS SYSTEM DRUGS › N07X OTHER NERVOUS SYSTEM DRUGS › N07XX Other nervous system drugs | 官方 `N07XX24` 在册但**未给 DDD**；Rett 综合征用药，口服液与条剂的批准支持方式不同 | **Wave 15 已建档**（[`drugs/trofinetide.md`](../drugs/trofinetide.md)，状态 `reviewed`） |
+| `R06AA11` | dimenhydrinate | R RESPIRATORY SYSTEM › R06 ANTIHISTAMINES FOR SYSTEMIC USE › R06A ANTIHISTAMINES FOR SYSTEMIC USE › R06AA Aminoalkyl ethers | 官方 `R06AA` 氨基醚类，DDD 0.3 g 口服／注射；晕动病与前庭症状场景，但 ATC 归属为抗组胺药，不得为贴合前庭主题改写为 `N07CA` | **Wave 15 已建档**（[`drugs/dimenhydrinate.md`](../drugs/dimenhydrinate.md)，状态 `reviewed`） |
+| `R06AE05` | meclozine | R RESPIRATORY SYSTEM › R06 ANTIHISTAMINES FOR SYSTEMIC USE › R06A ANTIHISTAMINES FOR SYSTEMIC USE › R06AE Piperazine derivatives | 官方条目名为 meclozine（USAN：meclizine），`R06AE` 哌嗪类，DDD 50 mg 口服／注射；同属抗组胺药而非前庭用药编码 | **Wave 15 已建档**（[`drugs/meclizine.md`](../drugs/meclizine.md)，状态 `reviewed`） |
+| `V03AB04` | pralidoxime | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 解毒药；有机磷中毒的酶复能剂，官方另设 `V03AB54` 与阿托品的复方条目 | **Wave 15 已建档**（[`drugs/pralidoxime.md`](../drugs/pralidoxime.md)，状态 `reviewed`） |
+| `V03AB06` | thiosulfate | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方条目名为 thiosulfate；档案按具体钠盐产品与给药途径写，`S01AX14` 眼用条目另行存在 | **Wave 15 已建档**（[`drugs/sodium-thiosulfate.md`](../drugs/sodium-thiosulfate.md)，状态 `reviewed`） |
+| `V03AB08` | sodium nitrite | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 解毒药；与硫代硫酸钠联用的 Cyanokit 方案按产品文本核对 | **Wave 15 已建档**（[`drugs/sodium-nitrite.md`](../drugs/sodium-nitrite.md)，状态 `reviewed`） |
+| `V03AB09` | dimercaprol | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 解毒药；金属中毒按毒物种类分别核对，不得由一种中毒外推到另一种 | **Wave 15 已建档**（[`drugs/dimercaprol.md`](../drugs/dimercaprol.md)，状态 `reviewed`） |
+| `V03AB13` | obidoxime | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 在册；美国无现行条目，欧洲产品与供应状态待核实 | **Wave 15 已建档**（[`drugs/obidoxime.md`](../drugs/obidoxime.md)，状态 `basic`） |
+| `V03AB23` | acetylcysteine | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 解毒药；对乙酰氨基酚中毒的给药方案与黏痰溶解等用途按产品分别写 | **Wave 15 已建档**（[`drugs/acetylcysteine.md`](../drugs/acetylcysteine.md)，状态 `reviewed`） |
+| `V03AB34` | fomepizole | V VARIOUS › V03 ALL OTHER THERAPEUTIC PRODUCTS › V03A ALL OTHER THERAPEUTIC PRODUCTS › V03AB Antidotes | 官方 `V03AB` 解毒药；甲醇与乙二醇中毒，与血液透析的关系按标签口径记录 | **Wave 15 已建档**（[`drugs/fomepizole.md`](../drugs/fomepizole.md)，状态 `reviewed`） |
 
 ## 说明
 
-- 表中状态为“待建档”的 6 条具体药物仍未建档，编码与名称以 WHO 官方索引为准；`N07BC51` 仅保留为分类记录，不建立成分不明确的药物档案；`N06DA53` 在 2026-11-05 复核后暂不建档，理由见其状态列。
+- 表中未建档的 2 条均为非具体药物的条目：`N07BC51` 为复方类别、`N06DA53` 经 2026-11-05 复核暂不建档；Wave 15 的 50 条已全部建档，编码与名称以 WHO 官方索引为准；`N07BC51` 仅保留为分类记录，不建立成分不明确的药物档案；`N06DA53` 在 2026-11-05 复核后暂不建档，理由见其状态列。
 - `N07BC51 buprenorphine, combinations` 未指明全部成分，属 ATC 复方类别，不计作独立具体药物；`N06DX30 combinations` 等同类条目已从选录中剔除。
 - 加巴喷丁与普瑞巴林已于 2026-10-28 按 WHO 索引确认改列 `N02BF` Gabapentinoids（`N03AX` 亚组页原文注明），并据此收录与建档。
 - 情绪稳定相关条目均取自 `N03` 抗癫痫药亚组：ATC 位置不表示这些药物具有某一精神科适应证。
