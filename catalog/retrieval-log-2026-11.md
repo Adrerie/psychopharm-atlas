@@ -528,6 +528,37 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | modafinil | 10 | 02239665 | NEURAXPHARM PHARMACEUTICALS, S.L. | ALERTEC |
 | naltrexone | 9 | 02444275 | APOTEX INC | APO-NALTREXONE |
 
+### 4.2 加拿大 DPD 第二批补检索（2026-11-11）
+
+对 25 个活性成分检索 Health Canada DPD，24 份有 Marketed 状态产品并写入档案。acamprosate 与 varenicline 未捕获到结果行，trifluoperazine 的 41 条记录中未见 Marketed 条目，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| amitriptyline | 96 | 02457660 | JAMP PHARMA CORPORATION | JAMP-AMITRIPTYLINE |
+| citalopram | 255 | 02339390 | ANGITA PHARMA INC. | AG-CITALOPRAM |
+| escitalopram | 104 | 02434652 | ACCORD HEALTHCARE INC | ACH-ESCITALOPRAM |
+| fluoxetine | 99 | 02216353 | APOTEX INC | APO-FLUOXETINE |
+| fluvoxamine | 34 | 02231329 | APOTEX INC | APO-FLUVOXAMINE |
+| paroxetine | 106 | 02510480 | ANGITA PHARMA INC. | AG-PAROXETINE TABLETS |
+| sertraline | 105 | 02477882 | ANGITA PHARMA INC. | AG-SERTRALINE |
+| venlafaxine | 124 | 02304317 | TEVA CANADA LIMITED | ACT VENLAFAXINE XR |
+| duloxetine | 70 | 02522861 | ACCEL PHARMA INC | ACCEL-DULOXETINE |
+| bupropion | 39 | 02275074 | ODAN LABORATORIESLTD | ODAN BUPROPION SR |
+| mirtazapine | 66 | 02286610 | APOTEX INC | APO-MIRTAZAPINE |
+| lithium | 25 | 02242837 | APOTEX INC | APO-LITHIUM CARBONATE |
+| valproic-acid | 70 | 02239698 | APOTEX INC | APO-DIVALPROEX |
+| carbamazepine | 47 | 02541238 | MINT PHARMACEUTICALS INC | MINT-CARBAMAZEPINE |
+| lamotrigine | 51 | 02543710 | ANGITA PHARMA INC. | AG-LAMOTRIGINE |
+| methylphenidate | 106 | 02266687 | AA PHARMA INC | AA-METHYLPHENIDATE SR |
+| amfetamine | 51 | 02248808 | TAKEDA CANADA INC | ADDERALL XR |
+| lisdexamfetamine | 87 | 02537567 | ANGITA PHARMA INC. | AG-LISDEXAMFETAMINE |
+| atomoxetine | 98 | 02318024 | APOTEX INC | APO-ATOMOXETINE |
+| donepezil | 76 | 02402645 | ACCORD HEALTHCARE INC | ACH-DONEPEZIL |
+| memantine | 21 | 02324067 | TEVA CANADA LIMITED | ACT MEMANTINE |
+| galantamine | 52 | 02425157 | AURO PHARMA INC | AURO-GALANTAMINE ER |
+| olanzapine | 278 | 02281791 | APOTEX INC | APO-OLANZAPINE |
+| risperidone | 234 | 02282119 | APOTEX INC | APO-RISPERIDONE |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。

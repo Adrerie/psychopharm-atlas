@@ -23,7 +23,7 @@
 | 机制（标签表述） | §12.1：抗抑郁的确切机制未知，但推测与**去甲肾上腺素能与／或多巴胺能**机制相关。本药是 NE 与 DA 神经元再摄取的**较弱**抑制剂，**不抑制 5‑HT 再摄取**，也不抑制单胺氧化酶（`US-SR` §12.1） |
 | 关键药代摘要 | 消旋混合物，**单个对映体的药理活性与药代未被研究**。母药平均消除半衰期 21±9 h，8 天内达稳态，口服绝对生物利用度未测定。三个活性代谢物中，hydroxybupropion（由 **CYP2B6** 生成）稳态 AUC 约为母药 **17 倍**。erythro‑ 与 threo‑hydrobupropion（**不经 P450 生成**）的半衰期分别为 33±10 h 与 37±13 h。蛋白结合 84%，以原形经尿排出仅 0.5%（`US-SR` §12.3） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**。五份现行目录与增列公告逐项未命中"bupropion／丁氨苯丙酮"，四个整类按公告结构定义核查并经 RDKit 复核亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)。本药在中国的上市与批准状态同时**未能确认**（NMPA 数据查询与 CDE 受理品种目录 2026-11-11 验证可按名检索，本条未逐名查询） |
-| 主要法域批准状态 | 美国：MDD（IR／SR／XL）。SAD 预防仅 XL。**戒烟仍有现行安非他酮 SR 仿制产品获批**（`US-SMOKE` §1），即使 ZYBAN 品牌本身已列 discontinued。英国：Zyban 现行 SmPC 仍列戒烟适应证，英国无单方抑郁许可记录（`UK-SPC` §4.1）。中国：待核实（§10） |
+| 主要法域批准状态 | 美国：MDD（IR／SR／XL）。SAD 预防仅 XL。**戒烟仍有现行安非他酮 SR 仿制产品获批**（`US-SMOKE` §1），即使 ZYBAN 品牌本身已列 discontinued。英国：Zyban 现行 SmPC 仍列戒烟适应证，英国无单方抑郁许可记录（`UK-SPC` §4.1）。中国：待核实（§10）。 加拿大（Health Canada DPD，2026-11-11）：按活性成分检索命中 39 条，Marketed 状态示例为 DIN 02275074（ODAN LABORATORIESLTD，ODAN BUPROPION SR）。 |
 | 身份与统计 | WHO ATC `N06AX12`，见 [ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX12)。DDD 0.3 g（口服，统计指标、非处方剂量）。标识符：Wikidata [Q834280](https://www.wikidata.org/wiki/Q834280)、PubChem [444](https://pubchem.ncbi.nlm.nih.gov/compound/444)、MeSH [D016642](https://meshb.nlm.nih.gov/record/ui?ui=D016642)、DrugBank [DB01156](https://www.drugbank.ca/r/DB01156)、RxNorm [42347](https://rxnav.nlm.nih.gov/REST/rxcui/42347.json)。 |
 
 ## 2. 评分

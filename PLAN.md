@@ -1018,3 +1018,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **制剂分型与境外库续查（同日）**：追加解析 PMDA 同次检索的其余 XML，补入 biperiden 口服片、methylphenidate 缓释片（ADHD）、midazolam 注射剂与癫痫持续状态制剂的标签事实。NMPA 境外库剩余 40 份补得 20 份，7 份命中并写入 HJ 批准文号，naloxone 命中羟考酮纳洛酮复方排除。
 **境外库续查收尾**：剩余 40 份最终补得 27 份，12 份命中并写入 HJ 批准文号示例（含 venlafaxine、vinpocetine、ziprasidone、zolpidem、zopiclone），其余 13 份当日限流未取得结果。
 **加拿大 DPD 补检索（同日）**：对 24 个活性成分检索 Health Canada Drug Product Database，19 份有 Marketed 状态产品并写入 DIN、企业与商品名示例，涉及 chlorpromazine、haloperidol、clozapine、quetiapine、paliperidone、asenapine、clonazepam、lorazepam、moclobemide 等。olanzapine、risperidone、trifluoperazine 的已捕获行未见 Marketed 示例，未写入。
+**加拿大 DPD 第二批（同日）**：对 25 个活性成分检索 Health Canada DPD，24 份有 Marketed 状态产品并写入档案，涉及抗抑郁药、心境稳定剂、ADHD 药物与痴呆药物。acamprosate 与 varenicline 未捕获结果行，trifluoperazine 的 41 条记录未见 Marketed 条目，均未写入。
