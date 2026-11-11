@@ -83,6 +83,8 @@
 
 - **2026-11-10 复核**：CIMA REST 按 `nombre=MENTIS` 命中 1 条注册记录（注册号 54990，`vtm` 为 pirisudanol），`comerc` 为 false 且无 ficha técnica 文档，说明有过注册但当前不销售、无现行文本。葡萄牙 PRIDANA FORTE 只见二手口径。美国、英国、法国三库仍 0 条。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 **监管与检索记录**：[openFDA 标签检索 pirisudanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pirisudanol%22&limit=5)。[openFDA 标签检索 pyrisuccideanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pyrisuccideanol%22&limit=5)。[DailyMed 检索（带 /dailymed/ 前缀，0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pirisudanol)。[法国 BDPM 前缀检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PIRISUDANOL&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。

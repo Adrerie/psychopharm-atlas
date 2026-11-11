@@ -126,6 +126,8 @@
 7. **化学身份不等于条目身份**：brexanolone 与 allopregnanolone 化学相同、Wikidata 只有后者条目，因此"身份链接"依赖 WHO ATC 与（存档）监管文件。这一来源强度已在本页 §1 标注。
 8. **中国缺口**：NMPA 数据查询恒返回 412 拦截页、CDE 恒返回 202 脚本校验页（2026-10-22 复核），本药在中国的上市剂型、核准适应证与说明书**待核实**，未使用商业药品库或二手网页补足。管制字段沿用 2026-10-06 的逐项与整类核查结论（未发现列入），本次核查未重跑全库结构核查。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 本页未建专题：`basic` 状态下最值得展开的是"单次 60 小时输注＋全程监护＋REMS 式场所限制"如何重塑风险治理，但把它做足需要现行监管文本与真实世界使用数据，两者本次核查均不可得（§10 第 1 项）。同机制但不同实体的对照见 [zuranolone](zuranolone.md)（口服、14 天疗程、中国第二类精神药品第 73 项、次日驾驶黑框）。静脉与场所边界的另一写法见 [esketamine](esketamine.md) 与其专题 [esketamine-formulation-and-setting-boundaries](../analysis/esketamine-formulation-and-setting-boundaries.md)。产后抑郁的常规口服抗抑郁药一侧见 [escitalopram](escitalopram.md)。

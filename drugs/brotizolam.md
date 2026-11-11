@@ -95,7 +95,7 @@
 4. **剂量、禁忌与疗程全部空缺**：§4 的 0.125–0.5 mg 等数字是 1980 年代研究剂量与 1994 年 WHO 描述，不能写成核准给药方案。减量方案、疗程上限、禁忌人群在无文本情况下不补写。
 5. **跨药比较被明确排除**：1988 年综述与 1986 年睡眠实验室研究的比较性语句只作历史背景（§5），不据此给本药任何"优于／相当于"的结论。
 6. **滥用记录的历史性质**：香港 1988–1992 与德国的报告均出自 1994 年 WHO 评估，**引用时必须带年份**。没有现行非医疗使用数据，不推算发生率。
-7. **中国维度**：管制层级为**第二类第 6 项**（已核实）。2017 年老年 PIM 标准无本药条目、只有类别条款，当地无逐药处方偏离数据，故 `N/A`。上市与核准适应证待核实（NMPA 412、CDE 202）。
+7. **中国维度**：管制层级为**第二类第 6 项**（已核实）。2017 年老年 PIM 标准无本药条目、只有类别条款，当地无逐药处方偏离数据，故 `N/A`。上市与核准适应证待核实（NMPA 412、CDE 202）。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 2 条受理记录；最近一条为受理号 JYHB1500668、药品名称「溴替唑仑片」、申请类型 补充申请、承办日期 2015-05-19。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
 8. **商品名不经监管核对**：Lendormin、Ladormin 等六个名称来自 1994 年 WHO 文件，未核对任何现行产品的持证方与在售状态。
 
 - **2026-11-10 复核**：德国 ABDA 药品数据库（aponet.de）仍有 [Lendorm 0.25 mg 片条目（Pharma Gerke，2025-12 数据）](https://www.aponet.de/service/arzneimitteldatenbank/arzneimittel/anwendungsdetails/zusammensetzung/3341484300/Schlafst%C3%B6rung) 与 [同品种条目（EMRA-MED，2026-09 数据）](https://www.aponet.de/arzneimittel/arzneimitteldatenbank/arzneimittel/anwendungsdetails/zusammensetzung/3347968300/Schlafst%C3%B6rung)，均为处方药。本次未取得 BfArM 登记或 Fachinformation 原件，二次转录不进入监管层。美国、英国、法国、西班牙四库仍为 0 条。

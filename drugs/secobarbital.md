@@ -108,6 +108,8 @@
 4. R-(+) 与 S-(−) 异构体的人体药代、效力与安全性对照数据。
 5. 本药的人群非医疗使用率（仅有强化实验与个案级证据）。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 本药未建专题文件（理由见 §10 第 8 项）。同类条目见 [pentobarbital](pentobarbital.md)（同段巴比妥类别文本，但现行产品为注射剂）、[amobarbital](amobarbital.md)、[aprobarbital](aprobarbital.md)、[butobarbital](butobarbital.md)。"无任何法域现行说明书→保持 `basic` 并在文首与 §10 写清缺口"的处理先例见 [flunitrazepam](flunitrazepam.md) 与 [phenibut](phenibut.md)。同组静脉麻醉药见 [methohexital](methohexital.md)、[thiopental](thiopental.md)。

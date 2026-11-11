@@ -86,7 +86,7 @@
   - DailyMed：`services/v2/spls.json?drug_name=hydromethylthionine` → 0 条。`?drug_name=methylthioninium` → 0 条。
   - ClinicalTrials.gov v2：`query.term=hydromethylthionine` → 9 条（含亚甲蓝相关条目如 `NCT04370288`、`NCT05111808` 等不相关命中）。`query.term=TRx0237` → 9 条。`query.term=TauRx` → 11 条（另含更早的 TRx0014 与 TRx0037 项目）。逐条状态见 §5（关键差异：**COMPLETED 与"结果已张贴"要分开写**。`NCT03446001` 已张贴 2025-09-04，`NCT01689233`／`NCT01689246`／`NCT01626378`／`NCT02245568` 中的前三个未张贴，`NCT02245568` 已张贴 2020-06-02）。
   - EMA：Methylthioninium chloride Proveblue 条目页可读（HTTP 200），页面文本只涉及高铁血红蛋白血症适应证、ATC `V03AB17` 与 2011-05-06 的欧盟许可。以候选 slug 访问 `.../EPAR/methylthioninium-chloride-prove-blue` 与 `.../referrals/...` 均返回 HTTP 404（拼写差异导致），故**未取得任何"AD 适应证被拒绝"的官方正文，若历史上存在此类审评决定，记为待核实**。
-  - 英国 MHRA 与 FDA：未取得审评结论正文。NMPA 恒 HTTP 412、CDE 恒返回 202 校验页，中国境内试验与上市情况待核实。
+  - 英国 MHRA 与 FDA：未取得审评结论正文。NMPA 恒 HTTP 412、CDE 恒返回 202 校验页，中国境内试验与上市情况待核实。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 1 条受理记录；最近一条为受理号 JXHL2101273、药品名称「甲磺酸氢甲硫堇（LMTM）片」、申请类型 进口、承办日期 2021-12-16。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
   - 文献接口（PubMed eutils／Europe PMC）在核查时段内多次返回 HTTP 500／503，仅 §11 所列条目完成题名与摘要校验。早期 III 期的原始发表报告未能在校验，已如实写为缺口。
 - 结论纪律：不写"已获批""现行治疗""疾病修饰已证实"，不把 78／104 周的亚组分离写成注册级证据，不把亚甲蓝的许可与用途转给本药，也不把申办方相关综述当作独立结论。状态维持 `basic`。
 

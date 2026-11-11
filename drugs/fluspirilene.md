@@ -90,6 +90,8 @@
 
 - **2026-11-10 复核**：德国二级数据库 [univadis 的 Imap 1.5 mg 条目](https://www.univadis.de/references/drug-database/viewdrug/na-383108) 与 [Imap 12 mg 条目](https://www.univadis.de/references/drug-database/N05/viewdrug/imap-383103) 显示该产品仍以在售条目出现，但本次取不到 BfArM 登记与 Fachinformation 原件，故不进入监管层。美国 openFDA 与 DailyMed、英国 emc、法国 BDPM、西班牙 CIMA 均 0 条。中国管制结论按结构定义仍记「仍待核实（整类结构边界）」。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 本药未建专题文件：现有材料只支持"小样本、无现行文本"的判断，建立专题会把 1970 年代的试验包装成当代结论。真正需要解释的问题是"为什么同亚组的匹莫齐特有 QT 条款而本药没有现行文本"，该问题需要监管档案与制剂史，均未取得。

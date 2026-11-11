@@ -89,6 +89,8 @@
 
 检索记录（2026-11-10）：荷兰 Geneesmiddeleninformatiebank 收录 Toxogonin（SERB SA，注射用溶液 250 mg/ml，1 ml 安瓿）的英文 SmPC，文件路径 h04562_smpc.pdf。可读的段落包括适应证为有机磷酸酯类杀虫剂中毒时复活被抑制的乙酰胆碱酯酶。文本写明阿托品给药不可被本品替代。成人首剂 1 安瓿（250 mg）。儿童首剂每公斤体重 4–8 mg 缓慢静脉注射。随后以 24 小时内 750 mg 持续输注，儿童为每日每公斤体重 10 mg。捷克国家药品控制研究所数据库收录同一产品的患者说明书与说明书，记为 obidoximum-dichlorid 250 mg/1 ml、5 安瓿装。上述荷文与捷文文本的完整 PDF 在 2026-11-10 直接下载失败（代理返回 404），只能通过检索索引读到片段与段落，未能逐节核对相互作用、禁忌与特殊人群，因此不据此升级，状态保持 basic。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 - `DM-0`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=obidoxime （HTTP 200，total_elements 0）

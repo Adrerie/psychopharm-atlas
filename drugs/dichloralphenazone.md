@@ -94,6 +94,8 @@
 8. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `dichloralphenazone` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 9. **2026-11-10 新增取回（不改变状态）**：① 美国现行含本药的固定复方标签可在 openFDA 标签库以全文检索词 `dichloralphenazone` 取到 9 条，最新 `effective_time` 为 2018-03-31，适应证均为紧张性与血管性头痛（原文「For relief of tension and vascular headaches.」），属复方产品，不是单方催眠制剂。② 美国列管的一手文件为《联邦公报》最终规则「Schedule of Controlled Substances: Placement of Dichloralphenazone Into Schedule IV」（2001-08-16，文号 01-20579），拟议规则为 2000-12-11（文号 00-31356），与 §2.1 已引的 `PMID:11794309` 相互印证。二者都不构成单方现行说明书，故仍为 `basic`。
 
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
 ## 11. 深入分析与来源
 
 本条目未建专题文件：最需要解释的是"两种成分各自的贡献如何在本药这一复合物里分开归属"，这已在 §3、§6、§10 说清。把 Midrin 复方的偏头痛试验逐项数值搬进主条目会破坏快速判断页定位，且属复方证据。
