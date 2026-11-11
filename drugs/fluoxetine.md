@@ -127,4 +127,6 @@
 - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
 - CYP 抑制倍数随底物、剂量与基因型变化的边界见 [cyp-inhibition-magnitude-substrate-dependence.md](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)。
 
+- 性功能障碍的发生率、停药后持续与测量口径边界见 [sexual-dysfunction-incidence-and-persistence.md](../analysis/sexual-dysfunction-incidence-and-persistence.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

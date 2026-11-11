@@ -16,7 +16,9 @@
 | [aripiprazole-formulation-pd-safety](../analysis/aripiprazole-formulation-pd-safety.md) | 部分激动与剂型如何改变副作用的解释 | 2026-10-08 | 1 |
 | [eszopiclone-racemate-read-across](../analysis/eszopiclone-racemate-read-across.md) | 单一对映体有多少结论是从外消旋体读来的 | 2026-10-09 | 1 |
 | [quetiapine-dose-pk-pd](../analysis/quetiapine-dose-pk-pd.md) | 剂量-暴露-靶点占用-临床结局 | 2026-10-07 | 1 |
-| [cyp-inhibition-magnitude-substrate-dependence](../analysis/cyp-inhibition-magnitude-substrate-dependence.md) | 同一抑制剂，不同底物，不同倍数 | 2026-11-11 | 6 |
+| [cyp-inhibition-magnitude-substrate-dependence](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)
+| [sexual-dysfunction-incidence-and-persistence](../analysis/sexual-dysfunction-incidence-and-persistence.md) | 标签发生率、停药后持续与测量口径 | 2026-11-11 | 8 |
+ | 同一抑制剂，不同底物，不同倍数 | 2026-11-11 | 6 |
 
 ## 停药与戒断
 
@@ -64,6 +66,6 @@
 4. 专题结论不写成跨药排序或个体用药建议。
 5. 新增或修改专题时同步更新本页、[PLAN.md](../PLAN.md) 与相关主条目 §11。
 
-当前专题数：27。
+当前专题数：28。
 
 统计与缺口见 [目录索引](index.md)。

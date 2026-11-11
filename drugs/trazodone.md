@@ -135,4 +135,6 @@
 - 研究与指南：[PMID:29477251 Cipriani 2018](https://pubmed.ncbi.nlm.nih.gov/29477251/)｜[PMID:29761479 Cochrane 成人失眠抗抑郁药](https://pubmed.ncbi.nlm.nih.gov/29761479/)｜[PMID:27998379 AASM 2017 药物指南](https://pubmed.ncbi.nlm.nih.gov/27998379/)｜[PMID:36002579 PSG 睡眠结构荟萃](https://pubmed.ncbi.nlm.nih.gov/36002579/)｜[PMID:41081841 抑郁共病失眠荟萃](https://pubmed.ncbi.nlm.nih.gov/41081841/)｜[PMID:21798674 美沙酮维持 RCT](https://pubmed.ncbi.nlm.nih.gov/21798674/)｜[PMID:21328305 Cochrane 痴呆激越](https://pubmed.ncbi.nlm.nih.gov/21328305/)｜[PMID:33189083 Cochrane 痴呆睡眠](https://pubmed.ncbi.nlm.nih.gov/33189083/)｜[PMID:35843245 Lancet 2022 失眠网络荟萃](https://pubmed.ncbi.nlm.nih.gov/35843245/)｜[PMID:36865408 安老院曲唑酮对佐匹克隆](https://pubmed.ncbi.nlm.nih.gov/36865408/)｜[PMID:28228380 抗抑郁药 off-label 处方](https://pubmed.ncbi.nlm.nih.gov/28228380/)｜[PMID:39297769 失眠门诊用药构成](https://pubmed.ncbi.nlm.nih.gov/39297769/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)｜[NICE NG222 成人抑郁（2022-06-29）](https://www.nice.org.uk/guidance/ng222)
 - - 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 
+- 性功能障碍的发生率、停药后持续与测量口径边界见 [sexual-dysfunction-incidence-and-persistence.md](../analysis/sexual-dysfunction-incidence-and-persistence.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

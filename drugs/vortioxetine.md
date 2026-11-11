@@ -140,4 +140,6 @@
 - 研究与指南：[PMID:29477251 Cipriani 2018 成人网络荟萃](https://pubmed.ncbi.nlm.nih.gov/29477251/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)
 - - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
 
+- 性功能障碍的发生率、停药后持续与测量口径边界见 [sexual-dysfunction-incidence-and-persistence.md](../analysis/sexual-dysfunction-incidence-and-persistence.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

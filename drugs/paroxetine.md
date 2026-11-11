@@ -166,4 +166,6 @@
 - 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
 - CYP 抑制倍数随底物、剂量与基因型变化的边界见 [cyp-inhibition-magnitude-substrate-dependence.md](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)。
 
+- 性功能障碍的发生率、停药后持续与测量口径边界见 [sexual-dysfunction-incidence-and-persistence.md](../analysis/sexual-dysfunction-incidence-and-persistence.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。
