@@ -111,4 +111,6 @@ L-色氨酸是 5-羟色胺生物合成的起始底物：经色氨酸羟化酶生
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

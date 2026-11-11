@@ -110,4 +110,6 @@
 - `ATC-N04BD`：https://atcddd.fhi.no/atc_ddd_index/?code=N04BD（Last updated 2026-01-20）
 - 同组交叉：[selegiline](selegiline.md)／[safinamide](safinamide.md)／[levodopa](levodopa.md)／[pramipexole](pramipexole.md)／[ropinirole](ropinirole.md)／[amantadine](amantadine.md)／[bromocriptine](bromocriptine.md)。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

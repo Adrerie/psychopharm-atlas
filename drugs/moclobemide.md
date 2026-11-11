@@ -111,4 +111,6 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AG02`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AG02)。[Wikidata Q421934](https://www.wikidata.org/wiki/Q421934)。[PubChem CID 4235](https://pubchem.ncbi.nlm.nih.gov/compound/4235)。[DrugBank DB01171](https://www.drugbank.ca/r/DB01171)。[RxNorm RXCUI 30121](https://rxnav.nlm.nih.gov/REST/rxcui/30121.json)。[MeSH D020912](https://meshb.nlm.nih.gov/record/ui?ui=D020912)。English Wikipedia（标题指针，未复制正文）：[Moclobemide](https://en.wikipedia.org/wiki/Moclobemide)。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

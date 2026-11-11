@@ -118,4 +118,6 @@
 
 - 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

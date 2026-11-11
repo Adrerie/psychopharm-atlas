@@ -117,4 +117,6 @@
 - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
 - EPS 与迟发性运动障碍的剂量绑定、抗胆碱药边界与 TD 治疗位置见 [eps-td-dose-links-and-anticholinergic-boundary.md](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md)。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

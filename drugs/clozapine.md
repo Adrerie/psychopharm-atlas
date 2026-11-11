@@ -144,4 +144,6 @@
 - EPS 与迟发性运动障碍的剂量绑定、抗胆碱药边界与 TD 治疗位置见 [eps-td-dose-links-and-anticholinergic-boundary.md](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md)。
 - 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
 
+- NMS 与 5-羟色胺综合征的标签边界见 [nms-vs-serotonin-syndrome-label-boundaries.md](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。
