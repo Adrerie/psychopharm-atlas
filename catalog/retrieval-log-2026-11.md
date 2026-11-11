@@ -752,6 +752,33 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | triazolam | 16 | 00808571 | AA PHARMA INC | TRIAZOLAM |
 | temazepam | 30 | 00604453 | AA PHARMA INC | RESTORIL |
 
+### 4.12 澳大利亚 TGA ARTG 第五批（2026-11-11）
+
+对 15 个药名检索 TGA，7 份写入 ARTG 条目。bupropion 只解析到 CONTRAVE 复方，vilazodone、levomilnacipran、hydroxyzine、solriamfetol、pitolisant、daridorexant、tasimelteon 未解析到条目，均未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| moclobemide | 49 | 333640 | MOCLOBEMIDE-ARX moclobemide 150 mg film-coated tablet blister pack |
+| propranolol | 47 | 474025 | INDERAL propranolol hydrochloride 10mg tablet blister pack |
+| buprenorphine | 158 | 490138 | BUPRENORPHINE SUN buprenorphine 5 micrograms/hour transdermal drug delivery system sachet |
+| modafinil | 47 | 395231 | MODAFINIL VIATRIS modafinil 100 mg tablet blister pack |
+| armodafinil | 19 | 272052 | NUVIGIL armodafinil 50 mg tablet blister pack |
+| lemborexant | 8 | 338631 | DAYVIGO lemborexant 5 mg film coated tablet blister pack |
+| clobazam | 20 | 316682 | PHARMACOR CLOBAZAM clobazam 10 mg tablet bottle |
+
+### 4.13 加拿大 DPD 第六批（2026-11-11）
+
+对 15 个活性成分检索 Health Canada DPD，5 份有与药名一致的 Marketed 产品并写入档案。melatonin 此前已写入 SLENYTO，pentoxifylline 无对应档案，esketamine、citicoline、acetylleucine、cinnarizine、vinpocetine、idebenone、cerebrolysin 未捕获到结果，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| memantine | 21 | 02324067 | TEVA CANADA LIMITED | ACT MEMANTINE |
+| clobazam | 10 | 02244638 | APOTEX INC | APO-CLOBAZAM |
+| riluzole | 3 | 02352583 | APOTEX INC | APO-RILUZOLE |
+| edaravone | 3 | 02532611 | SHIONOGI INC. | RADICAVA |
+| betahistine | 33 | 02449145 | AURO PHARMA INC | AURO-BETAHISTINE |
+| flunarizine | 3 | 02246082 | AA PHARMA INC | FLUNARIZINE |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
