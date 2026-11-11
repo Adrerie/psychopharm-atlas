@@ -31,6 +31,7 @@
 | [qt-thresholds-label-boundaries](../analysis/qt-thresholds-label-boundaries.md) | 标签阈值、监测流程与不能合并的毫秒数 | 2026-11-11 | 11 |
 | [agomelatine-liver-monitoring-paradox](../analysis/agomelatine-liver-monitoring-paradox.md) | 阿戈美拉汀的肝监测悖论：强制化验日程、人群无超额与 15% 的依从率 | 2026-10-09 | 1 |
 | [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md) | 次日损害与复杂睡眠行为由什么决定 | 2026-10-08 | 1 |
+| [seizure-threshold-therapeutic-overdose-withdrawal](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md) | 治疗剂量、过量与撤药三条线 | 2026-11-11 | 7 |
 | [eps-td-dose-links-and-anticholinergic-boundary](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md) | 剂量绑定、抗胆碱药边界与 TD 治疗 | 2026-11-11 | 9 |
 | [hyponatremia-denominators-and-monitoring](../analysis/hyponatremia-denominators-and-monitoring.md) | 试验分母、标签词句与老年监测边界 | 2026-11-11 | 8 |
 | [antipsychotic-metabolic-burden-layers](../analysis/antipsychotic-metabolic-burden-layers.md) | 标签分母、人群与网络荟萃不能互换 | 2026-11-11 | 9 |
@@ -62,6 +63,6 @@
 4. 专题结论不写成跨药排序或个体用药建议。
 5. 新增或修改专题时同步更新本页、[PLAN.md](../PLAN.md) 与相关主条目 §11。
 
-当前专题数：25。
+当前专题数：26。
 
 统计与缺口见 [目录索引](index.md)。

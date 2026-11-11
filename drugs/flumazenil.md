@@ -101,4 +101,5 @@
 - [acetylcysteine](acetylcysteine.md) 与 [fomepizole](fomepizole.md)
 - [diazepam](diazepam.md) 与 [midazolam](midazolam.md)
 
+- 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

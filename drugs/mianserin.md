@@ -113,4 +113,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AX03`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX03)。[Wikidata Q416701](https://www.wikidata.org/wiki/Q416701)。[PubChem CID 4184](https://pubchem.ncbi.nlm.nih.gov/compound/4184)。[MeSH D008803](https://meshb.nlm.nih.gov/record/ui?ui=D008803)。[DrugBank DB06148](https://www.drugbank.ca/r/DB06148)。[RxNorm RXCUI 6929](https://rxnav.nlm.nih.gov/REST/rxcui/6929.json)。English Wikipedia（标题指针，未复制正文）：[Mianserin](https://en.wikipedia.org/wiki/Mianserin)。
 
+- 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
