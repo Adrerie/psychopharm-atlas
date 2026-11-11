@@ -128,4 +128,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AX23`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX23)。[Wikidata Q2419445](https://www.wikidata.org/wiki/Q2419445)。[PubChem CID 125017](https://pubchem.ncbi.nlm.nih.gov/compound/125017)。[DrugBank DB06700](https://www.drugbank.ca/r/DB06700)。[RxNorm RXCUI 734064](https://rxnav.nlm.nih.gov/REST/rxcui/734064.json)。English Wikipedia（标题指针，未复制正文）：[Desvenlafaxine](https://en.wikipedia.org/wiki/Desvenlafaxine)。
 
+- 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

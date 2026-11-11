@@ -6,7 +6,7 @@
 
 - 药物主档案：**384** 份（核心六组 280，跨组 104）。状态 **249 reviewed / 7 indexed / 128 basic**。
 - 跨组选录目录：**91** 条，其中 **89** 条已建档。余下 `N07BC51` 和 `N06DA53` 仅为尚无可核验具体产品的复方分类记录，**不计为缺失药品**。
-- 专题分析：`analysis/` **19** 份，采用问题导向，未设配额。2026-11-11 新增 [benzodiazepine-withdrawal-label-boundaries.md](analysis/benzodiazepine-withdrawal-label-boundaries.md)（苯二氮䓬类停药）、[qt-thresholds-label-boundaries.md](analysis/qt-thresholds-label-boundaries.md)（QT 阈值与监测流程）、[anticholinergic-burden-evidence-layers.md](analysis/anticholinergic-burden-evidence-layers.md)（抗胆碱能负担的四层证据）、[drug-vs-supplement-identity-layers.md](analysis/drug-vs-supplement-identity-layers.md)（药品与膳食补充剂的注册层边界）。
+- 专题分析：`analysis/` **20** 份，采用问题导向，未设配额。2026-11-11 新增 [benzodiazepine-withdrawal-label-boundaries.md](analysis/benzodiazepine-withdrawal-label-boundaries.md)（苯二氮䓬类停药）、[qt-thresholds-label-boundaries.md](analysis/qt-thresholds-label-boundaries.md)（QT 阈值与监测流程）、[anticholinergic-burden-evidence-layers.md](analysis/anticholinergic-burden-evidence-layers.md)（抗胆碱能负担的四层证据）、[drug-vs-supplement-identity-layers.md](analysis/drug-vs-supplement-identity-layers.md)（药品与膳食补充剂的注册层边界）、[antidepressant-discontinuation-label-boundaries.md](analysis/antidepressant-discontinuation-label-boundaries.md)（抗抑郁药停药症状与发生率边界）。
 - Wave 15：50 份（A 下尿路 13，B 前庭 7，C 解毒 10，D 帕金森及多巴胺 10，E 其他神经疾病 10）。**40 reviewed / 10 basic / 0 indexed**。已完成逐组评分修补、结构及内部链接检查，结果记于 [PLAN.md](PLAN.md)。
 - Wave 16：159 份 `basic` 全部重做跨法域现行监管文本检索，**27 份升级 reviewed**、132 份保持 basic（缺口逐份写入 §10）。同时完成全库语言审订并修复 5 条被压缩的文献引用。完成记录见 [PLAN.md](PLAN.md)。
 - 2026-11-11 补证：日本 PMDA 现行添付文書取回 4 份并升级 `reviewed`（brotizolam、etizolam、cloxazolam、pemoline），132 份 basic 的 CDE／NMPA／PMDA 检索记录并入 [catalog/retrieval-log-2026-11.md](catalog/retrieval-log-2026-11.md)，档案正文只保留命中事实。

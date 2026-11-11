@@ -124,4 +124,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AB03`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AB03)。[Wikidata Q422244](https://www.wikidata.org/wiki/Q422244)。[PubChem CID 3386](https://pubchem.ncbi.nlm.nih.gov/compound/3386)。[MeSH D005473](https://meshb.nlm.nih.gov/record/ui?ui=D005473)。[DrugBank DB00472](https://www.drugbank.ca/r/DB00472)。[RxNorm RXCUI 4493](https://rxnav.nlm.nih.gov/REST/rxcui/4493.json)。
 
+- 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
