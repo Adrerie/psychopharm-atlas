@@ -1011,3 +1011,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **mexazolam 重试**：PMDA 连接中断后补查成功，按 2024-02 修订标签写入神经症与心身症适应症、成人 1.5–3 mg/日分 3 次、老年上限 1.5 mg/日。
 **日本 PMDA 第七批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（biperiden、trihexyphenidyl、amantadine、bromocriptine、pramipexole、ropinirole、selegiline、rasagiline、betahistine）。biperiden 解析到的是注射剂标签，levodopa 解析到的是持续皮下输注制剂标签，后者未写入。amantadine 的日本标签另收载脑梗塞后遗症意欲低下与甲型流感，bromocriptine 的日本标签以高催乳素相关适应症为主，均按原文记录。
 **日本 PMDA 第八批（同日）**：再检索 10 个日文名，7 份写入收载适应症与剂量要点（acamprosate、varenicline、methylphenidate、atomoxetine、lisdexamfetamine、mianserin、droperidol），prochlorperazine 与 hydroxyzine 经重试补入，nicotine 命中维生素类制剂未写入。methylphenidate 解析到的是发作性睡病标签，droperidol 解析到的是麻醉用途标签，均按原文记录。
+**日本 PMDA 第九批（同日）**：再检索 10 个日文名，4 份写入收载适应症与剂量要点（dimenhydrinate、caffeine、naloxone、flumazenil），midazolam 经重试补入儿童麻醉前口服制剂标签。flunarizine、cinnarizine、meclizine、naltrexone 在该检索口径下为 0 结果，scopolamine 命中丁溴东莨菪碱，均未写入。
