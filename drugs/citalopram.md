@@ -143,4 +143,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AB04`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AB04)。[Wikidata Q409672](https://www.wikidata.org/wiki/Q409672)。[PubChem CID 2771](https://pubchem.ncbi.nlm.nih.gov/compound/2771)。[MeSH D015283](https://meshb.nlm.nih.gov/record/ui?ui=D015283)。[DrugBank DB00215](https://www.drugbank.ca/r/DB00215)。[RxNorm RXCUI 2556](https://rxnav.nlm.nih.gov/REST/rxcui/2556.json)。English Wikipedia（标题指针，未复制正文）：[Citalopram](https://en.wikipedia.org/wiki/Citalopram)。
 
+- QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
 统计与缺口见 [目录索引](../catalog/index.md)。

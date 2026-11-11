@@ -151,4 +151,5 @@
   - [haloperidol（QT 警告层级与"无 §9 不断言"同例）](haloperidol.md)
   - [risperidone](risperidone.md)
   - [quetiapine（样板条目）](quetiapine.md)
-- 统计与缺口见 [目录索引](../catalog/index.md)。
+- - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+统计与缺口见 [目录索引](../catalog/index.md)。

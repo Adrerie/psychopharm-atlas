@@ -106,4 +106,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AC02`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AC02)。[Wikidata Q58375](https://www.wikidata.org/wiki/Q58375)。[PubChem CID 5452](https://pubchem.ncbi.nlm.nih.gov/compound/5452)。[DrugBank DB00679](https://www.drugbank.ca/r/DB00679)。[RxNorm RXCUI 10502](https://rxnav.nlm.nih.gov/REST/rxcui/10502.json)。[MeSH D013881](https://meshb.nlm.nih.gov/record/ui?ui=D013881)。English Wikipedia（标题指针，未复制正文）：[Thioridazine](https://en.wikipedia.org/wiki/Thioridazine)。
 
+- QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -120,4 +120,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AG02`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AG02)。[Wikidata Q144085](https://www.wikidata.org/wiki/Q144085)。[PubChem CID 16362](https://pubchem.ncbi.nlm.nih.gov/compound/16362)。[MeSH D010868](https://meshb.nlm.nih.gov/record/ui?ui=D010868)。[DrugBank DB01100](https://www.drugbank.ca/r/DB01100)。[RxNorm RXCUI 8331](https://rxnav.nlm.nih.gov/REST/rxcui/8331.json)。English Wikipedia（标题指针）：[Pimozide](https://en.wikipedia.org/wiki/Pimozide)。
 
+- QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
 统计与缺口见 [目录索引](../catalog/index.md)。

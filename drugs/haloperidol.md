@@ -146,4 +146,5 @@
 - 英国 emc SmPC：[10907（口服溶液 1 mg/mL）](https://www.medicines.org.uk/emc/product/10907/smpc)，[100592（注射 5 mg/mL）](https://www.medicines.org.uk/emc/product/100592/smpc)，[15245（Decanoate 50 mg/mL）](https://www.medicines.org.uk/emc/product/15245/smpc)，[9868（口服溶液 200 微克/mL）](https://www.medicines.org.uk/emc/product/9868/smpc)
 - 研究与网络荟萃：[PMID:23810019 Leucht 2013 *Lancet*](https://pubmed.ncbi.nlm.nih.gov/23810019/)｜[PMID:31303314 Huhn 2019 *Lancet*](https://pubmed.ncbi.nlm.nih.gov/31303314/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)
 - 相关条目：[risperidone](risperidone.md)，[paliperidone](paliperidone.md)，[amisulpride](amisulpride.md)，[quetiapine（样板条目）](quetiapine.md)
-- 统计与缺口见 [目录索引](../catalog/index.md)。
+- - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+统计与缺口见 [目录索引](../catalog/index.md)。

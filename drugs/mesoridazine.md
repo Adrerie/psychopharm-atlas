@@ -104,4 +104,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AC03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AC03)。[Wikidata Q6821618](https://www.wikidata.org/wiki/Q6821618)。[PubChem CID 4078](https://pubchem.ncbi.nlm.nih.gov/compound/4078)。[MeSH D008653](https://meshb.nlm.nih.gov/record/ui?ui=D008653)。[DrugBank DB00933](https://www.drugbank.ca/r/DB00933)。[RxNorm RXCUI 6779](https://rxnav.nlm.nih.gov/REST/rxcui/6779.json)。English Wikipedia（标题指针，未复制正文）：[Mesoridazine](https://en.wikipedia.org/wiki/Mesoridazine)。
 
+- QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
 统计与缺口见 [目录索引](../catalog/index.md)。
