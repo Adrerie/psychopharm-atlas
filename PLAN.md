@@ -1007,3 +1007,5 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **日本 PMDA 第三批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（amitriptyline、imipramine、clomipramine、amoxapine、maprotiline、chlorpromazine、levomepromazine、alprazolam、diazepam）。haloperidol 解析到的是癸酸酯肌注标签，未写入。alprazolam 的日本适应症限于心身症，不含广泛性焦虑障碍与惊恐障碍，按原文记录。
 **日本 PMDA 第四批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（ramelteon、suvorexant、lemborexant、galantamine、rivastigmine、carbamazepine、valproic-acid、lithium、lamotrigine）。gabapentin 解析到的是加巴喷丁恩那卡比（前药）的 RLS 标签，未写入。ramelteon 在日本只收载入睡困难改善，rivastigmine 解析到贴剂标签，按原文记录。另补入 pramipexole 的 NMPA 境内批准文号（50 条）。
 **日本 PMDA 第五批（同日）**：再检索 10 个日文名，10 份写入收载适应症与剂量要点（quetiapine、olanzapine、risperidone、aripiprazole、paliperidone、lurasidone、brexpiprazole、trazodone、venlafaxine、duloxetine）。quetiapine 解析到的标签只收载精神分裂症，paliperidone 解析到长效注射剂标签，均按原文记录。
+**日本 PMDA 第六批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（lorazepam、clonazepam、estazolam、nitrazepam、disulfiram、zotepine、periciazine、bromperidol、tiapride）。clonazepam 的日本标签只收载癫痫类发作、无惊恐障碍，按原文记录。mexazolam 的解析遇到连接中断，未写入。
+**mexazolam 重试**：PMDA 连接中断后补查成功，按 2024-02 修订标签写入神经症与心身症适应症、成人 1.5–3 mg/日分 3 次、老年上限 1.5 mg/日。
