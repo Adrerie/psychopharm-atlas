@@ -1,6 +1,7 @@
 # pirisudanol｜中文名待核实（维基数据未给出监管核准中文名；RxNorm 首选名为 pyrisuccideanol，PubChem 把两式列为同义）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（西班牙 CIMA MENTIS 注册记录核对，美英法现行库复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BX08`（WHO ATC/DDD Index 2026）
+> 状态：`basic` ｜ 最后核查：2026-11-10（西班牙 CIMA MENTIS 注册记录核对，美英法现行库复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BX08`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 
 **引用键**：`PMID:……`＝PubMed。`REG-2026`＝监管库检索记录（openFDA／DailyMed／BDPM／CIMA，检索日 2026-10-28）。本条目**没有任何说明书正文可引**，因此不使用说明书类引用键。§N 指相应章节。
 

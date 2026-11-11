@@ -1,6 +1,7 @@
 # buntanetap｜buntanetap（开发代号 PTB006／ANVS401，即 posiphen，(+)-phenserine 对映体；Annovis Bio 在研口服小分子，未检得可核验批准记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（公司 2026 年开发进度公告，美英欧与 ClinicalTrials.gov 复核，身份 2026-11-05）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PC-11249342`＝PubChem CID 11249342（CAS 116839-68-0。同义名含 posiphen、(+)-Phenserine、ANVS401、PTB006）。`CT-6709014`＝NCT06709014（AD III 期，ACTIVE_NOT_RECRUITING，2025-02 起、主完成 2028-06 预计，无张贴结果）。`CT-5686044`＝NCT05686044（AD 剂量探索 II/III 期，COMPLETED，主完成 2024-02-13（实际），结果张贴 2025-04-29，5 条张贴条目）。`CT-5357989`＝NCT05357989（**帕金森病痴呆** III 期，COMPLETED，主完成 2023-12-04（实际），结果张贴 2025-03-03，4 条张贴条目）。`CT-7284784`／`CT-7757204`＝帕金森病方向进行中条目。`PIPELINE-2026`＝Cummings JL et al., *Alzheimer's disease drug development pipeline: 2026*（PMID:42095064，截点 2026-01-01，表行逐字核对）。`DM-0`＝DailyMed 检索 0 条（检索事实）。`SPONSOR`＝登记牵头申办方 Annovis Bio Inc.。§N 指所引正文章节号。

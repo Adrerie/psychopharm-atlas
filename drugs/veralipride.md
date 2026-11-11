@@ -1,6 +1,7 @@
 # veralipride｜维拉必利（中文名取自中文维基 ATC 分类表对译，未核对我国监管核准名；欧盟侧商品名 Agreal／Agradil，法语写作 Agréal）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AL06`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`EMA-2007`＝欧洲药品管理局新闻与问答"European Medicines Agency recommends withdrawal of medicinal products containing veralipride"（文号 EMEA/299873/2007，首发 2007-07-23，同日末次更新）。`ATC-06`＝WHO ATC/DDD 索引 `N05AL06` 页。`PMID:……`＝PubMed。**未取得任何法域的人用说明书正文**（适应证、警告与禁忌，以及相互作用与监测条款无法逐节引用），故状态为 `basic`。§N 指所引监管文本的章节／问答条目。

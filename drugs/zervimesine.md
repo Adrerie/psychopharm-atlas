@@ -1,6 +1,7 @@
 # zervimesine｜zervimesine（研发代号 CT-1812，Cognition Therapeutics；Sigma-2 受体方向的口服在研小分子，未检得可核验批准记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（DailyMed、emc、CIMA 与 ATC 检索，WHO ATC/DDD 2026 的 N06D 各亚组页逐页回读，DailyMed 现行 SPL 检索，PubChem 物质记录，ClinicalTrials.gov v2 逐项回读，其中 II 期结果张贴的条目类型与主要终点性质取自登记原文，Cummings 2026 pipeline 全文逐字检索后的表行核对，中国四份现行管制目录逐名检索，复核结果同前）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：

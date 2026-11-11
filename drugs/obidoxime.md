@@ -1,6 +1,7 @@
 # obidoxime｜双复磷（Obidoxime／Obidoxime chloride，双吡啶肟类胆碱酯酶复活剂；ATC 官方条目名 obidoxime，`V03AB13`。**未取到任何现行监管文本正文**，档案为文献口径，中文核准名待核实）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（DailyMed `drug_name=obidoxime` 命中数、WHO ATC V03AB 亚组页与组注、PubChem 身份检索、PubMed 检索与摘要级回读（含两篇 obidoxime 人体系列与一项荟萃分析）、中国四份管制目录＋2026-07-01 十六项增列附表逐名核对）｜ ATC：`V03AB13`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`DM-0`＝DailyMed 接口 `services/v2/spls.json?drug_name=obidoxime`（2026-11-05 检索，HTTP 200，**total_elements 0**，库发布日 2026-11-04。0 命中为**检索事实**，不构成"未批准／已撤市／不存在"的结论）。`ATC-V03AB`＝WHO ATC/DDD 索引 V03AB（Antidotes）亚组页（页脚 Last updated 2026-01-20，2026-11-05 回读。本组条目名逐字为 `V03AB13 obidoxime`）。`PCID`＝PubChem `rest/pug/compound/name/obidoxime/property/…`（HTTP 200，2026-11-05）。`PMID:…`＝PubMed eutils esearch／esummary／efetch（HTTP 200，检索式见 §11）。**没有 `US-`／`UK-`／`JP-` 任何引用键**：未取得现行监管文本正文，故状态为 `basic`。

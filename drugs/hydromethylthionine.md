@@ -1,6 +1,7 @@
 # hydromethylthionine｜氢甲硫堇（Hydromethylthionine；III 期与上市申请阶段的在研实体，与"亚甲蓝／methylthioninium chloride"是不同实体与不同用途）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（WHO ATC 亚组页、DailyMed 两条名称检索、ClinicalTrials.gov v2 逐条登记状态与结果张贴情况、可校验题名的试验／药代文献、EMA 上"甲硫堇氯化物"条目页的适应证原文口径、中国四份管制目录逐名检索）｜ ATC：`N06DX07`（hydromethylthionine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **最大的实体风险是"同族混淆"。** hydromethylthionine（物质库同义名 leucomethylene blue，即亚甲蓝的还原型）与其盐型表述（二氢溴酸盐口径 TRx-237。III 期与上市申请实际使用**甲磺酸盐** hydromethylthionine mesylate，简称 HMTM／LMTX）是同一活性主体的不同表述层次，而**亚甲蓝（methylene blue／methylthioninium chloride）本身是另一档案对象**，它在欧盟的上市许可（Methylthioninium chloride Proveblue，ATC `V03AB17`）适应症是**高铁血红蛋白血症的急性对症治疗**，与相关 AD／tau 假设毫无继承关系（见 §4 与 §10）。本档案不采用亚甲蓝的适应证、剂量、安全性或管制结论。

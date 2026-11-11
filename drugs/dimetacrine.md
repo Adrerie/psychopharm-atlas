@@ -1,6 +1,7 @@
 # dimetacrine｜二甲他林（中文名取自中文维基化学物质条目对译，未核对我国监管核准名；历史文献亦写作 dimethacrine，别名转述 acripramine／acripamine 两源不一致，一律以 CAS 为准）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AA18`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`ATC-18`＝WHO ATC/DDD 索引 `N06AA18` 页（DDD 0.15 g 口服，2026 索引核对）。`KEGG-D02565`＝KEGG DRUG 条目 Dimetacrine (INN)。`DE-FI`＝德国专业信息查询站 Fachinfo.de 按"Dimetacrin"检索页（2026-10-28 实测 0 条命中）。`PMID:……`＝PubMed。**未取得任何法域的现行或历史说明书正文**，适应证、警告与禁忌、相互作用与监测条款均无可逐节引用文本，故状态为 `basic`。本条目内 §N 一律指该档案内部小节，不指说明书章节（无章节可引）。

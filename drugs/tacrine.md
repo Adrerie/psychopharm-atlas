@@ -1,6 +1,7 @@
 # tacrine｜他克林（tacrine；INN／USAN，文献与早期注册文件亦作 tetrahydroaminoacridine／THA、四氢氨基吖啶；美国商品名 Cognex，PubChem 同义名另载 Romotal 等欧洲旧商品名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（WHO ATC `N06DA01` 亚组行原文、美国 NDA 020070 的申请与撤销沿革、两份 Federal Register 一手文本、DailyMed 现行条目数两次复测、中国四份现行管制目录逐名检索）｜ ATC：`N06DA01`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：

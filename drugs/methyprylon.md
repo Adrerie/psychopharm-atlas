@@ -1,6 +1,7 @@
 # methyprylon｜甲乙哌酮（维基数据中文标签，zh；未核对监管核准名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（美英法西现行库复核，历史批准与 1996 年撤回记录沿用，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CE02`（WHO ATC/DDD Index 2026）  
+> **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`FR-1996`＝*Hoffmann-La Roche, Inc., et al.; Withdrawal of Approval of 49 New Drug Applications, 9 Abbreviated Antibiotic Applications, and 36 Abbreviated New Drug Applications*，美国《联邦公报》第 61 卷第 60 号（Pages 13506–13508），**公告日 1996-03-27**、**生效日 1996-04-26**，FR Doc No. 96-7309，Docket No. 96N-0095，Janet Woodcock（CDER）签署，文件日期 **1996-03-07**。`DAF-NDA009660`＝美国 Drugs@FDA 档案 NDA 009660（持证方 Roche。ORIG 1 批准 **1955-01-18**，Type 1 新分子实体。末条 Labeling 补充件 SUPPL 9 批准 **1996-04-26**。产品 002／004＝TABLET、007＝ELIXIR、008＝CAPSULE，marketing_status 均 Discontinued）。`CFR-1308`＝eCFR 21 CFR part 1308（快照 2025-01-01）。`PMID:……`＝PubMed。**本条目没有说明书正文可引**（DailyMed `total_elements`＝0、openFDA 标签接口 0 条），故不写任何标签式章节条款。
