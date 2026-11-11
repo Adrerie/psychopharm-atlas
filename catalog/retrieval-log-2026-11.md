@@ -822,6 +822,40 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | rasagiline | 14 | 02404680 | APOTEX INC | APO-RASAGILINE |
 | safinamide | 2 | 02484641 | XEDITON PHARMACEUTICALS INC | ONSTRYV |
 
+### 4.16 澳大利亚 TGA ARTG 第七批（2026-11-11）
+
+对 20 个药名检索 TGA，8 份写入 ARTG 条目。darifenacin、fesoterodine、meclizine、methohexital、physostigmine、pralidoxime、remimazolam、tolterodine、trospium、vibegron、nicotine、milnacipran 未解析到条目，均未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| dexmedetomidine | 69 | 393052 | DEXMEDETOMIDINE BAXTER READY TO USE dexmedetomidine (as hydrochloride) 400 microgram/100 mL injection for intravenous infusion bag |
+| fomepizole | 5 | 263913 | ANTIZOL fomepizole 1.5g/1.5mL concentrated injection vial |
+| mirabegron | 6 | 199664 | BETMIGA mirabegron 25 mg film-coated prolonged-release tablet blister pack |
+| oxybutynin | 21 | 453814 | APOHIDE oxybutynin hydrochloride 20% lotion bottle |
+| sodium-oxybate | 8 | 478545 | SODIUM OXYBATE-REACH sodium oxybate 500 mg/mL oral solution bottle |
+| sodium-thiosulfate | 17 | 476012 | PEDMARQSI sodium thiosulfate anhydrous 8 g/100 mL solution for injection vial |
+| solifenacin | 130 | 370705 | SOLIFENACIN DR.REDDY's solifenacin succinate 5 mg film-coated tablet blister pack |
+| esketamine | 8 | 311827 | SPRAVATO esketamine (as hydrochloride) 28 mg per 2 actuations nasal spray solution |
+
+### 4.17 加拿大 DPD 第八批（2026-11-11）
+
+对 20 个活性成分检索 Health Canada DPD，12 份有与药名一致的 Marketed 产品并写入档案。meclizine、methohexital、physostigmine、pralidoxime、remimazolam、nicotine、esketamine、milnacipran、vibegron 未捕获到可写入示例。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| darifenacin | 6 | 02452510 | APOTEX INC | APO-DARIFENACIN |
+| dexmedetomidine | 21 | 02464381 | AURO PHARMA INC | DEXMEDETOMIDINE HYDROCHLORIDE FOR INJECTION |
+| fesoterodine | 8 | 02535998 | ACCORD HEALTHCARE INC | ACH-FESOTERODINE |
+| fomepizole | 3 | 02242980 | KNIGHT THERAPEUTICS INC. | ANTIZOL |
+| mirabegron | 6 | 02564963 | APOTEX INC | APO-MIRABEGRON |
+| oxybutynin | 35 | 02163543 | APOTEX INC | APO-OXYBUTYNIN |
+| sodium-oxybate | 2 | 02268272 | JAZZ PHARMACEUTICALS IRELAND LIMITED | XYREM |
+| sodium-thiosulfate | 19 | 02137186 | PFIZER CANADA ULC | SODIUM THIOSULFATE INJECTION USP |
+| solifenacin | 42 | 02439344 | ACCORD HEALTHCARE INC | ACH-SOLIFENACIN SUCCINATE |
+| tolterodine | 26 | 02239064 | BGP PHARMA ULC | DETROL |
+| trospium | 5 | 02488353 | MARCAN PHARMACEUTICALS INC | MAR-TROSPIUM |
+| milnacipran | 8 | 02440970 | ABBVIE CORPORATION | FETZIMA |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
