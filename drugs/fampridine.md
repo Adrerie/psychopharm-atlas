@@ -110,7 +110,7 @@
   - 正文：`drugInfo.cfm?setid=550eb76a-e4a6-4fa1-ad65-c0fd8b0ce783` → HTTP 200（AMPYRA，文内 Revised 6/2022，Initial U.S. Approval 2010 为成分级字段）。
   - WHO ATC/DDD：N07XX 亚组页（回读于 2026-11-05，脚注 Last updated 2026-01-20）逐行确认 `N07XX07 fampridine 20 mg O` 与 `N07XX05 amifampridine 40 mg O` 为两条独立记录。
   - KEGG：`find/drug/fampridine` → HTTP 200，返回 D04127（`get/dr:D04127` 的 NAME 行同时列 Dalfampridine (USAN)／Fampridine (JAN/INN)／4-Aminopyridine／Neurelan／Ampyra／Fampyra，ATC 行＝N07XX07）**并再次列出 D10228 与 D10689（amifampridine，ATC N07XX05）**。`find/drug/4-aminopyridine` → HTTP 200，同样命中 D04127。聚合库的名称并列正是混用的来源，本页以标签 CAS 504-24-5 与化学名锚定。
-  - 未取得：Fampyra（欧洲）现行 SmPC、任何中国境内监管文本（NMPA HTTP 412／CDE 202）、以及本次核查未逐节读取的 dalfampridine 仿制产品文本，因此不写"某法域未获批"，也不把欧洲文本的适应证措辞（如"改善一字多义的功能"）转写为美国标签结论。
+  - 未取得：Fampyra（欧洲）现行 SmPC、任何中国境内监管文本（NMPA HTTP 412／CDE 202）、以及本次核查未逐节读取的 dalfampridine 仿制产品文本，因此不写"某法域未获批"，也不把欧洲文本的适应证措辞（如"改善一字多义的功能"）转写为美国标签结论。CDE 受理品种目录（2026-11-11 浏览器检索）按「达伐吡啶」命中 1 条受理记录，最近一条为受理号 JXHS1900172、申请类型 进口、承办日期 2020-01-06。该目录只证明申报被受理，不证明已获批准。
 - 口径纪律：`reviewed` 由 AMPYRA 现行 SPL 逐节可引支撑。应答者百分比与 100 患者年发生率按标签自述记录，不与 amifampridine 的 QMG／SGI 量表结果或任何 MS 疾病修饰药的头对头比较。"同一活性成分"的判定只依据标签 §5.3 与 §11 的化学名与 CAS。
 
 ## 11. 深入分析与来源
