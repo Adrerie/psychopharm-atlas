@@ -105,6 +105,8 @@ EMA 页面提供 2002-06-11 的多语言产品信息文档入口与许可细节�
 
 - **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
+- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「レボアルファアセチルメタドール」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
+
 ## 11. 深入分析与来源
 
 - Federal Register（API 元数据与生效日）：2011 年认定 <https://www.federalregister.gov/documents/2011-06-06/2011-13884/determination-that-orlaam-levomethadyl-acetate-hydrochloride-oral-solution-10-milligramsmilliliter>。2007 年撤销公告（72 FR 62858，生效 2007-12-07）<https://www.federalregister.gov/documents/2007-11-07/E7-21886/lederle-laboratories-et-al-withdrawal-of-approval-of-73-new-drug-applications-and-62-abbreviated-new>

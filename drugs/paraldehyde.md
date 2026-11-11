@@ -105,6 +105,8 @@
 
 - **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
+- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「パラアルデヒド」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
+
 ## 11. 深入分析与来源
 
 本药未建专题文件：可独立解释的问题。"一个已退出常规处方、但仍在历史文献与地区实践中出现的醛类催眠药应当如何归档"。已由 §4、§5 与 §10 的分层处理回答。建立专题会把 1990 年代前后的地区性研究包装成现行结论。同类条目见 [chloral-hydrate](chloral-hydrate.md)（同为醛类衍生物、以单一法域文本为锚点）、[amobarbital](amobarbital.md)（同为无现行文本的历史镇静药）与 [bromisoval](bromisoval.md)、[carbromal](carbromal.md)（已退出的老式催眠药）。

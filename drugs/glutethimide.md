@@ -118,6 +118,8 @@
 
 - **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
+- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「グルテチミド」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
+
 ## 11. 深入分析与来源
 
 同类对照见 [methaqualone](methaqualone.md)（同为历史高风险镇静催眠药、已无现行产品）与 [temazepam](temazepam.md)（现代苯二氮䓬催眠药的依赖与停药条款）。

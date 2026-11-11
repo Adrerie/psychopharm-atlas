@@ -125,6 +125,8 @@ Mandrax 都是历史商品名。Mandrax 是**复方**，其睡眠研究不能当
 
 - **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按「methaqualone」命中 2 条，首条产品名称「安眠酮片」（批准文号 国药准字H11021700，生产单位栏未载），名称与检索词不直接一致，归属需另行核对。境外生产药品按本页所列名称检索 0 条。麻醉药品和精神药品品种目录命中「甲喹酮 Methaqualone」＝第一类精神药品。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
+- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「メタカロン」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
+
 ## 11. 深入分析与来源
 
 同类对照见 [glutethimide](glutethimide.md)（同为历史高风险镇静催眠药、美国附表二、已撤市）与 [buspirone](buspirone.md)（其人体滥用潜力研究以甲喹酮为阳性对照，`PMID:6130076`）。

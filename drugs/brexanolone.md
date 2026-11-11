@@ -130,6 +130,8 @@
 
 - **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
+- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「アロプレグナノロン」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
+
 ## 11. 深入分析与来源
 
 本页未建专题：`basic` 状态下最值得展开的是"单次 60 小时输注＋全程监护＋REMS 式场所限制"如何重塑风险治理，但把它做足需要现行监管文本与真实世界使用数据，两者本次核查均不可得（§10 第 1 项）。同机制但不同实体的对照见 [zuranolone](zuranolone.md)（口服、14 天疗程、中国第二类精神药品第 73 项、次日驾驶黑框）。静脉与场所边界的另一写法见 [esketamine](esketamine.md) 与其专题 [esketamine-formulation-and-setting-boundaries](../analysis/esketamine-formulation-and-setting-boundaries.md)。产后抑郁的常规口服抗抑郁药一侧见 [escitalopram](escitalopram.md)。
