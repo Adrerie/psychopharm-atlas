@@ -96,7 +96,7 @@
 
 1. **只有日本一份现行文本**：`JP-TCF` 为 2023 年 6 月改订第 1 版，经 KEGG MEDICUS 转录页读取。**未逐页比对 PDF 原件**，也不声称已核对日本全部规格（只见到 10% 糖浆）。英国 Tricloryl 的现行 SmPC 未取得（emc 0 条），因此英国适应证、年龄限制与剂型均不写入。
 2. **美国与法国为检索事实**：openFDA／DailyMed 0（2026-10-23）、BDPM 0 行（2026-10-24）。不写成"未批准或已撤市"。
-3. **中国两件事分开**：目录核查为"未发现列入现行目录（2026-10-06）"，不等于"非管制"。上市与核准适应证待核实（NMPA 412、CDE 202 类入口不可脚本化）。
+3. **中国两件事分开**：目录核查为"未发现列入现行目录（2026-10-06）"，不等于"非管制"。上市与核准适应证待核实（NMPA 412、CDE 202 类入口在 2026-11-11 之前未能脚本化）。
 4. **儿童证据强于成人证据**：两项随机试验与一项大样本回顾性队列都集中在检查镇静。成人失眠只有再评价的 84.3% 单组数据，不能写成"疗效确证"。
 5. **"未见统计学差异"不是等效**：2021 年与褪黑素的试验（`PMID:34293628`）只写"无统计学差异"，没有预设非劣效界值，不能写成等效或非劣效。
 6. **剂量口径**：DDD 1 g 是统计指标。日本成人 1–2 g、儿童 20–80 mg/kg 是标签剂量，两者不能互换。DDD 也不当作处方剂量。
@@ -107,7 +107,7 @@
 
 本药未建专题文件：核心问题。"一个与氯醛衍生物同族的老药，为什么在儿童检查镇静中仍有随机试验支持，而成人失眠证据很薄"。已由 §5 的两类证据与 §10 第 4 项在本文内解释，不需要独立专题。同类对照见 [chloral-hydrate](chloral-hydrate.md)（同一活性代谢物、不同分子与剂型）与 [clomethiazole](clomethiazole.md)（老式非苯二氮䓬镇静药、单一法域文本）。
 
-**监管与官方文件**：[日本 TRICLORYL Syrup 10% 添付文書（2023 年 6 月改订第 1 版，KEGG MEDICUS 转录，JAPIC 00054087）](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00054087)。[英国 emc 检索 triclofos（0 条）](https://www.medicines.org.uk/emc/search?q=triclofos)。[openFDA 按通用名检索 triclofos（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22triclofos%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=triclofos)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRICLOFOS&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[日本 TRICLORYL Syrup 10% 添付文書（2023 年 6 月改订第 1 版，KEGG MEDICUS 转录，JAPIC 00054087）](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00054087)。[英国 emc 检索 triclofos（0 条）](https://www.medicines.org.uk/emc/search?q=triclofos)。[openFDA 按通用名检索 triclofos（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22triclofos%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=triclofos)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRICLOFOS&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[三氯福司、褪黑素与安慰剂用于儿童睡眠脑波的随机对照试验（n=486，PMID:39580155）](https://pubmed.ncbi.nlm.nih.gov/39580155/)。[儿童检查镇静的 869 例回顾性队列（PMID:31292919）](https://pubmed.ncbi.nlm.nih.gov/31292919/)。[三氯福司与褪黑素单盲随机试验（n=228，PMID:34293628）](https://pubmed.ncbi.nlm.nih.gov/34293628/)。[儿童术前用药双盲比较（n=128，PMID:6102865）](https://pubmed.ncbi.nlm.nih.gov/6102865/)。[儿童牙科镇静比较（n=90，PMID:11874008）](https://pubmed.ncbi.nlm.nih.gov/11874008/)。[1965 年儿童临床试验（PMID:5319225）](https://pubmed.ncbi.nlm.nih.gov/5319225/)。
 

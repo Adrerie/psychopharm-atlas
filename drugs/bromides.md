@@ -97,7 +97,7 @@
 - 无碳骨架
 - 四类整类母核均不存在
 - RDKit 复核
-- 不等于非管制NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+- 不等于非管制NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 
 - **2026-11-10 复核记录**：DailyMed 按 potassium bromide 与 sodium bromide 检索返回的条目仍为顺势疗法产品与兽用制剂（如 KBROVET），openFDA 同类命中为顺势或复方登记，西班牙 CIMA 与法国 BDPM 0 条，英国 emc 检索 bromide 返回 68 条但均为其他活性成分的溴盐（如 aclidinium bromide、umeclidinium bromide、ipratropium bromide），未取到溴化物镇静盐的处方资料，WHO ATC `N05CM11` 行回读无 DDD。
 
@@ -105,7 +105,7 @@
 
 本条目未建专题文件：需要解释的是"溴阴离子的类效应如何与'各盐不同、不得跨盐合并'并存"，其要点已由 §1、§6、§10 说清。因**无现行说明书、无某一具体盐的现代人体疗效数据**，建专题会缺少可深挖的药物-剂量-结局证据，故不建。
 
-**监管与官方文件（检索事实）**：[DailyMed v2 按 potassium bromide 检索（命中为 HPUS 顺势疗法产品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=potassium%20bromide)。[DailyMed v2 按 sodium bromide 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sodium%20bromide)。[openFDA 标签按 generic_name "sodium bromide" 检索（命中为顺势／复方）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sodium%20bromide%22&limit=5)。[法国 BDPM 前缀检索 CHLOR／BROM（无溴化物单方催眠条目）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROM&limit=50)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=bromide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[DailyMed v2 按 potassium bromide 检索（命中为 HPUS 顺势疗法产品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=potassium%20bromide)。[DailyMed v2 按 sodium bromide 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sodium%20bromide)。[openFDA 标签按 generic_name "sodium bromide" 检索（命中为顺势／复方）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sodium%20bromide%22&limit=5)。[法国 BDPM 前缀检索 CHLOR／BROM（无溴化物单方催眠条目）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROM&limit=50)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=bromide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **综述与指南**：[溴中毒与溴性皮炎的临床与法医毒理综述（`PMID:40536123`）](https://pubmed.ncbi.nlm.nih.gov/40536123/)。[假性高氯血症的历史与现状：溴化物已从多数药物移除（`PMID:33864761`）](https://pubmed.ncbi.nlm.nih.gov/33864761/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

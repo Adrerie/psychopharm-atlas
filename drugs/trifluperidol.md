@@ -134,7 +134,7 @@
 5. **DDD 2 mg 口服不是处方剂量**：它是 WHO 群体统计口径（`ATC-02`）。§5 的等效比来自专家共识，两者都不构成给药建议。
 6. **老文献的可读性限制**：为确认是否存在现代对照或本药特异的长期研究，已按通用名与 Trisedyl／Triperidol 检索（命中 140 余篇，多为体外与动物研究），其中 1968–1976 年人体试验基本无英文摘要，故只作题录记录。
 7. **无当前决策价值的条目不入评分**：本药在抗真菌与抗病毒筛选、分子对接与受体标记法中，以及代谢物化学中被检出的记录（`PMID:24277040`、`PMID:34290823`、`PMID:41276463`）不构成使用场景或风险证据。同类药的重金属／质谱方法学文献同理。
-8. **中国字段沿用 2026-10-06 已审计结论原文**（含"不等于非管制"的限定语），不重跑。NMPA 与 CDE 不可脚本检索，中国上市剂型与核准适应证待核实。列管层级与滥用率、处方行为是不同问题。
+8. **中国字段沿用 2026-10-06 已审计结论原文**（含"不等于非管制"的限定语），不重跑。NMPA 与 CDE 在 2026-11-11 之前未能脚本检索，中国上市剂型与核准适应证待核实。列管层级与滥用率、处方行为是不同问题。
 
 - **2026-11-10 复核记录**：openFDA、DailyMed、法国 BDPM 与西班牙 CIMA 按通用名及 Trisedyl／Triperidol 检索仍 0 条，英国 emc 无产品条目，WHO ATC `N05AD02` 行回读为 DDD 2 mg 口服。KEGG MEDICUS 以トリペリドール与トリフルペリドール检索 0 条，日本现行添付文書未取回。
 
@@ -142,7 +142,7 @@
 
 本条目未建专题文件：需要解释的只有"名称变体与近似拼写如何影响归属"，已在 §1 与 §10 第 2、3 项写明。本药的证据量与可读性都不支持再拆分专题。
 
-**监管与检索记录**：[WHO ATC/DDD N05AD02](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD02) 与对照页 [N05AD01（haloperidol）](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD01)。[DailyMed 药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=trifluperidol)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluperidol%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIFLUPERIDOL)（TRISEDYL、HALONDROL 同样 0 条、该接口为前缀匹配，现行清单不含历史退市产品）。[西班牙 CIMA（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=trifluperidol)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（不可脚本检索）。
+**监管与检索记录**：[WHO ATC/DDD N05AD02](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD02) 与对照页 [N05AD01（haloperidol）](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD01)。[DailyMed 药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=trifluperidol)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluperidol%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIFLUPERIDOL)（TRISEDYL、HALONDROL 同样 0 条、该接口为前缀匹配，现行清单不含历史退市产品）。[西班牙 CIMA（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=trifluperidol)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（在 2026-11-11 之前未能脚本检索）。
 
 **研究（本药特异）**：[PMID:8582472 罗马处方研究](https://pubmed.ncbi.nlm.nih.gov/8582472/)。[PMID:20360319 国际剂量共识](https://pubmed.ncbi.nlm.nih.gov/20360319/)。[PMID:2611583 恶性综合征个案](https://pubmed.ncbi.nlm.nih.gov/2611583/)。[PMID:10572345 锂＋卡马西平组合个案](https://pubmed.ncbi.nlm.nih.gov/10572345/)。[PMID:9023267 NMDA 位点体外](https://pubmed.ncbi.nlm.nih.gov/9023267/)。[PMID:4389944 急性精神分裂症双盲](https://pubmed.ncbi.nlm.nih.gov/4389944/)。[PMID:696518 白内障个案（名称变体）](https://pubmed.ncbi.nlm.nih.gov/696518/)。
 

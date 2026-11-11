@@ -137,7 +137,7 @@
 5. **剂量-反应数据不得读成应加量**：95% 有效剂量 22.5 mg／日高于 20 mg 的常规上限（`PMID:31838873`），但该分析未对 QT 风险建模，而心脏风险正是设上限的理由。当前文本允许 24 mg 仅作例外，两者并列，不合成用药建议。
 6. **不做跨药效应量比较**：与利培酮的数据来自 2 项低质量试验，只能写未检出疗效差异，不能写与利培酮等效（`PMID:19370652`）。
 7. **滥用维度记 `N/A`**：无依赖或觅药章节可引，未检出人体滥用潜力试验。未列管与无章节均不能推导 1 分。
-8. **中国字段**：管制结论沿用 2026-10-06 的逐项目录与整类结构核查，未改判。NMPA 与 CDE 不可脚本检索，上市与核准适应证待核实。`N05AE03` 的 DDD 16 mg 是统计指标，与 12–20 mg 的维持剂量区间不是同一概念。
+8. **中国字段**：管制结论沿用 2026-10-06 的逐项目录与整类结构核查，未改判。NMPA 与 CDE 在 2026-11-11 之前未能脚本检索，上市与核准适应证待核实。`N05AE03` 的 DDD 16 mg 是统计指标，与 12–20 mg 的维持剂量区间不是同一概念。
 
 ### 待核实的缺口
 
@@ -150,7 +150,7 @@
 
 本药未建专题文件：可解释的核心冲突是"有效剂量 22.5 mg 对获批上限 20 mg"，但它与心脏风险的取舍需要现行 SmPC 与那两项上市后研究的结果，两者都没有。在此条件下建专题会把监管条件写成剂量结论。
 
-**监管与官方文件**：[西班牙 CIMA。SERDOLECT 16 mg 薄膜衣片 Ficha técnica（注册号 61585，文本修订 2021 年 4 月）](https://cima.aemps.es/cima/dochtml/ft/61585/FT_61585.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/61585/FT_61585.pdf)。[SERDOLECT 4 mg（61582）](https://cima.aemps.es/cima/dochtml/ft/61582/FT_61582.html)。[CIMA REST 药名检索 `nombre=serdolect`（2026-11-10，4 个在售产品）](https://cima.aemps.es/cima/rest/medicamentos?nombre=serdolect)。[EMA 第 36 条转介（sertindole）页与意见文件《Opinion following an Article 36 referral for Sertindole》，参考号 EMEA/CPMP/2852/02，2002-09-13 发布](https://www.ema.europa.eu/en/medicines/human/referrals/sertindole)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sertindole%22&limit=5)。[emc 检索 sertindole（0 条）](https://www.medicines.org.uk/emc/search?q=sertindole)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=SERDOLECT&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[西班牙 CIMA。SERDOLECT 16 mg 薄膜衣片 Ficha técnica（注册号 61585，文本修订 2021 年 4 月）](https://cima.aemps.es/cima/dochtml/ft/61585/FT_61585.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/61585/FT_61585.pdf)。[SERDOLECT 4 mg（61582）](https://cima.aemps.es/cima/dochtml/ft/61582/FT_61582.html)。[CIMA REST 药名检索 `nombre=serdolect`（2026-11-10，4 个在售产品）](https://cima.aemps.es/cima/rest/medicamentos?nombre=serdolect)。[EMA 第 36 条转介（sertindole）页与意见文件《Opinion following an Article 36 referral for Sertindole》，参考号 EMEA/CPMP/2852/02，2002-09-13 发布](https://www.ema.europa.eu/en/medicines/human/referrals/sertindole)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sertindole%22&limit=5)。[emc 检索 sertindole（0 条）](https://www.medicines.org.uk/emc/search?q=sertindole)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=SERDOLECT&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

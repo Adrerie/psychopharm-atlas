@@ -14,7 +14,7 @@
 | 主要剂型 | 历史上口服催眠剂型（法国曾用商品名待核实，BDPM 检索 0 条）。 openFDA、DailyMed、Drugs@FDA 检索均 0 条，**无现行或历史说明书正文** |
 | 关键药代摘要 | 中效、肝代谢为主（类别一致）；无本药人体 PK 正文可引，`PMID:18057631`、`PMID:7328481` 只是本药固多晶型的化学表征，不含药代参数，故不填半衰期等数值 |
 | 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 286 项“丁巴比妥”（英文名 5-Butyl-5-ethylbarbituric acid。CAS 77-28-1），目录备注“Butobarbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **butobarbital（butethal）＝CSCN 2100，附表 III，非麻醉，品牌 Soneryl (UK)**（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA 检索 0 条 → 无正文，按 `basic`。**法国** BDPM 检索 0 条；**中国**上市与核准适应证待核实（NMPA／CDE 不可脚本检索） **2026-11-10 复核**：英国 NHS dm+d（2026-04 发布）列 Soneryl 100 mg 片为 Special Order，现行许可机构记为 None，备注 Individual Patient Supply，即英国无持证在售产品（`UK-DMD`）。 |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **butobarbital（butethal）＝CSCN 2100，附表 III，非麻醉，品牌 Soneryl (UK)**（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA 检索 0 条 → 无正文，按 `basic`。**法国** BDPM 检索 0 条；**中国**上市与核准适应证待核实（NMPA／CDE 在 2026-11-11 之前未能脚本检索） **2026-11-10 复核**：英国 NHS dm+d（2026-04 发布）列 Soneryl 100 mg 片为 Special Order，现行许可机构记为 None，备注 Individual Patient Supply，即英国无持证在售产品（`UK-DMD`）。 |
 | 身份与统计 | WHO ATC `N05CA03`。DDD **0.15 g 口服**（统计指标非处方量）。CAS **77-28-1**。分子式 **C10H16N2O3**（MW 212.25，PubChem CID 6473）。MeSH 补充记录 [C027712](https://meshb.nlm.nih.gov/record/ui?ui=C027712)。PubChem [6473](https://pubchem.ncbi.nlm.nih.gov/compound/6473)。DrugBank [DB01353](https://www.drugbank.ca/r/DB01353)；RxNorm [19874](https://rxnav.nlm.nih.gov/REST/rxcui/19874.json) |
 
 **身份陷阱（硬规则）**：**butobarbital ≠ butalbital**。butalbital（另一种巴比妥，多见于与解热镇痛／麦角类的固定复方、紧张型头痛与药物过度使用性头痛文献，ATC 归 N06 相关复方）与本品是不同分子，**不得继承其复方、适应证或安全记录**。本档案只收按物质名／CAS 77-28-1／MeSH C027712 确认的记录。另需分清游离酸与盐、单方与复方（如 Ajmaline＋butobarbital、Barbamid＝butobarbital＋aminophenazone），复方条款不进单方评分。

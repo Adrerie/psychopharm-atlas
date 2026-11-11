@@ -86,7 +86,7 @@
 
 本条未建专题文件：待解释的只有"肝毒性-退出临床"链条，已在 §6／§10 闭环。正式监管文件一旦定位可回填日期与法域。
 
-**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22iproclozide%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=iproclozide)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=I&page=1&limit=20)。[西班牙 CIMA 检索首页](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22iproclozide%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=iproclozide)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=I&page=1&limit=20)。[西班牙 CIMA 检索首页](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[Pessayre 1978 iproclozide 暴发性肝炎 3 例死亡（PMID:680506）](https://pubmed.ncbi.nlm.nih.gov/680506/)。[De Sagher 1975 尿代谢物 p-chlorophenoxyacetamide（PMID:1217）](https://pubmed.ncbi.nlm.nih.gov/1217/)。[Colliard 1981 难治性高血压 16 例（PMID:6794533）](https://pubmed.ncbi.nlm.nih.gov/6794533/)。[Barrillon 1970 心绞痛 362 例（题录，PMID:5526214）](https://pubmed.ncbi.nlm.nih.gov/5526214/)。[Suerinck 1966 疗养院抑郁 146 例联合方案（题录，PMID:5930723）](https://pubmed.ncbi.nlm.nih.gov/5930723/)。[Gathion 1967 智力障碍儿童应用（题录，PMID:5599374）](https://pubmed.ncbi.nlm.nih.gov/5599374/)。
 

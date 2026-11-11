@@ -77,7 +77,7 @@ alaproclate 是**选择性抑制神经元 5-HT 再摄取**的早期 SSRI。Ogren
 3. **活性代谢物 desmethylalaproclate 单列**：母药结论不外推至代谢物，也不与 zimeldine、citalopram、etoperidone 等相邻分子互借。
 4. **"无统计学显著差异"≠等效**：痴呆对照研究的阴性结果只作记录，不作无效或等效结论。
 5. **无 DDD**：WHO 2026 索引未对本编码列 DDD。文中 200/400 mg 为试验剂量，不是处方或统计标准。
-6. **中国注册信息待核实**：NMPA 与 CDE 不可脚本检索。中国管制字段沿用 2026-10-06 已审计结论，不重跑。
+6. **中国注册信息待核实**：NMPA 与 CDE 在 2026-11-11 之前未能脚本检索。中国管制字段沿用 2026-10-06 已审计结论，不重跑。
 7. **状态判定**：因缺"至少一份可核对的现行或正式监管文本"与"关键疗效确证"，本条保留 `basic`。
 8. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `alaproclate` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 
@@ -85,7 +85,7 @@ alaproclate 是**选择性抑制神经元 5-HT 再摄取**的早期 SSRI。Ogren
 
 本条未建专题文件：需要解释的只有"早期 SSRI 因安全性顾虑终止、人体证据极薄"这一点，已在 §2／§5／§10 闭环。拆专题所需的剂量-暴露-长期毒性数据本药根本没有。
 
-**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22alaproclate%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=alaproclate)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=A&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22alaproclate%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=alaproclate)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=A&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[Ogren 1984 受体／再摄取选择性（PMID:6205120）](https://pubmed.ncbi.nlm.nih.gov/6205120/)。[Teunissen 1984 抗比林代谢抑制与药代（PMID:6519152）](https://pubmed.ncbi.nlm.nih.gov/6519152/)。[Bergman 1983 痴呆药代开放研究（PMID:6412274）](https://pubmed.ncbi.nlm.nih.gov/6412274/)。[Aberg-Wistedt 1985 alaproclate vs zimeldine 随机对照（PMID:2580422）](https://pubmed.ncbi.nlm.nih.gov/2580422/)。[Frost 1984 开放抑郁试验（PMID:6433393）](https://pubmed.ncbi.nlm.nih.gov/6433393/)。[Dehlin 1985 痴呆双盲安慰剂对照（PMID:3883697）](https://pubmed.ncbi.nlm.nih.gov/3883697/)。[Thompson 1985 瞳孔反应 400 mg（PMID:3920700）](https://pubmed.ncbi.nlm.nih.gov/3920700/)。[Wilkinson 1994 NMDA 非竞争性拮抗（PMID:7996440）](https://pubmed.ncbi.nlm.nih.gov/7996440/)。[Hedlund 1989 海马 CA1 电生理（PMID:2813291）](https://pubmed.ncbi.nlm.nih.gov/2813291/)。
 

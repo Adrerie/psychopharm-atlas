@@ -85,7 +85,7 @@
 
 本条未建专题文件：现存证据仅剩一条过量个案与数条法文题录，无问题可展开。
 
-**监管与官方文件（均为检索缺口）**：[法国 BDPM 按前缀检索（OXAFLO／EXIT 均 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=OXAFLO&page=1&limit=20)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22oxaflozane%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxaflozane)。[西班牙 CIMA 检索首页](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（均为检索缺口）**：[法国 BDPM 按前缀检索（OXAFLO／EXIT 均 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=OXAFLO&page=1&limit=20)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22oxaflozane%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxaflozane)。[西班牙 CIMA 检索首页](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[Dutertre 1992 儿童过量病例（PMID:1542141）](https://pubmed.ncbi.nlm.nih.gov/1542141/)。[Constantin 1979 人／犬／鼠尿代谢与主代谢物鉴定（PMID:582104）](https://pubmed.ncbi.nlm.nih.gov/582104/)。[Hache 1974 药理谱（法文题录，PMID:4849381）](https://pubmed.ncbi.nlm.nih.gov/4849381/)。[Cosnier 1975 心血管特性（法文题录，PMID:1209529）](https://pubmed.ncbi.nlm.nih.gov/1209529/)。[Rascol 1974 初步临床结果（法文题录，PMID:4603757）](https://pubmed.ncbi.nlm.nih.gov/4603757/)。[Denber 1974 美国以外药物试验栏（PMID:17894094）](https://pubmed.ncbi.nlm.nih.gov/17894094/)。
 

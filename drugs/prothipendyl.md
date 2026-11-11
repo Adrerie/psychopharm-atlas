@@ -136,7 +136,7 @@
 6. 体外与动物结果不外推。paw test 的「非典型」图形、人红细胞 UVA 光溶血与大鼠 22 周心电无改变，都不等于人体占有率。狗心肺制备的心率效应不等于光敏发生率或临床安全性。
 7. 老文献的可读性限制：§4 与 §5 所列 1958–1967 年试验多数无英文摘要，只有题录，故不写其结果方向、样本量或效应量。按通用名与 Dominal、Azacon、Tolnate、Timovan 检索命中 90 余篇，其中无现代随机对照。
 8. 兽用与竞赛监管记录不得转写为人体结论。马匹给药与检测、HISA 禁药清单以及美国联邦公报 1995 年制药关税表按名命中，均只作检索与用途背景。
-9. 中国管制字段沿用 2026-10-06 的逐名核对结论，现行基准按 SOURCES.md（2026-11-05 复核）核对。NMPA 与 CDE 不可脚本检索，中国上市剂型与核准适应证待核实。
+9. 中国管制字段沿用 2026-10-06 的逐名核对结论，现行基准按 SOURCES.md（2026-11-05 复核）核对。NMPA 与 CDE 在 2026-11-11 之前未能脚本检索，中国上市剂型与核准适应证待核实。
 
 ## 11. 深入分析与来源
 
@@ -144,7 +144,7 @@
 
 **监管文件**：[Dominal 40 mg 官方包装说明书（Teva，2018-03 修订，版本码 Z06）](https://www.teva.de/produkte/details/dominal-40-mg-pzn-14179540.html)。[Dominal forte 80 mg 官方产品页](https://www.teva.de/produkte/details/dominal-forte-80-mg-pzn-2530222.html)。[Dominal 40 mg Fachinformation 数据库镜像（Teva，专业信息 2018-03-01）](https://mediately.co/de/drugs/P9BK7D0tYI7PuauCpXKd7JNrVIV/dominal-40-mg-uberzogene-tabletten)。[WHO ATC/DDD N05AX07](https://atcddd.fhi.no/atc_ddd_index/?code=N05AX07)。
 
-**检索记录（零命中）**：[DailyMed 药名检索（total_elements=0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=prothipendyl)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22prothipendyl%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROTHIPENDYL)。[西班牙 CIMA（totalFilas=0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=prothipendyl)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（不可脚本检索）。
+**检索记录（零命中）**：[DailyMed 药名检索（total_elements=0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=prothipendyl)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22prothipendyl%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROTHIPENDYL)。[西班牙 CIMA（totalFilas=0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=prothipendyl)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（在 2026-11-11 之前未能脚本检索）。
 
 **研究（本药特异）**：[PMID:29027369 治疗期血清浓度](https://pubmed.ncbi.nlm.nih.gov/29027369/)。[PMID:28756170 代谢与 CYP](https://pubmed.ncbi.nlm.nih.gov/28756170/)。[PMID:24504742 静脉镇静与 QTc](https://pubmed.ncbi.nlm.nih.gov/24504742/)。[PMID:31504560 AMSP 心血管](https://pubmed.ncbi.nlm.nih.gov/31504560/)。[PMID:33417009 QT 联合用药](https://pubmed.ncbi.nlm.nih.gov/33417009/)。[PMID:27475994 老年死亡队列](https://pubmed.ncbi.nlm.nih.gov/27475994/)。[PMID:28302501 利培酮联用](https://pubmed.ncbi.nlm.nih.gov/28302501/)。[PMID:23536016 奥地利 PIP](https://pubmed.ncbi.nlm.nih.gov/23536016/)。[PMID:11313157 致死尸检](https://pubmed.ncbi.nlm.nih.gov/11313157/)。[PMID:38199666 脂肪乳救治](https://pubmed.ncbi.nlm.nih.gov/38199666/)。
 

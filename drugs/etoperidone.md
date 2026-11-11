@@ -77,7 +77,7 @@ etoperidone 属**氯苯哌嗪（arylpiperazine）类**，化学上与 trazodone�
 4. **盲法缺陷**：抑郁确证试验因"仅凭副作用可破盲"而降级（`PMID:1443253`），不据此给效应量。
 5. **"未见明显差异"≠等效**。本条未做等效性检验。
 6. **无 DDD**：文中 100 mg 肌注、150 mg/日口服为试验剂量，不是处方或统计标准。
-7. **中国注册信息待核实**：NMPA／CDE 不可脚本检索。中国管制字段沿用 2026-10-06 已审计结论，不重跑。
+7. **中国注册信息待核实**：NMPA／CDE 在 2026-11-11 之前未能脚本检索。中国管制字段沿用 2026-10-06 已审计结论，不重跑。
 8. **状态判定**：缺现行／正式监管文本与关键疗效确证，保留 `basic`。
 
 - **2026-11-10 复核**：意大利第三方转录页 [STAFF 30 粒 25 mg（AIC 023340019）](https://www.fogliettoillustrativo.net/bugiardino/staff-30cps-25mg-023340019) 显示依他普酮盐酸盐在 AIFA 数据库中仍有条目并被新规格取代，但 AIFA 官方库本机不可访问、转录页不作监管正文。美国、英国、法国、西班牙四库均 0 条。
@@ -86,7 +86,7 @@ etoperidone 属**氯苯哌嗪（arylpiperazine）类**，化学上与 trazodone�
 
 本条未建专题文件：核心问题是"同族分子证据不可移植＋抑郁试验盲法缺陷＋无现行文本"，已在 §2／§5／§10 闭环。
 
-**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22etoperidone%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=etoperidone)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=E&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22etoperidone%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=etoperidone)。[法国 BDPM 检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=E&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[Caldwell 2001 [14C] 人体吸收代谢（PMID:11765144）](https://pubmed.ncbi.nlm.nih.gov/11765144/)。[Costa 1993 应激内分泌与血压反应（PMID:8386590）](https://pubmed.ncbi.nlm.nih.gov/8386590/)。[Meco 1984 催乳素与抗胆碱评估（PMID:6469437）](https://pubmed.ncbi.nlm.nih.gov/6469437/)。[White 1992 盲法重分析（PMID:1443253）](https://pubmed.ncbi.nlm.nih.gov/1443253/)。[Cusack 1994 抗抑郁药受体谱（PMID:7855217）](https://pubmed.ncbi.nlm.nih.gov/7855217/)。[Martin 1989 条件回避与 mCPP（PMID:2506609）](https://pubmed.ncbi.nlm.nih.gov/2506609/)。[硫哒嗪治疗痴呆 Cochrane（提及 etoperidone 对照，PMID:11686961）](https://pubmed.ncbi.nlm.nih.gov/11686961/)。
 

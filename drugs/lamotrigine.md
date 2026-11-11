@@ -89,7 +89,7 @@
 
 **说明书与监管正文（逐节核对的代表性一份与另核文本）**：[Lamotrigine Orally Disintegrating Tablets（setid `003663e5-c0c7-4fc1-a64d-313f2a5b10d2`，Par Health USA, LLC，Revised 2/2026）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=003663e5-c0c7-4fc1-a64d-313f2a5b10d2)。[LAMICTAL（setid `d7e3572d-56fe-4727-2bb4-013ccca22678`，GlaxoSmithKline LLC，Revised 10/2025）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d7e3572d-56fe-4727-2bb4-013ccca22678)。[LAMICTAL XR（setid `3e2c9a35-6a39-41d7-ad84-3c0bb8894b09`，GlaxoSmithKline LLC，Revised 10/2025、§INDICATIONS 无双相条目）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e2c9a35-6a39-41d7-ad84-3c0bb8894b09)。
 
-**分类与管制**：[WHO ATC `N03AX09`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AX09)。[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c.html)。[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**分类与管制**：[WHO ATC `N03AX09`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AX09)。[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c.html)。[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **身份**：[PubChem CID 3878](https://pubchem.ncbi.nlm.nih.gov/compound/3878)。English Wikipedia（标题指针，未复制正文）：[Lamotrigine](https://en.wikipedia.org/wiki/Lamotrigine)。
 

@@ -85,7 +85,7 @@
 
 **说明书与监管正文**：[法国 BDPM 的 DEPAMIDE 300 mg 产品信息与 SmPC 页（CIS 6 373 787 9，ANSM 标注 2025-10-30 更新）](https://base-donnees-publique.medicaments.gouv.fr/medicament/63737879/extrait)。该站按词头检索的接口 [api/recherche/alphabetique?startBy=DEPAMIDE](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DEPAMIDE)（命中 1 条）与同一接口 `startBy=VALPRO`（命中 7 条，全部为丙戊酸钠制剂，说明法国现行清单中以 valpromide 为活性成分的特异性制剂仅此一例）。[DailyMed 按药名检索 valpromide（返回 0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=valpromide)。[openFDA 标签接口对 valpromide 的查询（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22valpromide%22)。
 
-**分类与管制**：[WHO ATC `N03AG02`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AG02)。[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c.html)。[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**分类与管制**：[WHO ATC `N03AG02`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AG02)。[2025 年第 55 号公告目录附件（上海药监局转载页）](https://yjj.sh.gov.cn/qtgzwj/20250728/80ad6017cd9d41daa4181ddb4a044c9c.html)。[2026 年第 58 号增列](https://yjj.sh.gov.cn/qtgzwj/20260707/64dce663535f4569bb81419b58a680bd.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **身份**：[PubChem CID 71113](https://pubchem.ncbi.nlm.nih.gov/compound/71113)。English Wikipedia（标题指针，未复制正文）：[Valpromide](https://en.wikipedia.org/wiki/Valpromide)。
 

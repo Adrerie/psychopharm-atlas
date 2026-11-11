@@ -92,13 +92,13 @@
 7. **中国注册信息待核实**：NMPA 返回拦截页、CDE 返回脚本校验页，商业药品库不采用。
 8. **长效剂型不抬高基线分**：周服是 formulation modifier，相关提示写在 §7，不并入六维基线。
 
-检索记录（2026-11-10）：西班牙 CIMA（penfluridol）0 条，法国 BDPM 未检得，英国 emc 未检得，美国 openFDA 与 DailyMed 未检得单一活性成分的现行标签。第三方药品索引列出的商品名包括中国的 Penfluridol Nhwa、荷兰与希腊的 Semap、墨西哥的 Semap、印度的 Semap 与 Sémap，但均未取回对应监管机构的现行说明书全文，因此不据商品名清单写某国已批准或现行上市。中国 NMPA 与 CDE 入口不可脚本化，上市与核准适应证待核实。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 3 条受理记录。最近一条为受理号 Y0411587、药品名称「五氟利多片」、申请类型 补充申请、承办日期 2004-10-12。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+检索记录（2026-11-10）：西班牙 CIMA（penfluridol）0 条，法国 BDPM 未检得，英国 emc 未检得，美国 openFDA 与 DailyMed 未检得单一活性成分的现行标签。第三方药品索引列出的商品名包括中国的 Penfluridol Nhwa、荷兰与希腊的 Semap、墨西哥的 Semap、印度的 Semap 与 Sémap，但均未取回对应监管机构的现行说明书全文，因此不据商品名清单写某国已批准或现行上市。中国 NMPA 与 CDE 入口在 2026-11-11 之前未能脚本化，上市与核准适应证待核实。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 3 条受理记录。最近一条为受理号 Y0411587、药品名称「五氟利多片」、申请类型 补充申请、承办日期 2004-10-12。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
 
 ## 11. 深入分析与来源
 
 本药未建专题：仅有的解释性问题"为什么一个周服长效口服药在 Cochrane 里与典型药等效、却仍在多数市场退居二线"需要处方与可及性数据，没有，建专题会变成推测。
 
-**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=penfluridol&page=1&limit=5)。[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=penfluridol)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22penfluridol%22&limit=5)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=penfluridol&page=1&limit=5)。[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/publico/home.html)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=penfluridol)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22penfluridol%22&limit=5)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

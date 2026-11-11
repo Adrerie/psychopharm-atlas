@@ -91,7 +91,7 @@
 1. **美国标签为旧格式文件**：无编号段落、**无 §14 临床试验章节**、无定量药代、无滥用与依赖专章。因此本条目缺少效应量与药代数值属文件形态问题，不是阴性证据。也不得把"无 TD 发生率数字"读作"TD 风险低"。
 2. **同一文本、多家公司，英国只核了一个产品**：DailyMed 现行清单中三氟拉嗪片有多个并存的现行版本（REMEDYREPACK 与 SAFECOR HEALTH、MYLAN 与 Sandoz 等）共用同一份正文，本条目引用其中两个 setid。英国 emc 命中 7 条产品而本条目只核对 1 mg 片（101617），5 mg 片与口服液体制剂未逐一核对，其他欧盟成员国文本亦未核。该 SmPC 的 §4.9 仍提到 'Spansule' 缓释胶囊吸收延长，而 §6.1 只列普通片剂辅料，属文本残留。
 3. **两国对老年痴呆人群风险的文字不同**：美国黑框是 17 项安慰剂对照试验（多为非典型药）1.6–1.7 倍与 4.5%／2.6%，并承认观察性研究中"药物与患者特征难以区分"。英国只说"两项大型观察性研究提示小幅升高、幅度与原因无法可靠估计"，其 3 倍脑血管事件风险来自"某些非典型抗精神病药"的随机试验。任一侧数值不得改写为另一侧结论。
-4. **中国注册信息未取得**：NMPA 与 CDE 入口不可脚本检索，公开检索命中的是商业药品库，按规则不采用。中国上市剂型与核准适应证待核实。中国管制字段沿用既有三步核查（核查至 2026-10-06），不重跑。候选 CAS 号虽在各名单的 cas 字段无命中，但这两个号码未取得可核对的官方登记来源，故 CAS 只是辅助口径。
+4. **中国注册信息未取得**：NMPA 与 CDE 入口在 2026-11-11 之前未能脚本检索，公开检索命中的是商业药品库，按规则不采用。中国上市剂型与核准适应证待核实。中国管制字段沿用既有三步核查（核查至 2026-10-06），不重跑。候选 CAS 号虽在各名单的 cas 字段无命中，但这两个号码未取得可核对的官方登记来源，故 CAS 只是辅助口径。
 5. **中国"非适应证／潜在不适当处方风险"记 N/A**：本药未被 2017 版中国老年人 PIM 标准逐名收录，Beers 2023 逐名清单亦无本药、仅由类别通例覆盖，浙江单中心老年抑郁队列未给本药逐药计数。类别条款不能换算为本地处方偏离率。同样不能反向推断本药"没有被不当使用"。
 6. **焦虑适应证的证据不可量化**：标签只声明"一项 4 周多中心门诊 GAD（DSM-III）研究"，未提供样本量、终点与数值。该试验按 DSM-III 诊断，与现代 GAD 试验不可比，其结果不能与其他抗精神病药或苯二氮䓬类的效应量互比。
 7. **无药物特异的滥用／误用与药物利用数据**：未取到自身给药或人体强化实验、非医疗使用调查或中国处方数据，故滥用维度记 `N/A`（不并入停药负担）。
@@ -101,7 +101,7 @@
 
 本药未建专题文件：需要解释的两点（两国对老年痴呆风险的表述差异、低／高剂量段与 EPS 剂量边界的对应）已在 §10 第 3 项与 §4／§5 展开。同组对照条目见 [perphenazine](perphenazine.md)、[fluphenazine](fluphenazine.md)、[chlorpromazine](chlorpromazine.md)，同类酚噻嗪止吐药见 [prochlorperazine](prochlorperazine.md)。
 
-**监管与官方文件**：[美国三氟拉嗪片 DailyMed（setid 339ceb53-3b1c-459f-84eb-77bd4315c998，2026-01-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=339ceb53-3b1c-459f-84eb-77bd4315c998)。[同一文本另一现行版本（setid 19b76401-6790-44f7-b756-b078948bbf12，2024-04-02）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19b76401-6790-44f7-b756-b078948bbf12)。[openFDA 按通用名 trifluoperazine 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluoperazine%22&limit=3)。[英国 Trifluoperazine 1 mg 片 SmPC（emc 101617，修订 2023-12-28）](https://www.medicines.org.uk/emc/product/101617/smpc)。[emc 检索 trifluoperazine（7 条产品）](https://www.medicines.org.uk/emc/search?q=trifluoperazine)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[美国三氟拉嗪片 DailyMed（setid 339ceb53-3b1c-459f-84eb-77bd4315c998，2026-01-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=339ceb53-3b1c-459f-84eb-77bd4315c998)。[同一文本另一现行版本（setid 19b76401-6790-44f7-b756-b078948bbf12，2024-04-02）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19b76401-6790-44f7-b756-b078948bbf12)。[openFDA 按通用名 trifluoperazine 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluoperazine%22&limit=3)。[英国 Trifluoperazine 1 mg 片 SmPC（emc 101617，修订 2023-12-28）](https://www.medicines.org.uk/emc/product/101617/smpc)。[emc 检索 trifluoperazine（7 条产品）](https://www.medicines.org.uk/emc/search?q=trifluoperazine)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南、标准与研究**：[AGS Beers 2023（抗精神病药条款与 footnote a／d）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（全文核对，未见本药逐名条目）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[中国老年抑郁门诊双标准 PIM（PMID:42756141，未给本药逐药计数）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 

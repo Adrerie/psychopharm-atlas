@@ -192,7 +192,7 @@
 
 本药未建专题文件：最可争辩的问题是"经典 MAOI 的禁忌清单有多少属于历史遗留"，但回答它需要现代处方数据与中毒登记，只有标签与一篇专家共识，冲突已如实落在 §10 第 1 项。同类对照见 [phenelzine](phenelzine.md)（肼类／酪胺条款留在正文／滥用记 N/A）与 [tranylcypromine](tranylcypromine.md)（非肼类／酪胺危象进黑框／滥用 3）。换药规则见 [imipramine](imipramine.md)、[clomipramine](clomipramine.md)。
 
-**监管与官方文件**：[美国 MARPLAN 标签（DailyMed setid 95fde749-44ad-4668-86c4-0ff17bca0074）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95fde749-44ad-4668-86c4-0ff17bca0074)。[openFDA 按品牌名 MARPLAN 检索](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22MARPLAN%22&limit=4)。[英国 Isocarboxazid 10 mg 片 SmPC（emc 3731）](https://www.medicines.org.uk/emc/product/3731/smpc)。[英国 emc 检索 isocarboxazid](https://www.medicines.org.uk/emc/search?q=isocarboxazid)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[美国 MARPLAN 标签（DailyMed setid 95fde749-44ad-4668-86c4-0ff17bca0074）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95fde749-44ad-4668-86c4-0ff17bca0074)。[openFDA 按品牌名 MARPLAN 检索](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22MARPLAN%22&limit=4)。[英国 Isocarboxazid 10 mg 片 SmPC（emc 3731）](https://www.medicines.org.uk/emc/product/3731/smpc)。[英国 emc 检索 isocarboxazid](https://www.medicines.org.uk/emc/search?q=isocarboxazid)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[经典 MAOI 处方指南（苯乙肼／反苯环丙胺／异卡波肼，70 余名国际专家背书，PMID:35837681）](https://pubmed.ncbi.nlm.nih.gov/35837681/)。[经典神经化学综述：司来吉兰、异卡波肼、苯乙肼与反苯环丙胺（PMID:37966854）](https://pubmed.ncbi.nlm.nih.gov/37966854/)。
 

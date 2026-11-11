@@ -99,7 +99,7 @@
 
 1. **撤市与检索要分开**：`US-FR-1996` 是官方撤销公告（发布 1996-03-27、生效 1996-04-26），写明持有人因产品**不再销售**而请求撤销，**不是**安全或疗效原因。`US-FDA`、`UK-EMC`、`FR-BDPM` 的零命中是检索事实，不写成"从未批准"或"因安全撤市"。
 2. **美国列管仍在**：`US-CSA` 将 glutethimide 列入附表二（代码 2550）。**列管不等于上市**，两者分开记录。
-3. **中国第二类第 36 项**：这是管制层级，不等于中国有现行上市产品。上市与核准适应证待核实（NMPA、CDE 入口不可脚本化）。
+3. **中国第二类第 36 项**：这是管制层级，不等于中国有现行上市产品。上市与核准适应证待核实（NMPA、CDE 入口在 2026-11-11 之前未能脚本化）。
 4. **历史与现行分开**：Doriden 是历史商品名。1970 年研究、1967 年依赖比较与 1966–77 年病例都是历史证据，不进入 A–D。
 5. **依赖证据是本药特异的人体病例，不是同类替代**：1967、1966、1970、1977 年的记录都点名格鲁米特。没有用巴比妥类或苯二氮䓬类的人体依赖资料替代本药。
 6. **组合滥用不能全部归给本药**："loads"含可待因，欣快与依赖有阿片成分。本条目在滥用 4 的依据中已注明，未写成"格鲁米特单独造成全部依赖"。
@@ -118,7 +118,7 @@
 
 同类对照见 [methaqualone](methaqualone.md)（同为历史高风险镇静催眠药、已无现行产品）与 [temazepam](temazepam.md)（现代苯二氮䓬催眠药的依赖与停药条款）。
 
-**监管与官方文件**：[美国联邦公报 61 FR 13506（1996-03-27，Doriden Tablets NDA 9-519 撤销，生效 1996-04-26）](https://www.federalregister.gov/documents/1996/03/27/96-7309/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-49-new-drug-applications-9-abbreviated)。[21 CFR 1308.12（附表二，glutethimide 代码 2550）](https://www.law.cornell.edu/cfr/text/21/1308.12)。[openFDA 按通用名检索 glutethimide（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22glutethimide%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=glutethimide)。[英国 emc 检索 glutethimide（0 条）](https://www.medicines.org.uk/emc/search?q=glutethimide)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=GLUTETHIMIDE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[美国联邦公报 61 FR 13506（1996-03-27，Doriden Tablets NDA 9-519 撤销，生效 1996-04-26）](https://www.federalregister.gov/documents/1996/03/27/96-7309/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-49-new-drug-applications-9-abbreviated)。[21 CFR 1308.12（附表二，glutethimide 代码 2550）](https://www.law.cornell.edu/cfr/text/21/1308.12)。[openFDA 按通用名检索 glutethimide（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22glutethimide%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=glutethimide)。[英国 emc 检索 glutethimide（0 条）](https://www.medicines.org.uk/emc/search?q=glutethimide)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=GLUTETHIMIDE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[《药用类精神药品目录（2025 年版）》第二类第 36 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

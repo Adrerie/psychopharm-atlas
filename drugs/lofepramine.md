@@ -151,7 +151,7 @@ SmPC 的机制表述很克制：§5.1 只写"抑制外周肾上腺素能神经�
 
 本药未建专题文件：可单列的问题是"低过量毒性是否以长期心脏风险为代价"，但它需要本药长期暴露的 QT 或事件数据，只有 SmPC 的条款与一份 1990 年的中毒分析，冲突已落在 §10 第 4 项。同类对照见 [dosulepin](dosulepin.md)（过量毒性高、英国限二线）、[amoxapine](amoxapine.md)（同样带神经阻滞剂型风险的对照物）、[imipramine](imipramine.md)（母体药物，本药为其类似物）。
 
-**监管与官方文件**：[英国 Lofepramine 70 mg/5 ml 口服混悬液 SmPC（emc 13878）](https://www.medicines.org.uk/emc/product/13878/smpc)。[英国 emc 检索 lofepramine（1 条记录）](https://www.medicines.org.uk/emc/search?q=lofepramine)。[openFDA 按通用名 lofepramine 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22lofepramine%22&limit=4)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Lofepramine 70 mg/5 ml 口服混悬液 SmPC（emc 13878）](https://www.medicines.org.uk/emc/product/13878/smpc)。[英国 emc 检索 lofepramine（1 条记录）](https://www.medicines.org.uk/emc/search?q=lofepramine)。[openFDA 按通用名 lofepramine 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22lofepramine%22&limit=4)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[洛非帕明疗效与耐受性对照汇总（20 余项对照研究，PMID:1834491）](https://pubmed.ncbi.nlm.nih.gov/1834491/)。[洛非帕明过量（55 例报告与致死毒性指数，PMID:2408087）](https://pubmed.ncbi.nlm.nih.gov/2408087/)。[氟西汀或洛非帕明治疗无效后的锂盐增效双盲试验（PMID:7894881）](https://pubmed.ncbi.nlm.nih.gov/7894881/)。[洛非帕明与丙咪嗪的对照评价（药代与血小板摄取抑制，PMID:320828）](https://pubmed.ncbi.nlm.nih.gov/320828/)。
 

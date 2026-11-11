@@ -98,7 +98,7 @@
 ## 10. 证据边界
 
 1. **旧格式标签的结构性限制**：`US-ZAL` 采用现行模板之前的章节体系。疗效叙述放在 §Clinical Pharmacology 而非独立的临床试验章节，缺妊娠与哺乳的现代风险小结段落（仅有"Nursing Mothers／Labor and Delivery"式旧式条目）。因此本条目 §4／§5 的剂量与疗程表述取标签原文叙述，**疗效不写点估计**。这属于格式造成的数据缺失，不能当作阴性结果。
-2. **中国的管制级别与上市状态是两件事**：本条目只把"第二类第 70 项（CAS 151319-34-5）"作为已核实事实。**上市与核准适应证待核实**。NMPA 与 CDE 入口不可脚本化（412／202）。
+2. **中国的管制级别与上市状态是两件事**：本条目只把"第二类第 70 项（CAS 151319-34-5）"作为已核实事实。**上市与核准适应证待核实**。NMPA 与 CDE 入口在 2026-11-11 之前未能脚本化（412／202）。
 3. **欧洲与英国为未检得**：英国 emc 检索返回 **0 个产品**，法国 BDPM 检索 "ZALEPLON" 返回 **0 条**。瑞典 FASS 有物质条目但未确认其对应上市产品。"未检得"不等于"未批准"。
 4. **非临床章节的两个读法限制**：① 该节以 **20 mg 为"最大人用推荐剂量（MRHD）"**来计算倍数，而 §2 把多数成人的推荐剂量定为 10 mg、>20 mg 不推荐。因此"6–49 倍 MRHD"这类倍数**不能直接与 10 mg 日常剂量换算**。② 本页取回的 15 份现行标签中，致癌／致突变／生育力段落**只出现在 10 份**（另 5 份为更简略的再包装文本），本条目按含该段落的文本记录，并注明并非所有厂牌文本都载有这些结论。
 5. **PIM 行记 N/A 的理由**：2017 中国标准确实在**表 2 第 22 项逐名收录本药并给出"避免使用，除非其他可选药物不可用"**，Beers 也点名本药。但**条款存在不等于当地处方偏离**，本地 3,155 例队列无本药逐药计数。也无本药的当地处方或结局数据，故按与 [eszopiclone](eszopiclone.md)（同一表 2 第 22 项）一致的处理记 N/A，不据类别或条款单独升分。
@@ -109,7 +109,7 @@
 
 本药未建专题文件：真正需要跨研究解释的是**"短时程"在疗效与强化效应两个方向上的相反含义**（同一 半衰期 约 1 小时既解释了次晨残留低，也解释了标签允许半夜给药、以及依赖评估中反跳出现在剂量间期的机制），该问题已由既有专题 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md) 覆盖，本条目不重复建页。同类条目见 [zolpidem](zolpidem.md)、[eszopiclone](eszopiclone.md)、[zopiclone](zopiclone.md)、[temazepam](temazepam.md)。
 
-**监管与官方文件**：[openFDA 按应用号检索 Zaleplon（ANDA078989）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA078989%22&limit=5)。[openFDA 按通用名检索 zaleplon（15 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22zaleplon%22&limit=100)。[DailyMed 标签（setid 2cc7adee-2c4c-4fed-9914-545e70dba773）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2cc7adee-2c4c-4fed-9914-545e70dba773)。[英国 emc 检索 zaleplon（0 个产品）](https://www.medicines.org.uk/emc/search?q=zaleplon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ZALEPLON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[openFDA 按应用号检索 Zaleplon（ANDA078989）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA078989%22&limit=5)。[openFDA 按通用名检索 zaleplon（15 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22zaleplon%22&limit=100)。[DailyMed 标签（setid 2cc7adee-2c4c-4fed-9914-545e70dba773）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2cc7adee-2c4c-4fed-9914-545e70dba773)。[英国 emc 检索 zaleplon（0 个产品）](https://www.medicines.org.uk/emc/search?q=zaleplon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ZALEPLON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（Z 药 Avoid 行点名 zaleplon，另见谵妄、次晨损害、跌倒／骨折表）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》表 2 第 22 项](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》第二类第 70 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

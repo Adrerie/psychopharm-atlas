@@ -139,14 +139,14 @@
 4. **只有一篇对照研究**：1987 年研究为健康人噪声模型，3 晚、40 mg。不能据此写患者疗效、长期疗效或剂量-效应关系。
 5. **Cochrane 综述的误读风险**：`PMID:22258993` 在纳入药物名单中列出 cinolazepam，但实际纳入试验不含本药。不得把它写成"本药治疗风湿性关节炎的证据"。
 6. **DDD 缺失**：WHO 2026 索引未给 N05CD13 列 DDD，不能把 40 mg 研究剂量或说明书剂量当作 DDD。
-7. **其他法域未检得**：美国 openFDA 与 DailyMed 0 条（2026-10-23）、英国 emc 0 条（2026-10-24）、法国 BDPM 0 行（2026-10-24）。三处均为检索事实，不写成"未批准"或"已撤市"。中国 NMPA 与 CDE 入口不可脚本化，上市与核准适应证待核实。中国管制核查结论为"未发现列入现行目录（2026-10-06）"，不等于"非管制"。
+7. **其他法域未检得**：美国 openFDA 与 DailyMed 0 条（2026-10-23）、英国 emc 0 条（2026-10-24）、法国 BDPM 0 行（2026-10-24）。三处均为检索事实，不写成"未批准"或"已撤市"。中国 NMPA 与 CDE 入口在 2026-11-11 之前未能脚本化，上市与核准适应证待核实。中国管制核查结论为"未发现列入现行目录（2026-10-06）"，不等于"非管制"。
 8. **类别与个体分开**：§6–§9 中未注明本药研究的依赖、跌倒、妊娠与呼吸内容，均为说明书条款或苯二氮䓬类别提示，不作为本药独有的量化结论。
 
 ## 11. 深入分析与来源
 
 本药未建专题文件：核心问题（短效 3－羟基苯二氮䓬的依赖与反跳、老年用药）已在闭环。同类对照见 [temazepam](temazepam.md)（3－羟基、无活性代谢物、短半衰期）与 [lormetazepam](lormetazepam.md)（3－羟基、半衰期约 10 小时）。
 
-**监管与官方文件**：[斯洛伐克 SÚKL 收录的 Gerodorm 40 mg 片剂 SmPC 2020 年变更批准文本（ev. č. 2020/06214-ZME）](https://www.adc.sk/databazy/produkty/spc/gerodorm-939009.html)。[同一产品的患者说明书与 2011-12 修订版 SmPC 全文（注册号 57/0752/94-S，首次注册 1994-12-02，最后文本修订 2011-12）](https://ipil.sk/gerodorm)。[英国 emc 检索 cinolazepam（0 条）](https://www.medicines.org.uk/emc/search?q=cinolazepam)。[openFDA 按通用名检索 cinolazepam（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cinolazepam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=cinolazepam)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CINOLAZEPAM&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[斯洛伐克 SÚKL 收录的 Gerodorm 40 mg 片剂 SmPC 2020 年变更批准文本（ev. č. 2020/06214-ZME）](https://www.adc.sk/databazy/produkty/spc/gerodorm-939009.html)。[同一产品的患者说明书与 2011-12 修订版 SmPC 全文（注册号 57/0752/94-S，首次注册 1994-12-02，最后文本修订 2011-12）](https://ipil.sk/gerodorm)。[英国 emc 检索 cinolazepam（0 条）](https://www.medicines.org.uk/emc/search?q=cinolazepam)。[openFDA 按通用名检索 cinolazepam（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22cinolazepam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=cinolazepam)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CINOLAZEPAM&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[交通噪声诱导情境性失眠的睡眠实验室研究（n=20，40 mg×3 晚，PMID:2889679）](https://pubmed.ncbi.nlm.nih.gov/2889679/)。[风湿性关节炎肌肉松弛药 Cochrane 综述（本药仅出现在纳入药物名单，PMID:22258993）](https://pubmed.ncbi.nlm.nih.gov/22258993/)。
 

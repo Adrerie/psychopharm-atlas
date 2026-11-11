@@ -116,13 +116,13 @@
 6. **体外浓度不外推**：`PMID:7875633` 的有效浓度为 10–100 μmol/L，而人体血清浓度带为数十至数千 ng/ml 量级（约 10⁻⁷–10⁻⁵ mol/L），两者不同尺度。本条只作机制线索。
 7. **疗效证据的级别**：除 2022 网络荟萃所纳入的随机试验与 1977 年一项双盲比较外，本药的临床"疗效"叙述来自 5–45 例的开放系列（`PMID:6756060` 的元评价）。不得把这些数字写成有效率结论。
 8. **DDD 1.2 g 口服是统计指标**，与文献中的 300–1 200 mg／日、3 600 mg／日个案不是同一概念，不用于个体剂量换算或利用度推断。
-9. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口不可脚本检索而待核实。
+9. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口在 2026-11-11 之前未能脚本检索而待核实。
 
 ## 11. 深入分析与来源
 
 本条目**适合但不建**专题：最有决策价值的问题是"本药达到 70%–80% D2 占有率只需 20–35 mg，而日本核准的给药带为 300–1 800 mg/日"。完整回答需要 PET 原始数据、当年剂量设定的监管文件与心脏结局研究，本次核查只有摘要级材料，故把该问题写在 §2.1／§2.2 而不另开专题。同类处理可参照 [amisulpride](amisulpride.md) 与仓库中的舒必利条目（均为不同分子，请勿互换结论）。
 
-**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sultopride%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22sultopride%22&limit=1)。[DailyMed 按药名检索接口（2026-11-10 返回 `total_elements: 0`）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sultopride)。[法国 BDPM 字母序检索 BARN（0 行）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BARN&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=sultopride)。[KEGG DRUG D02208（JAN／`<JP>`，转录／收载页）](https://www.kegg.jp/entry/D02208)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22sultopride%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22sultopride%22&limit=1)。[DailyMed 按药名检索接口（2026-11-10 返回 `total_elements: 0`）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sultopride)。[法国 BDPM 字母序检索 BARN（0 行）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BARN&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=sultopride)。[KEGG DRUG D02208（JAN／`<JP>`，转录／收载页）](https://www.kegg.jp/entry/D02208)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **日本监管文本**：[PMDA 医療用医薬品 詳細表示（バルネチール錠 50／100／200 mg・細粒 50%，添付文書番号 1179032C1046_6_04，2024-10 改訂第 3 版）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/672173_1179032C1046_6_04)。[KEGG MEDICUS バルネチール（添付文書信息转录，2024-10 改訂第 3 版）](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00053984)。
 

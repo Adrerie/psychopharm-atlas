@@ -135,7 +135,7 @@
 
 1. **只有英国一份现行文本**：`UK-LPZ` 是 1 mg 片、PL 17780/0306、2026-01-12 修订。emc 检索只返回这一条产品记录，因此不声称已核对英国全部规格或品牌，也不把英国适应证外推为欧盟或全球适应证。
 2. **美国无产品但有列管**：openFDA 通用名检索无记录、DailyMed 0（2026-10-23）。`US-CSA` 将 loprazolam 列入附表四（代码 2773）。**列管不等于上市**，两者分开记录。不写"美国未批准或已撤市"。
-3. **中国两件事分开**：目录核查为**第二类第 38 项**（2025 年版）。上市与核准适应证待核实（NMPA 入口返回 412、CDE 返回脚本校验页，均不可脚本化）。
+3. **中国两件事分开**：目录核查为**第二类第 38 项**（2025 年版）。上市与核准适应证待核实（NMPA 入口返回 412、CDE 返回脚本校验页，均在 2026-11-11 之前未能脚本化）。
 4. **疗效证据只有一项老年 RCT**：89 例、5 天、自评为主。0.5 与 1 mg 无统计学显著差异。不据此写剂量-效应关系或长期疗效。
 5. **次日损害的证据不一致**：老年 RCT 未见残余效应（`PMID:2870876`），健康人研究在 1–2 mg 下见到手工灵巧度、记忆与宿醉信号（`PMID:6138055`／`PMID:1681558`／`PMID:10798794`）。人群、剂量与测试不同，本条目并列而不择一。
 6. **药代测定的方法依赖**：RIA 与 HPLC/GC 的 半衰期 分别为 11.7 与 8.0 小时，重复给药后 HPLC/GC 的 半衰期 仅 3.5 小时（n=3）。这些差异说明单一数值不是"本药半衰期"的定论，不据此推算蓄积。
@@ -147,7 +147,7 @@
 
 同类对照见 [temazepam](temazepam.md)（3－羟基／无活性代谢物／短半衰期）、[lormetazepam](lormetazepam.md)（3－羟基／半衰期约 10 小时／撤药条款完整）、[triazolam](triazolam.md)（超短半衰期与剂量间期戒断）与 [nitrazepam](nitrazepam.md)（长效）。
 
-**监管与官方文件**：[英国 Loprazolam 1mg Tablets SmPC（emc 4192，文本修订 2026-01-12）](https://www.medicines.org.uk/emc/product/4192/smpc)。[emc 检索 loprazolam（1 条现行产品）](https://www.medicines.org.uk/emc/search?q=loprazolam)。[openFDA 按通用名检索 loprazolam（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22loprazolam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=loprazolam)。[21 CFR 1308.14（附表四，含 loprazolam，代码 2773）](https://www.law.cornell.edu/cfr/text/21/1308.14)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Loprazolam 1mg Tablets SmPC（emc 4192，文本修订 2026-01-12）](https://www.medicines.org.uk/emc/product/4192/smpc)。[emc 检索 loprazolam（1 条现行产品）](https://www.medicines.org.uk/emc/search?q=loprazolam)。[openFDA 按通用名检索 loprazolam（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22loprazolam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=loprazolam)。[21 CFR 1308.14（附表四，含 loprazolam，代码 2773）](https://www.law.cornell.edu/cfr/text/21/1308.14)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[《中国老年人潜在不适当用药判断标准（2017 年版）》表 2 类别条款](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》第二类第 38 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

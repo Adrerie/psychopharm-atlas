@@ -80,7 +80,7 @@
 2. **中文标签口径更正**：骨架 zh 标签"氯丙醇"与本药己二醇结构不符，未核得监管核准名，正文以 chloralodol／chlorhexadol 为准。下方中国管制字段仍**逐字保留骨架已审计结论**（其中"chloralodol / 氯丙醇"字样为骨架原文，未改判）。
 3. **实体纪律（本组最关键）**：本药含氯醛结构，但**不继承 `chloral-hydrate`（N05CC01）的适应证、剂量、机制、警告或滥用数据**。氯醛释放关系仅按来源（`PMID:13880824` 的"氯醛衍生物"表述）作机制说明。本药特异证据只有以 chloralodol／chlorhexadol 为受试分子的三篇 1961–62 年人体研究。
 4. **早期研究仅到题录**：`PMID:13880824`、`PMID:14452227`、`PMID:14494795` 未取得全文数值，不引用其效应量或不良事件频率。
-5. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+5. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 6. **DDD 1.6 g 是统计指标**，不是处方剂量。
 7. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `chloralodol`／`chlorhexadol` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 
@@ -88,7 +88,7 @@
 
 本条目未建专题文件：需要解释的是"含氯醛结构的加合物为何不能借用母体水合氯醛的安全与疗效结论"，这一实体纪律属 AGENTS.md 通则、已在 §3、§6、§10 说清。本药特异证据体量小（三篇早期人体研究、均题录），不足以支撑单独专题。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22chloralodol%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22chloralodol%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=chloralodol)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CHLORALODOL&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=chloralodol)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=chloralodol)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22chloralodol%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22chloralodol%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=chloralodol)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CHLORALODOL&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=chloralodol)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=chloralodol)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

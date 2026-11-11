@@ -87,7 +87,7 @@
 ## 10. 证据边界
 
 1. **§4 禁忌为"None"，但这不等于无风险人群**：同一标签在 §2.4／§4.5／§8.5／§8.6 分布着"避免强 CYP1A2 抑制剂""避免强 CYP3A4 诱导剂""重度肝损不推荐""老年暴露翻倍"等限制。本条目因此把相互作用与人群限制写在 §2.1 与 §8／§9，而不以"禁忌为 None"作为安全性结论。
-2. **中国的上市与核准适应证待核实**：NMPA 与 CDE 检索入口不可脚本化（412／202）。已核实的只有"未发现列入 2025 年版目录与 2026 年增列（核查至 2026-10-06）"。
+2. **中国的上市与核准适应证待核实**：NMPA 与 CDE 检索入口在 2026-11-11 之前未能脚本化（412／202）。已核实的只有"未发现列入 2025 年版目录与 2026 年增列（核查至 2026-10-06）"。
 3. **欧洲与英国为未检得**：英国 emc 检索返回 **0 个产品**，法国 BDPM 检索 "TASIMELTEON" 返回 **0 条**。瑞典 FASS 有物质页但未确认对应上市产品。"未检得"不等于"未批准"。
 4. **适应证本身限制了可比性**：Non-24 几乎只见于全盲者（`PMID:26466871` 的背景段说明其成因是光无法重设起搏器），入组需以尿 6‑硫酸氧褪黑素节律测算 τ。因此本药的疗效数字**不能与其他三药的 LPS／WASO 分钟数横向比较**，本条目在 §2.2 中按各自终点给分。
 5. **"用于原发性失眠"是适应证外**：本条仅有支持它的随机试验（`PMID:40971945`）由厂方作者完成、且针对的是入睡困难人群。美国标签的两个适应证均不含普通失眠。本条目在 §2.2 记为 C−（"有 III 期证据但未获批"），不升为 B，也不因未获批而把该试验从记录中删除。
@@ -98,7 +98,7 @@
 
 本药未建专题文件：真正值得单独建页的是**"时相药"与"催眠药"在疗效终点设计上的分岔**（同步率／相位测定 vs 睡眠潜伏期分钟数），但只取得本药一个方向的证据（Non-24 与 SMS），另一方向的同类条目 [ramelteon](ramelteon.md)、[agomelatine](agomelatine.md) 并未提供可对照的终点体系，不足以支撑一个完整专题。相关判断已按 §10 第 4 项就地记录。同类条目见 [ramelteon](ramelteon.md)、[agomelatine](agomelatine.md)、[daridorexant](daridorexant.md)。类别对照见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md)。
 
-**监管与官方文件**：[openFDA 按应用号检索 HETLIOZ（NDA205677）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22NDA205677%22&limit=5)。[openFDA 按通用名检索 tasimelteon（3 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22tasimelteon%22&limit=100)。[DailyMed 标签（setid ca4a9b63-708e-49e9-8f9b-010625443b90）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90)。[英国 emc 检索 tasimelteon（0 个产品）](https://www.medicines.org.uk/emc/search?q=tasimelteon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TASIMELTEON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[openFDA 按应用号检索 HETLIOZ（NDA205677）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22NDA205677%22&limit=5)。[openFDA 按通用名检索 tasimelteon（3 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22tasimelteon%22&limit=100)。[DailyMed 标签（setid ca4a9b63-708e-49e9-8f9b-010625443b90）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ca4a9b63-708e-49e9-8f9b-010625443b90)。[英国 emc 检索 tasimelteon（0 个产品）](https://www.medicines.org.uk/emc/search?q=tasimelteon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TASIMELTEON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（本药未被点名）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（本药未被点名）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[六份中国麻精药品目录基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

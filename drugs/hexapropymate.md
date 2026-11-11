@@ -83,7 +83,7 @@
 3. **半衰期读数不外推**：21 小时终末半衰期来自**单一中毒患者**（`PMID:2770531`），非群体药代，不据此写消除参数定论或给药间隔。
 4. **中毒个案多为排除其他药后**：瑞典系列纳入时**排除了三环类、吩噻嗪、巴比妥、抗组胺与阿片**摄入（`PMID:2770531`），故其昏迷／呼吸抑制读数可较干净地归本药，但更早的"疑似中毒"系列（`PMID:5092668`）为混合情境，不据以定发生率。
 5. **"价值是否被毒性超过"是作者评论**：`PMID:2770531` 的风险与获益质疑属原作者观点，本条目引用时标注为评论、不作本条目结论。
-6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 7. **DDD 0.4 g 是统计指标**，不是处方剂量。
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、Merinax 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 hexapropymate 检索 0 条。法国 BDPM 按 HEXAPROPYMATE 与 MERINAX 前缀检索 0 条。西班牙 CIMA 按 hexapropimato 检索 0 条。上述均为检索事实，不写成"未批准／已撤市"。本药仍无可逐节引用的现行监管正文，状态保持 `basic`。
@@ -92,7 +92,7 @@
 
 本条目未建专题文件：需要解释的是"己丙氨酯的中毒临床像为何类似巴比妥、而血药浓度又与严重程度不相关"。其要点已由 `PMID:2770531` 一篇系列完整承载（GCS、通气时长、浓度与严重程度无相关、主动消除无益），无需另立专题。逐例血药浓度与代谢物结构数据搬进主条目会破坏快速判断页定位。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22hexapropymate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22hexapropymate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=hexapropymate)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=HEXAPROPYMATE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=hexapropymate)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=hexapropymate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22hexapropymate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22hexapropymate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=hexapropymate)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=HEXAPROPYMATE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=hexapropymate)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=hexapropymate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

@@ -111,7 +111,7 @@
 
 本药未建专题文件：两组适应证（精神科与终末期）的证据都薄到不足以支撑跨研究冲突的独立解释，而"英国与法国适应证为何不同"属监管史问题，没有可引的评估报告，建专题会把标签差异包装成机制结论。
 
-**监管与官方文件**：[英国 Nozinan 25 mg 片 SmPC（emc 1429，PL 49718/0107，文本修订 2026-04-28）](https://www.medicines.org.uk/emc/product/1429/smpc)。[emc 检索 levomepromazine（8 条产品）](https://www.medicines.org.uk/emc/search?q=levomepromazine)。[法国 NOZINAN 100 mg 片 RCP（BDPM CIS 68270422，ANSM 更新 2025-11-24）](https://base-donnees-publique.medicaments.gouv.fr/medicament/68270422/extrait)。[openFDA 按通用名检索（ 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22levomepromazine%22&limit=5)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Nozinan 25 mg 片 SmPC（emc 1429，PL 49718/0107，文本修订 2026-04-28）](https://www.medicines.org.uk/emc/product/1429/smpc)。[emc 检索 levomepromazine（8 条产品）](https://www.medicines.org.uk/emc/search?q=levomepromazine)。[法国 NOZINAN 100 mg 片 RCP（BDPM CIS 68270422，ANSM 更新 2025-11-24）](https://base-donnees-publique.medicaments.gouv.fr/medicament/68270422/extrait)。[openFDA 按通用名检索（ 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22levomepromazine%22&limit=5)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

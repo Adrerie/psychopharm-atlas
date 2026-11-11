@@ -44,7 +44,7 @@
 
 ## 4. 适应范围
 
-**无核准适应证文本可引**：openFDA／DailyMed／BDPM／CIMA 四个名称均无记录（`REG-2026`），英国 emc 与德／意／瑞士注册库未取回，**中国上市与核准适应证待核实**（NMPA 与 CDE 不可脚本检索）。WHO 2026 索引未对本编码赋 DDD，因此**没有可引的统计剂量**。文献层面可确认的只有给药途径与剂型线索：`PMID:6624280` 的排泄研究针对口服制剂（Stivane，马来酸盐），`PMID:7297757` 与 `PMID:6138876` 以 Nadex（马来酸pyrisuccideanol）为名在门诊与全科场景使用。**未取得任何 mg 级剂量原文，不据商品名或类别补写给药方案。**
+**无核准适应证文本可引**：openFDA／DailyMed／BDPM／CIMA 四个名称均无记录（`REG-2026`），英国 emc 与德／意／瑞士注册库未取回，**中国上市与核准适应证待核实**（NMPA 与 CDE 在 2026-11-11 之前未能脚本检索）。WHO 2026 索引未对本编码赋 DDD，因此**没有可引的统计剂量**。文献层面可确认的只有给药途径与剂型线索：`PMID:6624280` 的排泄研究针对口服制剂（Stivane，马来酸盐），`PMID:7297757` 与 `PMID:6138876` 以 Nadex（马来酸pyrisuccideanol）为名在门诊与全科场景使用。**未取得任何 mg 级剂量原文，不据商品名或类别补写给药方案。**
 
 ## 5. 实际效果与局限
 
@@ -74,7 +74,7 @@
 
 ## 10. 证据边界
 
-1. **无监管文本**：openFDA 四个检索词（通用名、RxNorm 首选名与两个文献商品名）均 HTTP 404、DailyMed 与 BDPM 均 0 条、CIMA 无匹配（`REG-2026`）。英国 emc、德国、意大利、瑞士注册库**未取回**。NMPA（412）与 CDE（202）不可脚本检索。**以上只记录检索缺口，不得据此断言未批准、已撤市或不存在。**
+1. **无监管文本**：openFDA 四个检索词（通用名、RxNorm 首选名与两个文献商品名）均 HTTP 404、DailyMed 与 BDPM 均 0 条、CIMA 无匹配（`REG-2026`）。英国 emc、德国、意大利、瑞士注册库**未取回**。NMPA（412）与 CDE（202）在 2026-11-11 之前未能脚本检索。**以上只记录检索缺口，不得据此断言未批准、已撤市或不存在。**
 2. **无 DDD**：WHO 2026 索引未对 `N06BX08` 赋 DDD，因此不存在可引的统计剂量。文中提及的"阈值治疗剂量"来自 `PMID:1261486` 的实验设定，不是处方剂量。
 3. **关键疗效证据只到题录**：`PMID:7297757` 与 `PMID:6138876` 无摘要、原文未取得，设计／例数／效应量全缺，故本条目不设 A–D 等级（见 §2.2）。
 4. **别名未证实**：维基数据英文别名 "NEX431" 在 openFDA、PubChem 同义词表与 RxNorm 中均无对应，**不把它作为本药身份或研发状态的依据**。
@@ -86,7 +86,7 @@
 
 ## 11. 深入分析与来源
 
-**监管与检索记录**：[openFDA 标签检索 pirisudanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pirisudanol%22&limit=5)。[openFDA 标签检索 pyrisuccideanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pyrisuccideanol%22&limit=5)。[DailyMed 检索（带 /dailymed/ 前缀，0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pirisudanol)。[法国 BDPM 前缀检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PIRISUDANOL&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与检索记录**：[openFDA 标签检索 pirisudanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pirisudanol%22&limit=5)。[openFDA 标签检索 pyrisuccideanol（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pyrisuccideanol%22&limit=5)。[DailyMed 检索（带 /dailymed/ 前缀，0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pirisudanol)。[法国 BDPM 前缀检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PIRISUDANOL&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究与题录**：[Murphy 1981，Nadex 治疗 55 岁以上轻中度抑郁（全科、仅题录）](https://pubmed.ncbi.nlm.nih.gov/7297757/)。[Zmorski 1983，门诊精神科 Nadex 经验（德文、仅题录）](https://pubmed.ncbi.nlm.nih.gov/6138876/)。[Gielsdorf & Klug 1983，本药（Stivane）分析与肾排泄](https://pubmed.ncbi.nlm.nih.gov/6624280/)。[Bathien 1976，10 例志愿者注意力与 H 反射研究（法文）](https://pubmed.ncbi.nlm.nih.gov/1261486/)。[Hugelin 1972，对网状结构上行激活系统的兴奋作用（法文）](https://pubmed.ncbi.nlm.nih.gov/4667357/)。
 

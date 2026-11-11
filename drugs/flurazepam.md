@@ -102,7 +102,7 @@
 1. **美国 §14 与 §6.1 的容量限制**：美国现行标签的临床试验章节只有"至少连续 28 夜有效"一句，不良反应章节为叙述式、**无对安慰剂的百分率表**。因此本条目的疗效分数与不良反应分数都只能建立在英国频率分级与剂量-残留条款上，**不能给 A 级**。
 2. **男女初始剂量差异只在美国标签中规定**（§2.1 写"因为本药清除率较低"），但同一标签 §12.3 给出的老年差异是**性别×年龄**组合（老年男性延长、女性不延长），**未给出女性的清除率数值**。本条目按原文并列记录，不自行推导"女性一律用 15 mg"的新规则。
 3. **两法域疗程与剂量上限不同且不可综合**：美国 §2 无 4 周硬上限文字（只有"短期使用通常足够、长期使用通常无指征"），英国 §4.2 给"数天至 2 周、**最长 4 周含减药**"与"重度失眠可用 30 mg 但**不得超过 60 mg**"。英国 60 mg 上限在美国标签中不存在，本条目不把它写成通用规则。`UK-FLZ` 只代表英国文本，欧盟其他成员国未核对。
-4. **中国上市与核准适应证待核实**：NMPA 与 CDE 检索入口不可脚本化（412／202），公开检索只命中商业药品库、按规则不采用。本条目已核实的只有**第二类第 35 项**这一管制事实，以及该项**未标 `*`**（生产／上市标记）这一目录事实。
+4. **中国上市与核准适应证待核实**：NMPA 与 CDE 检索入口在 2026-11-11 之前未能脚本化（412／202），公开检索只命中商业药品库、按规则不采用。本条目已核实的只有**第二类第 35 项**这一管制事实，以及该项**未标 `*`**（生产／上市标记）这一目录事实。
 5. **滥用潜力维度的证据缺口**：本药没有可核对的人体强化效应实验或药物特异的非医疗使用流行病学。`PMID:16336040` 是概念框架与算法综述（含本药在内 19 种催眠药，结论为"滥用可能性与毒性在各药之间从'高'到'无'不等"），`PMID:34666879` 把氟西泮与替马西泮、三唑仑合并为同一终点。二者都不能给出本药误用率。动物对抗冲突与撤药电生理研究属机制层，不作人体推断。
 6. **Beers 的位置需要精确表述**：flurazepam 不在 2023 年版正文苯二氮䓬"Avoid／Strong"逐名清单中，而是出现在**"自 2019 年版移除的药品"表 8（理由 Low use）**，且原文说明"移除不代表认可使用，这些药按 2019 年标准仍属潜在不适当"。引用时不写作"Beers 2023 逐名收录本药"，也不写作"Beers 不再认为本药不当"。
 7. **每日剂量与 DDD 的关系**：DDD 30 mg 是统计指标。英国 §4.2 的 15／30／60 mg 是产品给药规则，两者口径不同，本条目不做换算。
@@ -111,7 +111,7 @@
 
 本药未建专题文件：本页全部"需要解释为什么"的内容。蓄积如何同时产生第 2–3 夜显效、停药后残留与次日损害。已由两国现行文本在 §1、§2.1、§3 与 §5 落到底。不存在结论冲突或剂量-剂型争议需要另立问题。同类对照条目见 [triazolam](triazolam.md)（短半衰期、剂量间期戒断与遗忘为另一极端）、[temazepam](temazepam.md)（无活性代谢物）、[nitrazepam](nitrazepam.md)（半衰期长但代谢物无活性）、[diazepam](diazepam.md)、[estazolam](estazolam.md)。催眠药次日残留与时程比较见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md)。
 
-**监管与官方文件**：[DailyMed 标签 setid 8f476891-1346-4e8c-ac1b-f8cbdc64f5a1（ANDA072368／072369，生效 2024-10-28）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f476891-1346-4e8c-ac1b-f8cbdc64f5a1)。[openFDA 按通用名检索 flurazepam（现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22flurazepam%22&limit=3)。[DailyMed 按药名检索 Dalmane（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dalmane)。[英国 Dalmane 15 mg 胶囊 SmPC（emc 1727）](https://www.medicines.org.uk/emc/product/1727/smpc)。[emc 检索 flurazepam（现行产品：Dalmane 15 mg／30 mg 胶囊）](https://www.medicines.org.uk/emc/search?q=flurazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[DailyMed 标签 setid 8f476891-1346-4e8c-ac1b-f8cbdc64f5a1（ANDA072368／072369，生效 2024-10-28）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f476891-1346-4e8c-ac1b-f8cbdc64f5a1)。[openFDA 按通用名检索 flurazepam（现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22flurazepam%22&limit=3)。[DailyMed 按药名检索 Dalmane（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=Dalmane)。[英国 Dalmane 15 mg 胶囊 SmPC（emc 1727）](https://www.medicines.org.uk/emc/product/1727/smpc)。[emc 检索 flurazepam（现行产品：Dalmane 15 mg／30 mg 胶囊）](https://www.medicines.org.uk/emc/search?q=flurazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（正文苯二氮䓬逐名清单不含 flurazepam，表 8 记"移除，理由 Low use"）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》表 2 类别条款（第 2、3、18、19、22 项）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》第二类第 35 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

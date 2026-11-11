@@ -104,7 +104,7 @@
 
 ## 10. 证据边界
 
-1. **说明书缺失是本条目的核心缺口**：NMPA 网站检索入口返回拦截页、CDE 返回脚本校验页（均不可脚本化），本次核查**没有取得地达西尼胶囊的说明书正文**。`NMPA-2023` 的适应证、机制与"1 类创新药"表述来自中央媒体对 NMPA 公告的转载，**不是原始页面**。因此核准适应证、给药方案、禁忌、不良反应表与特殊人群条款均标"待核实"。
+1. **说明书缺失是本条目的核心缺口**：NMPA 网站检索入口返回拦截页、CDE 返回脚本校验页（均在 2026-11-11 之前未能脚本化），本次核查**没有取得地达西尼胶囊的说明书正文**。`NMPA-2023` 的适应证、机制与"1 类创新药"表述来自中央媒体对 NMPA 公告的转载，**不是原始页面**。因此核准适应证、给药方案、禁忌、不良反应表与特殊人群条款均标"待核实"。
 2. **批准日期有两个口径**：`NMPA-2023` 的公告转述为"2023 年 11 月"（媒体转载，未标明原公告日期），`DIM-FA` 记 **2023-11-29**。本条目并列，不合并为单一日期。
 3. **规格线索的性质**：2.5 mg 来自 2024 年医保目录纳入的企业公告转述，不是说明书。本条目只把它标为"企业公告口径的规格线索"。
 4. **疗效数字全部是试验层**：III 期与 II 期的剂量、终点与差值均为研究剂量与研究设计下的结果。**不能当作核准剂量或核准疗效表述**。也不与其他催眠药作跨药效应量比较。`DIM-PM` 的咪达唑仑对照为开放标签探索性研究，同样不作跨药结论。
@@ -119,7 +119,7 @@
 
 本药未建专题文件：当前仅有具备独立价值的问题是"部分正向别构调节是否真的降低耐受与戒断"，而回答它需要的长期与停药研究不存在。现有证据已在 §5 与 §10 就近记录，建专题会把 2 周试验包装成长期结论。同类对照见 [zolpidem](zolpidem.md)、[zaleplon](zaleplon.md)（同为非苯二氮䓬类催眠药）、[estazolam](estazolam.md) 与 [triazolam](triazolam.md)（苯二氮䓬类短期治疗）。
 
-**监管与官方文件**：[国家药监局批准地达西尼胶囊上市（中央媒体转载页，2023-11-29）](https://m.ztnews.net/article/show-417393.html)。[同批报道。适用于失眠障碍患者的短期治疗、GABA_A 受体部分正向别构调节剂](https://www.nbd.com.cn/rss/toutiao/articles/3139855.html)。[企业公告转述：2.5 mg 规格、2024 年医保目录](https://m.10jqka.com.cn/20241128/c663995094.html)。[openFDA 按通用名检索 dimdazenil（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimdazenil%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimdazenil)。[emc 检索 dimdazenil（0 条）](https://www.medicines.org.uk/emc/search?q=dimdazenil)。[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMDAZENIL&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[国家药监局批准地达西尼胶囊上市（中央媒体转载页，2023-11-29）](https://m.ztnews.net/article/show-417393.html)。[同批报道。适用于失眠障碍患者的短期治疗、GABA_A 受体部分正向别构调节剂](https://www.nbd.com.cn/rss/toutiao/articles/3139855.html)。[企业公告转述：2.5 mg 规格、2024 年医保目录](https://m.10jqka.com.cn/20241128/c663995094.html)。[openFDA 按通用名检索 dimdazenil（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimdazenil%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimdazenil)。[emc 检索 dimdazenil（0 条）](https://www.medicines.org.uk/emc/search?q=dimdazenil)。[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMDAZENIL&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[《药用类精神药品目录（2025 年版）》第二类第 25 项](../SOURCES.md#中国麻醉药品和精神药品管制)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（本药 0 命中）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

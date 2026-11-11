@@ -48,7 +48,7 @@
 
 ## 4. 适应范围
 
-**无法给出任何法域的现行核准适应证与给药方案。** 可核的只有三点：① 临床试验的入组条件是**精神分裂症**，包括新入院伴急性加重者（`PMID:3512622`）与需要长效维持者（`PMID:17253464`）。② 给药方式为**肌内注射、按周给药**，试验中男性平均 **23 mg/周**、女性 **13 mg/周**（`PMID:3512622`）。这是研究用量，不是核准剂量。③ Cochrane 比较过每周与每两周给药，脱落与复发均未见统计学差异（n=34），但样本太小，不能据此改写给药间隔（`PMID:17253464`）。**中国**的上市剂型与核准适应证待核实（NMPA 与 CDE 公开入口不可脚本检索，商业药品库不采用）。**禁忌、剂量上限、注射部位与单次最大量**均无法核对，本条目不写。
+**无法给出任何法域的现行核准适应证与给药方案。** 可核的只有三点：① 临床试验的入组条件是**精神分裂症**，包括新入院伴急性加重者（`PMID:3512622`）与需要长效维持者（`PMID:17253464`）。② 给药方式为**肌内注射、按周给药**，试验中男性平均 **23 mg/周**、女性 **13 mg/周**（`PMID:3512622`）。这是研究用量，不是核准剂量。③ Cochrane 比较过每周与每两周给药，脱落与复发均未见统计学差异（n=34），但样本太小，不能据此改写给药间隔（`PMID:17253464`）。**中国**的上市剂型与核准适应证待核实（NMPA 与 CDE 公开入口在 2026-11-11 之前未能脚本检索，商业药品库不采用）。**禁忌、剂量上限、注射部位与单次最大量**均无法核对，本条目不写。
 
 ## 5. 实际效果与局限
 
@@ -94,7 +94,7 @@
 
 本药未建专题文件：现有材料只支持"小样本、无现行文本"的判断，建立专题会把 1970 年代的试验包装成当代结论。真正需要解释的问题是"为什么同亚组的匹莫齐特有 QT 条款而本药没有现行文本"，该问题需要监管档案与制剂史，均未取得。
 
-**检索记录**：[英国 emc 检索 fluspirilene（0 条）](https://www.medicines.org.uk/emc/search?q=fluspirilene)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22fluspirilene%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fluspirilene)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FLUSPIRILENE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**检索记录**：[英国 emc 检索 fluspirilene（0 条）](https://www.medicines.org.uk/emc/search?q=fluspirilene)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22fluspirilene%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=fluspirilene)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FLUSPIRILENE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

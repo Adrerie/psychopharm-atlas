@@ -18,7 +18,7 @@
 | 主要剂型 | 历史口服（品牌 **Lotusate**）。 openFDA、DailyMed、Drugs@FDA、BDPM、CIMA 检索均 0 条，**无现行或历史说明书正文** |
 | 关键药代摘要 | 无任何本药药代或临床数据；`PMID:7320137`、`PMID:16867520` 只是把本药作为被分析物（血中巴比妥 HPLC 法、NMR 构象研究），不含治疗参数，故不填数值 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“talbutal / 他布比妥”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
-| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **talbutal＝CSCN 2100，附表 III，非麻醉，品牌 Lotusate**（法律层级，不证明滥用率或疗效）。**批准与撤销记录**：NDA 9-410（Lotusate Tablets and Capsules，talbutal，持证人 Sanofi Pharmaceuticals）由持证人书面告知 FDA 产品已不再销售并请求撤回批准，FDA 于 1998-05-12 公告（`US-FR-1998`），**1998-06-11 生效**。该公告只确认持证人请求撤回，未认定安全性或疗效原因。现行 openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 检索 0 条 → 无正文，按 `basic`，**不据零命中断言"未批准／已撤市／不存在"**。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 列 **talbutal＝CSCN 2100，附表 III，非麻醉，品牌 Lotusate**（法律层级，不证明滥用率或疗效）。**批准与撤销记录**：NDA 9-410（Lotusate Tablets and Capsules，talbutal，持证人 Sanofi Pharmaceuticals）由持证人书面告知 FDA 产品已不再销售并请求撤回批准，FDA 于 1998-05-12 公告（`US-FR-1998`），**1998-06-11 生效**。该公告只确认持证人请求撤回，未认定安全性或疗效原因。现行 openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 检索 0 条 → 无正文，按 `basic`，**不据零命中断言"未批准／已撤市／不存在"**。**中国**上市与核准状态待核实（NMPA／CDE 在 2026-11-11 之前未能脚本检索） |
 | 身份与统计 | WHO ATC `N05CA07`；DDD **0.1 g 口服**（统计指标非处方量），CAS **115-44-6**，分子式 **C11H16N2O3**（MW 224.26，PubChem CID 8275），PubChem [8275](https://pubchem.ncbi.nlm.nih.gov/compound/8275)，DrugBank [DB00306](https://www.drugbank.ca/r/DB00306)，RxNorm [89810](https://rxnav.nlm.nih.gov/REST/rxcui/89810.json)，MeSH 无独立描述符（归入 Barbiturates） |
 
 **身份陷阱（硬规则）**：本药名以 "-butal／-tal" 结尾，易与**硫代巴比妥静脉麻醉药**（thiamylal、thiopental）或其他烯丙基巴比妥混淆。talbutal 为**口服氧巴比妥**（C2 羰基、非噻羰基），Lotusate 为其品牌。商品名出现在题名不足以证明身份，本档案只收按物质名／CAS 115-44-6／PubChem 结构确认的记录。
@@ -78,7 +78,7 @@
 2. **联邦公报记录**：1998-05-12《Sanofi Pharmaceuticals, Inc., et al.; Withdrawal of Approval of 21 New Drug Applications and 62 Abbreviated New Drug Applications》（FR Doc 98-12613，Docket 98N-0285）的表内列有 NDA 9-410 Lotusate Tablets and Capsules（talbutal），撤销自 1998-06-11 生效，依据是持证人告知产品不再销售并请求撤回（`US-FR-1998`）。该文件不构成安全性或疗效原因的认定。以 talbutal 检索另命中反兴奋剂清单等旁证文件（如 `HISA Anti-Doping and Medication Control Rule`），与产品许可无关。1975-04-03 联邦公报中疑含 NDA 9-410 部分规格的疗效认定片段，页码未逐页复核，不引原文。
 3. **勿与硫代巴比妥静脉麻醉药混淆**（thiamylal／thiopental）。talbutal 为口服氧巴比妥、品牌 Lotusate。
 4. **DEA／中国层级**：附表 III 为法律分类，不证明滥用率或疗效。
-5. **中国管制**：沿用 2026-10-06 已审计结论（未发现列入现行目录），不重跑。NMPA／CDE 不可脚本检索。
+5. **中国管制**：沿用 2026-10-06 已审计结论（未发现列入现行目录），不重跑。NMPA／CDE 在 2026-11-11 之前未能脚本检索。
 
 - **2026-11-10 复核记录**：openFDA 与 DailyMed 按通用名及 Lotusate 检索仍 0 条，英国 emc 无产品条目，法国 BDPM 0 行，西班牙 CIMA 0 条，WHO ATC `N05CA07` 行回读为 DDD 0.1 g 口服。1998-05-12 撤销公告经接口重新取回，NDA 9-410、公告日与生效日与 §11 一致。
 

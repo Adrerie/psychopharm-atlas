@@ -87,7 +87,7 @@
 1. **美国管制分级一致**：`US-TMZ`（2026-02-09）与同药其他现行美国标签（共 30 份记录）在 §DRUG ABUSE AND DEPENDENCE 中均写 **Schedule IV**。`DEA-α` 也列 **Temazepam，代码 2925，CSA Schedule IV**。本条目不再把这两份来源记为冲突。
 2. **旧格式标签的限制**：`US-TMZ` 无临床试验章节，无疗效点估计，因此 §5 的疗效部分为空缺而非阴性结果。
 3. **英国 §4.5 是类别性框架**：其中"CYP 抑制剂／诱导剂"一类句子与本药经葡萄糖醛酸结合、无活性代谢物的实际路径并不吻合。本条目按"类别性文字＋本药实际路径"两层写，不据此推定相互作用强度。同类处理先例见 [lorazepam-glucuronidation-claims](../analysis/lorazepam-glucuronidation-claims.md)。
-4. **中国的上市与核准适应证待核实**：NMPA 与 CDE 检索入口不可脚本化（412／202），商业药品库不采用。本条目只把**管制级别**（第二类第 66 项）作为已核实事实。
+4. **中国的上市与核准适应证待核实**：NMPA 与 CDE 检索入口在 2026-11-11 之前未能脚本化（412／202），商业药品库不采用。本条目只把**管制级别**（第二类第 66 项）作为已核实事实。
 5. **英国只有口服溶液一份现行文本**： emc 检索 temazepam 仅返回该产品的 SmPC（**无片剂文本**），因此英国的剂量表述以 mL 与 mg 并列给出，且"含乙醇辅料"的警告只属于该溶液，不外推为所有英国替马西仑制剂的共性。
 6. **PIM 行记 N/A**：中国标准表 1 未列名本药、本地队列无逐药计数。Beers 逐名收录属美国老年处方指南，不单独支撑中国维度分数。
 7. **carcinogenesis 结论自带限制**：增生性肝结节出现在最高剂量雌性小鼠、标签自陈"临床意义不明"，本条目照此表述。同时"未做过致突变试验"是数据缺失，不是阴性结果。
@@ -96,7 +96,7 @@
 
 本药未建专题文件：类别性 CYP 文字对结合消除型苯二氮䓬是否适用这一问题已落在 §10 第 3 项，可直接复用既有专题 [lorazepam-glucuronidation-claims](../analysis/lorazepam-glucuronidation-claims.md)。本条目不存在需要新建专题的高质量问题。同类条目见 [lorazepam](lorazepam.md)、[diazepam](diazepam.md)、[midazolam](midazolam.md)、[clobazam](clobazam.md)。催眠药之间的次日残留与时程比较见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md) 与 [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md)。
 
-**监管与官方文件**：[openFDA 按应用号检索 Temazepam（ANDA211542）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA211542%22&limit=5)。[openFDA 按通用名检索 temazepam（30 份现行标签，途径为口服）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22temazepam%22&limit=100)。[DailyMed 标签（setid 4a2ab77d-8b80-7eb1-e063-6394a90a1469）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4a2ab77d-8b80-7eb1-e063-6394a90a1469)。[英国 Temazepam 10 mg/5 mL 口服溶液 SmPC（emc 9479）](https://www.medicines.org.uk/emc/product/9479/smpc)。[DEA 受管制物质按字母序清单（c_cs_alpha.pdf，含物质代码与 CSA 分级别）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[openFDA 按应用号检索 Temazepam（ANDA211542）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA211542%22&limit=5)。[openFDA 按通用名检索 temazepam（30 份现行标签，途径为口服）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22temazepam%22&limit=100)。[DailyMed 标签（setid 4a2ab77d-8b80-7eb1-e063-6394a90a1469）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4a2ab77d-8b80-7eb1-e063-6394a90a1469)。[英国 Temazepam 10 mg/5 mL 口服溶液 SmPC（emc 9479）](https://www.medicines.org.uk/emc/product/9479/smpc)。[DEA 受管制物质按字母序清单（c_cs_alpha.pdf，含物质代码与 CSA 分级别）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（苯二氮䓬行逐名收录 temazepam，Avoid／Strong）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》表 1 与表 2 第 22 项](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》第二类第 66 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

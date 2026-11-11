@@ -87,7 +87,7 @@
 
 本条目未建专题文件：可解释的冲突只有"综述称与氟哌啶醇相似、而仅有的安慰剂对照试验显示与安慰剂难以区分"这一处，已在 §5 与 §10 第 4 项并列。继续拆解需要原始试验的完整数据与暴露人群分母，本次核查均未取得。
 
-**检索记录（本次核查）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22remoxipride%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=remoxipride)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=remoxipride)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=REMOXIPRIDE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**检索记录（本次核查）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22remoxipride%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=remoxipride)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=remoxipride)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=REMOXIPRIDE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

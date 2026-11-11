@@ -127,7 +127,7 @@
 - [lurasidone](lurasidone.md)
 - [aripiprazole](aripiprazole.md)
 
-**监管文件**：[美国 CAPLYTA 胶囊 DailyMed 条目（setid db730b06-6351-47fd-8183-e61e61bbead5，生效 2025-06-20）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=db730b06-6351-47fd-8183-e61e61bbead5)。[openFDA 按通用名 lumateperone 检索（现行标签 1 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22lumateperone%22&limit=3)。[英国 emc 按 lumateperone 检索（0 命中）](https://www.medicines.org.uk/emc/search?q=lumateperone&displayFormat=Html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管文件**：[美国 CAPLYTA 胶囊 DailyMed 条目（setid db730b06-6351-47fd-8183-e61e61bbead5，生效 2025-06-20）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=db730b06-6351-47fd-8183-e61e61bbead5)。[openFDA 按通用名 lumateperone 检索（现行标签 1 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22lumateperone%22&limit=3)。[英国 emc 按 lumateperone 检索（0 命中）](https://www.medicines.org.uk/emc/search?q=lumateperone&displayFormat=Html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **试验登记（标签 §14 引用的登记号）**：[NCT01499563](https://clinicaltrials.gov/study/NCT01499563)（精神分裂症 4 周，N=335）。[NCT02282761](https://clinicaltrials.gov/study/NCT02282761)（精神分裂症 4 周，N=450）。[NCT03249376](https://clinicaltrials.gov/study/NCT03249376)（双相抑郁 6 周）。登记与汇总结果的存在不证明疗效结论已确证。
 

@@ -104,7 +104,7 @@
 5. **商品名及分子纠错**：NIST 名称记录把 Repoise／Tyrylen 列为 butaperazine 的同义名。**Moditen／Moditen-Retard／Moditen-Depot 是氟奋乃静药品名**，美国 FDA GSRS 的氟奋乃静癸酸酯同义名包括 *MODITEN DEPOT*。按此排除本药先前误入的长效制剂研究和停销线索。
 6. **摘要缺失**：`PMID:4396420`、`PMID:4385828`、`PMID:2860932` 只有题录或不能完整取得数值，不能据此声称疗效优越或不良事件发生率。
 7. **DDD 10 mg 口服**是群体统计指标，与文献中的临床剂量不是同一概念，不用于换算个体剂量或利用度。
-8. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口不可脚本检索而待核实。
+8. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口在 2026-11-11 之前未能脚本检索而待核实。
 
 ## 11. 深入分析与来源
 
@@ -112,7 +112,7 @@
 
 **名称与实体核查**。[美国 FDA GSRS：氟奋乃静癸酸酯别名含 MODITEN DEPOT](https://precision.fda.gov/uniisearch/srs/unii/fmu62k1l3c)。[NIST：butaperazine 别名包括 Repoise／Tyrylen](https://webbook.nist.gov/cgi/cbook.cgi?ID=C653032&Units=CAL)。
 
-**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22butaperazine%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22butaperazine%22&limit=1)。[DailyMed 按药名检索接口（total_elements=0，2026-11-10 复测）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=butaperazine)。[法国 BDPM 字母序检索 BUTAP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BUTAP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=butaperazine)。[KEGG DRUG D02642／D02643（转录／收载页）](https://www.kegg.jp/entry/D02642)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22butaperazine%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22butaperazine%22&limit=1)。[DailyMed 按药名检索接口（total_elements=0，2026-11-10 复测）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=butaperazine)。[法国 BDPM 字母序检索 BUTAP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BUTAP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=butaperazine)。[KEGG DRUG D02642／D02643（转录／收载页）](https://www.kegg.jp/entry/D02642)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[给药方案对稳态血药浓度的影响（PMID:239664）](https://pubmed.ncbi.nlm.nih.gov/239664/)。[红细胞浓度与急性肌张力障碍（PMID:8025）](https://pubmed.ncbi.nlm.nih.gov/8025/)。[血药浓度与临床改善的倒 U 型关系（PMID:6102458）](https://pubmed.ncbi.nlm.nih.gov/6102458/)。[浓度与催乳素关系（PMID:44374）](https://pubmed.ncbi.nlm.nih.gov/44374/)。[本药与氯丙嗪的相对疗效（题录，PMID:4396420）](https://pubmed.ncbi.nlm.nih.gov/4396420/)。[实验室指标改变（题录，PMID:4385828）](https://pubmed.ncbi.nlm.nih.gov/4385828/)。[迟发性运动障碍中的药动学（题录，PMID:2860932）](https://pubmed.ncbi.nlm.nih.gov/2860932/)。[给药后血浆甲硫氨酸脑啡肽与 TD 亚组（PMID:2906066）](https://pubmed.ncbi.nlm.nih.gov/2906066/)。[口服制剂血药浓度放射免疫测定（题录，PMID:2873598）](https://pubmed.ncbi.nlm.nih.gov/2873598/)。[Medical Letter 本药条目（题录，PMID:4389275）](https://pubmed.ncbi.nlm.nih.gov/4389275/)。[活性代谢物综述（PMID:6122292）](https://pubmed.ncbi.nlm.nih.gov/6122292/)。
 

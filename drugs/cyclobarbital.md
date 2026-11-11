@@ -13,7 +13,7 @@
 | 主要剂型 | 历史上以单方口服（Delmont）与**固定复方**（Reladorm＝环巴比妥＋硝西泮，须分开）出售。本次核查 openFDA、DailyMed、Drugs@FDA、法国 BDPM 检索均 0 条，**无现行或历史说明书正文** |
 | 关键药代摘要 | 无本药人体 PK 正文可引；本次核查命中的本药特异文献为法证检测与材料化学（分子印迹），不涉药代参数，故不填数值 |
 | 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 289 项“环己巴比妥”（英文名 5-(1-Cyclohexen-1-yl)-5-ethylbarbituric acid、CAS 52-31-3），目录备注“Cyclobarbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药，其归入"Barbituric acid derivative＝CSCN 2100，附表 III（未特别列名的巴比妥类）"这一通配行（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA／BDPM 检索 0 条 → 无正文，按 `basic`。**中国**上市与核准适应证待核实（NMPA／CDE 不可脚本检索） |
+| 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药，其归入"Barbituric acid derivative＝CSCN 2100，附表 III（未特别列名的巴比妥类）"这一通配行（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA／BDPM 检索 0 条 → 无正文，按 `basic`。**中国**上市与核准适应证待核实（NMPA／CDE 在 2026-11-11 之前未能脚本检索） |
 | 身份与统计 | WHO ATC `N05CA10`；DDD **0.2 g 口服**（统计指标非处方量）。CAS **52-31-3**。分子式 **C12H16N2O3**（MW 236.27，PubChem CID 5838）。PubChem [5838](https://pubchem.ncbi.nlm.nih.gov/compound/5838)。DrugBank [DB13737](https://www.drugbank.ca/r/DB13737)。RxNorm [2978](https://rxnav.nlm.nih.gov/REST/rxcui/2978.json)。MeSH 无独立描述符（归入 Barbiturates） |
 
 **中国格口径说明（沿用已审计结论，不改判）**：目录第 289 项中文名"环己巴比妥"所配 CAS **52-31-3** 正是本药 cyclobarbital，目录备注亦为"Cyclobarbital"。此对应关系已在 Wave 9 审阅并记入 `hexobarbital` 条目的同名冲突辨析。本项不得错配给 hexobarbital（异巴比妥）或其他药。也不因中文译名相近而改判，本档案仅搬运该结论并保留其限定语。
@@ -76,7 +76,7 @@
 
 1. **无说明书正文**：openFDA／DailyMed／Drugs@FDA／BDPM 均 0 条 → 记检索缺口，**不据此断言"未批准／已撤市／不存在"**。维持 `basic`。联邦公报对本名检索命中反兴奋剂清单与"豁免化学制剂"旁证，无本药产品许可或撤市公告。
 2. **单方人体证据缺失**：本名命中文献为法证检测（`PMID:15881142`，涉及复方 Reladorm）与材料化学（`PMID:14651107`，分子印迹），非疗效／安全性研究。无本药单方对照数据。
-3. **中国格（第 289 项 CAS 52-31-3＝cyclobarbital）沿用已审计结论、不改判、不错配给 hexobarbital 或其他药**。NMPA／CDE 不可脚本检索。
+3. **中国格（第 289 项 CAS 52-31-3＝cyclobarbital）沿用已审计结论、不改判、不错配给 hexobarbital 或其他药**。NMPA／CDE 在 2026-11-11 之前未能脚本检索。
 4. **复方 Reladorm（含硝西泮）与单方 Delmont 分开**。复方条款不进单方评分。
 5. **DEA 通配行**：本药未单列，落"Barbituric acid derivative 2100 III"，属法律分类，不证明滥用率或疗效。
 

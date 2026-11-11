@@ -86,7 +86,7 @@
 4. **撤市／注册零命中≠不存在**：BDPM／openFDA／DailyMed 的检索结果只作缺口记录。
 5. **Nolen 1988 为开放比较**，阴性结论按开放设计降级理解。
 6. **无 DDD**。iv 60 mg 为激发试验剂量，不是处方建议。
-7. **中国信息待核实**：NMPA／CDE 不可脚本检索。中国管制字段沿用 2026-10-06 已审计结论（含合成大麻素类结构定义不适用的辨析，未改动），不重跑。
+7. **中国信息待核实**：NMPA／CDE 在 2026-11-11 之前未能脚本检索。中国管制字段沿用 2026-10-06 已审计结论（含合成大麻素类结构定义不适用的辨析，未改动），不重跑。
 8. **状态判定**：无可核药品文本、疗效证据为合并／小样本／开放设计，保留 `basic`。
 
 - **2026-11-10 复核**：openFDA `openfda.substance_name=OXITRIPTAN` 命中 4 条，全部为 HUMAN OTC DRUG 的多成分顺势或复方标签，`product_type` 与成分表可证其非处方单方药品。意大利 Tript-OH 的缺氧后肌阵挛适应证只见二手资料，AIFA 官方库本机不可访问。美英法西现行库仍 0 条。
@@ -95,7 +95,7 @@
 
 本条未建专题文件：最需要解释的是"5-HTP 与 L-色氨酸的证据与 EMS 归因如何分层"，已在 §1／§2／§6／§10 内闭环。若日后取得 Cochrane 的 5-HTP 单试验原文数值，可考虑升档。
 
-**监管与官方文件**：[FDA Compliance Policy for Certain Compounding of Oral Oxitriptan (5-HTP) Drug Products for Patients With BH4 Deficiency, 84 FR 32268（文档 2019-14355，2019-07-08）](https://www.federalregister.gov/documents/2019-07-08/2019-14355/compliance-policy-for-certain-compounding-of-oral-oxitriptan-5-htp-drug-products-for-patients-with)。[Federal Register "oxitriptan" 检索（7 条，含 503A 散装原料药名单）](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22oxitriptan%22)。[openFDA 按药名检索（4 条，均多成分／顺势记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%225-HYDROXYTRYPTOPHAN%22&limit=5)。[DailyMed 检索（仅多成分顺势制品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxitriptan)。[法国 BDPM 检索接口（CINCO／TRIPT 前缀 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIPT&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[FDA Compliance Policy for Certain Compounding of Oral Oxitriptan (5-HTP) Drug Products for Patients With BH4 Deficiency, 84 FR 32268（文档 2019-14355，2019-07-08）](https://www.federalregister.gov/documents/2019-07-08/2019-14355/compliance-policy-for-certain-compounding-of-oral-oxitriptan-5-htp-drug-products-for-patients-with)。[Federal Register "oxitriptan" 检索（7 条，含 503A 散装原料药名单）](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22oxitriptan%22)。[openFDA 按药名检索（4 条，均多成分／顺势记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%225-HYDROXYTRYPTOPHAN%22&limit=5)。[DailyMed 检索（仅多成分顺势制品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxitriptan)。[法国 BDPM 检索接口（CINCO／TRIPT 前缀 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIPT&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究与系统综述**：[Shaw 2002 Cochrane《Tryptophan and 5-hydroxytryptophan for depression》（PMID:11869656）](https://pubmed.ncbi.nlm.nih.gov/11869656/)。[Nolen 1988 难治抑郁交叉研究（PMID:3146891）](https://pubmed.ncbi.nlm.nih.gov/3146891/)。[den Boer 1990 惊恐障碍 iv 5-HTP 激发（PMID:2139731）](https://pubmed.ncbi.nlm.nih.gov/2139731/)。[García 1992 mianserin 粒缺后 oxitriptan 嗜酸增多个案（PMID:1603192）](https://pubmed.ncbi.nlm.nih.gov/1603192/)。[Klarskov 1999 商品化 5-HTP 的 peak X 类污染物（PMID:10721089）](https://pubmed.ncbi.nlm.nih.gov/10721089/)。[Turner 2006 综述（疗效与 EMS／5-HT 综合征安全性）（PMID:16023217）](https://pubmed.ncbi.nlm.nih.gov/16023217/)。[Calanca 1988 与经典抗抑郁药合用（题录，PMID:3263678）](https://pubmed.ncbi.nlm.nih.gov/3263678/)。
 

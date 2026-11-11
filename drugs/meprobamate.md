@@ -108,7 +108,7 @@
 
 本药未建专题文件：依赖、高过量致死与可致惊厥的戒断已能在快速判断页以 §2.1、§6/§7 讲清。"第一代抗焦虑药被苯二氮䓬与 SSRI 取代"是跨药史实，不属于本药单一问题，故不另开专题。同类或对照条目见 [diazepam](diazepam.md)、[chlordiazepoxide](chlordiazepoxide.md)（同为老一代抗焦虑药，依赖与戒断结构可比较）、[clomethiazole](clomethiazole.md)（另一高依赖／窄治疗窗老镇静药，酒精戒断史场景）与 [hydroxyzine](hydroxyzine.md)（同为非苯二氮䓬抗焦虑但无依赖与高致死过量特征）。
 
-**监管与官方文件**：[美国 Meprobamate 片处方资料（DailyMed setid 17d814e2-b277-4dce-8615-e7fd7cab773f，生效 2026-07-08）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17d814e2-b277-4dce-8615-e7fd7cab773f)。[openFDA 按通用名 meprobamate 检索（3 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22meprobamate%22&limit=100)。[英国 emc 检索 meprobamate](https://www.medicines.org.uk/emc/search?q=meprobamate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[美国 Meprobamate 片处方资料（DailyMed setid 17d814e2-b277-4dce-8615-e7fd7cab773f，生效 2026-07-08）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17d814e2-b277-4dce-8615-e7fd7cab773f)。[openFDA 按通用名 meprobamate 检索（3 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22meprobamate%22&limit=100)。[英国 emc 检索 meprobamate](https://www.medicines.org.uk/emc/search?q=meprobamate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[Comparative abuse liability of meprobamate, triazolam, and butabarbital（14 名娱乐性用药者双盲交叉对照，甲丙氨酯在欣快与滥用潜力量表上与安慰剂难分、PMID:12826989）](https://pubmed.ncbi.nlm.nih.gov/12826989/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 

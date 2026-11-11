@@ -113,7 +113,7 @@
 
 本页未建专题：其核心张力（严重度分层的阴性疗效／窄治疗窗与 CYP3A4 单向被抑制／选择性与受体侧低负担）均可在 §2、§5、§8 与 §10 内说明，不满足 [AGENTS.md](../AGENTS.md) 的建专题条件。同亚组与相邻对照见 [duloxetine](duloxetine.md)、[milnacipran](milnacipran.md)、[viloxazine](viloxazine.md) 与三环类条目 [nortriptyline](nortriptyline.md)。
 
-**监管与官方文件**：[英国 Edronax 4 mg 片 SmPC（emc 产品 1578，PL 00057/0972，文本修订 04/2025）](https://www.medicines.org.uk/emc/product/1578/smpc)。[openFDA 标签接口按通用名 reboxetine（404，无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22reboxetine%22&limit=4)。[DailyMed 药品检索（reboxetine，现行索引 0 条）](https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=reboxetine&labeltype=all)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Edronax 4 mg 片 SmPC（emc 产品 1578，PL 00057/0972，文本修订 04/2025）](https://www.medicines.org.uk/emc/product/1578/smpc)。[openFDA 标签接口按通用名 reboxetine（404，无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22reboxetine%22&limit=4)。[DailyMed 药品检索（reboxetine，现行索引 0 条）](https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=reboxetine&labeltype=all)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与系统综述**：[PMID:29477251](https://pubmed.ncbi.nlm.nih.gov/29477251/)（21 种抗抑郁药急性期网络荟萃，Lancet 2018）。[PMID:19185342](https://pubmed.ncbi.nlm.nih.gov/19185342/)（12 种新型抗抑郁药多 treatments 荟萃，Lancet 2009）。[PMID:36253442](https://pubmed.ncbi.nlm.nih.gov/36253442/)（维持期网络荟萃，Mol Psychiatry 2023）。
 

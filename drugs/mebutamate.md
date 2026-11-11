@@ -88,13 +88,13 @@
 3. **双重用途分开**：镇静催眠与抗高血压是本药两条独立的历史适应证线，降压证据（`PMID:5324048`、`PMID:14328472`）不因同分子而并入催眠场景，二者均因无当前价值而不设 A–D 行。
 4. **复方不进单方评分**：与氢氯噻嗪（`PMID:14321444`）、与 GABA（`PMID:6021090`、`PMID:5962628`，题录）的复方只证明历史用药组合，不据其推导本药单方的适应证、剂量或风险。
 5. **动物读数不外推**：血流动力学（`PMID:1156042`）、抗心律失常（`PMID:5685842`）、毒扁豆碱相互（`PMID:14256813`）为动物实验，不折算为人体定量结论。
-6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：需要解释的是"同一 1,3-丙二醇二氨基甲酸酯骨架下 mebutamate 与 meprobamate 为何不能互借依赖与滥用数据"，其答案（骨架不同、研究分别报告）已在 §1 与 §10 说清。本药整体证据稀薄，不足以支撑单独专题。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22mebutamate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22mebutamate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=mebutamate)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=MEBUTAMATE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=mebutamate)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=mebutamate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22mebutamate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22mebutamate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=mebutamate)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=MEBUTAMATE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=mebutamate)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=mebutamate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

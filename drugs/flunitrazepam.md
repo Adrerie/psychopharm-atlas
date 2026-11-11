@@ -102,7 +102,7 @@
 ## 待核实
 
 1. 日本以外法域的现行核准适应证与说明书（日本已取得，见 §1、§4）。日本注射剂（サイレース静注 2 mg）添付文書未逐节取回。
-2. 中国上市与核准状态（NMPA／CDE 不可脚本检索）。
+2. 中国上市与核准状态（NMPA／CDE 在 2026-11-11 之前未能脚本检索）。
 3. 代谢物（去甲氟硝西泮、7－氨基氟硝西泮）自身的受体活性与半衰期。
 4. 国际列管层级（1971 年精神药物公约附表）。本次核查 INCB 与相关入口取回失败，未核实，不写入结论。
 5. 本药的人群非医疗使用率（仅有小样本现场访谈与个案系列）。
@@ -111,7 +111,7 @@
 
 本药未建专题文件：**在取回现行监管文本之前，建立专题会把文献级结论包装成说明书级结论**。当前有价值的问题是"为什么各国把它排在常规苯二氮䓬附表之上"，该问题需要管制政策与毒检数据两条本次核查未取回的来源，故留待后续。同类条目见 [temazepam](temazepam.md)、[midazolam](midazolam.md)、[clobazam](clobazam.md)、[diazepam](diazepam.md)。"未上市但仍列管"的处理先例见 [bromazepam](bromazepam.md)。
 
-**监管与官方文件**：[英国《受管制药物清单》（Class C／Schedule 3 条目）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。[DEA 按字母序受管制物质清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[openFDA 按通用名检索（本次核查返回 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22flunitrazepam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=flunitrazepam)。[emc 检索 flunitrazepam（本次核查返回 0 条产品）](https://www.medicines.org.uk/emc/search?q=flunitrazepam)。[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FLU&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国《受管制药物清单》（Class C／Schedule 3 条目）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。[DEA 按字母序受管制物质清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[openFDA 按通用名检索（本次核查返回 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22flunitrazepam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=flunitrazepam)。[emc 检索 flunitrazepam（本次核查返回 0 条产品）](https://www.medicines.org.uk/emc/search?q=flunitrazepam)。[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=FLU&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **日本监管文本**：[PMDA 医療用医薬品 詳細表示（`JP-SILECE`）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/170033_1124008F1024_1_21)。[フルニトラゼパム（注射剤）使用上の注意改訂通知（PMDA）](https://www.pmda.go.jp/files/000210849.pdf)。
 

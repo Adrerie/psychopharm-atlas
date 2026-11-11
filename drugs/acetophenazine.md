@@ -51,7 +51,7 @@
 
 **文献中出现过的用途（非核准表述）**：门诊"psychoneurotic"患者（1961，`PMID:13883575`，1962，`PMID:13883576`）。伴焦虑与紧张的慢性病患者，双盲（1963，80 例，`PMID:14020672`）。老年"paranoid symptomatology"，双盲（1964，`PMID:14212064`）。多动／激越的老年患者（1962，`PMID:13904111`）。新入院精神分裂症患者的"特异性治疗作用"对照研究（1967，与奋乃静、benzquinamide 同批，`PMID:5336562`）。"焦虑性抑郁"，与本药与地西泮的对照（1971，`PMID:5100621`）。门诊 paranoid 症状与办公室实践用药（1965–1967，`PMID:5894976`、`PMID:6072166`）。这些条目的剂量、给药频次与盐型在摘要缺失的情况下**一律不写**。
 
-**中国**：上市剂型与核准适应证待核实（NMPA／CDE 入口不可脚本检索）。
+**中国**：上市剂型与核准适应证待核实（NMPA／CDE 入口在 2026-11-11 之前未能脚本检索）。
 
 ## 5. 实际效果与局限
 
@@ -93,7 +93,7 @@
 4. **实体边界（本条最关键的陷阱）**：① `Tenuate`＝diethylpropion。② `carphenazine／Proketazine`（C24H31N3O2S，2-丙酰基）≠ 本药（C23H29N3O2S，2-乙酰基）。美国官方确有把 Proketazine 口服混悬液（NDA 14-173，Wyeth-Ayerst）撤销批准的记录。1996-08-05 公告、**1996-09-04 生效**、依持有人"该药品已不再上市"的书面请求、并明确放弃听证机会，**但那是 carphenazine，不是本药**（[联邦公报 96-19804](https://www.federalregister.gov/documents/1996-08-05/96-19804/)）。③ 本药也不等于 perazine、chlorpromazine 或 butaperazine，四者的侧链／酰基不同，疗效与风险证据不互借。
 5. **中文商品名与剂型细节**：一律未核，不写。
 6. **DDD 50 mg 口服是统计指标**，不可用作处方剂量或利用率换算的基准。
-7. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口不可脚本检索而待核实。
+7. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口在 2026-11-11 之前未能脚本检索而待核实。
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、商品名与全文检索，通用名检索 0 条，全文检索命中 1 条。其内容为 prasterone 标签在药物相互作用段列举吩噻嗪类时提及本名（effective 2014-02-25），不是本药标签。DailyMed 按药名检索 0 条。英国 emc 按 acetophenazine 与 Tindal 检索 0 条。法国 BDPM 按 ACETOPHENAZINE 与 TINDAL 前缀检索 0 条。西班牙 CIMA 按 acetofenazina 检索 0 条。上述均为检索事实，不写成"未批准／已撤市"。本药仍无可逐节引用的现行监管正文，状态保持 `basic`。
 
@@ -101,7 +101,7 @@
 
 本条目不建专题文件：当前参考价值最高的问题（"本药在 1960 年代美国的精神科适应证与剂量究竟是什么"）需要历史标签与原文试验报告，而这两样本次核查都拿不到。把 10 条题录包装成专题没有决策价值。
 
-**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22acetophenazine%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=acetophenazine)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ACETOPH&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=acetophenazine)。[Federal Register 文档 96-19804（carphenazine／Proketazine 撤销，非本药）](https://www.federalregister.gov/documents/1996-08-05/96-19804/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-87-new-drug-applications-18-abbreviated)。[KEGG DRUG D00788（USAN／商品名指针，转录页）](https://www.kegg.jp/entry/D00788)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22acetophenazine%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=acetophenazine)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ACETOPH&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=acetophenazine)。[Federal Register 文档 96-19804（carphenazine／Proketazine 撤销，非本药）](https://www.federalregister.gov/documents/1996-08-05/96-19804/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-87-new-drug-applications-18-abbreviated)。[KEGG DRUG D00788（USAN／商品名指针，转录页）](https://www.kegg.jp/entry/D00788)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[80 例慢性病焦虑与紧张的双盲研究（题录，PMID:14020672）](https://pubmed.ncbi.nlm.nih.gov/14020672/)。[acetophenazine 与地西泮治疗焦虑性抑郁（题录，PMID:5100621）](https://pubmed.ncbi.nlm.nih.gov/5100621/)。[acetophenazine、奋乃静与 benzquinamide 在新入院精神分裂症中的比较（题录，PMID:5336562）](https://pubmed.ncbi.nlm.nih.gov/5336562/)。[老年 paranoid 症状的双盲研究（题录，PMID:14212064）](https://pubmed.ncbi.nlm.nih.gov/14212064/)。[门诊精神分裂症成人（题录，PMID:13883576）](https://pubmed.ncbi.nlm.nih.gov/13883576/)。[人与大鼠脑膜毒蕈碱受体亲和力研究（含本药，PMID:2858803）](https://pubmed.ncbi.nlm.nih.gov/2858803/)。[σ 位点与抗精神病药结合（PMID:6147851）](https://pubmed.ncbi.nlm.nih.gov/6147851/)。[吩噻嗪的弱雄激素受体拮抗活性（PMID:17606915）](https://pubmed.ncbi.nlm.nih.gov/17606915/)。[吗啡依赖小鼠中本药等效应的改变（PMID:573604）](https://pubmed.ncbi.nlm.nih.gov/573604/)。[对照。Tenuate＝diethylpropion 的老年肥胖双盲研究（PMID:282482）](https://pubmed.ncbi.nlm.nih.gov/282482/)。[对照。carphenazine 与本药的抗吐交叉试验（题录，PMID:14018946）](https://pubmed.ncbi.nlm.nih.gov/14018946/)。
 

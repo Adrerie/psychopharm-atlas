@@ -89,7 +89,7 @@
 
 1. **只有一个监管文本层**：本药的现行监管文本只有美国 SPL（30 份标签记录），英国 emc 检索返回 **0 个产品**、法国 BDPM 检索 "RAMELTEON" 返回 **0 条**，瑞典 FASS 连物质条目都没有。因此本条目不含 SmPC 型条款（如 SPC 的频率分级不良反表），"美国之外是否上市"一律写待核实，**不以"未检得"等同于"未批准"**。
 2. **第 7 月初 LPS 回升的时间窗未定义**：标签把该项写在 6 个月研究段落内，但研究方案段只列出第 1 周与第 1、3、5、6 月的 PSG 时点，**没有说明第 7 月是否仍在服药期内**。本条目按原文照录（§2.1 长期行与 §5），既不称其为"耐受性"，也不称其为"停药反跳"，并在引用时保留这一不确定性。
-3. **中国的上市与核准适应证待核实**：NMPA 与 CDE 入口不可脚本化（412／202）。日本上市情况未取得可核监管来源，故不写入正文。
+3. **中国的上市与核准适应证待核实**：NMPA 与 CDE 入口在 2026-11-11 之前未能脚本化（412／202）。日本上市情况未取得可核监管来源，故不写入正文。
 4. **催乳素结果的读法受限制**：显著性来自 6 个月 16 mg 研究的女性亚组（p=0.003），而标签同时报告"32% 对 19% 的所有患者出现催乳素自正常基线升高"。两个统计口径（均值变化 vs 升高比例）不能合并解读为"临床高催乳素血症发生率"。12 个月开放研究中的催乳素瘤与 ACTH 异常，标签自己定性为"关系不明"。
 5. **致癌发现的跨种属外推未定**：小鼠与大鼠均见肝脏肿瘤，无毒性剂量约 20 倍人体剂量（mg/m²），标签未给出人体相关性判断。本条目只写"标签事实＋剂量倍数"，不写"对人体无意义"。
 6. **PIM 行记 N/A**：两套老年处方标准均未点名本药、本地队列无逐药计数。"不属于管制物质"与"滥用潜力低"属于 §2.1 的滥用维度证据，不用于给中国处方适宜性维度计分。
@@ -99,7 +99,7 @@
 
 本药未建专题文件：本条目最实质的可争辩问题是**催乳素升高与啮齿类肝脏肿瘤的临床相关性**，这需要跨研究（含褪黑素受体生理学与人群内分泌数据）的判断，而证据只有标签本身与一篇开放报告的个案集合，不足以支撑一个高质量专题。按"不新增低质量问题"的既定原则，相关不确定性已落在 §10 第 4、5 项。同亚组条目见 [tasimelteon](tasimelteon.md)（时相类）与 [agomelatine](agomelatine.md)（褪黑素能抗抑郁药，含肝脏监测的专门讨论 [agomelatine-liver-monitoring-paradox](../analysis/agomelatine-liver-monitoring-paradox.md)）。类别对照见 [z-drug-vs-orexin-antagonist](../analysis/z-drug-vs-orexin-antagonist.md)。
 
-**监管与官方文件**：[openFDA 按应用号检索 Ramelteon Tablets（ANDA215435）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA215435%22&limit=5)。[openFDA 按通用名检索 ramelteon（30 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ramelteon%22&limit=100)。[DailyMed 标签（setid 00f0fbda-eb62-4f79-ae9c-286b31eca733）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00f0fbda-eb62-4f79-ae9c-286b31eca733)。[英国 emc 检索 ramelteon（0 个产品）](https://www.medicines.org.uk/emc/search?q=ramelteon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=RAMELTEON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[openFDA 按应用号检索 Ramelteon Tablets（ANDA215435）](https://api.fda.gov/drug/label.json?search=openfda.application_number:%22ANDA215435%22&limit=5)。[openFDA 按通用名检索 ramelteon（30 份现行标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22ramelteon%22&limit=100)。[DailyMed 标签（setid 00f0fbda-eb62-4f79-ae9c-286b31eca733）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00f0fbda-eb62-4f79-ae9c-286b31eca733)。[英国 emc 检索 ramelteon（0 个产品）](https://www.medicines.org.uk/emc/search?q=ramelteon)。[法国 BDPM 检索接口（0 条记录）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=RAMELTEON)。[DEA 受管制物质按字母序清单](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（本药未被点名）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（本药未被点名）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》等六份基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

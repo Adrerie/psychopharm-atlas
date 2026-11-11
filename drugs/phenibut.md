@@ -56,7 +56,7 @@
 
 ## 4. 适应范围
 
-**无法给出任何法域的现行核准适应证**（§10 第 1 项）。可核对的只有流通与文献口径：① 文献综述称其在俄罗斯作为处方药、并被以**促智药（nootropic）**名义营销，用于改善认知、以及焦虑、失眠与酒精戒断等**自我用药目的**（`PMID:38339875`）。② 在美国以膳食补充剂流通、无处方可在线获得。③ 德国视其为非法精神活性物质。这些都不是"核准适应证"。中国的上市与核准状态待核实（NMPA／CDE 不可脚本检索，商业药品库不采用）。
+**无法给出任何法域的现行核准适应证**（§10 第 1 项）。可核对的只有流通与文献口径：① 文献综述称其在俄罗斯作为处方药、并被以**促智药（nootropic）**名义营销，用于改善认知、以及焦虑、失眠与酒精戒断等**自我用药目的**（`PMID:38339875`）。② 在美国以膳食补充剂流通、无处方可在线获得。③ 德国视其为非法精神活性物质。这些都不是"核准适应证"。中国的上市与核准状态待核实（NMPA／CDE 在 2026-11-11 之前未能脚本检索，商业药品库不采用）。
 
 ## 5. 实际效果与局限
 
@@ -88,7 +88,7 @@
 
 1. **多法域检索均未取得可核对的现行监管文本**（逐项记录方法与结果），美国 openFDA 按 generic_name／brand_name 检索 phenibut 返回 **HTTP 404（无结果）**、`drug/drugsfda` 亦 404、DailyMed 按药名无记录。英国 emc 检索 phenibut 返回 **0 条产品**。法国 BDPM 按字母前缀（PHEN 等）遍历未含 phenibut。**因此无法给出经说明书核对的适应证、剂量、禁忌与不良反应。**
 2. **流通与管制事实只来自综述，未独立核实**："俄罗斯处方、德国非法、美国无处方补充剂"均取自同行评议综述（`PMID:38339875`、`PMID:38377332`），未回到任一国官方公告原文，**不得写成已核实的监管结论**。各国管制分级、欧盟早期预警／管制决定的官方英文文本未取回，留待后续。
-3. **中国管制状态**：目录逐项未命中且四类整结构（芬太尼／合成大麻素／尼秦／奥啡）母核均不具备，结论为"未发现列入上述现行目录（核查至 2026‑10‑06）"。这**不等于非管制**，且中国上市状态本身待核实（NMPA／CDE 不可脚本检索）。
+3. **中国管制状态**：目录逐项未命中且四类整结构（芬太尼／合成大麻素／尼秦／奥啡）母核均不具备，结论为"未发现列入上述现行目录（核查至 2026‑10‑06）"。这**不等于非管制**，且中国上市状态本身待核实（NMPA／CDE 在 2026-11-11 之前未能脚本检索）。
 4. **不以名气或可得性推算发生率**：社交媒体与"易在线购买"属动机与研究假设来源。可核实量化证据只有具体样本与分母（`PMID:38112312` 25 例病例系列，`PMID:38377332` 17 例咨询、过量 2–100 g）。本条目不写"广泛滥用"一类未经分母支持的断言。
 5. **PIM 行记 N/A 的双重理由**：中国无本药上市、无处方偏离数据，且检索法域无现行产品，"潜在不适当处方"维度缺乏分母。
 6. **流通／历史用途≠现行核准，且不为其评分**：焦虑、失眠、促智、酒精戒断都是营销与病例背景里的用法，本条目因此**不给任何场景 A–D 等级**（§2.2），只在 §4/§5 保留其语境与设计。取得任一法域可核监管文本之前，"无场景可评"是本条目的实际状态，而非可填补的空格。
@@ -99,14 +99,14 @@
 1. 任何法域的现行核准适应证、禁忌、给药方案与不良反应表（三法域均无文本）。
 2. 俄罗斯注册文本与各国／欧盟层面的管制决定、早期预警公告的官方英文原文。
 3. 苯丁胺的人体强化效应／滥用潜力定量研究与人群非医疗使用率。
-4. 中国上市与核准状态（NMPA／CDE 不可脚本检索）。
+4. 中国上市与核准状态（NMPA／CDE 在 2026-11-11 之前未能脚本检索）。
 8. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `phenibut`／`fenibut` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 
 ## 11. 深入分析与来源
 
 本药未建专题文件：**在取回任一法域现行监管文本之前，建立专题会把病例系列与综述层面的结论包装成说明书级结论**。当前最有独立价值的问题是"各国把苯丁胺排在何种管制层级、依据是什么"，该问题需要各国／欧盟官方公告原文（未取回），故留待后续。同类"未取到现行文本、不给 A–D"的处理先例见 [flunitrazepam](flunitrazepam.md)。作为 GABA‑B 激动剂，其戒断用巴氯芬（baclofen，GABA‑B 激动剂）替代是药理学对应关系，但该药在本仓库尚无独立条目，故此处仅作机制说明、不作链接。GHB／γ‑羟丁酸类为另一 GABA‑B 相关促眠物质、仓库同样未单列，不作链接。
 
-**监管检索入口（均 0 命中，作为阴性检索记录）**：[openFDA 按通用名检索（返回 404／无结果）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22phenibut%22)。[DailyMed 按药名检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=phenibut)。[英国 emc 检索 phenibut（0 条产品）](https://www.medicines.org.uk/emc/search?q=phenibut)。[法国 BDPM 按字母前缀检索接口 startBy=PHEN](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PHEN)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管检索入口（均 0 命中，作为阴性检索记录）**：[openFDA 按通用名检索（返回 404／无结果）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22phenibut%22)。[DailyMed 按药名检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=phenibut)。[英国 emc 检索 phenibut（0 条产品）](https://www.medicines.org.uk/emc/search?q=phenibut)。[法国 BDPM 按字母前缀检索接口 startBy=PHEN](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PHEN)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究、病例系列与系统综述**：[Phenibut: Review and Pharmacologic Approaches to Treating Withdrawal（29 例戒断，PMID:38339875）](https://pubmed.ncbi.nlm.nih.gov/38339875/)。[A systematic review of phenibut withdrawal（25 例，戒断特征与治疗，PMID:38112312）](https://pubmed.ncbi.nlm.nih.gov/38112312/)。[Phenibutan-an Illegal Food Supplement With Psychotropic Effects（德国非法、GIZ‑Nord 中毒数据、α2‑δ 机制，PMID:38377332）](https://pubmed.ncbi.nlm.nih.gov/38377332/)。[Clinical Presentations and Treatment of Phenibut Toxicity and Withdrawal（系统综述，PMID:37579098）](https://pubmed.ncbi.nlm.nih.gov/37579098/)。[对巴氯芬用于苯丁胺戒断的担忧（信件，PMID:38752524）](https://pubmed.ncbi.nlm.nih.gov/38752524/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 

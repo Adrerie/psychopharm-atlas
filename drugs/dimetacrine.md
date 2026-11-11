@@ -83,14 +83,14 @@
 4. **复方独立**：与 phenmetrazine 的固定复方按复方对象另行评价，本单方不承载其兴奋剂成分风险。
 5. **DDD 0.15 g 口服不是处方剂量**。无本药现行剂量正文。
 6. **动物数值不外推**：犬心脏骤停剂量、小鼠条件性抑制剂量均留 §3／§5 语境。
-7. **中国字段沿用 2026-10-06 已审计结论原文**（含"不等于非管制"的限定语），不重跑。NMPA 与 CDE 不可脚本检索，注册状态待核实。
+7. **中国字段沿用 2026-10-06 已审计结论原文**（含"不等于非管制"的限定语），不重跑。NMPA 与 CDE 在 2026-11-11 之前未能脚本检索，注册状态待核实。
 8. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `dimetacrine`／`dimethacrine` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：待解释的只有"半个世纪前的人体／动物心脏证据与现代类别条款如何分层"，已在 §2、§5、§6 与 §10 写明。注册正文缺失，专题无从承载更多。
 
-**检索与监管**：[WHO ATC `N06AA18`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA18)。[Fachinfo.de 按 Dimetacrin 检索（0 条）](https://www.fachinfo.de/suche/?query=Dimetacrin)。[openFDA 标签检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimetacrine%22&limit=2)。[DailyMed 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimetacrine)。[西班牙 CIMA 检索（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=dimetacrine)。[法国 BDPM 前缀检索（recordsTotal＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMETACRINE)。[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（按名未命中）。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（不可脚本检索）。
+**检索与监管**：[WHO ATC `N06AA18`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA18)。[Fachinfo.de 按 Dimetacrin 检索（0 条）](https://www.fachinfo.de/suche/?query=Dimetacrin)。[openFDA 标签检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimetacrine%22&limit=2)。[DailyMed 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimetacrine)。[西班牙 CIMA 检索（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=dimetacrine)。[法国 BDPM 前缀检索（recordsTotal＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMETACRINE)。[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（按名未命中）。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[人体心导管血流动力学（PMID:1266277）](https://pubmed.ncbi.nlm.nih.gov/1266277/)。[三环类心血管副作用系列（PMID:1150371）](https://pubmed.ncbi.nlm.nih.gov/1150371/)。[离体与人体比较心肌收缩力（PMID:1209005）](https://pubmed.ncbi.nlm.nih.gov/1209005/)。[豚鼠心房与麻醉犬心脏毒性比较（PMID:4463275）](https://pubmed.ncbi.nlm.nih.gov/4463275/)。[双盲对比丙米嗪（题录，PMID:4149236）](https://pubmed.ncbi.nlm.nih.gov/4149236/)。[临床实验综述（题录，PMID:4564744）](https://pubmed.ncbi.nlm.nih.gov/4564744/)。[临床评价（题录，PMID:5756370、PMID:5092364）](https://pubmed.ncbi.nlm.nih.gov/5756370/)。[首份吖啶烷衍生物抗抑郁报告（题录，PMID:6008540）](https://pubmed.ncbi.nlm.nih.gov/6008540/)。[小鼠条件性抑制（PMID:4039801）](https://pubmed.ncbi.nlm.nih.gov/4039801/)。[突触体结合与分布（PMID:651018、PMID:609148、PMID:976450）](https://pubmed.ncbi.nlm.nih.gov/651018/)。[大鼠药代与生物转化（题录，PMID:426616、PMID:736760）](https://pubmed.ncbi.nlm.nih.gov/426616/)。[小鼠致癌试验（题录，PMID:5395891）](https://pubmed.ncbi.nlm.nih.gov/5395891/)。[镇静性药物综述列名（题录，PMID:6884962）](https://pubmed.ncbi.nlm.nih.gov/6884962/)。
 

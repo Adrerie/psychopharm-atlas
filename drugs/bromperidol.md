@@ -70,7 +70,7 @@
 
 **癸酸酯长效注射剂**：本次核查未在日本现行文本中核实该剂型，Cochrane 只报告结局而非剂量（`PMID:23152208`），故不写剂量方案。
 
-**文献层面**：对照试验入组为精神病性障碍、以精神分裂症为主（`PMID:334688`）。WHO DDD 10 mg 口服、10 mg 非口服、3.3 mg depot 属统计指标，不是处方剂量。**中国**上市剂型与核准适应证待核实（NMPA 与 CDE 公开入口不可脚本检索）。
+**文献层面**：对照试验入组为精神病性障碍、以精神分裂症为主（`PMID:334688`）。WHO DDD 10 mg 口服、10 mg 非口服、3.3 mg depot 属统计指标，不是处方剂量。**中国**上市剂型与核准适应证待核实（NMPA 与 CDE 公开入口在 2026-11-11 之前未能脚本检索）。
 
 ## 5. 实际效果与局限
 
@@ -122,7 +122,7 @@
 
 本条目未建专题文件：可解释的问题只有"口服与癸酸酯两条证据线方向不一致"（前者与氟哌啶醇相当，后者复发多于其他长效制剂），已在 §2.2 与 §5 分列。拆成专题需要的剂量与浓度数据与复发试验原始资料，本次核查只取得题录。
 
-**监管与检索记录**：[PMDA 医療用医薬品 詳細表示（ブロムペリドール「アメル」，添付文書番号 672173_1179028C1090_2_04）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/672173_1179028C1090_2_04)。[PMDA 一般名リスト（ブロムペリドール，含「サワイ」仿制药）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/1179028)。[英国 emc 检索 bromperidol（0 条）](https://www.medicines.org.uk/emc/search?q=bromperidol)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromperidol%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromperidol)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROMPERIDOL&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与检索记录**：[PMDA 医療用医薬品 詳細表示（ブロムペリドール「アメル」，添付文書番号 672173_1179028C1090_2_04）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/672173_1179028C1090_2_04)。[PMDA 一般名リスト（ブロムペリドール，含「サワイ」仿制药）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/1179028)。[英国 emc 检索 bromperidol（0 条）](https://www.medicines.org.uk/emc/search?q=bromperidol)。[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromperidol%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromperidol)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROMPERIDOL&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

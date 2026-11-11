@@ -94,7 +94,7 @@
 2. **身份按 CAS 锁定，勿与 propazepam 混**：本药 CAS 52463-83-9 与 **propazepam（Domar）为不同分子**。PubChem 把两者同义词混列、一份德文筛查文亦将 pinazepam 记作"Domar"（`PMID:3146986`）。**商品名命中论文不构成身份证据**，归属先以 CAS／原文结构式确认（AGENTS.md 同名冲突原则）。
 3. **类别证据 ≠ 本药证据**：苯二氮䓬的依赖、停药、驾驶损害与"是奥沙西泮前体类群"（`PMID:28903606`、`PMID:23835060`）是类群/类别陈述，不充当当本药的发生率或疗效。本药抗焦虑"纯度高、无依赖"来自药企年代综述（`PMID:6147192`），未现代验证。
 4. **前药代谢是本药最稳的药物特异证据**：desmethyldiazepam 超过母药（`PMID:6809477`）、原型尿回收 0.016%（`PMID:6147314`）。但**不得据此推导与地西泮／替马西泮的临床优劣**。
-5. **中国维度分开**：管制字段为**已审计结论**（药用类精神药品第二类第 60 项，逐字保留骨架内容）、列管不证明上市或滥用率。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实，本次核查未重跑、未改判。
+5. **中国维度分开**：管制字段为**已审计结论**（药用类精神药品第二类第 60 项，逐字保留骨架内容）、列管不证明上市或滥用率。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实，本次核查未重跑、未改判。
 6. **官方 2026 索引未对本编码列 DDD**：无 DDD 不等于无剂量，历史综述的"10 mg/日分两次"（`PMID:6147192`）属历史文字，不可读作现行推荐剂量。
 
 - **NMPA 数据查询（2026-11-11 浏览器检索）**：麻精品种目录命中匹那西泮（Pinazepam，第二类精神药品，序号 1261）。检索结果为目录登记条目，不写成核准适应证。
@@ -103,7 +103,7 @@
 
 本条目未建专题文件：需要解释的是"为何一个被宣传为'纯抗焦虑'的老式苯二氮䓬仍按类别对待依赖与停药"，其答案（前药生成 desmethyldiazepam、长半衰期、旧综述未经现代验证）已在 §2、§6 与 §10 说清，不足以另立专题。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pinazepam)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PINAZEPAM&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pinazepam)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pinazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pinazepam)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PINAZEPAM&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pinazepam)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pinazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **综述与文献**：[匹那西泮药理与治疗效能综述（`PMID:6147192`）](https://pubmed.ncbi.nlm.nih.gov/6147192/)。[奥沙西泮及相关苯二氮䓬代谢谱综述（`PMID:28903606`）](https://pubmed.ncbi.nlm.nih.gov/28903606/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

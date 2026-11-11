@@ -94,7 +94,7 @@
 
 ## 11. 深入分析与来源
 
-**监管文件**：[瑞典 Propavan 25 mg 片 produktresumé（FASS，版本 20261023）](https://fass.se/health/product/19600628000017/smpc)。[FASS 产品页 Propavan](https://fass.se/health/product/19600628000017)。[DailyMed 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=propiomazine)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=propiomazine)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROPIOMAZINE&page=1&limit=5)。[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/rest/medicamentos?nombre=propiomazina)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管文件**：[瑞典 Propavan 25 mg 片 produktresumé（FASS，版本 20261023）](https://fass.se/health/product/19600628000017/smpc)。[FASS 产品页 Propavan](https://fass.se/health/product/19600628000017)。[DailyMed 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=propiomazine)。[英国 emc 检索（0 条）](https://www.medicines.org.uk/emc/search?q=propiomazine)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROPIOMAZINE&page=1&limit=5)。[西班牙 CIMA 检索（0 条）](https://cima.aemps.es/cima/rest/medicamentos?nombre=propiomazina)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

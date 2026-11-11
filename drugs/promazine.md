@@ -146,14 +146,14 @@
 3. **适应证窄且限定条件多**：现行 §4.1 同时要求"短期""辅助""有伤害风险"三个条件，且**不含**精神分裂症、酒精戒断、痴呆相关行为或止吐。本条目因此只给一个场景评分，其余用法只作历史或研究记录。
 4. **本药不是氯丙嗪，也不是乙酰丙嗪**：三者同属吩噻嗪但为不同实体。氯丙嗪的标签条款、试验与不良反应频率**不得移植**，兽药乙酰丙嗪的数据也不适用（`PMID:22534188` 讨论的是乙酰丙嗪的药代，本条目未引用其数值）。
 5. **"未检索到随机对照"是检索事实**：以通用名与历史商品名检索后，本适应证无随机对照试验。这不等于"无效"，但意味着适宜度不能高于 C+。且不得用同类药或其他剂型的试验替代。
-6. **中国注册信息待核实**：NMPA 与 CDE 公开入口不可脚本检索，商业药品库不采用。中国管制字段沿用 2026-10-06 的核查结论，不重跑。
+6. **中国注册信息待核实**：NMPA 与 CDE 公开入口在 2026-11-11 之前未能脚本检索，商业药品库不采用。中国管制字段沿用 2026-10-06 的核查结论，不重跑。
 7. **DDD 0.3 g 口服 / 0.1 g 非口服是统计指标**。标签的成人 100–200 mg 每日四次与老年 25–50 mg 每日四次是**处方文字**，两者不是同一概念，不据此换算个体剂量。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：需要解释的只有"核准适应证窄、而支撑它的不是随机试验"这一处，已在 §2.2 与 §5 写明。拆成专题所需的剂量-浓度-效应数据，SmPC §5.2 自己就说"血药浓度与疗效之间未发现简单相关"，没有再深挖的价值。
 
-**监管与官方文件**：[Promazine Hydrochloride 25 mg/5 mL 口服糖浆 SmPC（emc 6697，Rosemont，PL 0427/0054，文本 2025-03-07）](https://www.medicines.org.uk/emc/product/6697/smpc)。[同名 25 mg/5 mL 糖浆 SmPC（emc 101928，Aristo Pharma，PL 40546/0178，文本 2025-08-07）](https://www.medicines.org.uk/emc/product/101928/smpc)。[emc 检索 promazine（ 4 条产品）](https://www.medicines.org.uk/emc/search?q=promazine)。[openFDA 按通用名检索（ 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22promazine%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=promazine)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROM&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[Promazine Hydrochloride 25 mg/5 mL 口服糖浆 SmPC（emc 6697，Rosemont，PL 0427/0054，文本 2025-03-07）](https://www.medicines.org.uk/emc/product/6697/smpc)。[同名 25 mg/5 mL 糖浆 SmPC（emc 101928，Aristo Pharma，PL 40546/0178，文本 2025-08-07）](https://www.medicines.org.uk/emc/product/101928/smpc)。[emc 检索 promazine（ 4 条产品）](https://www.medicines.org.uk/emc/search?q=promazine)。[openFDA 按通用名检索（ 0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22promazine%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=promazine)。[法国 BDPM 按药名检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PROM&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023（抗精神病药行未逐名收录本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（表 1 未逐名收录）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

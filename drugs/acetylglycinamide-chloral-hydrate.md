@@ -75,7 +75,7 @@
 1. **双重新缺口决定本条为短小的 `basic`**：（a）美／法／西／英四个监管入口本次核查均 0 条或结果不可读、无历史说明书。（b）PubMed 无以本药为受试分子的人体研究。二者均写成**具体检索缺口**，不写"未批准／已撤市／不存在"。
 2. **身份由 ATC＋CAS 锚定**：WHO ATC `N05CC03`、CAS 17427-14-4、PubChem CID 71587019、UNII 6WZ3595RLZ。Wikidata／PubChem／DrugBank 只作身份，不替代监管或临床证据。
 3. **实体纪律（本组最关键）**：本药含氯醛结构，但**不继承 `chloral-hydrate`（N05CC01）的适应证、剂量、机制、警告或滥用数据**。"体内释放氯醛"仅作该类化合物结构推断，无本药特异水解／药动研究支持。放宽检索命中的"acetylglycinamide／cloralamide"文献多为无关化学／促智药条目，**不归入本药**。
-4. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+4. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 5. **DDD 1.7 g 是统计指标**，不是处方剂量。
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按物质名、复方组合名与历史商品名 Neraval 检索均 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 acetylglycinamide 与 Neraval 检索 0 条。法国 BDPM 按 ACETYLGLYCINAMIDE 与 NERAVAL 前缀检索 0 条。西班牙 CIMA 按 acetilglicinamida 检索 0 条。上述均为检索事实，不写成"未批准／已撤市"。本药为氯醛水合物与乙酰甘氨酰胺的分子结合物，本次核查仍无可逐节引用的现行监管正文，状态保持 `basic`。
@@ -84,7 +84,7 @@
 
 本条目未建专题文件。本药缺少任何药物特异的疗效、药代或安全性数据。可解释的内容仅为"为何不能借用母体水合氯醛"，属 AGENTS.md 通则，详见 §3、§5、§6 与 §10。在无实质证据的情况下建专题会成为空壳。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22acetylglycinamide%20chloral%20hydrate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22acetylglycinamide%20chloral%20hydrate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=acetylglycinamide%20chloral%20hydrate)。[法国 BDPM 按药名检索接口（无本药条目）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ACETYLGLYCINAMIDE&limit=20)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=chloral)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=acetylglycinamide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22acetylglycinamide%20chloral%20hydrate%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22acetylglycinamide%20chloral%20hydrate%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=acetylglycinamide%20chloral%20hydrate)。[法国 BDPM 按药名检索接口（无本药条目）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ACETYLGLYCINAMIDE&limit=20)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=chloral)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=acetylglycinamide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **对照说明**：母体条目见 [chloral-hydrate（水合氯醛，N05CC01）](chloral-hydrate.md)，仅供区分实体、**不作为本药事实来源**。同组含氯醛成分的 [chloralodol（N05CC02）](chloralodol.md)、[dichloralphenazone（N05CC04）](dichloralphenazone.md) 亦按各自实体独立建档。
 

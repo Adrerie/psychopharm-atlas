@@ -91,14 +91,14 @@
 3. **结晶／环境／化学分析文献不入临床评分**：`PMID:22076942`（与 propyphenazone 的共晶与多晶型）、`PMID:22967903`／`PMID:22227832`（柏林水体环境归转）、`PMID:18964835`（pK 解离）、`PMID:966162`／`PMID:982015` 一类分析化学与法医学方法学只作身份与暴露背景，**不作为疗效或安全性证据**。
 4. **复方不进单方评分**：与 diphenhydramine 的催眠复方（`PMID:8864620`）只证明暴露来源，不据其推导本药的适应证、风险或结局。
 5. **粒细胞缺乏是特异质反应**：有 OR 与再激发支持因果，但**不得换算为"剂量越高发生率越高"或人群发生率**。西班牙数据是**该国该药特异**，不迁移为他国发生率。
-6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），本次核查未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+6. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），本次核查未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 7. **DDD 0.2 g 是统计指标**，不是处方剂量。本药已撤市，DDD 不代表当前使用。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：最值得独立解释的是"特异质粒细胞缺乏如何量化到足以触发撤市、以及'温和催眠药'认知如何放大暴露"，但其答案已由 `PMID:10663456` 一篇病例与对照研究完整承载（OR、发生率与再激发，以及调剂比例与撤市过程），无需另立专题。把逐例影像／血象搬进主条目会破坏快速判断页定位。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pyrithyldione%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pyrithyldione%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pyrithyldione)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PYRITHYLDIONE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pyrithyldione)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pyrithyldione)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pyrithyldione%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pyrithyldione%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pyrithyldione)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PYRITHYLDIONE&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pyrithyldione)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pyrithyldione)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

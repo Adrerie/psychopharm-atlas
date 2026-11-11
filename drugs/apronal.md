@@ -94,7 +94,7 @@
 4. **实体区分**：本药与 **bromisoval／bromvalerylurea、carbromal** 同为酰脲类但不同分子。`PMID:38924567` 的两药共触发皮损、`PMID:40065875` 的主体 bromvalerylurea **不能整体归因本药**。法医学同批测定的三药（`PMID:1682528`）读数**不得互借**。
 5. **滥用证据不足**：`PMID:42574895` 的"滥用"是方法学论文的引用背景、`PMID:40065875` 撤药主体为他药，均**不构成本药单方的滥用或依赖分数**，滥用维度记 `N/A`。
 6. **商品名／题名命中不等于身份**：本药归入疗效、剂型、风险的依据是原文物质名（allylisopropylacetylurea／AIAU）与 CAS 528-92-7。**"Apronal"这一名称存在跨分子冲突**。已有药学警示指出**对乙酰氨基酚与 aprolidine 曾被同时标注为"Apronal"**（`PMID:2089838`），故凡命中"Apronal"的处方／产品须先按原文成分确认是否为烯丙异丙基乙酰脲，**不得把 aprolidine 或含对乙酰氨基酚产品的效应与风险计入本药**。另**历史上的"Apronal Compound"是与环巴比妥的固定复方**（见第 3 项）。`Angew Chem`（`PMID:37877646`）与 `J Agric Food Chem`（`PMID:27787985`）把 apronal 作**太阳能电池／固相微萃取单体**使用，与药理无关，已剔除。
-7. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 不可脚本检索，中国上市与核准适应证待核实。
+7. **中国事实分开**：管制字段沿用 2026-10-06 已审计结论与限定语（未发现列入、有机母核排除、不等于非管制），未重跑、未改判。NMPA 412／CDE 202 在 2026-11-11 之前未能脚本检索，中国上市与核准适应证待核实。
 8. **DDD 0.25 g 是统计指标**，不是处方剂量。
 9. **2026-11-10 复检**：按商品名 Sedormid 与通用名复检公开药品库，未取得现行说明书或批准文号。DrugBank 条目给出「日本获批、多国因血小板减少性紫癜撤市」的陈述，属聚合库口径，未获监管原文，仅作历史安全信号（§6）。
 
@@ -104,7 +104,7 @@
 
 本条目未建专题文件：需要解释的是"酰脲类三种药（apronal／bromisoval／carbromal）在同批法医学与皮肤科文献中如何分归"，其答案已由 §6、§7 与 §10 的逐例出处说清。把每例固定型药疹的斑贴试验细节搬进主条目会破坏快速判断页定位。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22apronal%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22apronal%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=apronal)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=APRONAL&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=apronal)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=apronal)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22apronal%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22apronal%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=apronal)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=APRONAL&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=apronal)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=apronal)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **综述与警戒**。[JADER：含 AIAU 的 OTC 解热镇痛药皮肤事件信号（`PMID:28966270`）](https://pubmed.ncbi.nlm.nih.gov/28966270/)。[日本镇静催眠药血清筛查（含 apronalide，`PMID:15869852`）](https://pubmed.ncbi.nlm.nih.gov/15869852/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

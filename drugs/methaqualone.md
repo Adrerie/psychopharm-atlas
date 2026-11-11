@@ -107,7 +107,7 @@
 
 1. **现行文本为零**：美国 openFDA／DailyMed 0（2026-10-23）、英国 emc 0（2026-10-24）、法国 BDPM 0 行（2026-10-24）。这些是**检索事实**，不写成"从未批准或某年撤市"，也没有取得 FDA 的撤市公告或英国、法国的列管原文。
 2. **美国附表一是现行法律事实**：`US-CSA` 将甲喹酮列入附表一（代码 2565）。附表一在 CSA 下即无当前 accepted medical use。这是列管事实，**不是疗效或安全结论**，也不作 D 分依据。
-3. **中国第一类第 10 项**：这是管制层级，不等于中国有现行上市产品。上市与核准适应证待核实（NMPA、CDE 入口不可脚本化）。
+3. **中国第一类第 10 项**：这是管制层级，不等于中国有现行上市产品。上市与核准适应证待核实（NMPA、CDE 入口在 2026-11-11 之前未能脚本化）。
 4. **历史与现行分开**：
   - Quaalude
   - Sopor
@@ -127,7 +127,7 @@ Mandrax 都是历史商品名。Mandrax 是**复方**，其睡眠研究不能当
 
 同类对照见 [glutethimide](glutethimide.md)（同为历史高风险镇静催眠药、美国附表二、已撤市）与 [buspirone](buspirone.md)（其人体滥用潜力研究以甲喹酮为阳性对照，`PMID:6130076`）。
 
-**监管与官方文件**：[21 CFR 1308.11（附表一，methaqualone 代码 2565）](https://www.law.cornell.edu/cfr/text/21/1308.11)。[openFDA 按通用名检索 methaqualone（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22methaqualone%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=methaqualone)。[英国 emc 检索 methaqualone（0 条）](https://www.medicines.org.uk/emc/search?q=methaqualone)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=METHAQUALONE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[21 CFR 1308.11（附表一，methaqualone 代码 2565）](https://www.law.cornell.edu/cfr/text/21/1308.11)。[openFDA 按通用名检索 methaqualone（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22methaqualone%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=methaqualone)。[英国 emc 检索 methaqualone（0 条）](https://www.medicines.org.uk/emc/search?q=methaqualone)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=METHAQUALONE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[《药用类精神药品目录（2025 年版）》第一类第 10 项](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
