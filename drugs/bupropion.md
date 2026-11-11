@@ -139,4 +139,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06AX12`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX12)。[Wikidata Q834280](https://www.wikidata.org/wiki/Q834280)。[PubChem CID 444](https://pubchem.ncbi.nlm.nih.gov/compound/444)。[MeSH D016642](https://meshb.nlm.nih.gov/record/ui?ui=D016642)。[DrugBank DB01156](https://www.drugbank.ca/r/DB01156)。[RxNorm RXCUI 42347](https://rxnav.nlm.nih.gov/REST/rxcui/42347.json)。
 
 - 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
+- CYP 抑制倍数随底物、剂量与基因型变化的边界见 [cyp-inhibition-magnitude-substrate-dependence.md](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

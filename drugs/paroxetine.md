@@ -164,4 +164,5 @@
 - 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
 - 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
+- CYP 抑制倍数随底物、剂量与基因型变化的边界见 [cyp-inhibition-magnitude-substrate-dependence.md](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
