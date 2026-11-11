@@ -717,6 +717,15 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | deutetrabenazine | austedo | 成人中重度迟发性运动障碍 |
 | melatonin | slenyto | 2–18 岁自闭症谱系障碍和／或伴昼夜褪黑素分泌异常神经遗传病儿童的失眠 |
 
+### 4.9 EMA EPAR 第二批（2026-11-11）
+
+补查 lyrica 与 champix 的 EPAR，2 份档案写入欧盟适应证。zyban、strattera、elvanse、provigil、seroquel、risperdal、leponex、pristiq、dayvigo、invega-sustenna 的地址未命中。
+
+| 档案 | EPAR 地址名 | 收载适应证（中文摘要） |
+| --- | --- | --- |
+| pregabalin | lyrica | 成人周围与中枢神经病理性疼痛、部分性发作添加治疗与广泛性焦虑障碍 |
+| varenicline | champix | 成人戒烟 |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
