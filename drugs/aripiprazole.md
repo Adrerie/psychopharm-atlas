@@ -116,4 +116,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AX12`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AX12)。[Wikidata Q411188](https://www.wikidata.org/wiki/Q411188)。[PubChem CID 60795](https://pubchem.ncbi.nlm.nih.gov/compound/60795)。[MeSH D000068180](https://meshb.nlm.nih.gov/record/ui?ui=D000068180)。[DrugBank DB01238](https://www.drugbank.ca/r/DB01238)。[RxNorm RXCUI 89013](https://rxnav.nlm.nih.gov/REST/rxcui/89013.json)。
 
+- 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

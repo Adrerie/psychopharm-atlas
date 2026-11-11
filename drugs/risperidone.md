@@ -161,4 +161,5 @@ QT 相关：
 - 英国 emc SmPC：[11872（2 mg 片）](https://www.medicines.org.uk/emc/product/11872/smpc)、[6936（1 mg/mL 口服溶液）](https://www.medicines.org.uk/emc/product/6936/smpc)、[1690（RISPERDAL CONSTA）](https://www.medicines.org.uk/emc/product/1690/smpc)、[13777（OKEDI）](https://www.medicines.org.uk/emc/product/13777/smpc)
 - 研究与网络荟萃：[PMID:23810019 Leucht 2013 Lancet 15 药多治疗荟萃](https://pubmed.ncbi.nlm.nih.gov/23810019/)｜[PMID:31303314 Huhn 2019 Lancet 32 药网络荟萃](https://pubmed.ncbi.nlm.nih.gov/31303314/)｜[PMID:42756141 中国老年抑郁门诊 PIM（Beers 对 2017 中国标准）](https://pubmed.ncbi.nlm.nih.gov/42756141/)
 - 相关条目：[paliperidone（本药活性代谢物，独立实体）](paliperidone.md)、[amisulpride](amisulpride.md)、[haloperidol](haloperidol.md)、[quetiapine（样板条目）](quetiapine.md)
-- 统计与缺口见 [目录索引](../catalog/index.md)。
+- - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。

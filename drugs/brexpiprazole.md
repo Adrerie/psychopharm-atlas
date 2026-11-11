@@ -175,4 +175,5 @@ M₁ 为 10 µM 下 67% 抑制（即亲和力很低）。功能上，5-HT₁A／
 - 研究与网络荟萃：[PMID:31303314 Huhn 2019 *Lancet* 32 药网络荟萃](https://pubmed.ncbi.nlm.nih.gov/31303314/)｜[PMID:23810019 Leucht 2013 *Lancet* 15 药多治疗荟萃（不含本药）](https://pubmed.ncbi.nlm.nih.gov/23810019/)｜[PMID:40830714 中国住院队列九种第二代抗精神病药催乳素升高](https://pubmed.ncbi.nlm.nih.gov/40830714/)｜[PMID:42756141 中国老年抑郁门诊 PIM（Beers 对 2017 中国标准）](https://pubmed.ncbi.nlm.nih.gov/42756141/)
 - Wikidata（CC0）：[Q2924764](https://www.wikidata.org/wiki/Q2924764)｜PubChem CID [11978813](https://pubchem.ncbi.nlm.nih.gov/compound/11978813)｜RxNorm [RXCUI 1658314](https://rxnav.nlm.nih.gov/REST/rxcui/1658314.json)
 - 相关条目：[cariprazine（同为部分激动剂，但代谢物尾部与抑制剂规则相反）](cariprazine.md)、[aripiprazole](aripiprazole.md)、[lurasidone](lurasidone.md)、[quetiapine（样板条目）](quetiapine.md)
-- 统计与缺口见 [目录索引](../catalog/index.md)。
+- - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。
