@@ -1031,3 +1031,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **TGA 与加拿大 DPD 第八轮（同日）**：TGA 第八批写入 amifampridine（RUZURGI）与 amisulpride（AMISULPRIDE SCP）的 ARTG 条目。加拿大 DPD 第九批在站点限速下仅完成 12/20 个活性成分，写入 amifampridine（FIRDAPSE）与 chloral hydrate（CHLORAL HYDRATE SYRUP ODAN）；其余 8 个留待下次。
 **TGA 与加拿大 DPD 第九轮（同日）**：澳大利亚 TGA 第九批写入 eszopiclone、fampridine、flumazenil 与 ginkgo 的 ARTG 条目；加拿大 DPD 第十批写入 dexamfetamine（APO-DEXTROAMPHETAMINE）、eszopiclone（LUNESTA）、fampridine（FAMPYRA）与 flumazenil 注射剂的 Marketed 产品示例。eslicarbazepine 连接超时、flavoxate 未完成，留待下次。
 **TGA 与加拿大 DPD 第十轮（同日）**：TGA 第十批写入 droperidol（DROPERIDOL MEDSURGE）、reboxetine（EDRONAX）与 thiopental（OMEGAPHARM THIOPENTAL SODIUM）的 ARTG 条目。加拿大第十一批无新增：lithium 此前已写入，pentobarbital 的在售条目为兽用制剂。
+**TGA 与加拿大 DPD 第十一轮（同日）**：TGA 第十一批 14 个药名全部未解析到 ARTG 条目；加拿大第十二批仅 nitrazepam（MOGADON）命中并写入，其余未捕获人用示例，lofexidine 与 opipramol 未完成。

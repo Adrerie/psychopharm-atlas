@@ -908,6 +908,18 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 
 检索 14 个活性成分，无新增档案。lithium 此前已在第二批写入；pentobarbital 的在售条目为兽用安乐死制剂，不写入；droperidol、iloperidone、metamfetamine、piracetam、quazepam、ramelteon、reboxetine、sulpiride、thiopental、tianeptine、tiapride、valpromide 未捕获到人用 Marketed 示例。
 
+### 4.24 澳大利亚 TGA ARTG 第十一批（2026-11-11）
+
+检索 14 个药名，全部未解析到 ARTG 条目：levomepromazine、mianserin、nitrazepam、piracetam、quazepam、sulpiride、thioridazine、tiapride、tofisopam、zaleplon、zotepine、nalmefene、lofexidine、opipramol。
+
+### 4.25 加拿大 DPD 第十二批（2026-11-11）
+
+检索 14 个活性成分，1 份写入：nitrazepam（MOGADON，DIN 00511528）。其余已完成项未捕获到人用 Marketed 示例，lofexidine 与 opipramol 因站点停顿未完成。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| nitrazepam | 10 | 00511528 | AA PHARMA INC | MOGADON |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
