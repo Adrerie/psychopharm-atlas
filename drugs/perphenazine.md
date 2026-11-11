@@ -108,4 +108,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AB03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AB03)。[Wikidata Q423520](https://www.wikidata.org/wiki/Q423520)。[PubChem CID 4748](https://pubchem.ncbi.nlm.nih.gov/compound/4748)。[MeSH D010546](https://meshb.nlm.nih.gov/record/ui?ui=D010546)。[DrugBank DB00850](https://www.drugbank.ca/r/DB00850)。[RxNorm RXCUI 8076](https://rxnav.nlm.nih.gov/REST/rxcui/8076.json)。English Wikipedia（标题指针，未复制正文）：[Perphenazine](https://en.wikipedia.org/wiki/Perphenazine)。
 
 - EPS 与迟发性运动障碍的剂量绑定、抗胆碱药边界与 TD 治疗位置见 [eps-td-dose-links-and-anticholinergic-boundary.md](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

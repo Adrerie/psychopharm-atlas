@@ -186,4 +186,5 @@
 - 研究与网络荟萃：[PMID:23810019 Leucht 2013 *Lancet*](https://pubmed.ncbi.nlm.nih.gov/23810019/)｜[PMID:31303314 Huhn 2019 *Lancet*](https://pubmed.ncbi.nlm.nih.gov/31303314/)｜[PMID:40830714 中国住院队列催乳素升高](https://pubmed.ncbi.nlm.nih.gov/40830714/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)
 - 相关条目：[risperidone](risperidone.md)、[paliperidone](paliperidone.md)、[haloperidol](haloperidol.md)、[quetiapine（样板条目）](quetiapine.md)
 - - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -113,4 +113,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06BX07`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX07)。[Wikidata Q415099](https://www.wikidata.org/wiki/Q415099)。[PubChem CID 4626](https://pubchem.ncbi.nlm.nih.gov/compound/4626)。[MeSH C040619](https://meshb.nlm.nih.gov/record/ui?ui=C040619)。[DrugBank DB13601](https://www.drugbank.ca/r/DB13601)。[RxNorm RXCUI 32645](https://rxnav.nlm.nih.gov/REST/rxcui/32645.json)。English Wikipedia（标题指针，未复制正文），[Oxiracetam](https://en.wikipedia.org/wiki/Oxiracetam)。
 
 - 拉西坦类"促智"归类与各自批准／证据的边界见 [racetams-approval-vs-evidence.md](../analysis/racetams-approval-vs-evidence.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

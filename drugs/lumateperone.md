@@ -134,4 +134,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AD10`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD10)（2026 年索引未列 DDD）。[Wikidata Q21098913](https://www.wikidata.org/wiki/Q21098913)。[RxNorm RXCUI 2275602](https://rxnav.nlm.nih.gov/REST/rxcui/2275602.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Lumateperone)。
 
 - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

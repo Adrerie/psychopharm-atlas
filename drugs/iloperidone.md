@@ -125,4 +125,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AX14`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AX14)。[Wikidata Q4199443](https://www.wikidata.org/wiki/Q4199443)。[PubChem CID 71360](https://pubchem.ncbi.nlm.nih.gov/compound/71360)。[MeSH C081732](https://meshb.nlm.nih.gov/record/ui?ui=C081732)。[DrugBank DB04946](https://www.drugbank.ca/r/DB04946)。[RxNorm RXCUI 73178](https://rxnav.nlm.nih.gov/REST/rxcui/73178.json)。English Wikipedia（标题指针）：[Iloperidone](https://en.wikipedia.org/wiki/Iloperidone)。
 
 - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

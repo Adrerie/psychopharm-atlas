@@ -141,4 +141,5 @@
 **分类与身份**：[PubChem CID 179344（eslicarbazepine acetate）](https://pubchem.ncbi.nlm.nih.gov/compound/179344)。[PubChem CID 9881504（eslicarbazepine／(S)-licarbazepine）](https://pubchem.ncbi.nlm.nih.gov/compound/9881504)。[Wikidata Q410273](https://www.wikidata.org/wiki/Q410273)。[Wikidata Q27077226](https://www.wikidata.org/wiki/Q27077226)。English Wikipedia（标题指针，未复制正文）：[Eslicarbazepine acetate](https://en.wikipedia.org/wiki/Eslicarbazepine_acetate)。
 
 - 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

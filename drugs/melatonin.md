@@ -121,4 +121,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05CH01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CH01)。[Wikidata Q180912](https://www.wikidata.org/wiki/Q180912)。[PubChem CID 896](https://pubchem.ncbi.nlm.nih.gov/compound/896)。[MeSH D008550](https://meshb.nlm.nih.gov/record/ui?ui=D008550)。[DrugBank DB01065](https://www.drugbank.ca/r/DB01065)。[RxNorm RXCUI 6711](https://rxnav.nlm.nih.gov/REST/rxcui/6711.json)。[英国《受管制药物清单》（本药未收录）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。English Wikipedia（标题指针，未复制正文）：[Melatonin](https://en.wikipedia.org/wiki/Melatonin)。
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

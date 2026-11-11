@@ -145,4 +145,5 @@
 - **相关档案**：[memantine](memantine.md)、[donepezil-and-memantine](donepezil-and-memantine.md)。中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

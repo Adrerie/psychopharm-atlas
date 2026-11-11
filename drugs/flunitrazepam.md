@@ -4,7 +4,6 @@
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **条目状态为 `reviewed`**：日本现行添付文書（`JP-SILECE`）已逐节取得。核准适应证与给药方案据该文本写入，禁忌、相互作用与主要风险亦然（§1、§4、§8–§10）。美国、英国、法国、瑞士与瑞典未检得现行产品文本（§10）。
 
-
 **引用键**：`JP-SILECE`＝サイレース錠 1 mg／2 mg 添付文書（添付文書番号 `1124008F1024_1_21`，2023-04 改訂第 1 版，承認番号 15800AMZ00620000／15800AMZ00621000）。`UK-CDL`＝英国内政部《受管制药物清单》（Misuse of Drugs 立法下的常用受管制药物列表，本次核查 2026-10-21 取回）。`DEA-α`＝美国缉毒局按字母序受管制物质清单（同批取回）。`PMID:……`＝PubMed。本次核查取得日本现行添付文書 `JP-SILECE`（见上）。美国、英国、法国与其他法域均未检得现行监管文本（检索过程与结果逐项见 §10 第 1 项）。未由 `JP-SILECE` 支撑的药理、药代与临床表述来自同行评议文献，不代表其他法域的核准说明书内容。
 
 ## 1. 基本信息
@@ -122,4 +121,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05CD03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CD03)。[Wikidata Q62947](https://www.wikidata.org/wiki/Q62947)。[PubChem CID 3380](https://pubchem.ncbi.nlm.nih.gov/compound/3380)。[MeSH D005445](https://meshb.nlm.nih.gov/record/ui?ui=D005445)。[DrugBank DB01544](https://www.drugbank.ca/r/DB01544)。[RxNorm RXCUI 4460](https://rxnav.nlm.nih.gov/REST/rxcui/4460.json)。
 
 - 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

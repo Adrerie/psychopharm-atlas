@@ -158,4 +158,5 @@ SmPC 的机制表述很克制：§5.1 只写"抑制外周肾上腺素能神经�
 **分类与身份**：[WHO ATC/DDD Index `N06AA07`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA07)。[Wikidata Q368941](https://www.wikidata.org/wiki/Q368941)。[PubChem CID 3947](https://pubchem.ncbi.nlm.nih.gov/compound/3947)。[MeSH D008127](https://meshb.nlm.nih.gov/record/ui?ui=D008127)。[DrugBank DB13411](https://www.drugbank.ca/r/DB13411)。[RxNorm RXCUI 6465](https://rxnav.nlm.nih.gov/REST/rxcui/6465.json)。English Wikipedia（标题指针，未复制正文）：[Lofepramine](https://en.wikipedia.org/wiki/Lofepramine)。
 
 - 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

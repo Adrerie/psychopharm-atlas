@@ -122,3 +122,5 @@
   - [rivastigmine](rivastigmine.md)
   - [tacrine](tacrine.md)
   - [ipidacrine](ipidacrine.md)
+
+统计与缺口见 [目录索引](../catalog/index.md)。

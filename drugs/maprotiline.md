@@ -151,4 +151,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06AA21`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA21)。[Wikidata Q418361](https://www.wikidata.org/wiki/Q418361)。[PubChem CID 4011](https://pubchem.ncbi.nlm.nih.gov/compound/4011)。[MeSH D008376](https://meshb.nlm.nih.gov/record/ui?ui=D008376)。[DrugBank DB00934](https://www.drugbank.ca/r/DB00934)。[RxNorm RXCUI 6646](https://rxnav.nlm.nih.gov/REST/rxcui/6646.json)。English Wikipedia（标题指针，未复制正文）：[Maprotiline](https://en.wikipedia.org/wiki/Maprotiline)。
 
 - 惊厥阈值在治疗剂量、过量与撤药三条线上的差异见 [seizure-threshold-therapeutic-overdose-withdrawal.md](../analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -111,5 +111,4 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AN01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AN01)。[Wikidata Q152763](https://www.wikidata.org/wiki/Q152763)。[DrugBank DB01356](https://www.drugbank.ca/r/DB01356)。[RxNorm RXCUI 6448](https://rxnav.nlm.nih.gov/REST/rxcui/6448.json)。
 
-
 统计与缺口见 [目录索引](../catalog/index.md)。

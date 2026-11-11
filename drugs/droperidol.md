@@ -120,4 +120,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AD08`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD08)。[Wikidata Q174259](https://www.wikidata.org/wiki/Q174259)。[PubChem CID 3168](https://pubchem.ncbi.nlm.nih.gov/compound/3168)。[MeSH D004329](https://meshb.nlm.nih.gov/record/ui?ui=D004329)。[DrugBank DB00450](https://www.drugbank.ca/r/DB00450)。[RxNorm RXCUI 3648](https://rxnav.nlm.nih.gov/REST/rxcui/3648.json)。English Wikipedia（标题指针）：[Droperidol](https://en.wikipedia.org/wiki/Droperidol)。
 
 - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

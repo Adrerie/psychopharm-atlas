@@ -159,4 +159,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AE03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AE03)。[Wikidata Q418050](https://www.wikidata.org/wiki/Q418050)。[PubChem CID 60149](https://pubchem.ncbi.nlm.nih.gov/compound/60149)。[DrugBank DB06144](https://www.drugbank.ca/r/DB06144)。[RxNorm RXCUI 41996](https://rxnav.nlm.nih.gov/REST/rxcui/41996.json)。[MeSH C066304](https://meshb.nlm.nih.gov/record/ui?ui=C066304)。English Wikipedia（标题指针，未复制正文）：[Sertindole](https://en.wikipedia.org/wiki/Sertindole)。
 
 - QT 阈值、监测流程与毫秒数的跨档案边界见 [qt-thresholds-label-boundaries.md](../analysis/qt-thresholds-label-boundaries.md)（四种数值功能、研究条件差异与法域差异）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

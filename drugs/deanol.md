@@ -150,4 +150,5 @@ MAOI、CYP 底物、酒精等清单在本药上**无特异证据**，本节不�
 **分类与身份**：[WHO ATC/DDD Index `N06BX04`（亚组注释含 cyprodenate 归并说明）](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX04)。[Wikidata Q241049](https://www.wikidata.org/wiki/Q241049)。[PubChem CID 7902](https://pubchem.ncbi.nlm.nih.gov/compound/7902)。[MeSH D003642](https://meshb.nlm.nih.gov/record/ui?ui=D003642)。[DrugBank DB13352](https://www.drugbank.ca/r/DB13352)。[RxNorm RXCUI 3116](https://rxnav.nlm.nih.gov/REST/rxcui/3116.json)。本仓库相邻条目：[meclofenoxate](meclofenoxate.md)（酯前药，另一实体）。English Wikipedia（标题指针，未复制正文）：[Dimethylethanolamine](https://en.wikipedia.org/wiki/Dimethylethanolamine)。
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

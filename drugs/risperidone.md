@@ -106,8 +106,6 @@ QT 相关：
 
 **帕金森病／路易体痴呆**：标签提示对抗多巴胺效应尤其敏感，可能出现意识模糊、嗜睡、跌倒、锥体外系表现或恶性综合征征象。这属于使用限制，不是独立的 A–D 适应证（`US-ORAL` §8.8，`UK-T` §4.4）。
 
-
-
 **妊娠**：美国 §8.1 按类效应写"妊娠晚期接触抗精神病药的新生儿可能出现锥体外系和／或停药症状。
 - 烦躁
 - 肌张力异常
@@ -163,4 +161,5 @@ QT 相关：
 - 相关条目：[paliperidone（本药活性代谢物，独立实体）](paliperidone.md)、[amisulpride](amisulpride.md)、[haloperidol](haloperidol.md)、[quetiapine（样板条目）](quetiapine.md)
 - - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
 - 催乳素证据的跨药比较见 [paliperidone-prolactin-evidence.md](../analysis/paliperidone-prolactin-evidence.md)（部分激动与剂量对催乳素的影响不能按类外推）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -173,4 +173,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06AA10`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA10)。[Wikidata Q61387](https://www.wikidata.org/wiki/Q61387)。[PubChem CID 4543](https://pubchem.ncbi.nlm.nih.gov/compound/4543)。[MeSH D009661](https://meshb.nlm.nih.gov/record/ui?ui=D009661)。[DrugBank DB00540](https://www.drugbank.ca/r/DB00540)。[RxNorm RXCUI 7531](https://rxnav.nlm.nih.gov/REST/rxcui/7531.json)。English Wikipedia（标题指针，未复制正文）：[Nortriptyline](https://en.wikipedia.org/wiki/Nortriptyline)。
 
 - 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

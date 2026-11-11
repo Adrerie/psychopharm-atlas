@@ -108,4 +108,5 @@ AD 方向的当代证据链：Cummings 2026 pipeline 把 huperzine A 列为在�
 - [sodium-oligomannate](sodium-oligomannate.md)
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

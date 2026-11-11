@@ -111,4 +111,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06BX01`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX01)。[Wikidata Q421147](https://www.wikidata.org/wiki/Q421147)。[PubChem CID 4039](https://pubchem.ncbi.nlm.nih.gov/compound/4039)。[MeSH D002504](https://meshb.nlm.nih.gov/record/ui?ui=D002504)。[DrugBank DB13758](https://www.drugbank.ca/r/DB13758)。[RxNorm RXCUI 2228](https://rxnav.nlm.nih.gov/REST/rxcui/2228.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Meclofenoxate)。
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

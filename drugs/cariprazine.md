@@ -183,3 +183,5 @@
   - [aripiprazole](aripiprazole.md)
   - [lurasidone](lurasidone.md)
   - [quetiapine（样板条目）](quetiapine.md)
+
+统计与缺口见 [目录索引](../catalog/index.md)。

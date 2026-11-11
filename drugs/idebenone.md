@@ -110,4 +110,5 @@ SmPC 的机制表述是**假说而非已证结论**：艾地苯醌为短链苯�
 **分类与身份**：[WHO ATC/DDD Index `N06BX13`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX13)。[Wikidata Q4197874](https://www.wikidata.org/wiki/Q4197874)。[PubChem CID 3686](https://pubchem.ncbi.nlm.nih.gov/compound/3686)。[DrugBank DB09081](https://www.drugbank.ca/r/DB09081)。[RxNorm RXCUI 51296](https://rxnav.nlm.nih.gov/REST/rxcui/51296.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Idebenone)。
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

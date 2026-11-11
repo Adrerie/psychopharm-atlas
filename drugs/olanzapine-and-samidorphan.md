@@ -122,4 +122,5 @@ samidorphan 为 μ 阿片受体拮抗、κ 与 δ 部分激动（Ki μ 0.052、�
 **分类与身份**：[WHO ATC/DDD Index `N05AH53`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AH53)（2026 年索引未列 DDD）。成分单方身份见 [olanzapine](olanzapine.md)。
 
 - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

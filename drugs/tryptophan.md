@@ -110,4 +110,5 @@ L-色氨酸是 5-羟色胺生物合成的起始底物：经色氨酸羟化酶生
 **分类与身份**：[WHO ATC/DDD Index `N06AX02`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX02)。[Wikidata Q181003](https://www.wikidata.org/wiki/Q181003)。[PubChem CID 6305](https://pubchem.ncbi.nlm.nih.gov/compound/6305)。[PubChem CID 6923516](https://pubchem.ncbi.nlm.nih.gov/compound/6923516)。[MeSH D014364](https://meshb.nlm.nih.gov/record/ui?ui=D014364)。[DrugBank DB00150](https://www.drugbank.ca/r/DB00150)。[RxNorm RXCUI 10898](https://rxnav.nlm.nih.gov/REST/rxcui/10898.json)。English Wikipedia（标题指针，未复制正文）：[Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)。
 
 - 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
+
 统计与缺口见 [目录索引](../catalog/index.md)。
