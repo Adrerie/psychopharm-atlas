@@ -100,10 +100,6 @@
 
 - **2026-11-10 复核记录**：DailyMed 按 potassium bromide 与 sodium bromide 检索返回的条目仍为顺势疗法产品与兽用制剂（如 KBROVET），openFDA 同类命中为顺势或复方登记，西班牙 CIMA 与法国 BDPM 0 条，英国 emc 检索 bromide 返回 68 条但均为其他活性成分的溴盐（如 aclidinium bromide、umeclidinium bromide、ipratropium bromide），未取到溴化物镇静盐的处方资料，WHO ATC `N05CM11` 行回读无 DDD。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
-
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
 ## 11. 深入分析与来源
 
 本条目未建专题文件：需要解释的是"溴阴离子的类效应如何与'各盐不同、不得跨盐合并'并存"，其要点已由 §1、§6、§10 说清。因**无现行说明书、无某一具体盐的现代人体疗效数据**，建专题会缺少可深挖的药物-剂量-结局证据，故不建。

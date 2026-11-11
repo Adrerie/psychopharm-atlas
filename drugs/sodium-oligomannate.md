@@ -74,8 +74,6 @@
 - 与同组实体的关系：与 [huperzine-a](huperzine-a.md) 同为中国注册历史的记忆/痴呆相关药物，但化学类别（寡糖 vs 生物碱）、批准适应症与现状均不同，互不继承。与 [buntanetap](buntanetap.md)、[masitinib](masitinib.md)、[ar1001](ar1001.md)、[zervimesine](zervimesine.md) 无共同证据池。
 - **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `oligomannate`／`mannate` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制字段维持 2026-11-05 的既有结论（逐名未命中，整类结构核对因无可代表整条目的单一结构式记待核实），未改判。状态仍为 `basic`。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 7 条受理记录。最近一条为受理号 CXHB2400223、药品名称「甘露特钠胶囊」、申请类型 补充申请、承办日期 2024-10-25。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
 
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
 ## 11. 深入分析与来源
 
 - `NMPA-2019-转载`：http://health.dzwww.com/jkxw/jrxw/201911/d20191103_3966368.htm（2019-11-03 转载页，官方原始公告页 nmpa.gov.cn 对本机返回 HTTP 412）

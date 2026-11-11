@@ -79,10 +79,6 @@
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、商品名与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 emepronium 与 Cetiprin 检索 0 条。法国 BDPM 字母序接口按 EMEPRONIUM 与 CETIPRIN 前缀检索 0 条。西班牙 CIMA 按 emepronio 检索 0 条。韩国：KMA 药品数据库可见「에메프롬정」（뉴젠팜，emepronium bromide 100 mg）条目，保险状态自 2002-05-11 起为删除（非报销），但该库不是 MFDS 官方文本，且未从食药处「의약품안전나라」解析出条目详情，故不引用其适应证与剂量。上述均为检索事实，不写成"未批准／已撤市"。本药仍无可逐节引用的现行监管正文，状态保持 `basic`。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
-
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
 ## 11. 深入分析与来源
 
 - `ATC-G04BD`：https://atcddd.fhi.no/atc_ddd_index/?code=G04BD（Last updated 2026-01-20）

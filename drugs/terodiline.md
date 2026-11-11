@@ -84,10 +84,6 @@
 
 状态定为 `basic`：身份与 ATC 分类可靠，且有本药特异的心脏机制与人群事件文献，但缺少现行监管文本、剂量-耐受性读数与正式的撤市或停销公告。检索事实（按原样记录，不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=terodiline` 返回 0 条（HTTP 200）。`api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22TERODILINE%22` 返回 HTTP 404。英国 emc `https://www.medicines.org.uk/emc/search?q=terodiline 返回 HTTP 200 但结果区由脚本渲染、未解析出产品条目。WHO ATC/DDD G04BD 页仍列 `G04BD05 terodiline 50 mg O`（页脚 Last updated 2026-01-20）。未解决缺口（关键）：① 英国 CSM 1991-07-25 致医生函的日期、主题与产品名已由议会书面答复确认（`UK-CSM-1991`、`UK-HANSARD`），但函件正文与随附许可行动未取得，因此"正式撤市／因安全问题要求退出／持证人主动停销／非因安全或疗效的撤出"这几种法律性质仍无法区分，许可行动日期与生效日待核实。② 未取得现行说明书正文，故 §2.2 不设备景行。③ 综述 `DOI:10.1007/s40800-017-0053-0` 正文抓取返回 HTTP 303，时间线仅来自检索片段。④ 本药 82 条疗效检索命中与 15 条"withdrawal／market"检索命中未逐篇核读，未核对重要阴性研究。⑤ NMPA HTTP 412、CDE 202 校验页导致中国口径整体待核实，未以商业药品库补足。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
-
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
 ## 11. 深入分析与来源
 
 - WHO ATC/DDD Index [G04BD 子组](https://atcddd.fhi.no/atc_ddd_index/?code=G04BD&display=subgroup)（Last updated 2026-01-20）

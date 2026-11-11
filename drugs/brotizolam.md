@@ -127,10 +127,6 @@
 
 - **2026-11-10 复核**：德国 ABDA 药品数据库（aponet.de）仍有 [Lendorm 0.25 mg 片条目（Pharma Gerke，2025-12 数据）](https://www.aponet.de/service/arzneimitteldatenbank/arzneimittel/anwendungsdetails/zusammensetzung/3341484300/Schlafst%C3%B6rung) 与 [同品种条目（EMRA-MED，2026-09 数据）](https://www.aponet.de/arzneimittel/arzneimitteldatenbank/arzneimittel/anwendungsdetails/zusammensetzung/3347968300/Schlafst%C3%B6rung)，均为处方药。本次未取得 BfArM 登记或 Fachinformation 原件，二次转录不进入监管层。美英法西四库仍为 0 条。
 
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
-- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「ブロチゾラム」17 件（一般名一致条目如 レンドルミンD錠0.25mg）。命中条目为 PMDA 现公开添付文書，可按一般名复核。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
-
 - **PMDA 添付文書全文（2026-11-11 取回）**：`JP-PMDA` 为レンドルミンD錠0.25mg 添付文書（添付文書番号 `1124009F2025_1_19`，2023-01 第 1 版／2025-10 第 2 版，YJ コード `1124009F2025`，承認番号 `21400AMZ00353000`），XML 取自 [PMDA ResultDataSetXML](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetXML/650168_1124009F2025_1_19)。适应证与用法用量等各项均按该文本核对。
 
 ## 11. 深入分析与来源

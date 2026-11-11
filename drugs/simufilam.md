@@ -82,10 +82,6 @@
 - 未读取但已定位的材料：`CT-4388254`（含随机撤药期的 II 期延伸设计）、`CT-3784300`／`CT-4932655`／`CT-6390410`／`CT-6195319`（药代与质量平衡条目）的张贴数值。生物标志物亚研究的具体读数。两项 III 期不良事件的汇总率。这些缺口不影响"两项共同主要终点均阴性"这一结论，但影响任何关于安全性幅度或标志物效应的进一步陈述。
 - 与同组其他实体的关系：本药不是抗淀粉样蛋白抗体（ARIA 语境不适用，见 [aducanumab](aducanumab.md)、[lecanemab](lecanemab.md)、[donanemab](donanemab.md)、[gantenerumab](gantenerumab.md)）。也不是 tau 主动免疫候选（见 [jnj-2056](jnj-2056.md)）。与胆碱酯酶抑制剂（[donepezil](donepezil.md) 等）在机制层无继承关系。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
-
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
 ## 11. 深入分析与来源
 
 - `CT-5026177`（RETHINK-ALZ）：https://clinicaltrials.gov/study/NCT05026177（TERMINATED／PHASE3／主完成 2024-12-30 实际／结果张贴 2025-09-22。两条 PRIMARY 条目与 P 值见 §5）

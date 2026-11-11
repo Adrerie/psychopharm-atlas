@@ -89,10 +89,6 @@ AD 方向的当代证据链：Cummings 2026 pipeline 把 huperzine A 列为在�
 
 - **2026-11-10 复核记录**：WHO ATC/DDD 2026 的 N06DA 与 N06DX 亚组页仍不含本实体，DailyMed 按 huperzine 检索仍仅 1 条复方补充剂类条目，英国 emc 无产品条目，西班牙 CIMA 0 条，法国 BDPM 0 行。中国药品信息门户另检得石杉碱甲片国药准字 H10940156（河南太龙，商品名哈伯因），门户层信息只作线索，未取得 NMPA 原文。
 
-- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
-
-- **PMDA 添付文書等情報検索（入口 https://www.pmda.go.jp/PmdaSearch/iyakuSearch/，2026-11-11 浏览器检索）**：「フペルジンA」0 件。检索为 PMDA 实时公开库，0 件表示该名称当前无公开发布的添付文書，不据此推断从未在日本上市或未获批。PMDA 收录为日本现行公开的添付文書。
-
 ## 11. 深入分析与来源
 
 - `PC-854026`：https://pubchem.ncbi.nlm.nih.gov/compound/854026
