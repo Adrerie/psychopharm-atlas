@@ -779,6 +779,49 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | betahistine | 33 | 02449145 | AURO PHARMA INC | AURO-BETAHISTINE |
 | flunarizine | 3 | 02246082 | AA PHARMA INC | FLUNARIZINE |
 
+### 4.14 澳大利亚 TGA ARTG 第六批（2026-11-11）
+
+对 20 个药名检索 TGA，12 份写入 ARTG 条目。caffeine 与 tryptophan 只解析到复方或营养制剂，bromazepam、flurazepam、biperiden、trihexyphenidyl、bromocriptine、selegiline 未解析到条目，均未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| alprazolam | 71 | 387290 | ALPRAZOLAM SANDOZ alprazolam 1 mg tablet blister pack |
+| diazepam | 61 | 335823 | DIAZEPAM-ARX diazepam 2 mg tablet bottle |
+| midazolam | 133 | 442831 | MIDAZOLAM MEDICIANZ midazolam 5 mg/1 mL solution for injection ampoule |
+| oxcarbazepine | 13 | 152790 | Oxcarbazepine Tablets 600 mg BULK (EU) |
+| lecanemab | 12 | 409061 | LEQEMBI lecanemab 500 mg/5 mL concentrated injection vial |
+| donanemab | 5 | 420194 | KISUNLA donanemab 350 mg/20 mL concentrated solution for intravenous infusion vial |
+| amantadine | 9 | 398490 | AMANTADINE MEDICIANZ amantadine hydrochloride 100 mg capsule blister pack |
+| levodopa | 150 | 427013 | ORIDOPA 100/25 levodopa 100 mg/carbidopa (as monohydrate) 25 mg tablet bottle |
+| pramipexole | 250 | 227664 | PRAMIPEXOLE SCP pramipexole dihydrochloride monohydrate 1 mg tablet blister pack |
+| ropinirole | 49 | 462696 | HARUROPI ropinirole (as hydrochloride) 4 mg/24 hr transdermal drug delivery system sachet |
+| rasagiline | 55 | 411471 | RASAGILINE JAMP rasagiline (as mesilate) 1 mg tablet blister pack |
+| safinamide | 49 | 509988 | SAFINAMIDE MEDICIANZ safinamide (as mesilate) 50 mg tablet blister pack |
+
+### 4.15 加拿大 DPD 第七批（2026-11-11）
+
+对 20 个活性成分检索 Health Canada DPD，17 份有与药名一致的 Marketed 产品并写入档案。caffeine 与 tryptophan 只匹配到复方或营养制剂，biperiden 未捕获结果，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| alprazolam | 50 | 00865397 | APOTEX INC | APO-ALPRAZ |
+| bromazepam | 24 | 02177161 | APOTEX INC | APO-BROMAZEPAM |
+| diazepam | 38 | 02238162 | BAUSCH HEALTH, CANADA INC. | DIASTAT |
+| flurazepam | 20 | 00521698 | AA PHARMA INC | FLURAZEPAM |
+| midazolam | 33 | 02559579 | NEURAXPHARM PHARMACEUTICALS, S.L. | BUCCOLAM |
+| oxcarbazepine | 22 | 02284294 | APOTEX INC | APO-OXCARBAZEPINE |
+| lecanemab | 2 | 02562383 | EISAI LIMITED | LEQEMBI |
+| donanemab | 2 | 02567725 | ELI LILLY CANADA INC | KISUNLA |
+| trihexyphenidyl | 16 | 00545058 | AA PHARMA INC | TRIHEXYPHENIDYL |
+| amantadine | 14 | 02538601 | ODAN LABORATORIESLTD | ODAN-AMANTADINE SYRUP |
+| levodopa | 65 | 02245211 | AA PHARMA INC | AA-LEVOCARB CR |
+| bromocriptine | 18 | 02087324 | AA PHARMA INC | BROMOCRIPTINE |
+| pramipexole | 69 | 02297302 | TEVA CANADA LIMITED | ACT PRAMIPEXOLE |
+| ropinirole | 53 | 02314037 | SUN PHARMA CANADA INC | SPC-ROPINIROLE |
+| selegiline | 16 | 02230641 | AA PHARMA INC | SELEGILINE |
+| rasagiline | 14 | 02404680 | APOTEX INC | APO-RASAGILINE |
+| safinamide | 2 | 02484641 | XEDITON PHARMACEUTICALS INC | ONSTRYV |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
