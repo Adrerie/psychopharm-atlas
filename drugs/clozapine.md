@@ -141,4 +141,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AH02`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AH02)。[Wikidata Q221361](https://www.wikidata.org/wiki/Q221361)。[PubChem CID 135398737](https://pubchem.ncbi.nlm.nih.gov/compound/135398737)。[MeSH D003024](https://meshb.nlm.nih.gov/record/ui?ui=D003024)。[DrugBank DB00363](https://www.drugbank.ca/r/DB00363)。[RxNorm RXCUI 2626](https://rxnav.nlm.nih.gov/REST/rxcui/2626.json)。
 
 - 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
+- EPS 与迟发性运动障碍的剂量绑定、抗胆碱药边界与 TD 治疗位置见 [eps-td-dose-links-and-anticholinergic-boundary.md](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

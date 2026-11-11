@@ -107,4 +107,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AB06`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AB06)。[Wikidata Q1752915](https://www.wikidata.org/wiki/Q1752915)。[PubChem CID 5566](https://pubchem.ncbi.nlm.nih.gov/compound/5566)。[MeSH D014268](https://meshb.nlm.nih.gov/record/ui?ui=D014268)。[DrugBank DB00831](https://www.drugbank.ca/r/DB00831)。[RxNorm RXCUI 10800](https://rxnav.nlm.nih.gov/REST/rxcui/10800.json)。English Wikipedia（标题指针，未复制正文）：[Trifluoperazine](https://en.wikipedia.org/wiki/Trifluoperazine)。
 
+- EPS 与迟发性运动障碍的剂量绑定、抗胆碱药边界与 TD 治疗位置见 [eps-td-dose-links-and-anticholinergic-boundary.md](../analysis/eps-td-dose-links-and-anticholinergic-boundary.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
