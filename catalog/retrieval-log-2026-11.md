@@ -726,6 +726,32 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | pregabalin | lyrica | 成人周围与中枢神经病理性疼痛、部分性发作添加治疗与广泛性焦虑障碍 |
 | varenicline | champix | 成人戒烟 |
 
+### 4.10 澳大利亚 TGA ARTG 第四批（2026-11-11）
+
+对 14 个药名检索 TGA，6 份写入 ARTG 条目。trimipramine、meclizine、scopolamine、triazolam、disulfiram、dexmethylphenidate、maprotiline 未解析到条目，acetazolamide 无对应档案，均未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| prochlorperazine | 59 | 527208 | PHARMACY CHOICE PROCHLORPERAZINE prochlorperazine maleate 5 mg tablet blister pack (new formulation) |
+| dimenhydrinate | 27 | 510307 | Travamine Syrup Dimenhydrinate 3.3mg/mL Oral Liquid Bottle |
+| temazepam | 11 | 408408 | TEMAZE temazepam 10mg tablet blister pack |
+| amoxapine | 4 | 198131 | AMOXAPIN 250mg capsule blister pack |
+| phenelzine | 7 | 462329 | NARDIL phenelzine 15mg (as sulfate) tablet bottle |
+| suvorexant | 10 | 207712 | BELSOMRA suvorexant 20mg tablet blister pack |
+
+### 4.11 加拿大 DPD 第五批（2026-11-11）
+
+对 14 个活性成分检索 Health Canada DPD，6 份有与药名一致的 Marketed 产品并写入档案。meclizine、disulfiram、dexmethylphenidate、amoxapine、maprotiline、phenelzine、suvorexant 的已捕获行未见 Marketed 示例，acetazolamide 无对应档案，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| prochlorperazine | 19 | 00789720 | ODAN LABORATORIESLTD | ODAN-PROCHLORPERAZINE |
+| trimipramine | 32 | 00740799 | AA PHARMA INC | TRIMIPRAMINE |
+| dimenhydrinate | 72 | 02241532 | VITA HEALTH PRODUCTS INC | ANTI-NAUSEANT |
+| scopolamine | 22 | 02242810 | JUNO PHARMA CANADA INC. | SCOPOLAMINE HYDROBROMIDE INJECTION |
+| triazolam | 16 | 00808571 | AA PHARMA INC | TRIAZOLAM |
+| temazepam | 30 | 00604453 | AA PHARMA INC | RESTORIL |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
