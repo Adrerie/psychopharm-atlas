@@ -1000,3 +1000,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 
 **境外生产药品补检索（同日）**：对 179 份无境内批准记录的档案查 NMPA 境外生产药品库，8 份命中并写入 HJ 批准文号示例（duloxetine、escitalopram、esketamine、fluoxetine、fluvoxamine、ginkgo-folium、haloperidol、milnacipran）。trospium 的命中实为异丙托溴铵，已排除。
 **名称补检索（同日）**：对 15 份标题未带可解析中文名的档案按常用译名补查 CDE 受理品种目录，5 份命中并写入最近受理号，涉及 pralidoxime、iloperidone、etifoxine、fampridine 与 bupropion／dextromethorphan 复方。这批档案的 NMPA 境内生产药品补查于当日再次遇到站点限流，未取得结果，不写入档案。
+**空响应档案重试（同日）**：首批 234 份中有 131 份接口响应为空，本次重试 80 份，41 份命中并写入批准文号示例（表见 [逐名监管检索记录](catalog/retrieval-log-2026-11.md)）。promazine（返回二氧丙嗪）与 pentobarbital（返回异戊巴比妥复方）排除。重试期间站点再次限流，剩余 53 份未取得结果，留待下次。
