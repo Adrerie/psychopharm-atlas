@@ -120,4 +120,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AA09`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA09)。[Wikidata Q58397](https://www.wikidata.org/wiki/Q58397)。[PubChem CID 2160](https://pubchem.ncbi.nlm.nih.gov/compound/2160)。[MeSH D000639](https://meshb.nlm.nih.gov/record/ui?ui=D000639)。[DrugBank DB00321](https://www.drugbank.ca/r/DB00321)。[RxNorm RXCUI 704](https://rxnav.nlm.nih.gov/REST/rxcui/704.json)。English Wikipedia（标题指针，未复制正文）：[Amitriptyline](https://en.wikipedia.org/wiki/Amitriptyline)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。

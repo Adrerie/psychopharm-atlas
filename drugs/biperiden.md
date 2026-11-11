@@ -186,4 +186,5 @@
 
 **分类与身份**：[PubChem CID 2381](https://pubchem.ncbi.nlm.nih.gov/compound/2381)（C21H29NO，311.5）。[KEGG DRUG D02247](https://www.genome.jp/entry/D02247)（聚合库身份线索）。English Wikipedia（标题指针，未复制正文）：[Biperiden](https://en.wikipedia.org/wiki/Biperiden)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。

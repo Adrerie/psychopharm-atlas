@@ -116,4 +116,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06AA04`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA04)。[Wikidata Q58713](https://www.wikidata.org/wiki/Q58713)。[PubChem CID 2801](https://pubchem.ncbi.nlm.nih.gov/compound/2801)。[MeSH D002997](https://meshb.nlm.nih.gov/record/ui?ui=D002997)。[DrugBank DB01242](https://www.drugbank.ca/r/DB01242)。[RxNorm RXCUI 2597](https://rxnav.nlm.nih.gov/REST/rxcui/2597.json)。English Wikipedia（标题指针，未复制正文）：[Clomipramine](https://en.wikipedia.org/wiki/Clomipramine)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。

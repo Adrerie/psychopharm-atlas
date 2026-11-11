@@ -112,4 +112,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AH03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AH03)。[Wikidata Q201872](https://www.wikidata.org/wiki/Q201872)。[PubChem CID 135398745](https://pubchem.ncbi.nlm.nih.gov/compound/135398745)。[MeSH D000077152](https://meshb.nlm.nih.gov/record/ui?ui=D000077152)。[DrugBank DB00334](https://www.drugbank.ca/r/DB00334)。[RxNorm RXCUI 61381](https://rxnav.nlm.nih.gov/REST/rxcui/61381.json)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。

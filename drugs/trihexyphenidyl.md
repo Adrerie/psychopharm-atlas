@@ -127,4 +127,5 @@
 
 **分类与身份**：[PubChem CID 5572](https://pubchem.ncbi.nlm.nih.gov/compound/5572)（C20H31NO，301.5。盐酸盐 337.93 由标签 §DESCRIPTION 记录）。English Wikipedia（标题指针，未复制正文）：[Trihexyphenidyl](https://en.wikipedia.org/wiki/Trihexyphenidyl)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。

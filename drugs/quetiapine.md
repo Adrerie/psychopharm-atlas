@@ -126,4 +126,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05AH04`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AH04)。[Wikidata Q408535](https://www.wikidata.org/wiki/Q408535)。[PubChem CID 5002](https://pubchem.ncbi.nlm.nih.gov/compound/5002)。[DrugBank DB01224](https://www.drugbank.ca/r/DB01224)。[RxNorm RXCUI 51272](https://rxnav.nlm.nih.gov/REST/rxcui/51272.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Quetiapine)。
 
+- 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
 统计与缺口见 [目录索引](../catalog/index.md)。
