@@ -74,7 +74,9 @@
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名 masitinib 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。Federal Register API 按 masitinib 检索命中 4 条。其中 2016-01-21 的两份文件题为「Conditional Approval of a New Animal Drug No Longer In Effect; Masitinib Mesylate Tablets」，指向兽用产品（犬用 Masivet 类制剂）的有条件批准已失效，按规则不得当作人用药品监管文本。英国 emc 按 masitinib 检索 0 条。法国 BDPM 按 MASITINIB 前缀检索 0 条。西班牙 CIMA 按 masitinib 检索 0 条。上述均为检索事实，不写成"人用未批准"以外的否定性结论，也不把兽用批件写成人用适应证或剂量。状态保持 `basic`。
 
-- **中国注册检索记录**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 13 条受理记录；最近一条为受理号 JXHL1600032、药品名称「甲磺酸马赛替尼片」、申请类型 进口、承办日期 2016-05-10。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+- **中国注册检索记录**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 13 条受理记录。最近一条为受理号 JXHL1600032、药品名称「甲磺酸马赛替尼片」、申请类型 进口、承办日期 2016-05-10。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
+- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
 ## 11. 深入分析与来源
 

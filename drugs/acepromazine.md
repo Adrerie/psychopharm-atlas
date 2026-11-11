@@ -113,7 +113,9 @@
 8. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `acepromazine` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索返回 18 条且全部为兽用标签（见下一条），法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 9. **2026-11-10 复核新增（兽用证据）**：DailyMed 按 `drug_name=acepromazine` 返回 18 条，全部为兽用标签，例如 ACEPROMAZINE MALEATE TABLET [ZYVET ANIMAL HEALTH INC.]、ACEPROMAZINE MALEATE INJECTION [COVETRUS NORTH AMERICA] 与 PROMACE (ACEPROMAZINE MALEATE) [BOEHRINGER INGELHEIM ANIMAL HEALTH USA INC.]，无人体标签。《联邦公报》相关条目亦为兽药批准与撤批通告（2023-05-03、2023-12-06 的 New Animal Drugs 文件）。这一分布支持 §1 的「只有兽用批准」表述。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
+- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
 ## 11. 深入分析与来源
 

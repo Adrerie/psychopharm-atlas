@@ -86,7 +86,9 @@
 
 - **2026-11-10 复核**：公司 [2026-04-10 公告](https://www.annovisbio.com/press-release/annovis-closes-10-million-offering-extending-cash-runway-through-phase-3-alzheimers-disease-6-month-nda-submission) 称 AD Ⅲ 期入组约 75%、计划提交首个 NDA、6 个月症状学数据预期 2027 年一季度，另有 [2024-07 关于新晶型的公告](https://www.annovisbio.com/press-release/annovis-bio-receives-fda-approval-to-transition-to-new-crystal-form-of-buntanetap)。以上均为申办方口径，不构成批准、适应证或疗效结论。美国 DailyMed 仍 0 条。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
+- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
 ## 11. 深入分析与来源
 

@@ -81,7 +81,9 @@
 - **商品名与实体的归属**：1957-1960 年系列论文将受试物记为 citrated calcium carbimide，并使用 Temposil 名称（`PMID:13480874`、`PMID:13627270`）。Health Canada DPD 的 TEMPOSIL TAB 50MG 历史产品记录列明 calcium carbimide 50 mg/tablet（`HC-DPD`）。FDA SRS 的 `CALCIUM CYANAMIDE CITRATED` 物质记录将 TEMPOSIL、ABSTEM 与 COLME 列为同义名。CYAMID 与 DIPSAN 亦在同义名表中（`FDA-SRS`）。两项官方数据库记录共同支持 Temposil 与卡巴米得类物质的历史关联，但没有提供足以协调盐型、配方与试验产品的原始说明书。因此本档案只将其作为历史产品关联，不推断当前上市或制剂可互换。**Alcover 明确为 sodium oxybate**（`EMA-ALCOVER`），不得列作本药商品名。`Carbidix` 未取得可靠监管或物质登记来源，不保留为已确认商品名。**氰胺（cyanamide）与卡巴米得钙按不同注册实体分列**：母体氰胺的阳性随机试验（`PMID:12554608`）与血液学个案（`PMID:15991038`）只在"母体证据"标注下引用，不计入本实体的疗效结论或评分。
 - 双硫仑条目与本条目互不继承证据与评分（分界见 §1）。
 
-- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中；该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）；公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+- **中国注册检索记录（2026-11-11）**：CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d）经浏览器按本页所列名称检索未命中。该目录只收录申报受理记录，未命中不等于没有申报。NMPA 数据查询本轮仍返回 HTTP 412，批准文号与核准适应证待核实。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
+
+- **NMPA 数据查询（入口 https://datasearch.nmpa.gov.cn/datasearch/home-index.html，2026-11-11 浏览器检索）**：境内生产药品按本页所列名称检索 0 条。境外生产药品按本页所列名称检索 0 条。麻精品种目录按名检索 0 条。检索为逐笔浏览器查询。未返回条目按检索事实记录，不据此推断未上市或未申报。
 
 ## 11. 深入分析与来源
 
