@@ -1002,3 +1002,5 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **名称补检索（同日）**：对 15 份标题未带可解析中文名的档案按常用译名补查 CDE 受理品种目录，5 份命中并写入最近受理号，涉及 pralidoxime、iloperidone、etifoxine、fampridine 与 bupropion／dextromethorphan 复方。这批档案的 NMPA 境内生产药品补查于当日再次遇到站点限流，未取得结果，不写入档案。
 **空响应档案重试（同日）**：首批 234 份中有 131 份接口响应为空，本次重试 80 份，41 份命中并写入批准文号示例（表见 [逐名监管检索记录](catalog/retrieval-log-2026-11.md)）。promazine（返回二氧丙嗪）与 pentobarbital（返回异戊巴比妥复方）排除。重试期间站点再次限流，剩余 53 份未取得结果，留待下次。
 **日本 PMDA 补检索（同日）**：按日文名检索 PMDA 添付文書等情報検索并取回现行 XML，8 份档案写入收载适应症与剂量要点，涉及 fluvoxamine、milnacipran、mirtazapine、sertraline、paroxetine、escitalopram、donepezil 与 memantine。blonanserin 与 perospirone 检索到标签，但仓库无对应档案，未写入。
+**日本 PMDA 第二批（同日）**：再检索 10 个日文名并解析现行 XML，写入 mosapramine、quazepam、triazolam、zolpidem、sulpiride、sultopride、tofisopam、clotiazepam、bromazepam 与 flunitrazepam 的收载适应症与剂量要点。其中 tofisopam 的日本适应症为自主神经症状而非焦虑障碍，zolpidem 明确除外精神分裂症与躁郁症伴发失眠，两处均按原文写入。
+**空响应档案补齐（同日）**：待补的 53 份在后续窗口补得 52 份，22 份命中并写入批准文号示例，tetrabenazine（返回氘丁苯那嗪）与 trospium（返回异丙托溴铵复方）排除。pramipexole 当日未取得结果。
