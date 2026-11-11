@@ -122,4 +122,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N06AB06`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AB06)。[Wikidata Q407617](https://www.wikidata.org/wiki/Q407617)。[PubChem CID 68617](https://pubchem.ncbi.nlm.nih.gov/compound/68617)。[MeSH D020280](https://meshb.nlm.nih.gov/record/ui?ui=D020280)。[DrugBank DB01104](https://www.drugbank.ca/r/DB01104)。[RxNorm RXCUI 36437](https://rxnav.nlm.nih.gov/REST/rxcui/36437.json)。
 
 - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
+- 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

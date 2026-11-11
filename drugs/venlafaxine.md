@@ -144,4 +144,5 @@
 - 英国 emc SmPC：[Efexor XL 150 mg（emc 1219）](https://www.medicines.org.uk/emc/product/1219/smpc)、[Venlafaxine 75 mg tablets（emc 764）](https://www.medicines.org.uk/emc/product/764/smpc)
 - 研究与指南：[PMID:29477251 Cipriani 2018 成人网络荟萃](https://pubmed.ncbi.nlm.nih.gov/29477251/)｜[PMID:27289172 Cipriani 2016 儿童青少年网络荟萃](https://pubmed.ncbi.nlm.nih.gov/27289172/)｜[PMID:38851198 停药症状发生率荟萃（Lancet Psychiatry 2024）](https://pubmed.ncbi.nlm.nih.gov/38851198/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)｜[NICE NG222 成人抑郁（2022-06-29）](https://www.nice.org.uk/guidance/ng222)
 - - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
+- 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

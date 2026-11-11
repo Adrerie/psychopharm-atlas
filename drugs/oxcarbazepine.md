@@ -134,4 +134,5 @@
 
 **分类与身份**：[PubChem CID 34312](https://pubchem.ncbi.nlm.nih.gov/compound/34312)。[Wikidata Q176301](https://www.wikidata.org/wiki/Q176301)。English Wikipedia（标题指针，未复制正文）：[Oxcarbazepine](https://en.wikipedia.org/wiki/Oxcarbazepine)。
 
+- 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

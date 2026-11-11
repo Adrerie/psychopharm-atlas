@@ -132,4 +132,5 @@
 - DailyMed／openFDA（2026-10-08 检索）：[REMERON／REMERONSolTab setid 98ad1917…](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887)
 - 英国 emc SmPC：[Mirtazapine 15 mg film-coated tablets（emc 100723）](https://www.medicines.org.uk/emc/product/100723/smpc)
 - 研究与指南：[PMID:29477251 Cipriani 2018 成人网络荟萃](https://pubmed.ncbi.nlm.nih.gov/29477251/)｜[PMID:27289172 Cipriani 2016 儿童青少年网络荟萃](https://pubmed.ncbi.nlm.nih.gov/27289172/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)｜[NICE NG222 成人抑郁（2022-06-29）](https://www.nice.org.uk/guidance/ng222)
-- 统计与缺口见 [目录索引](../catalog/index.md)。
+- - 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。

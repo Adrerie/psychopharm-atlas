@@ -152,4 +152,5 @@ SSRI／SNRI 之间同用"not recommended"。
 **分类与身份**：[WHO ATC/DDD Index `N06AB10`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AB10)。[Wikidata Q423757](https://www.wikidata.org/wiki/Q423757)。[PubChem CID 146570](https://pubchem.ncbi.nlm.nih.gov/compound/146570)。[MeSH D000089983](https://meshb.nlm.nih.gov/record/ui?ui=D000089983)。[DrugBank DB01175](https://www.drugbank.ca/r/DB01175)。[RxNorm RXCUI 321988](https://rxnav.nlm.nih.gov/REST/rxcui/321988.json)。
 
 - 停药症状、配对数字与半衰期解释的跨档案边界见 [antidepressant-discontinuation-label-boundaries.md](../analysis/antidepressant-discontinuation-label-boundaries.md)。
+- 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
