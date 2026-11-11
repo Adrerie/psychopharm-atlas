@@ -63,3 +63,5 @@
 - [美国外消旋氯胺酮注射液标签（Civica, Inc.，ANDA074524，setid 58c86d9b-8694-4bd8-8254-f19ee3ad60b0）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58c86d9b-8694-4bd8-8254-f19ee3ad60b0)（§1、§9）
 - [口服缓释消旋氯胺酮 KET01 与鼻喷艾司氯胺酮的解离与药代对照（JAMA Netw Open 2026、PMID:42340723）](https://pubmed.ncbi.nlm.nih.gov/42340723/)
 - [英国《1971 年药物滥用法》附表 2（第二部分第 2 段立体异构体条款）](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2)，另见 [gov.uk 常用受管制药物清单](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

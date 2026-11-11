@@ -53,4 +53,4 @@
 - 标签版本与章节号见各主条目 §11 的引用键。PIM 条款见 [amitriptyline](../drugs/amitriptyline.md)、[paroxetine](../drugs/paroxetine.md) 与 [olanzapine](../drugs/olanzapine.md) 的 §2.1 与 §10。
 - 老年队列的占比数据来自各档案所引单中心研究（`PMID:42756141`），引用时必须保留"单中心、门诊、PIM 判定占比"这三个限定。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

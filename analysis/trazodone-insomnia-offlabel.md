@@ -51,3 +51,5 @@
 - 原始研究与荟萃：[PMID:36002579 PSG 睡眠结构荟萃](https://pubmed.ncbi.nlm.nih.gov/36002579/)｜[PMID:41081841 抑郁共病失眠荟萃](https://pubmed.ncbi.nlm.nih.gov/41081841/)｜[PMID:21798674 美沙酮维持 RCT](https://pubmed.ncbi.nlm.nih.gov/21798674/)
 - 处方构成：[PMID:28228380 抗抑郁药 off-label 处方（魁北克）](https://pubmed.ncbi.nlm.nih.gov/28228380/)｜[PMID:39297769 失眠门诊用药构成](https://pubmed.ncbi.nlm.nih.gov/39297769/)
 - 跨药疗效位置：[PMID:29477251 Lancet 2018 网络荟萃](https://pubmed.ncbi.nlm.nih.gov/29477251/)
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

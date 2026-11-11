@@ -55,3 +55,5 @@
 - [上市后肝监测依从率研究（厂家参与资助、PMID:31933191）](https://pubmed.ncbi.nlm.nih.gov/31933191/)
 - [26 周国际多中心安全性队列（PMID:32976677）](https://pubmed.ncbi.nlm.nih.gov/32976677/)
 - [CYP1A2 多态性与急性肝损伤个案及文献回顾（PMID:34766583）](https://pubmed.ncbi.nlm.nih.gov/34766583/)
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

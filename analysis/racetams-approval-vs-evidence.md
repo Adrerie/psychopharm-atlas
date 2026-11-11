@@ -48,4 +48,4 @@ NMPA 数据查询的境内生产药品条目同理。目录登记条目与核准
 - 标签版本与章节号见各主条目 §11 的引用键。奥拉西坦韩国试验、普拉西坦富集试验与丙戊茶碱 Cochrane 综述的 PMID 见各档案 §5。
 - 中国受理记录见 [retrieval-log-2026-11.md](../catalog/retrieval-log-2026-11.md) 第 1 节。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

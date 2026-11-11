@@ -50,4 +50,4 @@
 - 研究与综述：[PMID:6111408](https://pubmed.ncbi.nlm.nih.gov/6111408/)（奥沙西泮与劳拉西泮临床药代综述），[PMID:769632](https://pubmed.ncbi.nlm.nih.gov/769632/)（急性病毒性肝炎与肝硬化中**奥沙西泮**的正常处置），[PMID:6370437](https://pubmed.ncbi.nlm.nih.gov/6370437/)，[PMID:19371497](https://pubmed.ncbi.nlm.nih.gov/19371497/)，[PMID:24011687](https://pubmed.ncbi.nlm.nih.gov/24011687/)，[PMID:31176787](https://pubmed.ncbi.nlm.nih.gov/31176787/)，[PMID:8123967](https://pubmed.ncbi.nlm.nih.gov/8123967/)，[PMID:35194860](https://pubmed.ncbi.nlm.nih.gov/35194860/)，[PMID:8116487](https://pubmed.ncbi.nlm.nih.gov/8116487/)（苯二氮䓬样配体与肝性脑病）。
 - 未解决项：本药在肝硬化或失代偿肝病人群中的**临床结局**（脑病发生率、镇静深度、戒断成功率）未取得分组数据。英国两份 SmPC 的 §5.2 未给出肝损分组研究的样本量与 Child-Pugh 分层。中国上市制剂与核准适应证未取回（NMPA HTTP 412、CDE 页面脚本校验未通过）。本页因此不对"肝病人群选哪个苯二氮䓬"给出排序性结论。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

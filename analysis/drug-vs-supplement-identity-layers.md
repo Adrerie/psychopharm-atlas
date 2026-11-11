@@ -52,4 +52,4 @@
 - 监管身份、产品号与 SmPC 版本见各主条目 §11 的引用键。补充剂层的 DSHEA 说明与中国保健食品原料目录条目见 [melatonin](../drugs/melatonin.md) §1 与 §10。
 - 甲氯芬酯补充剂实测范围见该条目所引 `PMID:35959800`，银杏叶提取物身份见该条目所引 `PMID:12757407`。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

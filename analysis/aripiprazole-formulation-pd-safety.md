@@ -113,3 +113,5 @@
 **指南**：[NICE CG178（2026-09-04 更新）](https://www.nice.org.uk/guidance/cg178)、[NICE NG222（2022-06-29）](https://www.nice.org.uk/guidance/ng222)。
 
 **研究**：[PMID:31303314](https://pubmed.ncbi.nlm.nih.gov/31303314/)（402 项试验网络荟萃，含 116 项／25,783 人的静坐不能分析与催乳素分组）、[PMID:28777129](https://pubmed.ncbi.nlm.nih.gov/28777129/)（EudraVigilance 冲动控制障碍失衡分析）、[PMID:26658263](https://pubmed.ncbi.nlm.nih.gov/26658263/)（赌博行为系统综述）。
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

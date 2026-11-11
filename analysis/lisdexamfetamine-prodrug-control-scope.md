@@ -53,4 +53,4 @@
 - **文献**：[CNS Drugs 2014 本药安全性系统综述（`PMID:24788672`）](https://pubmed.ncbi.nlm.nih.gov/24788672/)。[JAMA Psychiatry 2025 美国成人处方兴奋剂误用与使用障碍（`PMID:40105821`）](https://pubmed.ncbi.nlm.nih.gov/40105821/)。
 - **未解决项**：中国对"前药是否随母体条目列管"的官方解释、美国 DEA 层面对 lisdexamfetamine 的列管条文原文与生效日期、英国 Regulations 层面的处方与储存细则，以及两者之间是否存在头对头的滥用流行病学比较（本次未检得）。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

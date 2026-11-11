@@ -9,6 +9,7 @@ Psychopharm Atlas 是一个以精神药理学为核心的开放阅读型知识�
 ## 项目文档
 
 - [catalog/index.md](catalog/index.md)：分类目录索引与覆盖进度。
+- [catalog/analyses.md](catalog/analyses.md)：21 份问题导向专题的索引与维护规则。
 - [catalog/retrieval-log-2026-11.md](catalog/retrieval-log-2026-11.md)：2026-11-11 逐名监管检索记录（CDE 受理、NMPA 数据查询、PMDA、其他法域）。
 - [PLAN.md](PLAN.md)：Wave 1–16 的计划、完成与审阅修补记录，以及 2026-11-11 的补证与整理记录。
 - [HANDOFF.md](HANDOFF.md)：当前接手状态、尚未解决的来源缺口和继续维护原则。

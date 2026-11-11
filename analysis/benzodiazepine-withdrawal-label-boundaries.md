@@ -86,4 +86,4 @@
 - 标签与文献的完整引用见各主条目 §11 与其引用键。三份日本添付文書的编号与取回日期见各档案 §10 的 `JP-PMDA` 记录。
 - 停药干预的证据质量（逐步减量加非药物支持优于单纯减量，总体证据质量 very low 至 low）见 [diazepam](../drugs/diazepam.md) §6 所引 Cochrane 综述（`PMID:35815384`、`PMID:29543325`）。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

@@ -54,4 +54,4 @@
 - 主条目：[paroxetine](../drugs/paroxetine.md)、[venlafaxine](../drugs/venlafaxine.md)、[duloxetine](../drugs/duloxetine.md)、[fluoxetine](../drugs/fluoxetine.md)、[escitalopram](../drugs/escitalopram.md)、[citalopram](../drugs/citalopram.md)、[sertraline](../drugs/sertraline.md)、[fluvoxamine](../drugs/fluvoxamine.md)、[vortioxetine](../drugs/vortioxetine.md)、[desvenlafaxine](../drugs/desvenlafaxine.md)。
 - 标签版本、产品号与章节号见各主条目 §11 的引用键。合并分析、药物警戒研究与指南条款见各档案所引 PMID 与 NICE 编号。
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

@@ -123,3 +123,5 @@ Cross 2016 **原文表 2 按行给出** hD2 结合 pKi：quetiapine 7.25 ± 0.25
 - `PMID:25007003` Gao K 等 双相抑郁合并 GAD 阴性试验 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25007003/)
 - `PMID:27544830` Thompson W 等 失眠系统综述 [PubMed](https://pubmed.ncbi.nlm.nih.gov/27544830/)
 - 中国处方与药物利用证据见主条目 §2.1 与 §11：`PMID:34315410`、`PMID:42756141`。
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

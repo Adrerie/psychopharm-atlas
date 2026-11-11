@@ -86,4 +86,4 @@
   - CPAP 依从性与促醒药疗效是否互相调节的专门试验
   - OSA 人群长期心脑血管结局的任何随机证据
 
-统计与缺口见 [目录索引](../catalog/index.md)。
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。

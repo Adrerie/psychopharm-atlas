@@ -45,3 +45,5 @@
 - [PMID:23810019 Leucht 2013 *Lancet* 15 药多治疗荟萃](https://pubmed.ncbi.nlm.nih.gov/23810019/)
 - [PMID:31303314 Huhn 2019 *Lancet* 32 药网络荟萃](https://pubmed.ncbi.nlm.nih.gov/31303314/)
 - [PMID:40830714 Zhang 2025 *CNS Drugs* 九种第二代抗精神病药血清催乳素升高的中国住院队列](https://pubmed.ncbi.nlm.nih.gov/40830714/)
+
+统计与缺口见 [目录索引](../catalog/index.md)。全部专题见 [专题索引](../catalog/analyses.md)。
