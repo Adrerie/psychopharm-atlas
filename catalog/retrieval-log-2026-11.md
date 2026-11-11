@@ -955,6 +955,41 @@ EPAR 直接地址未命中的两种药，改用 EMA 第 30 条转介文件读取
 
 排除两处错配：clopenthixol 命中 Clopixol（活性成分为 zuclopenthixol），perazine 命中 Stelazine（活性成分为 trifluoperazine）。mianserin、melperone、fluspirilene、penfluridol、pipamperone、opipramol、thioridazine、levomepromazine、lofepramine、nitrazepam、dosulepin 在 medicines.ie 为 0 条。
 
+### 4.30 爱尔兰 HPRA SmPC 第二、三批（2026-11-11）
+
+medicines.ie 的浏览器端会间歇返回 "no available server" 空页，改用直接 HTTP 抓取后稳定。SPC 页面有两种形态，HTML 正文与内嵌 PDF（页面属性 `data-pdf-url` 指向 `/medicines/<slug>/document/spc/<id>/file`），后者用 pypdf 抽文本。适应证取 4.1 节至 4.2 节之间的原文。
+
+| 档案 | 爱尔兰产品 | 收载适应证 |
+| --- | --- | --- |
+| mirtazapine | Zismirt 30 mg 薄膜衣片 | 抑郁发作 |
+| venlafaxine | Efexor XL 150 mg 缓释胶囊 | 重度抑郁发作、预防抑郁复发、广泛性焦虑障碍、社交焦虑障碍、惊恐障碍（伴或不伴广场恐惧） |
+| paroxetine | Seroxat 10 mg 薄膜衣片 | 重度抑郁发作、强迫症、惊恐障碍（伴或不伴广场恐惧）、社交焦虑障碍、广泛性焦虑障碍、创伤后应激障碍 |
+| fluvoxamine | Faverin 100 mg 薄膜衣片 | 抑郁发作、强迫症 |
+| duloxetine | Cymbalta 30 mg 肠溶胶囊 | 重度抑郁障碍、糖尿病周围神经病理性疼痛、广泛性焦虑障碍，限成人 |
+| escitalopram | Escitalpro 10 mg 薄膜衣片 | 抑郁发作、惊恐障碍（伴或不伴广场恐惧）、社交焦虑障碍、广泛性焦虑障碍、强迫症 |
+| citalopram | Ciprager 10 mg 薄膜衣片 | 抑郁发作、惊恐障碍（伴或不伴广场恐惧） |
+| sertraline | Depreger 100 mg 薄膜衣片 | 抑郁发作、预防抑郁复发、惊恐障碍（伴或不伴广场恐惧）、强迫症（成人及 6–17 岁）、社交焦虑障碍、创伤后应激障碍 |
+| moclobemide | Manerix 150 mg 薄膜衣片 | 中度或重度抑郁 |
+| reboxetine | Edronax 4 mg 片 | 抑郁障碍的急性治疗，以及初始治疗有效者的临床改善维持 |
+| zopiclone | Zimoclone 7.5 mg 薄膜衣片 | 成人失眠的短期治疗，仅限症状严重、致残或造成极大痛苦时 |
+| zolpidem | Stilnoct 10 mg 薄膜衣片 | 成人失眠的短期治疗，限失眠导致功能受损或严重痛苦的情形 |
+| lorazepam | Ativan 1 mg 片 | 难以接受的致残性或痛苦性焦虑状态的短期治疗、焦虑伴发失眠的短期治疗，以及口腔科与普通外科手术前给药 |
+| alprazolam | Xanax 1 mg 片 | 成人焦虑的短期对症治疗，仅限症状严重、致残或造成极大痛苦时 |
+| olanzapine | Olanzapine Viatris 10 mg 薄膜衣片 | 成人精神分裂症（含维持疗效）、中度至重度躁狂发作，以及躁狂发作有效后预防双相障碍复发 |
+| quetiapine | Geroquel 100 mg 薄膜衣片 | 精神分裂症、双相障碍的中度至重度躁狂发作与抑郁发作，以及既往对喹硫平有效者的复发预防 |
+| risperidone | RISPERDAL 0.5 mg 薄膜衣片 | 精神分裂症、双相障碍中度至重度躁狂发作、阿尔茨海默病中重度痴呆持续性攻击行为（最多 6 周）、5 岁及以上品行障碍儿童青少年持续性攻击行为的短期对症治疗（最多 6 周） |
+| aripiprazole | ABILIFY 1 mg/ml 口服溶液 | 成人及 15 岁以上青少年精神分裂症、成人双相 I 型中度至重度躁狂发作与新发躁狂预防、13 岁以上青少年双相 I 型躁狂发作（最多 12 周） |
+| clozapine | Clozaril 100 mg 口崩片 | 成人及老年的治疗抵抗性精神分裂症以及对其他抗精神病药出现严重不可耐受神经系统不良反应者、帕金森病病程中的精神病性障碍 |
+| amisulpride | Amisulpride 200 mg 片 | 急性与慢性精神分裂症，含以阳性症状和／或阴性症状（缺陷综合征）为主者 |
+| lithium | Priadel 200 mg 缓释片 | 急性躁狂或轻躁狂发作、其他抗抑郁药治疗无效的复发性抑郁发作、双相情感障碍的预防，以及攻击行为或故意自伤的控制 |
+| lamotrigine | Lamictal 100 mg 咀嚼／分散片 | 癫痫（13 岁以上部分性与全身性发作的加用或单药治疗、Lennox-Gastaut 综合征相关发作，2–12 岁的加用治疗及典型失神单药治疗）、成人双相障碍抑郁发作的预防 |
+| gabapentin | Neurontin 100 mg 硬胶囊 | 癫痫（6 岁以上部分性发作的加用治疗、12 岁以上单药治疗）、成人周围神经病理性疼痛（如痛性糖尿病神经病与带状疱疹后神经痛） |
+
+本批写入 23 份档案。爱尔兰 SmPC 是本国上市许可文本，与 EMA 集中审批的 EPAR 不是同一层，两者分别记录。
+
+按活性成分检索为 0 条、未写入的术语：amitriptyline、clomipramine、imipramine、fluoxetine hydrochloride、buspirone、hydroxyzine、propranolol、diazepam、clonazepam、dosulepin、opipramol。该目录不是爱尔兰全部在售药品的完备清单，0 条只记作本次检索事实。carbamazepine（Tegretol）与 valproate（Epilim）的 PDF 已取得，但本次抽取未定位到 4.1 正文，未写入。
+
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。

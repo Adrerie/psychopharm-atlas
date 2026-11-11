@@ -1035,3 +1035,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **EMA 第 30 条转介补读（同日）**：EPAR 地址未命中的 quetiapine 与 risperidone，改从 EMA 第 30 条转介文件读取统一适应证并写入档案。另评估 medicines.ie（basic 档案药物多未在爱尔兰授权）与俄罗斯 ГРЛС（图形验证码阻断）两个来源，本轮未取得数据。
 **TGA 与加拿大 DPD 第十二轮（同日）**：TGA 第十二批仅 dosulepin（DOSULEPIN VIATRIS）写入 ARTG 条目；加拿大第十三批 10 个活性成分均未捕获人用 Marketed 示例。
 **爱尔兰 HPRA SmPC 补检索（同日）**：通过 medicines.ie 对 16 个药名检索并读取首个 SmPC 的 4.1 适应证，flupentixol（Depixol）、zuclopenthixol（Clopixol）与 sulpiride（Dolmatil）写入爱尔兰适应证。clopenthixol 命中 Clopixol（活性成分为 zuclopenthixol）、perazine 命中 Stelazine（活性成分为 trifluoperazine），两处按错配排除。
+**爱尔兰 HPRA SmPC 第二、三批（同日）**：medicines.ie 浏览器端间歇返回空页，改直接 HTTP 抓取，并从 SPC 页面内嵌 PDF 提取 4.1 节原文。23 份档案写入爱尔兰适应证，覆盖抗抑郁药、催眠药、抗焦虑药与抗精神病药。amitriptyline、clomipramine、imipramine、fluoxetine、buspirone、hydroxyzine、propranolol、diazepam、clonazepam、dosulepin、opipramol 在该目录检索为 0 条，未写入。carbamazepine 与 valproate 的 PDF 未抽到 4.1 正文，留待重试。
