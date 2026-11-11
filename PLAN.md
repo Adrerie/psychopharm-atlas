@@ -1009,3 +1009,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **日本 PMDA 第五批（同日）**：再检索 10 个日文名，10 份写入收载适应症与剂量要点（quetiapine、olanzapine、risperidone、aripiprazole、paliperidone、lurasidone、brexpiprazole、trazodone、venlafaxine、duloxetine）。quetiapine 解析到的标签只收载精神分裂症，paliperidone 解析到长效注射剂标签，均按原文记录。
 **日本 PMDA 第六批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（lorazepam、clonazepam、estazolam、nitrazepam、disulfiram、zotepine、periciazine、bromperidol、tiapride）。clonazepam 的日本标签只收载癫痫类发作、无惊恐障碍，按原文记录。mexazolam 的解析遇到连接中断，未写入。
 **mexazolam 重试**：PMDA 连接中断后补查成功，按 2024-02 修订标签写入神经症与心身症适应症、成人 1.5–3 mg/日分 3 次、老年上限 1.5 mg/日。
+**日本 PMDA 第七批（同日）**：再检索 10 个日文名，9 份写入收载适应症与剂量要点（biperiden、trihexyphenidyl、amantadine、bromocriptine、pramipexole、ropinirole、selegiline、rasagiline、betahistine）。biperiden 解析到的是注射剂标签，levodopa 解析到的是持续皮下输注制剂标签，后者未写入。amantadine 的日本标签另收载脑梗塞后遗症意欲低下与甲型流感，bromocriptine 的日本标签以高催乳素相关适应症为主，均按原文记录。
