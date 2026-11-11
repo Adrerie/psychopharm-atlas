@@ -1034,3 +1034,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **TGA 与加拿大 DPD 第十一轮（同日）**：TGA 第十一批 14 个药名全部未解析到 ARTG 条目；加拿大第十二批仅 nitrazepam（MOGADON）命中并写入，其余未捕获人用示例，lofexidine 与 opipramol 未完成。
 **EMA 第 30 条转介补读（同日）**：EPAR 地址未命中的 quetiapine 与 risperidone，改从 EMA 第 30 条转介文件读取统一适应证并写入档案。另评估 medicines.ie（basic 档案药物多未在爱尔兰授权）与俄罗斯 ГРЛС（图形验证码阻断）两个来源，本轮未取得数据。
 **TGA 与加拿大 DPD 第十二轮（同日）**：TGA 第十二批仅 dosulepin（DOSULEPIN VIATRIS）写入 ARTG 条目；加拿大第十三批 10 个活性成分均未捕获人用 Marketed 示例。
+**爱尔兰 HPRA SmPC 补检索（同日）**：通过 medicines.ie 对 16 个药名检索并读取首个 SmPC 的 4.1 适应证，flupentixol（Depixol）、zuclopenthixol（Clopixol）与 sulpiride（Dolmatil）写入爱尔兰适应证。clopenthixol 命中 Clopixol（活性成分为 zuclopenthixol）、perazine 命中 Stelazine（活性成分为 trifluoperazine），两处按错配排除。

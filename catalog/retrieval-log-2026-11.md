@@ -943,6 +943,18 @@ EPAR 直接地址未命中的两种药，改用 EMA 第 30 条转介文件读取
 
 检索 10 个活性成分，均未捕获到人用 Marketed 示例：maprotiline、isocarboxazid、dosulepin、pimavanserin、lumateperone、valbenazine、tasimelteon、opipramol、lofexidine、propiomazine。
 
+### 4.29 爱尔兰 HPRA SmPC（medicines.ie）补检索（2026-11-11）
+
+对 16 个药名检索 medicines.ie 并读取首个 SmPC 的 4.1 适应证，3 份写入档案。
+
+| 档案 | 产品 | 收载适应证（中文摘要） |
+| --- | --- | --- |
+| flupentixol | Depixol 20 mg/ml 注射液 | 精神分裂症与同类偏执性精神病的管理 |
+| zuclopenthixol | Clopixol 10 mg 片 | 精神病尤其精神分裂症，尤其激越或攻击性患者 |
+| sulpiride | Dolmatil 200 mg 片 | 急性与慢性精神分裂症 |
+
+排除两处错配：clopenthixol 命中 Clopixol（活性成分为 zuclopenthixol），perazine 命中 Stelazine（活性成分为 trifluoperazine）。mianserin、melperone、fluspirilene、penfluridol、pipamperone、opipramol、thioridazine、levomepromazine、lofepramine、nitrazepam、dosulepin 在 medicines.ie 为 0 条。
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
