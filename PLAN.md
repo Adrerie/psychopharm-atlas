@@ -1019,3 +1019,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **境外库续查收尾**：剩余 40 份最终补得 27 份，12 份命中并写入 HJ 批准文号示例（含 venlafaxine、vinpocetine、ziprasidone、zolpidem、zopiclone），其余 13 份当日限流未取得结果。
 **加拿大 DPD 补检索（同日）**：对 24 个活性成分检索 Health Canada Drug Product Database，19 份有 Marketed 状态产品并写入 DIN、企业与商品名示例，涉及 chlorpromazine、haloperidol、clozapine、quetiapine、paliperidone、asenapine、clonazepam、lorazepam、moclobemide 等。olanzapine、risperidone、trifluoperazine 的已捕获行未见 Marketed 示例，未写入。
 **加拿大 DPD 第二批（同日）**：对 25 个活性成分检索 Health Canada DPD，24 份有 Marketed 状态产品并写入档案，涉及抗抑郁药、心境稳定剂、ADHD 药物与痴呆药物。acamprosate 与 varenicline 未捕获结果行，trifluoperazine 的 41 条记录未见 Marketed 条目，均未写入。
+**澳大利亚 TGA 与 NMPA 境外库收尾（同日）**：按药名检索 TGA 网站并解析 ARTG 条目，18 份档案写入首个非撤销条目（含 ARTG ID 与商品名）。NMPA 境外库最后 13 份全部取得响应，4 份命中并写入 HJ 批准文号（rasagiline、risperidone、ropinirole、selegiline），109 份的境外库查询完成。

@@ -371,6 +371,17 @@
 | zolpidem | 唑吡坦 | 2 | 国药准字HJ20181238 | 酒石酸唑吡坦片 |
 | zopiclone | 佐匹克隆 | 1 | 国药准字HJ20170183 | 佐匹克隆片 |
 
+### 2.7 境外生产药品补检索完成（2026-11-11）
+
+最后 13 份在当日窗口全部取得响应，4 份命中并写入 HJ 批准文号示例。至此 109 份已有境内批准记录的已审阅档案均完成境外库查询。
+
+| 档案 | 中文检索名 | 命中条数 | 示例批准文号 | 示例产品 |
+| --- | --- | ---: | --- | --- |
+| rasagiline | 雷沙吉兰 | 3 | 国药准字HJ20170337 | 甲磺酸雷沙吉兰片 |
+| risperidone | 利培酮 | 2 | 国药准字HJ20171344 | 利培酮口服溶液 |
+| ropinirole | 罗匹尼罗 | 2 | 国药准字HJ20150414 | 盐酸罗匹尼罗缓释片 |
+| selegiline | 司来吉兰 | 1 | 国药准字HJ20160342 | 盐酸司来吉兰片 |
+
 ## 3. 日本 PMDA 添付文書等情報検索
 
 检索入口：<https://www.pmda.go.jp/PmdaSearch/iyakuSearch/>。日文名经 Wikidata 标签与别名解析取得，覆盖 67 份 basic 档案。
@@ -558,6 +569,33 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | galantamine | 52 | 02425157 | AURO PHARMA INC | AURO-GALANTAMINE ER |
 | olanzapine | 278 | 02281791 | APOTEX INC | APO-OLANZAPINE |
 | risperidone | 234 | 02282119 | APOTEX INC | APO-RISPERIDONE |
+
+### 4.3 已审阅档案的澳大利亚 TGA ARTG 补检索（2026-11-11）
+
+按药名检索 TGA 网站，解析结果中的 ARTG 条目，20 份档案写入首个非撤销条目。lithium carbonate 的 14 条结果中未见 ARTG 条目，未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| chlorpromazine | 15 | 118128 | LARGACTIL SYRUP chlorpromazine hydrochloride 5mg/ml oral liquid bottle |
+| haloperidol | 29 | 449666 | HALOPERIDOL MEDSURGE haloperidol 5 mg/1 mL solution for injection ampoule |
+| clozapine | 98 | 476080 | CLOZARIL ODT clozapine 100 mg orally disintegrating tablet bottle |
+| olanzapine | 486 | 484115 | OLANZAPINE LUPIN IM olanzapine 10 mg powder for injection vial |
+| quetiapine | 506 | 445432 | QUETIAPINE-WGR quetiapine (as fumarate) 100 mg tablet blister pack |
+| risperidone | 340 | 412311 | UZEDY risperidone 75 mg/0.21 mL modified release suspension for injection pre-filled syringe |
+| aripiprazole | 426 | 449305 | ARIPIPRAZOLE SANDOZ DEPOT aripiprazole 300 mg powder and diluent for prolonged release suspension for injection vial kit |
+| paliperidone | 82 | 432593 | PALIPERIDONE ADVZ paliperidone (as palmitate) 50 mg/0.50 mL modified release suspension for injection pre-filled syringe |
+| lurasidone | 120 | 436633 | LURALEMBIC lurasidone hydrochloride 80 mg film-coated tablet blister pack |
+| valproic-acid | 82 | 525786 | EPILIM SYRUP sodium valproate 40mg/mL oral liquid bottle |
+| carbamazepine | 32 | 511534 | AVLOIRE CR 400 carbamazepine 400 mg tablet blister pack |
+| lamotrigine | 229 | 291470 | SANDOZ LAMOTRIGINE lamotrigine 50mg tablet blister pack |
+| sertraline | 97 | 529073 | SETRONA sertraline (as hydrochloride) 50 mg tablet blister pack |
+| fluoxetine | 82 | 526832 | Fluoxetine 20 mg capsule bulk 1 |
+| amitriptyline | 207 | 433010 | AMITRIPTYLINE SANDOZ amitriptyline hydrochloride 50mg tablet blister pack |
+| mirtazapine | 115 | 394006 | BLOOMS THE CHEMIST MIRTAZAPINE mirtazapine 45mg tablets blister pack |
+| venlafaxine | 157 | 482666 | BTC VENLAFAXINE XR venlafaxine (as hydrochloride) 150 mg modified release capsule blister pack |
+| donepezil | 117 | 308452 | NOUMED DONEPEZIL donepezil hydrochloride (as monohydrate) 5 mg film-coated tablet blister pack |
+| memantine | 71 | 201740 | MEMANTINE RANBAXY memantine hydrochloride 10 mg tablet blister pack |
+| methylphenidate | 92 | 520480 | ATENZA XR methylphenidate hydrochloride 54 mg modified release tablet bottle |
 
 ## 5. 未检索的档案
 
