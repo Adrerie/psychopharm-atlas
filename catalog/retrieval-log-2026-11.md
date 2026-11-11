@@ -692,6 +692,31 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | methadone | 39 | 02533642 | APOTEX INC | APO-METHADONE |
 | varenicline | 25 | 02419882 | APOTEX INC | APO-VARENICLINE |
 
+### 4.8 已审阅档案的 EMA EPAR 补检索（2026-11-11）
+
+按 EPAR 直接地址逐药读取，18 份档案写入欧盟集中上市许可的适应证摘要。seroquel、risperdal、leponex、pristiq、dayvigo、strattera、elvanse、provigil 的 EPAR 地址未命中，未写入。
+
+| 档案 | EPAR 地址名 | 收载适应证（中文摘要） |
+| --- | --- | --- |
+| agomelatine | valdoxan | 成人重性抑郁发作 |
+| vortioxetine | brintellix | 成人重性抑郁发作 |
+| cariprazine | reagila | 成人精神分裂症 |
+| lurasidone | latuda | 18 岁及以上成人精神分裂症 |
+| brexpiprazole | rxulti | 成人与 13 岁及以上青少年精神分裂症 |
+| aripiprazole | abilify | 成人与 15 岁及以上青少年精神分裂症，以及双相 I 型障碍中度至重度躁狂发作 |
+| asenapine | sycrest | 成人双相 I 型障碍中度至重度躁狂发作 |
+| paliperidone | invega | 成人与 15 岁及以上青少年精神分裂症，以及成人分裂情感性障碍 |
+| olanzapine | zyprexa | 成人精神分裂症，含继续治疗期的维持 |
+| duloxetine | cymbalta | 成人重性抑郁障碍、糖尿病周围神经痛与广泛性焦虑障碍 |
+| esketamine | spravato | 与 SSRI 或 SNRI 联用，用于至少两种抗抑郁药治疗无效的成人治疗抵抗性重性抑郁障碍 |
+| pitolisant | wakix | 6 岁及以上发作性睡病，伴或不伴猝倒 |
+| solriamfetol | sunosi | 成人发作性睡病伴或不伴猝倒的觉醒改善与日间过度嗜睡减轻 |
+| daridorexant | quviviq | 成人失眠，症状持续至少 3 个月且日间功能明显受影响 |
+| nalmefene | selincro | 酒精依赖且高危饮酒水平、无躯体戒断症状的成人减少饮酒量 |
+| tasimelteon | hetlioz | 全盲成人的非 24 小时睡眠觉醒障碍 |
+| deutetrabenazine | austedo | 成人中重度迟发性运动障碍 |
+| melatonin | slenyto | 2–18 岁自闭症谱系障碍和／或伴昼夜褪黑素分泌异常神经遗传病儿童的失眠 |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
