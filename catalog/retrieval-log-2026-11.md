@@ -649,6 +649,48 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | daridorexant | 2 | 02537443 | IDORSIA PHARMACEUTICALS LTD | QUVIVIQ |
 | daridorexant | 2 | 02537443 | IDORSIA PHARMACEUTICALS LTD | QUVIVIQ |
 
+### 4.6 澳大利亚 TGA ARTG 第三批（2026-11-11）
+
+对 20 个药名检索 TGA，11 份写入首个与药名一致的 ARTG 条目。desipramine、imipramine、maprotiline、tasimelteon、valbenazine 未解析到条目，naloxone 只解析到羟考酮/纳洛酮复方、nicotine 未解析到条目，均未写入。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| trazodone | 5 | 263394 | Trazodone Hydrochloride 100mg capsule Bulk |
+| nortriptyline | 53 | 512526 | NORTRIPTYLINE-RJIC nortriptyline (as hydrochloride) 25mg tablet blister pack |
+| clomipramine | 10 | 423112 | CLOMIPRAMINE-WGR clomipramine hydrochloride 25mg tablet blister pack |
+| doxepin | 16 | 308999 | DEPTRAN 10 doxepin 10mg (as hydrochloride) capsule blister pack |
+| gabapentin | 212 | 525450 | GABAPENTIN-WGR gabapentin 600 mg film coated tablets blister pack |
+| pregabalin | 977 | 493856 | PREGABALIN GRINDEKS pregabalin 50 mg capsule blister pack |
+| rivastigmine | 129 | 273562 | RIVASTIGMINE GxP PATCH 15 rivastigmine 13.3 mg/24 hours transdermal drug delivery system sachet |
+| melatonin | 181 | 526011 | PRICELINE PHARMACY MELATONIN melatonin 2 mg modified release tablet blister pack (new formulation) |
+| deutetrabenazine | 12 | 330023 | AUSTEDO deutetrabenazine 6 mg modified release tablet bottle |
+| tetrabenazine | 9 | 381235 | TETRABENAZINE SUN tetrabenazine 25 mg tablet bottle |
+| naloxone | 163 | 462789 | OXYCODONE NALOXONE MAPLE 5/2.5 oxycodone hydrochloride 5 mg / naloxone hydrochloride 2.5 mg modified release tablet blister pack |
+| acetylcysteine | 18 | 172101 | OMEGAPHARM ACETYLCYSTEINE acetylcysteine 800 mg/ 4 mL solution for inhalation vial |
+| methadone | 39 | 380871 | ASPEN METHADONE LIQUID methadone hydrochloride 5 mg/mL oral liquid bottle |
+| varenicline | 127 | 521250 | Blooms The Chemist Varenicline 0.5 mg varenicline (as tartrate) tablets and 1.0 mg varenicline (as tartrate) tablets composite blister pack |
+
+### 4.7 加拿大 DPD 第四批（2026-11-11）
+
+对 20 个活性成分检索 Health Canada DPD，13 份有与药名一致的 Marketed 产品并写入档案。maprotiline、deutetrabenazine、tasimelteon、valbenazine、methadone、varenicline tartrate、nicotine 未捕获到可写入的示例。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| trazodone | 57 | 02537907 | ANGITA PHARMA INC. | AG-TRAZODONE |
+| nortriptyline | 24 | 00015229 | AA PHARMA INC | AVENTYL |
+| desipramine | 50 | 02216248 | AA PHARMA INC | DESIPRAMINE |
+| imipramine | 64 | 00312797 | APOTEX INC | APO-IMIPRAMINE TABLETS |
+| clomipramine | 38 | 00324019 | APOTEX INC | ANAFRANIL |
+| doxepin | 56 | 02049996 | APOTEX INC | APO-DOXEPIN |
+| gabapentin | 165 | 02392526 | ACCORD HEALTHCARE INC | ACH-GABAPENTIN |
+| pregabalin | 272 | 02449838 | ACCORD HEALTHCARE INC | ACH-PREGABALIN |
+| rivastigmine | 80 | 02336715 | APOTEX INC | APO-RIVASTIGMINE |
+| melatonin | 3 | 02560798 | NEURIM PHARMACEUTICALS LTD. | SLENYTO |
+| tetrabenazine | 4 | 02407590 | APOTEX INC | APO-TETRABENAZINE |
+| naloxone | 47 | 02455935 | OMEGA LABORATORIES LIMITED | INJECTABLE NALOXONE HYDROCHLORIDE |
+| acetylcysteine | 11 | 02243098 | SANDOZ CANADA INCORPORATED | ACETYLCYSTEINE SOLUTION |
+| methadone | 39 | 02533642 | APOTEX INC | APO-METHADONE |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
