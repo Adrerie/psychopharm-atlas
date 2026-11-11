@@ -997,3 +997,5 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **检索**：对 179 份无 NMPA 境内批准记录的 `reviewed` 档案按中文名查 CDE 受理品种目录，89 份命中，写入最近受理号、申请类型与承办日期，完整表见 [逐名监管检索记录](catalog/retrieval-log-2026-11.md)。7 份已有受理记录的档案不重复写入。初筛另有 7 处命中因产品名指向其他药物或复方而排除。
 
 **边界**：受理只证明申报被受理，不证明批准，不改写适应证或评分。
+
+**境外生产药品补检索（同日）**：对 179 份无境内批准记录的档案查 NMPA 境外生产药品库，8 份命中并写入 HJ 批准文号示例（duloxetine、escitalopram、esketamine、fluoxetine、fluvoxamine、ginkgo-folium、haloperidol、milnacipran）。trospium 的命中实为异丙托溴铵，已排除。
