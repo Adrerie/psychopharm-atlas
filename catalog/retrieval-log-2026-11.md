@@ -672,7 +672,7 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 
 ### 4.7 加拿大 DPD 第四批（2026-11-11）
 
-对 20 个活性成分检索 Health Canada DPD，13 份有与药名一致的 Marketed 产品并写入档案。maprotiline、deutetrabenazine、tasimelteon、valbenazine、methadone、varenicline tartrate、nicotine 未捕获到可写入的示例。
+对 20 个活性成分检索 Health Canada DPD，14 份有与药名一致的 Marketed 产品并写入档案。maprotiline、deutetrabenazine、tasimelteon、valbenazine、methadone、varenicline tartrate、nicotine 未捕获到可写入的示例。
 
 | 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
 | --- | ---: | --- | --- | --- |
@@ -690,6 +690,7 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | naloxone | 47 | 02455935 | OMEGA LABORATORIES LIMITED | INJECTABLE NALOXONE HYDROCHLORIDE |
 | acetylcysteine | 11 | 02243098 | SANDOZ CANADA INCORPORATED | ACETYLCYSTEINE SOLUTION |
 | methadone | 39 | 02533642 | APOTEX INC | APO-METHADONE |
+| varenicline | 25 | 02419882 | APOTEX INC | APO-VARENICLINE |
 
 ## 5. 未检索的档案
 
