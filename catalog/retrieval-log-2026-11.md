@@ -990,6 +990,25 @@ medicines.ie 的浏览器端会间歇返回 "no available server" 空页，改�
 按活性成分检索为 0 条、未写入的术语：amitriptyline、clomipramine、imipramine、fluoxetine hydrochloride、buspirone、hydroxyzine、propranolol、diazepam、clonazepam、dosulepin、opipramol。该目录不是爱尔兰全部在售药品的完备清单，0 条只记作本次检索事实。carbamazepine（Tegretol）与 valproate（Epilim）的 PDF 已取得，但本次抽取未定位到 4.1 正文，未写入。
 
 
+### 4.31 basic 档案现行标签可得性复核（2026-11-12）
+
+对 128 份 `basic` 主档案逐个做两个入口的检索：medicines.ie（爱尔兰，欧盟成员国文本）按通用名检索，DailyMed 现行 SPL 接口 `spls.json?drug_name=` 按药名检索。命中 7 个术语，逐条回读后均不是可用的人用现行标签。
+
+| 术语 | 命中 | 回读结论 |
+| --- | --- | --- |
+| bromides | medicines.ie 20 条 | 命中含 "bromide" 的其他盐产品（异丙托溴铵、乌美溴铵等），与本档案的溴盐不是同一实体 |
+| clopenthixol | medicines.ie 3 条 | 命中 Clopixol，活性成分为 zuclopenthixol，错配 |
+| acepromazine | DailyMed 18 条 | 均为兽用标签，不构成人用药批准 |
+| huperzine-a | DailyMed 1 条 | 膳食补充剂标签 |
+| oxitriptan | DailyMed 1 条 | 复方膳食补充剂（NEURO 3）标签 |
+| acetylcarnitine | DailyMed 3 条 | 膳食补充剂标签 |
+| secobarbital | DailyMed 1 条 | SECONAL SODIUM 胶囊标签（Ranbaxy），该产品已停售，不作为现行核准文本使用 |
+
+另对 11 个日文名检索 PMDA 医療用医薬品添付文書现行索引：フルジアゼパム（エリスパン）、ニメタゼパム（エリミン）、ニゾフェノン、メフェノキサロン、アモバルビタール、メリトラセン、オキシラセタム、ピリチノール、ブロムワレリル尿素、エミルカメート、イピダクリン，全部返回「条件に該当する添付文書はありませんでした」。这只说明这些名称不在日本现行添付文書索引内，不等于从未获批或从未上市。
+
+结论：这批档案多为已撤市或未在四个目标法域上市的药物，现行监管正文在 US、CA、EU、CN 均未检得。按 [AGENTS.md](../AGENTS.md) 与 [STYLE.md](../STYLE.md)，没有现行正文支撑给药方案与核准适应证时不得写 `reviewed`，因此状态维持 `basic`，检索事实按回合计入 §10 或本日志。medicines.ie 的 0 条只记作本次检索事实。
+
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
