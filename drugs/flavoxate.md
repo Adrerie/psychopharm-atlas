@@ -73,7 +73,7 @@
 
 ## 10. 证据边界
 
-逐节核对的监管文本为一份美国 ANDA 现行标签 `US-FLV`（DailyMed 页面发布 2025-11-17、SPL 版本 12，药瓶标签面印"Rev 05-23"，页面未以现行 §N 编号呈现，属旧式分节文本），据此状态记 `reviewed`。需注意：这里的"逐节核对"覆盖的是该文本实际拥有的章节，其内容本身极简，缺失章节（药物相互作用、特殊人群量化条款、现代疗效试验）是标签自身的结构而非检索失败。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=flavoxate` 返回 5 条（2026-11-05）。WHO ATC/DDD G04BD 页列 `G04BD02 flavoxate 0.8 g O`（页脚 Last updated 2026-01-20）。KEGG 检索返回 D00718（flavoxate hydrochloride，标 JP19/USP，商品名 Urispas，ATC code 行 G04BD02）与 D07961（flavoxate INN，商品名 Bladuril），属聚合库名称与身份线索。PubMed 检索"flavoxate"返回 205 条、"flavoxate AND (urinary tract infection)"等更窄检索未执行。未解决缺口：英国 emc、EMA、日本 PMDA 与 NMPA 现行文本未取回（NMPA HTTP 412、CDE 202 校验页），故其他法域的批准、现售或退出状态一律待核实，本档案不写"已撤市"或"从未获批"。本药缺少随机对照疗效证据、缺少致癌与诱变长期研究、缺少药动学与相互作用数据、无法估计不良反应频率，这四项共同构成其主要临床限制。
+逐节核对的监管文本为一份美国 ANDA 现行标签 `US-FLV`（DailyMed 页面发布 2025-11-17、SPL 版本 12，药瓶标签面印"Rev 05-23"，页面未以现行 §N 编号呈现，属旧式分节文本），据此状态记 `reviewed`。需注意：这里的"逐节核对"覆盖的是该文本实际拥有的章节，其内容本身极简，缺失章节（药物相互作用、特殊人群量化条款、现代疗效试验）是标签自身的结构而非检索失败。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=flavoxate` 返回 5 条（2026-11-05）。WHO ATC/DDD G04BD 页列 `G04BD02 flavoxate 0.8 g O`（页脚 Last updated 2026-01-20）。KEGG 检索返回 D00718（flavoxate hydrochloride，标 JP19/USP，商品名 Urispas，ATC code 行 G04BD02）与 D07961（flavoxate INN，商品名 Bladuril），属聚合库名称与身份线索。PubMed 检索"flavoxate"返回 205 条、"flavoxate AND (urinary tract infection)"等更窄检索未执行。未解决缺口：英国 emc、EMA、日本 PMDA 与 NMPA 现行文本未取回（NMPA HTTP 412、CDE 202 校验页），故其他法域的批准、现售或退出状态一律待核实，本档案不写"已撤市"或"从未获批"。本药缺少随机对照疗效证据、缺少致癌与诱变长期研究、缺少药动学与相互作用数据、无法估计不良反应频率，这四项共同构成其主要临床限制。CDE 受理品种目录（2026-11-11 浏览器检索）按「黄酮哌酯」命中 17 条受理记录，最近一条为受理号 CYHB2601730、申请类型 补充申请、承办日期 2026-09-15。该目录只证明申报被受理，不证明已获批准。
 
 ## 11. 深入分析与来源
 

@@ -73,7 +73,7 @@
 
 ## 10. 证据边界
 
-逐节核对的监管文本是一份美国 ANDA 现行标签 `US-SOL`（SPL 版本 17。页面 Updated 2023-11-28／发布 2025-04-17），据此状态记 `reviewed`，且只对该产品文本负责：按仓库规则，未宣称已逐节比对该成分全部规格、全部持证人文本或其他法域文本。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=solifenacin` 返回 34 条（2026-11-05）。另两条现行 SPL（setid `d155c739-6870-4938-ba91-8c1b4b90afe4` 等）与本文本正文一致，未逐条转录。WHO ATC/DDD G04BD 页列 `G04BD08 solifenacin 5 mg O`（页脚 Last updated 2026-01-20）。PubMed 检索"solifenacin AND cognition"返回 61 条命中、"antimuscarinic AND dementia AND bladder"返回 84 条（均 2026-11-05。只记录检索式与命中数，未逐篇取正文，故不引用其中的效应量）。未解决缺口：英国 emc／EMA、日本 PMDA 与 NMPA 现行文本未取回，其他法域批准与核准适应证待核实。本品无亚型选择性表述，而"相对 M3 选择性"属 [darifenacin](darifenacin.md) 文本内容，不可移用。老年认知、跌倒与真实世界依从性的药物特异结论留在文献层。中枢抗胆碱负担量表类工具的数值按仓库口径只作处方关注引用，未取回原文故不引。NMPA HTTP 412 与 CDE 202 校验页造成的中国上市信息缺口未以商业库补足。
+逐节核对的监管文本是一份美国 ANDA 现行标签 `US-SOL`（SPL 版本 17。页面 Updated 2023-11-28／发布 2025-04-17），据此状态记 `reviewed`，且只对该产品文本负责：按仓库规则，未宣称已逐节比对该成分全部规格、全部持证人文本或其他法域文本。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=solifenacin` 返回 34 条（2026-11-05）。另两条现行 SPL（setid `d155c739-6870-4938-ba91-8c1b4b90afe4` 等）与本文本正文一致，未逐条转录。WHO ATC/DDD G04BD 页列 `G04BD08 solifenacin 5 mg O`（页脚 Last updated 2026-01-20）。PubMed 检索"solifenacin AND cognition"返回 61 条命中、"antimuscarinic AND dementia AND bladder"返回 84 条（均 2026-11-05。只记录检索式与命中数，未逐篇取正文，故不引用其中的效应量）。未解决缺口：英国 emc／EMA、日本 PMDA 与 NMPA 现行文本未取回，其他法域批准与核准适应证待核实。本品无亚型选择性表述，而"相对 M3 选择性"属 [darifenacin](darifenacin.md) 文本内容，不可移用。老年认知、跌倒与真实世界依从性的药物特异结论留在文献层。中枢抗胆碱负担量表类工具的数值按仓库口径只作处方关注引用，未取回原文故不引。NMPA HTTP 412 与 CDE 202 校验页造成的中国上市信息缺口未以商业库补足。CDE 受理品种目录（2026-11-11 浏览器检索）按「索利那新」命中 72 条受理记录，最近一条为受理号 CYHS2601913、申请类型 仿制、承办日期 2026-08-06。该目录只证明申报被受理，不证明已获批准。
 
 ## 11. 深入分析与来源
 

@@ -76,7 +76,7 @@ EAGLES（8000 余例，有／无精神疾病史分层）显示伐尼克兰持续
 
 ## 10. 证据边界
 
-本次核对了美国原研（`US-CHX`）、一家仿制（`US-GEN`）与 TYRVAYA（`US-TYR`）的现行文本。`US-GEN` 选择以 DailyMed 现行 SPL 清单（drug_name=varenicline，49 条命中，2026-11-03）为索引。检索事实：openFDA `drug/label.json` 按该仿制与 TYRVAYA 的 setid 查询均返回 NOT_FOUND（404），正文改从 DailyMed 页面（drugInfo.cfm?setid=78d1857f-8708-5410-792f-4a3e5e7971a5 与 …setid=014c93dc-5737-479c-a9f0-aaadac1ac298）读取。原研正文经 api.fda.gov 取得。供应与监管历史：FDA 公司公告载明 2021-07 召回 12 个批次CHANTIX（N-亚硝基伐尼克兰超可接受摄入量，`FDA-RECALL-2021`），随后辉瑞宣布扩大至全部批次并停止分销（美国官方页面与监管镜像多源一致，具体扩大公告 URL 本次未逐一回核，列为待核）。英国 MHRA 2021-10 对 Champix 全部规格发布 Class 2 召回（镜像存档）。未解决缺口：Drugs@FDA 初始批准与仿制批准编号清单未逐页核。英国 emc 与 EMA 评估报告未取回。NMPA HTTP 412、CDE 202 校验页致中国上市与核准适应证无法核对，按待核实处理，未以商业药品库补足。锂剂相互作用仅见于部分法域文本，美国现行文本措辞未逐句核。
+本次核对了美国原研（`US-CHX`）、一家仿制（`US-GEN`）与 TYRVAYA（`US-TYR`）的现行文本。`US-GEN` 选择以 DailyMed 现行 SPL 清单（drug_name=varenicline，49 条命中，2026-11-03）为索引。检索事实：openFDA `drug/label.json` 按该仿制与 TYRVAYA 的 setid 查询均返回 NOT_FOUND（404），正文改从 DailyMed 页面（drugInfo.cfm?setid=78d1857f-8708-5410-792f-4a3e5e7971a5 与 …setid=014c93dc-5737-479c-a9f0-aaadac1ac298）读取。原研正文经 api.fda.gov 取得。供应与监管历史：FDA 公司公告载明 2021-07 召回 12 个批次CHANTIX（N-亚硝基伐尼克兰超可接受摄入量，`FDA-RECALL-2021`），随后辉瑞宣布扩大至全部批次并停止分销（美国官方页面与监管镜像多源一致，具体扩大公告 URL 本次未逐一回核，列为待核）。英国 MHRA 2021-10 对 Champix 全部规格发布 Class 2 召回（镜像存档）。未解决缺口：Drugs@FDA 初始批准与仿制批准编号清单未逐页核。英国 emc 与 EMA 评估报告未取回。NMPA HTTP 412、CDE 202 校验页致中国上市与核准适应证无法核对，按待核实处理，未以商业药品库补足。锂剂相互作用仅见于部分法域文本，美国现行文本措辞未逐句核。CDE 受理品种目录（2026-11-11 浏览器检索）按「伐尼克兰」命中 109 条受理记录，最近一条为受理号 JYHB2600189、申请类型 补充申请、承办日期 2026-03-21。该目录只证明申报被受理，不证明已获批准。
 
 ## 11. 深入分析与来源
 

@@ -91,7 +91,7 @@
 
 ## 10. 证据边界
 
-逐节核对的监管文本为一份美国现行标签 `US-TOV`（SPL 版本 33，页面 Updated 2026-04-07／发布 2026-04-09），据此状态记 `reviewed`。该文本自身省略了 §9 药物滥用与依赖、§8.3 等未列出的小节，属文本结构而非检索失败。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=fesoterodine` 返回 16 条（2026-11-05）。WHO ATC/DDD G04BD 子组页同时列有 `G04BD11 fesoterodine 4 mg O` 与 `G04BD13 desfesoterodine 3.5 mg O`（页脚 Last updated 2026-01-20）。PubMed 检索"fesoterodine AND (urinary incontinence OR overactive bladder)"返回 50 条命中的题录（2026-11-05，仅按题录记录，未逐篇提取正文）。未解决缺口：英国 emc／EMA、日本与 NMPA 现行文本未取回，其他法域批准与核准适应证待核实。成人 NDO（脊髓损伤等人群）在本品美国标签中未收载，也未取得可核验的该人群结论。阳性对照臂的具体药物与比较读数未在所依正文中披露。剂量-认知风险、跌倒与真实世界依从性的药物特异研究留在文献层，未逐篇核读。NMPA HTTP 412 与 CDE 202 校验页造成的缺口未以商业库补足。
+逐节核对的监管文本为一份美国现行标签 `US-TOV`（SPL 版本 33，页面 Updated 2026-04-07／发布 2026-04-09），据此状态记 `reviewed`。该文本自身省略了 §9 药物滥用与依赖、§8.3 等未列出的小节，属文本结构而非检索失败。检索事实（不作否定性推断）：DailyMed `services/v2/spls.json?drug_name=fesoterodine` 返回 16 条（2026-11-05）。WHO ATC/DDD G04BD 子组页同时列有 `G04BD11 fesoterodine 4 mg O` 与 `G04BD13 desfesoterodine 3.5 mg O`（页脚 Last updated 2026-01-20）。PubMed 检索"fesoterodine AND (urinary incontinence OR overactive bladder)"返回 50 条命中的题录（2026-11-05，仅按题录记录，未逐篇提取正文）。未解决缺口：英国 emc／EMA、日本与 NMPA 现行文本未取回，其他法域批准与核准适应证待核实。成人 NDO（脊髓损伤等人群）在本品美国标签中未收载，也未取得可核验的该人群结论。阳性对照臂的具体药物与比较读数未在所依正文中披露。剂量-认知风险、跌倒与真实世界依从性的药物特异研究留在文献层，未逐篇核读。NMPA HTTP 412 与 CDE 202 校验页造成的缺口未以商业库补足。CDE 受理品种目录（2026-11-11 浏览器检索）按「非索罗定」命中 13 条受理记录，最近一条为受理号 CYHL2300002、申请类型 仿制、承办日期 2023-01-03。该目录只证明申报被受理，不证明已获批准。
 
 ## 11. 深入分析与来源
 
