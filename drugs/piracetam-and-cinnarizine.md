@@ -105,4 +105,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX53`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX53)。[吡拉西坦（成分，`N06BX03`）](piracetam.md)。桂利嗪的 ATC 编码 `N07CA02` 见英国 Stugeron SmPC §5.1（`UK-CIN`）。本复方的 Wikidata 无单列条目，身份仅由官方 ATC 索引确认。
 
+- 拉西坦类"促智"归类与各自批准／证据的边界见 [racetams-approval-vs-evidence.md](../analysis/racetams-approval-vs-evidence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

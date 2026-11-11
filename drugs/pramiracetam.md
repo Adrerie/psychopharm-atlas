@@ -111,4 +111,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX16`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX16)。[Wikidata Q415746](https://www.wikidata.org/wiki/Q415746)。[PubChem CID 51712](https://pubchem.ncbi.nlm.nih.gov/compound/51712)。[DrugBank DB13247](https://www.drugbank.ca/r/DB13247)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Pramiracetam)。
 
+- 拉西坦类"促智"归类与各自批准／证据的边界见 [racetams-approval-vs-evidence.md](../analysis/racetams-approval-vs-evidence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

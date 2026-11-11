@@ -145,4 +145,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX03`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX03)。[Wikidata Q410069](https://www.wikidata.org/wiki/Q410069)。[PubChem CID 4843](https://pubchem.ncbi.nlm.nih.gov/compound/4843)。[MeSH D010889](https://meshb.nlm.nih.gov/record/ui?ui=D010889)。[DrugBank DB09210](https://www.drugbank.ca/r/DB09210)。[RxNorm RXCUI 8351](https://rxnav.nlm.nih.gov/REST/rxcui/8351.json)。English Wikipedia（标题指针，未复制正文）：[Piracetam](https://en.wikipedia.org/wiki/Piracetam)。
 
+- 拉西坦类"促智"归类与各自批准／证据的边界见 [racetams-approval-vs-evidence.md](../analysis/racetams-approval-vs-evidence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

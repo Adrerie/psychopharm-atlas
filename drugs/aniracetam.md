@@ -120,4 +120,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX11`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX11)。[Wikidata Q417630](https://www.wikidata.org/wiki/Q417630)。[PubChem CID 2196](https://pubchem.ncbi.nlm.nih.gov/compound/2196)。[MeSH C036466](https://meshb.nlm.nih.gov/record/ui?ui=C036466)。[DrugBank DB04599](https://www.drugbank.ca/r/DB04599)。[RxNorm RXCUI 17939](https://rxnav.nlm.nih.gov/REST/rxcui/17939.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Aniracetam)。
 
+- 拉西坦类"促智"归类与各自批准／证据的边界见 [racetams-approval-vs-evidence.md](../analysis/racetams-approval-vs-evidence.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
