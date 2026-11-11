@@ -170,7 +170,6 @@
 | agomelatine | 阿戈美拉汀 | 22 | 国药准字H20249539 | 阿戈美拉汀片 | 重庆华森制药股份有限公司 |
 | alprazolam | 阿普唑仑 | 54 | 国药准字H14020233 | 阿普唑仑片 | 山西振东安欣生物制药有限公司 |
 | amantadine | 金刚烷胺 | 161 | 国药准字H41021068 | 盐酸金刚烷胺片 | 海南制药厂有限公司制药一厂 |
-| amfetamine | 苯丙胺 | 1 | 国药准字H11020993 | 硫酸苯丙胺 | 华润双鹤药业股份有限公司 |
 | amisulpride | 氨磺必利 | 28 | 国药准字H20264772 | 氨磺必利口服溶液 | 湖北唯森制药有限公司 |
 | amitriptyline | 阿米替林 | 5 | 国药准字H32023764 | 盐酸阿米替林片 | 常州四药制药有限公司 |
 | aripiprazole | 阿立哌唑 | 80 | 国药准字H20253237 | 阿立哌唑口崩片 | 北京星昊盈盛药业有限公司 |
@@ -561,7 +560,6 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | carbamazepine | 47 | 02541238 | MINT PHARMACEUTICALS INC | MINT-CARBAMAZEPINE |
 | lamotrigine | 51 | 02543710 | ANGITA PHARMA INC. | AG-LAMOTRIGINE |
 | methylphenidate | 106 | 02266687 | AA PHARMA INC | AA-METHYLPHENIDATE SR |
-| amfetamine | 51 | 02248808 | TAKEDA CANADA INC | ADDERALL XR |
 | lisdexamfetamine | 87 | 02537567 | ANGITA PHARMA INC. | AG-LISDEXAMFETAMINE |
 | atomoxetine | 98 | 02318024 | APOTEX INC | APO-ATOMOXETINE |
 | donepezil | 76 | 02402645 | ACCORD HEALTHCARE INC | ACH-DONEPEZIL |
@@ -855,6 +853,24 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | tolterodine | 26 | 02239064 | BGP PHARMA ULC | DETROL |
 | trospium | 5 | 02488353 | MARCAN PHARMACEUTICALS INC | MAR-TROSPIUM |
 | milnacipran | 8 | 02440970 | ABBVIE CORPORATION | FETZIMA |
+
+### 4.18 澳大利亚 TGA ARTG 第八批（2026-11-11）
+
+检索 20 个药名，仅 amifampridine 与 amisulpride 写入 ARTG 条目。amphetamine、chloral hydrate、diamorphine 的条目全部为 0 或非 ARTG 条目，其余药名未解析到条目。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| amifampridine | 11 | 352630 | RUZURGI amifampridine 10 mg tablet bottle |
+| amisulpride | 73 | 234699 | AMISULPRIDE SCP amisulpride 200 mg uncoated tablet blister pack |
+
+### 4.19 加拿大 DPD 第九批（2026-11-11，部分完成）
+
+本批 20 个活性成分在加拿大站点限速下仅完成 12 个，2 份命中并写入 Marketed 产品示例。其余 8 个（clotiazepam、cloxazolam、cyamemazine、cytisinicline、dextroamphetamine、diamorphine、estazolam 等）未完成，留待下次。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| amifampridine | 2 | 02502984 | KYE PHARMACEUTICALS INC. | FIRDAPSE |
+| chloral-hydrate | 10 | 02247621 | ODAN LABORATORIESLTD | CHLORAL HYDRATE SYRUP ODAN |
 
 ## 5. 未检索的档案
 
