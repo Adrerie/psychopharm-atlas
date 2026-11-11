@@ -15,7 +15,7 @@
 | 关键药代摘要 | 低剂量：6 mg 空腹给药的**中位 T_max 3.5 h**，3 mg 与 6 mg 的 Cmax 近似剂量比例。**高脂餐使 AUC 升高 41%、Cmax 升高 15%、T_max 延迟约 3 小时**，故附进餐时间限制。抗抑郁剂量：75 mg 单次给药 Cmax 8.8–45.8（均 26.1）ng/mL、T_peak 2–4 h（均 2.9 h）。nordoxepin 4.8–14.5（均 9.7）ng/mL、2–10 h。**表观分布容积约 20 L/kg，蛋白结合约 76%，清除率约 0.84 L/h/kg**。主要经尿以代谢物形式排泄。肝损者暴露可能更高（`US-MDD` §12.3） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：2025 年版药用类麻醉药品与精神药品目录、2026 年第 58 号药用类精神药品增列、2025 年版非药用类目录及 2026-07-01 生效的 16 种增列逐项未命中"doxepin／多塞平"。芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查并经 RDKit 复核亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 美国（低剂量片）：**睡眠维持困难的失眠**，支持性试验最长 3 个月。美国（胶囊）：**成人重性抑郁障碍（MDD）**，并明写未批准用于双相抑郁。英国：**成人抑郁性疾病症状，尤其需要镇静时**（§4.1），剂量 25–300 mg/日。**法国**：`FR-QX10`／`FR-QX50` 授权状态均为 **Valide**（国家程序，titulaire Provepharm，首次授权 1990-04-30，10 mg 与 50 mg 规格的商业化申报 1991-02-19，Liste I，2016-07-20 的 CT avis 仍评 SMR 为 Important），§4.1 适应证**只有一项。重性抑郁发作（原文 "Episodes dépressifs majeurs (c'est-à-dire caractérisés)"）**，日剂量 10–300 mg。**法国的多塞平文本不含任何失眠适应证，美国 SILENOR 的失眠适应证在法国也不存在**，两侧不可互推（§10 第 9 项）。儿童：两份美国标签均记儿科安全性有效性未确立，`FR-QX10`/`FR-QX50` §4.2 儿科条目为"无可用数据"。中国上市与核准适应证待核实（§10 第 6 项） |
-| 身份与统计 | WHO ATC `N06AA12`。DDD **0.1 g 口服**与 **0.1 g 非口服**。Wikidata [Q416791](https://www.wikidata.org/wiki/Q416791)。PubChem [667468](https://pubchem.ncbi.nlm.nih.gov/compound/667468)。DrugBank [DB14750](https://www.drugbank.ca/r/DB14750)（基线档案仅记此一个 DrugBank 标识）。RxNorm [3638](https://rxnav.nlm.nih.gov/REST/rxcui/3638.json)。别名 (Z)-doxepin、Cidoxepin、Sinequan、Zonalon |
+| 身份与统计 | WHO ATC `N06AA12`。DDD **0.1 g 口服**与 **0.1 g 非口服**。Wikidata [Q71704041](https://www.wikidata.org/wiki/Q71704041)。PubChem [3158](https://pubchem.ncbi.nlm.nih.gov/compound/3158)。DrugBank [DB14750](https://www.drugbank.ca/r/DB14750)（基线档案仅记此一个 DrugBank 标识）。RxNorm [3638](https://rxnav.nlm.nih.gov/REST/rxcui/3638.json)。别名 (Z)-doxepin、Cidoxepin、Sinequan、Zonalon |
 
 ## 2. 评分
 
@@ -147,6 +147,6 @@
 
 **指南与系统综述**：[AGS Beers 2023（多塞平 >6 mg/日 Avoid，≤6 mg/日安全性接近安慰剂的原文说明）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》表 1 第 35 项／表 2](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[成人失眠的抗抑郁药 Cochrane 综述（PMID:29761479）](https://pubmed.ncbi.nlm.nih.gov/29761479/)。[老年失眠催眠药比较疗效网络荟萃（PMID:33249496）](https://pubmed.ncbi.nlm.nih.gov/33249496/)。[抗抑郁药剂量等效值研究（PMID:25911132）](https://pubmed.ncbi.nlm.nih.gov/25911132/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 
-**分类与身份**：[WHO ATC/DDD Index `N06AA12`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA12)。[Wikidata Q416791](https://www.wikidata.org/wiki/Q416791)。[PubChem CID 667468](https://pubchem.ncbi.nlm.nih.gov/compound/667468)。[DrugBank DB14750](https://www.drugbank.ca/r/DB14750)。[RxNorm RXCUI 3638](https://rxnav.nlm.nih.gov/REST/rxcui/3638.json)。English Wikipedia（标题指针，未复制正文）：[Doxepin](https://en.wikipedia.org/wiki/Doxepin)。
+**分类与身份**：[WHO ATC/DDD Index `N06AA12`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA12)。[Wikidata Q71704041](https://www.wikidata.org/wiki/Q71704041)。[PubChem CID 3158](https://pubchem.ncbi.nlm.nih.gov/compound/3158)。[DrugBank DB14750](https://www.drugbank.ca/r/DB14750)。[RxNorm RXCUI 3638](https://rxnav.nlm.nih.gov/REST/rxcui/3638.json)。English Wikipedia（标题指针，未复制正文）：[Doxepin](https://en.wikipedia.org/wiki/Doxepin)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

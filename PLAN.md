@@ -975,3 +975,11 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **目录复核**：修正 `catalog/index.md` 遗留的 334／54／46／39／7 旧统计，并把 `ipidacrine` 与 `remternetug` 补入七份 `indexed` 名单。`catalog/related.md` 对 aducanumab 的 FDA 撤回日期与企业停售分别注明。最终总数 **384 份**，其中核心六组 **280**、跨组 **104**；**218 reviewed／7 indexed／159 basic**；跨组选录 **91**，已建档 **89**，未建档的 **2 条均为未落地具体产品的 ATC 复方类别**；专题仍为 15 份。
 
 **移交边界**：中国 NMPA 412 与 CDE 202 拦截、部分欧洲／亚洲官方标签未取得、个别历史药物批准及撤回文书未核实，均不视为已解决；以 [HANDOFF.md](HANDOFF.md) 所列范围作为下一接手方起点，不自动启动新波次。
+
+## Wave 16 标识回读与体例收尾（2026-11-11）
+
+**标识回读**：对 384 份档案可解析的 308 个 PubChem CID 与 282 个 Wikidata QID 逐条回读官方接口，全部返回有效实体。初筛 42 个 CID 与 38 个 QID 与档案 slug 不一致，人工复核后改正 8 份档案中的 11 个错误标识，涉及 acamprosate、imidafenacin、nalmefene、naltrexone、pregabalin、propranolol 的 CID 与 clonazepam、pregabalin、propranolol、doxepin 的 QID，doxepin 同时改为混合物记录 CID 3158。其余差异属于盐型、立体异构体与同义名标签，不属标识错误。原始回读与逐条判定见 [逐名监管检索记录](catalog/retrieval-log-2026-11.md)。
+
+**体例收尾**：清空全部散文分号（3→0）与单句多冒号（3→0），修正 tacrine 一处内联代码跨入中文文本的断行错误。破折号残留 9 处均为英文原文标题、表格占位符或法文引文，不作改动。
+
+**验证**：`audit2_scan.py` 记录 semi_prose 0、colon_multi 0；`qc_final.py` 0 问题、0 断链；`full_struct_qa.py` 仅 gedocarnil 的章节计数提示保持原状，属索引状态档案的既有结构。

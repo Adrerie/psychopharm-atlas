@@ -20,7 +20,7 @@
 | 关键药代摘要 | 口服后约 40% 经肝首过效应。空腹单次 0.1mg 时 Tmax 1.5 h、t1/2 2.9 h。餐后 Cmax 为空腹的 1.3 倍，AUC 为 1.2 倍。绝对生物利用度 57.8%，血浆蛋白结合率 87.1%–88.8%（`JP-URITOS` §16.2、§16.3.2、§16.4） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-06）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号药用类精神药品增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 种非药用类增列附表，按 "imidafenacin" 逐名检索均未命中。芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告列举的母体名称与替代条件核查，本药不落入任何一类。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)。 |
 | 主要法域批准状态 | **日本**：ウリトス錠0.1mg 与ウリトスOD錠0.1mg 批准「過活動膀胱における尿意切迫感、頻尿及び切迫性尿失禁」，成人 1 回 0.1mg、1 日 2 回（`JP-URITOS` §4、§6）。**美国**：DailyMed `drug_name=imidafenacin` 0 条（2026-11-10 检索）。**英国**：emc 0 条（同日）。欧美零命中只作检索缺口，不推断未批准或未上市。**中国**：NMPA 对本机返回 HTTP 412，CDE 上市药品目录集返回 202 校验页，上市与核准适应证待核实 |
-| 身份与统计 | WHO ATC `G04BD14`。CAS 170105-16-5。PubChem [47207931](https://pubchem.ncbi.nlm.nih.gov/compound/47207931)。KEGG [D06273](https://www.kegg.jp/entry/D06273)。JAN／INN 双口径（`KEGG`、`JP-URITOS` §19） |
+| 身份与统计 | WHO ATC `G04BD14`。CAS 170105-16-5。PubChem [6433090](https://pubchem.ncbi.nlm.nih.gov/compound/6433090)。KEGG [D06273](https://www.kegg.jp/entry/D06273)。JAN／INN 双口径（`KEGG`、`JP-URITOS` §19） |
 
 ## 2. 评分
 
@@ -135,7 +135,7 @@ BPH 相关 OAB 的联合治疗、前列腺切除术后控尿恢复、与 toltero
 
 **监管文件**：[ウリトス錠0.1mg／ウリトスOD錠0.1mg 添付文書（PMDA 医疗用医药品详细表示，添付文書番号 2590013F1027_2_07，2026年6月改訂第3版）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/231099_2590013F1027_2_07)。[KEGG MEDICUS 同一添付文書镜像（japic_code 00059398，聚合库，仅作补充）](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059398)。
 
-**分类与身份**：[WHO ATC/DDD Index `G04BD14`](https://atcddd.fhi.no/atc_ddd_index/?code=G04BD14)。[KEGG DRUG D06273](https://www.kegg.jp/entry/D06273)。[PubChem CID 47207931](https://pubchem.ncbi.nlm.nih.gov/compound/47207931)。
+**分类与身份**：[WHO ATC/DDD Index `G04BD14`](https://atcddd.fhi.no/atc_ddd_index/?code=G04BD14)。[KEGG DRUG D06273](https://www.kegg.jp/entry/D06273)。[PubChem CID 6433090](https://pubchem.ncbi.nlm.nih.gov/compound/6433090)。
 
 **研究**：
 - [PMID:32844599](https://pubmed.ncbi.nlm.nih.gov/32844599/)（台湾 12 周安慰剂对照）

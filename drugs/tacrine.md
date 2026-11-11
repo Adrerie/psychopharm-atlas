@@ -96,7 +96,7 @@
 
 ## 11. 深入分析与来源
 
-- Drugs@FDA 申请沿革（NDA020070）：`https://api.fda.gov/drug/drugsfda.json?search=application_number:"NDA020070"&limit=3；申请概览页 `https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020070`
+- Drugs@FDA 申请沿革（NDA020070）：`https://api.fda.gov/drug/drugsfda.json?search=application_number:"NDA020070"&limit=3`。申请概览页 `https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020070`
 - 1997 年审批文件包（扫描图像，未能抽取正文）：`http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020070ap.pdf`
 - `FR-1994`：`https://www.govinfo.gov/content/pkg/FR-1994-12-08/html/94-30235.htm`
 - `FR-2013`（78 FR 43210）：`https://www.govinfo.gov/content/pkg/FR-2013-07-19/html/2013-17324.htm`

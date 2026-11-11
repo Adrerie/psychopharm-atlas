@@ -83,3 +83,12 @@
 - DDD 声明核对：可解析的数值声明与"未列 DDD"声明逐一比对。25 处初筛不一致经逐条人工回读，全部为解析假阳性（多行 DDD 的给药途径格式、相邻药物的 DDD、研究剂量被正则误抓），未发现需要修改的档案。
 - 例：buprenorphine `N07BC01` 页面为 1.6 mg 植入、2.1 mg 注射、8 mg 舌下三条，与档案一致；fampridine 页面 20 mg 与同页 amifampridine 40 mg 是两条独立记录，档案已区分。
 - 口径：DDD 是群体统计量，不是处方剂量；本页只核对编码与数值是否与官方索引一致，不据此改写剂量建议。
+
+## 7. PubChem／Wikidata 标识回读（2026-11-11）
+
+- 范围：384 份药物档案中可解析的 PubChem CID 308 个与 Wikidata QID 282 个。
+- 方法：PubChem PUG REST 按 CID 取 Title 与 IUPACName，Wikidata `wbgetentities` 取英文标签与描述，再与档案 slug 做词元比对，只把不一致项列入人工复核。
+- 结果：全部 CID 与 QID 均返回有效实体。初筛 42 个 CID 与 38 个 QID 不一致，逐条回读后确认 8 份档案中的 11 个标识指向错误并已改正。PubChem 侧为 acamprosate 10475069→155434（原为无关核苷衍生物）、imidafenacin 47207931→6433090、nalmefene 439501→5284594（原为 ouabain）、naltrexone 53606→5360515、pregabalin 440545→5486971（原为 α-D-果吡喃糖）、propranolol 4949→4946（原为 propyliodone）。Wikidata 侧为 clonazepam Q409455→Q407988（原为 ibogaine）、pregabalin Q421454→Q412174（原为苏丹 Akasha 神庙）、propranolol Q420021→Q423364（原为 Akkullanu）、doxepin Q416791→Q71704041（cidoxepin 为 E 型单异构体，档案按 E／Z 混合物记录）。doxepin 的 PubChem CID 同步由 667468（Z 型单异构体）改为 3158（doxepin 混合物）。
+- 其余初筛差异属于盐型、立体异构体或同义名标签的命名差异（如 acetyl-L-carnitine、DL-amphetamine、thiothixene），不属标识错误，保留原样。
+- bentazepam 的 CID 34592 与 fenozolone 的 CID 71682 为无标题的旧记录，两份档案同时列出现行记录 135412795 与 135436543，结构式一致。
+- 口径：CID 与 QID 只作实体指针，不引其页面正文结论，本次回读不改变档案中的监管文本、剂量与评分。

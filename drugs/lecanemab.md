@@ -108,7 +108,7 @@
 
 本次核查未建专题分析（缺口集中在"18 个月外推"与"绝对量表差值的临床意义"，若后续要展开，建议单独问题导向建档）。
 
-- 美国现行处方资料：DailyMed `https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d1ff786-e577-410a-a273-c4d7d0e4e975；章节正文经 openFDA `https://api.fda.gov/drug/label.json?search=openfda.spl_set_id:%229d1ff786-e577-410a-a273-c4d7d0e4e975%22&limit=1` 取回
+- 美国现行处方资料：DailyMed `https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d1ff786-e577-410a-a273-c4d7d0e4e975。章节正文经 openFDA `https://api.fda.gov/drug/label.json?search=openfda.spl_set_id:%229d1ff786-e577-410a-a273-c4d7d0e4e975%22&limit=1` 取回
 - 现行 SPL 清单：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=lecanemab`（1 条，发布 2026-07-27）
 - 联邦公报审查期认定（BLA 与获批日）：`https://www.govinfo.gov/content/pkg/FR-2025-12-29/html/2025-23865.htm`（90 FR 60717）
 - 欧盟 EPAR：`https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi`

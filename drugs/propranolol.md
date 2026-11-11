@@ -13,7 +13,7 @@
 | 主要剂型 | 片剂、缓释胶囊、口服溶液与注射剂均在标签中出现；**婴儿血管瘤用的口服溶液是单独注册产品，本次未取回其正文，不计入本档案**（见 §10） |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-28）**：按 2025 年第 55 号公告的药用类麻醉／精神药品目录附件与 2026 年第 58 号增列逐一检索，中文名"普萘洛尔"与英文名 Propranolol **均未命中**（同法把地西泮解析为第二类第 24 项、氯硝西泮为第 17 项，可作方法回测）；非药用类 2025 年版目录原始附件对本机返回 HTTP 521，**未逐名核对**该表全文。芬太尼类、合成大麻素类、尼秦类、奥啡类整类结构定义均不适用（本药为芳氧基丙醇胺β阻滞剂骨架）。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **美国**（`US-TAB` §INDICATIONS）：高血压（**不用于高血压急症**）、冠心病心绞痛（减少发作频率、提高运动耐受）、心房颤动伴快速心室率的心室率控制、心肌梗死后长期治疗、**偏头痛预防**（原文注明**不用于终止已发作的偏头痛**）、**家族性／遗传性震颤（原发性震颤）**、嗜铬细胞瘤（与 α 阻滞剂联合）、甲状腺功能亢进的对症治疗。**本次未取回欧盟／英国等现行正文**，故不写跨法域批准。中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
-| 身份与统计 | CAS 525-66-3（游离碱）／122-50-9（盐酸盐）；[PubChem CID 4949](https://pubchem.ncbi.nlm.nih.gov/compound/4949)。[ATC `C07AA05`](https://atcddd.fhi.no/atc_ddd_index/?code=C07AA05)。[Wikidata Q420021](https://www.wikidata.org/wiki/Q420021)。**美国无 CSA 列管**（标签 §9 无受控物质条目，且 DEA《管制物质字母表》按名未命中） |
+| 身份与统计 | CAS 525-66-3（游离碱）／122-50-9（盐酸盐）；[PubChem CID 4946](https://pubchem.ncbi.nlm.nih.gov/compound/4946)。[ATC `C07AA05`](https://atcddd.fhi.no/atc_ddd_index/?code=C07AA05)。[Wikidata Q423364](https://www.wikidata.org/wiki/Q423364)。**美国无 CSA 列管**（标签 §9 无受控物质条目，且 DEA《管制物质字母表》按名未命中） |
 
 ## 2. 评分
 
@@ -84,6 +84,6 @@
 
 **指南与研究**：[2016 American Thyroid Association hyperthyroidism guideline（Recommendation 2、有症状甲状腺毒症推荐 β 阻滞剂，明确说明该用途未获批）](https://doi.org/10.1089/thy.2016.0229)。[恐惧演讲的再巩固式 propranolol 试点研究（2020）](https://pubmed.ncbi.nlm.nih.gov/32499503/)。[儿童与青少年社交沟通与焦虑的随机试验（2024）](https://pubmed.ncbi.nlm.nih.gov/38086927/)。[应激下认知灵活性的β肾上腺素能调节（2007）](https://pubmed.ncbi.nlm.nih.gov/17335395/)。[自主神经指标预测 propranolol 反应（2025）](https://pubmed.ncbi.nlm.nih.gov/40710403/)。[医学生非医嘱使用β阻滞剂的横断面调查（2026）](https://pubmed.ncbi.nlm.nih.gov/41787430/)。[音乐表演生物医学增强的伦理综述（2026）](https://pubmed.ncbi.nlm.nih.gov/42090162/)。
 
-**分类与身份**：[PubChem CID 4949](https://pubchem.ncbi.nlm.nih.gov/compound/4949)。[Wikidata Q420021](https://www.wikidata.org/wiki/Q420021)。English Wikipedia（标题指针，未复制正文）：[Propranolol](https://en.wikipedia.org/wiki/Propranolol)。
+**分类与身份**：[PubChem CID 4946](https://pubchem.ncbi.nlm.nih.gov/compound/4946)。[Wikidata Q423364](https://www.wikidata.org/wiki/Q423364)。English Wikipedia（标题指针，未复制正文）：[Propranolol](https://en.wikipedia.org/wiki/Propranolol)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

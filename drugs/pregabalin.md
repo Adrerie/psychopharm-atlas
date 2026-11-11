@@ -13,7 +13,7 @@
 | 主要剂型与规格 | 美国现行文本为 **胶囊**（标签 §16 列各规格、本次按 openFDA 命中的 Pregabalin Capsules 文本引用）。剂量与滴定见 §4，不进场景表 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-28）**：按 2025 年第 55 号公告的药用类麻醉药品／精神药品目录附件与 2026 年第 58 号增列逐一检索，中文名"普瑞巴林"与英文名 Pregabalin **均未命中**（同一检索方法把地西泮解析为第二类第 24 项，与仓库 `diazepam` 档案一致，可作方法有效性回测）；非药用类 2025 年版目录的公安部原始附件对本机返回 HTTP 521，**未逐名核对**该表全文。芬太尼类、合成大麻素类、尼秦类、奥啡类四类整类的官方结构定义均不适用于本药母核。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **美国**：`US-CAP` §1 收载五项适应证。糖尿病周围神经病变性疼痛、带状疱疹后神经痛、1 个月及以上患者部分性发作的辅助治疗、纤维肌痛、脊髓损伤相关神经病理性疼痛（**无广泛性焦虑障碍条目**）。**欧盟／英国／澳大利亚等的 GAD 适应证本次未取回任何现行正文**（EMA 站点与英国 emc 在本机分别遭遇 TLS 中断与脚本渲染限制，未逐节核对），因此本档案**不为 GAD 用途写批准状态**，只在 §10 记为缺口。中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
-| 身份与统计 | CAS 148553-50-8；[PubChem CID 440545](https://pubchem.ncbi.nlm.nih.gov/compound/440545)。[RxNorm 收录名 `pregabalin`](https://rxnav.nlm.nih.gov/REST/rxcui.json?search=1)。[ATC `N02BF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N02BF02)。DDD 0.3 g 口服（统计指标，非处方剂量） |
+| 身份与统计 | CAS 148553-50-8；[PubChem CID 5486971](https://pubchem.ncbi.nlm.nih.gov/compound/5486971)。[RxNorm 收录名 `pregabalin`](https://rxnav.nlm.nih.gov/REST/rxcui.json?search=1)。[ATC `N02BF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N02BF02)。DDD 0.3 g 口服（统计指标，非处方剂量） |
 
 ## 2. 评分
 
@@ -86,6 +86,6 @@
 
 **研究**：[PETRA。治疗抵抗性 GAD 的 pregabalin 双盲随机试验方案（2026，尚未出结果）](https://pubmed.ncbi.nlm.nih.gov/42717383/)。[普瑞巴林不良事件年龄分层不均衡性分析（2026）](https://pubmed.ncbi.nlm.nih.gov/42889226/)。[神经行为后果系统综述（2026）](https://pubmed.ncbi.nlm.nih.gov/42872661/)。
 
-**分类与身份**：[PubChem CID 440545](https://pubchem.ncbi.nlm.nih.gov/compound/440545)。[Wikidata Q421454](https://www.wikidata.org/wiki/Q421454)。English Wikipedia（标题指针，未复制正文）：[Pregabalin](https://en.wikipedia.org/wiki/Pregabalin)。
+**分类与身份**：[PubChem CID 5486971](https://pubchem.ncbi.nlm.nih.gov/compound/5486971)。[Wikidata Q412174](https://www.wikidata.org/wiki/Q412174)。English Wikipedia（标题指针，未复制正文）：[Pregabalin](https://en.wikipedia.org/wiki/Pregabalin)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

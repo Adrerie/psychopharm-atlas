@@ -13,7 +13,7 @@
 | 主要剂型 | 美国现行文本为**口服片**（§11 列规格。§3 说明为单片刻字剂型）。本次核查未取回欧盟／英国 Rivotril 等产品的现行正文（见 §10），故所有批准表述只代表美国 |
 | 中国管制状态 | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》**第二类第 17 项"氯硝西泮"（英文名 Clonazepam、CAS 1622-61-3）**（`CN-2025`，按 2025 年第 55 号公告附件原文逐名检索命中、同法把地西泮解析为第二类第 24 项，与仓库 `diazepam` 档案一致）。这是管制层级，不等于我国有现行上市产品或某项适应证已核准。中国上市与核准适应证待核实（NMPA 412／CDE 202 不可脚本访问） |
 | 主要法域批准状态 | **美国**：`US-TAB` §INDICATIONS 同时收载两类用途：**癫痫**（Lennox-Gastaut 即小运动性发作变异型、失张力性与肌阵挛发作。对琥珀酰亚胺类无反应的失神发作。并原文提示疗程中可出现**疗效减弱**"loss of effect"）与**惊恐障碍（panic disorder，伴或不伴场所恐惧）**。**欧盟／英国／加拿大等 Rivotril 系的现行正文本次核查未取回**（TLS 与站点脚本限制），故不作"欧盟批准"表述 |
-| 身份与统计 | CAS 1622-61-3。[PubChem CID 2802](https://pubchem.ncbi.nlm.nih.gov/compound/2802)。[ATC `N03AE01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AE01)。[Wikidata Q409455](https://www.wikidata.org/wiki/Q409455)。美国联邦 **Schedule IV**（标签 §9.1 原文） |
+| 身份与统计 | CAS 1622-61-3。[PubChem CID 2802](https://pubchem.ncbi.nlm.nih.gov/compound/2802)。[ATC `N03AE01`](https://atcddd.fhi.no/atc_ddd_index/?code=N03AE01)。[Wikidata Q407988](https://www.wikidata.org/wiki/Q407988)。美国联邦 **Schedule IV**（标签 §9.1 原文） |
 
 ## 2. 评分
 
@@ -83,7 +83,7 @@
 
 **研究与综述**：[成人惊恐障碍药物治疗的 Cochrane 网络荟萃（2023、跨药间接比较）](https://pubmed.ncbi.nlm.nih.gov/38014714/)。[苯二氮䓬反应轨迹的贝叶斯分析（2023、预测因子层面）](https://pubmed.ncbi.nlm.nih.gov/34593077/)。
 
-**分类与身份**：[PubChem CID 2802](https://pubchem.ncbi.nlm.nih.gov/compound/2802)。[DrugBank DB00209（经 Wikidata，内容未核）](https://www.drugbank.ca/r/DB00209)。[Wikidata Q409455](https://www.wikidata.org/wiki/Q409455)。English Wikipedia（标题指针，未复制正文）：[Clonazepam](https://en.wikipedia.org/wiki/Clonazepam)。
+**分类与身份**：[PubChem CID 2802](https://pubchem.ncbi.nlm.nih.gov/compound/2802)。[DrugBank DB00209（经 Wikidata，内容未核）](https://www.drugbank.ca/r/DB00209)。[Wikidata Q407988](https://www.wikidata.org/wiki/Q407988)。English Wikipedia（标题指针，未复制正文）：[Clonazepam](https://en.wikipedia.org/wiki/Clonazepam)。
 
 - 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 
