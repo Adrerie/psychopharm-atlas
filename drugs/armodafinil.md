@@ -52,7 +52,7 @@
 
 ## 5. 实际效果与局限
 
-- **效应量以"分钟"与"几分 ESS"计**。荟萃（`PMID:26923035`）中 armodafinil 的 MWT 合并 +2.71 min 的 **95% CI 下界仅 0.04**，即客观维持清醒的改善有统计学意义但接近无差异的边缘。ESS −2.63 为主观改善。这与 [modafinil](modafinil.md) 及 [solriamfetol](solriamfetol.md) 的效应量必须分列，不可合并成"促醒药都差不多"。
+- **效应量以"分钟"与"几分 ESS"计**。荟萃（`PMID:26923035`）中 armodafinil 的 MWT 合并 +2.71 min 的 **95% CI 下界仅 0.04**，即客观维持清醒的改善有统计学意义但接近无差异的边缘。ESS −2.63 为主观改善。这与 [modafinil](modafinil.md) 及 [solriamfetol](solriamfetol.md) 的效应量必须分列，不合并为"促醒药都差不多"。
 - **250 mg 未必优于 150 mg**。`US-ARM` §2.1 记 OSA 至 250 mg 耐受良好，但无一致证据显示优于 150 mg。加量收益平坦。
 - **CPAP 依从性是外推前提**。OSA 试验入组即要求高 CPAP 依从，因此结论主要适用于"依从者"，对拒绝或不耐受 CPAP 者证据更薄（专题 [wake-promoting-agents-osa-residual-sleepiness.md](../analysis/wake-promoting-agents-osa-residual-sleepiness.md)）。
 - **长期对照证据缺位**。主要对照均为 12 周量级。血压数据来自短期试验。长期心脑血管结局无随机证据。本页所有"长期"描述建立在短期测量加上市后信号之上。
@@ -94,10 +94,10 @@
 
 专题分析：[wake-promoting-agents-osa-residual-sleepiness.md](../analysis/wake-promoting-agents-osa-residual-sleepiness.md)。该专题讨论促醒药在 OSA 残余嗜睡中的终点选择、效应量临床充分性与美／英／中三种监管结论。对映体／消旋体身份与"证据不可互换"另见同目录说明。消旋体条目见 [modafinil](modafinil.md)，同类促醒药见 [solriamfetol](solriamfetol.md)，立体异构体与中国目录通则的镜像讨论见 [lisdexamfetamine 前药专题](../analysis/lisdexamfetamine-prodrug-control-scope.md)。
 
-**监管与官方文件**：[NUVIGIL 处方资料（DailyMed setid 3dd49302-f757-d945-e063-6294a90afcba，生效 2025-09-02）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba)；[openFDA 按通用名 armodafinil 检索（15 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22armodafinil%22&limit=100)；[英国 emc 检索 armodafinil（0 条产品）](https://www.medicines.org.uk/emc/search?q=armodafinil)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[NUVIGIL 处方资料（DailyMed setid 3dd49302-f757-d945-e063-6294a90afcba，生效 2025-09-02）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba)。[openFDA 按通用名 armodafinil 检索（15 份标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22armodafinil%22&limit=100)。[英国 emc 检索 armodafinil（0 条产品）](https://www.medicines.org.uk/emc/search?q=armodafinil)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**指南、系统与荟萃证据**：[Clin Ther 2016 modafinil 与 armodafinil 治疗 OSA 过度嗜睡的 RCT 荟萃（含 armodafinil 合并值；PMID:26923035）](https://pubmed.ncbi.nlm.nih.gov/26923035/)；[Lancet Psychiatry 2018 ADHD 药物网络荟萃（促醒药 ADHD 结论不可跨适应证外推；PMID:30097390）](https://pubmed.ncbi.nlm.nih.gov/30097390/)；[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
+**指南、系统与荟萃证据**：[Clin Ther 2016 modafinil 与 armodafinil 治疗 OSA 过度嗜睡的 RCT 荟萃（含 armodafinil 合并值、PMID:26923035）](https://pubmed.ncbi.nlm.nih.gov/26923035/)。[Lancet Psychiatry 2018 ADHD 药物网络荟萃（促醒药 ADHD 结论不可跨适应证外推、PMID:30097390）](https://pubmed.ncbi.nlm.nih.gov/30097390/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 
-**分类与身份**：[WHO ATC/DDD Index `N06BA13`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA13)；[Wikidata Q418913](https://www.wikidata.org/wiki/Q418913)；[PubChem CID 9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109)；[MeSH C579652](https://meshb.nlm.nih.gov/record/ui?ui=C579652)；[DrugBank DB06413](https://www.drugbank.ca/r/DB06413)；[RxNorm RXCUI 641465](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json)。
+**分类与身份**：[WHO ATC/DDD Index `N06BA13`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA13)。[Wikidata Q418913](https://www.wikidata.org/wiki/Q418913)。[PubChem CID 9690109](https://pubchem.ncbi.nlm.nih.gov/compound/9690109)。[MeSH C579652](https://meshb.nlm.nih.gov/record/ui?ui=C579652)。[DrugBank DB06413](https://www.drugbank.ca/r/DB06413)。[RxNorm RXCUI 641465](https://rxnav.nlm.nih.gov/REST/rxcui/641465.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

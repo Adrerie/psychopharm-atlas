@@ -1,8 +1,8 @@
 # vinpocetine｜长春西汀（西班牙有现行核准药品；美国以膳食补充剂形态销售）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-10（现行监管正文：西班牙 CIMA 的 VINPOCETINA COVEX 10 mg 片 Ficha técnica，注册号 85430，文本修订与首次授权均为 2020 年 9 月；5 mg 片 Ficha técnica 注册号 61827，文本修订 2020 年 6 月。中国管制沿用 2026-10-06 目录核查）｜ ATC：`N06BX18`（WHO ATC/DDD Index 2026）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-10（现行监管正文：西班牙 CIMA 的 VINPOCETINA COVEX 10 mg 片 Ficha técnica，注册号 85430，文本修订与首次授权均为 2020 年 9 月，5 mg 片 Ficha técnica 注册号 61827，文本修订 2020 年 6 月。中国管制沿用 2026-10-06 目录核查）｜ ATC：`N06BX18`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
-> **状态说明**：身份、分类、中国管制与关键临床研究已核。但法国 BDPM、西班牙 CIMA、英国 emc、美国 openFDA／DailyMed 四路检索均未取得本药的现行药品说明书，**核准适应证与给药方案无法由现行官方文本填写**，故不升级为 `reviewed`（缺口见 §10 第 1 项）。
+> **状态说明**：身份、分类、中国管制与关键临床研究已核，但法国 BDPM、西班牙 CIMA、英国 emc、美国 openFDA／DailyMed 四路检索均未取得本药的现行药品说明书，**核准适应证与给药方案无法由现行官方文本填写**，故不升级为 `reviewed`（缺口见 §10 第 1 项）。
 
 **引用键**：
 
@@ -21,9 +21,9 @@
 | 主要剂型 | 西班牙现行产品为 5 mg 与 10 mg 普通片，包装 45 或 90 片（`ES-FT-10` §3、§6.5；`ES-FT-5`）。给药为口服，随餐整片吞服。其他法域的注射剂型在部分市场的产品说明中出现，未取得任何说明书，故不列（§10）。美国市场另有以膳食补充剂形式销售的情形（`PMID:29183836`，`US-FDA-2016`） |
 | 主要活性代谢物 | 阿扑长春胺酸（apovincaminic acid，AVA）为酯水解产物，现行西班牙文本称其为「aparentemente desprovisto de actividad farmacológica」，即看起来没有药理活性，主要经肾排泄（`ES-FT-10` §5.2）。人体研究另报告 AVA 水平低于动物暴露（`PMID:33957389`）。按说明书口径，本药不以活性代谢物承担疗效 |
 | 关键药代摘要 | `ES-FT-10` §5.2：口服吸收快，约 1.5 小时达峰。生物利用度个体差异大，范围 7%–57%，与食物同服时升高。分布容积在青年成人约 3 L/kg，老年人约 7 L/kg。肝脏广泛代谢，AVA 为主要代谢物。消除半衰期约 2 小时。本药与 AVA 均经肾排泄。以上为西班牙文本数值，不与其他法域或补充剂文献混用 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"vinpocetine／长春西汀"；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 分子式与结构式预筛、边界案例人工回看公告条件：本药为长春胺乙酯，酯羰基连在双环烯胺的非芳香 sp2 碳上，其 `-C(=O)O-` 乙基的 R3 为乙基，不属 R3 的 C6–C10 芳基／C3–C10 烃基／杂环基定义，母核亦非图式所列骨架，故不落入任何一类。此表述不等于"非管制"，也不涉及处方、携带、进出口等其他限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 主要法域批准状态 | **西班牙：现行核准、在售**。VINPOCETINA COVEX 10 mg 片（85430）首次授权与文本修订均为 2020 年 9 月，5 mg 片（61827）文本修订 2020 年 6 月（`ES-FT-10` §9–§10；`ES-FT-5`；`ES-CIMA`）。核准适应证与给药方案见 §4。**美国**：无批准药品记录，openFDA 与 DailyMed 按通用名均 0 条；FDA 于 2016-09-07 在《联邦公报》就本药地位征求意见，初步结论为「vinpocetine 不是膳食成分、被排除在膳食补充剂定义之外」，未检出后续终局规则（`US-FDA-2016`；§10）。**英国、法国、中国**：未取得现行文本，批准与适应证不写。中国上市与核准适应证待核实 |
-| 身份与统计 | WHO ATC `N06BX18`；DDD **15 mg／日口服**（群体统计指标，非处方剂量；不得据此外推研究中的 30–60 mg／日或单次 60 mg），Wikidata [Q420288](https://www.wikidata.org/wiki/Q420288)，PubChem [443955](https://pubchem.ncbi.nlm.nih.gov/compound/443955)，MeSH [C013983](https://meshb.nlm.nih.gov/record/ui?ui=C013983)，DrugBank [DB12131](https://www.drugbank.ca/r/DB12131)，RxNorm [RXCUI 24506](https://rxnav.nlm.nih.gov/REST/rxcui/24506.json)，[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX18) |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"vinpocetine／长春西汀"；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 分子式与结构式预筛、边界案例人工回看公告条件：本药为长春胺乙酯，酯羰基连在双环烯胺的非芳香 sp2 碳上，其 `-C(=O)O-` 乙基的 R3 为乙基，不属 R3 的 C6–C10 芳基／C3–C10 烃基／杂环基定义，母核亦非图式所列骨架，故不落入任何一类。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+| 主要法域批准状态 | **西班牙：现行核准、在售**。VINPOCETINA COVEX 10 mg 片（85430）首次授权与文本修订均为 2020 年 9 月，5 mg 片（61827）文本修订 2020 年 6 月（`ES-FT-10` §9–§10；`ES-FT-5`。`ES-CIMA`）。核准适应证与给药方案见 §4。**美国**：无批准药品记录，openFDA 与 DailyMed 按通用名均 0 条。FDA 于 2016-09-07 在《联邦公报》就本药地位征求意见，初步结论为「vinpocetine 不是膳食成分、被排除在膳食补充剂定义之外」，未检出后续终局规则（`US-FDA-2016`。§10）。**英国、法国、中国**：未取得现行文本，批准与适应证不写。中国上市与核准适应证待核实 |
+| 身份与统计 | WHO ATC `N06BX18`；DDD **15 mg／日口服**（群体统计指标，非处方剂量。不得据此外推研究中的 30–60 mg／日或单次 60 mg），Wikidata [Q420288](https://www.wikidata.org/wiki/Q420288)，PubChem [443955](https://pubchem.ncbi.nlm.nih.gov/compound/443955)，MeSH [C013983](https://meshb.nlm.nih.gov/record/ui?ui=C013983)，DrugBank [DB12131](https://www.drugbank.ca/r/DB12131)，RxNorm [RXCUI 24506](https://rxnav.nlm.nih.gov/REST/rxcui/24506.json)，[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX18) |
 
 ## 2. 评分
 
@@ -40,7 +40,7 @@
 | 滥用／误用潜力 | 2 | 本药无强化效应或依赖性的药物特异人体研究。存在明确的非药品使用场景：美国以增强认知与记忆为卖点的膳食补充剂销售（`PMID:29183836`），而 FDA 2016 年的初步结论认为其不属于膳食成分（`US-FDA-2016`）。这是流通与监管层面的误用信号，不是滥用率，故记 2 而非 3 |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 未取得中国处方偏离、PIM 判定或药物利用研究；上市状态本身待核实，无可比分母 |
 
-总体解释：长春西汀的负担在取得西班牙文本后变得具体：一侧是出血风险相关的相互作用网（抗血小板药与抗凝药），另一侧是 QT 延长与发育毒性构成的安全边界。证据层面的不确定性没有消失，卒中与痴呆试验的结论仍互相冲突（§5），而西班牙的核准适应证窄于文献中讨论的用途。相互作用维度由 `N/A` 改为 4 的依据是说明书列出的具体组合，不是类别推断。
+总体解释：长春西汀的负担在取得西班牙文本后变得具体。一侧是出血风险相关的相互作用网（抗血小板药与抗凝药），另一侧是 QT 延长与发育毒性构成的安全边界。证据层面的不确定性没有消失，卒中与痴呆试验的结论仍互相冲突（§5），而西班牙的核准适应证窄于文献中讨论的用途。相互作用维度由 `N/A` 改为 4 的依据是说明书列出的具体组合，不是类别推断。
 
 ### 2.2 按使用场景适宜度（A–D）
 
@@ -50,7 +50,7 @@
 | 脑血管病所致认知减退症状 | 西班牙现行核准（限于排除非血管性退行性疾病后使用，疗程上限 30 天加 2 个月） | C | 西班牙文本的适应证为脑血管病相关认知减退症状，要求在治疗前排除阿尔茨海默病等非血管性退行性病因，并写明超过 2 个月疗程的获益未知（`ES-FT-10` §4.1–§4.2）。Cochrane（2003）纳入 3 项 1990 年代前研究、583 例，结论为证据不确定、不支持临床使用（`PMID:12535455`）。批准范围与证据强度不同层，均按原文保留 |
 | 痴呆（非血管性病因） | 西班牙文本明确要求先排除，等于不覆盖 | D | 同上，西班牙文本把非血管性退行性病因排除在适应证之外（`ES-FT-10` §4.1）。Cochrane 的结论是不支持临床使用（`PMID:12535455`），健康志愿者与癫痫患者的随机交叉研究亦未见认知获益（`PMID:33957389`） |
 
-**不设为场景的内容**：（1）**健康人认知增强**。属非医疗用途，`PMID:33957389` 在 8 名健康志愿者中未显示获益，写入 §7 而非评分行。（2）**卒中后认知障碍，慢性脑缺血，癫痫辅助，抑郁，外伤性脑损伤**。文献有开放标签或动物研究（`PMID:38147382` 为 30 例、无对照、3 个月；`PMID:32166194` 为综述），均不足以构成有决策价值的场景，只在 §5 说明。（3）年龄、妊娠哺乳、肝肾功能、合并用药与监测要求按 §6／§8／§9 归位，不单列评分行。
+**不设为场景的内容**：（1）**健康人认知增强**。属非医疗用途，`PMID:33957389` 在 8 名健康志愿者中未显示获益，写入 §7 而非评分行。（2）**卒中后认知障碍，慢性脑缺血，癫痫辅助，抑郁，外伤性脑损伤**。文献有开放标签或动物研究（`PMID:38147382` 为 30 例、无对照、3 个月、`PMID:32166194` 为综述），均不足以构成有决策价值的场景，只在 §5 说明。（3）年龄、妊娠哺乳、肝肾功能、合并用药与监测要求按 §6／§8／§9 归位，不单列评分行。
 
 ## 3. 主要作用
 
@@ -114,7 +114,7 @@
 
 ## 9. 特殊人群
 
-**妊娠**：禁忌。动物研究显示生殖毒性，包括胎仔室间隔缺损增加（`ES-FT-10` §4.6、§5.3；§6）。
+**妊娠**：禁忌。动物研究显示生殖毒性，包括胎仔室间隔缺损增加（`ES-FT-10` §4.6、§5.3、§6）。
 
 **哺乳**：本药分泌入乳汁，说明书列为禁忌（`ES-FT-10` §4.6）。
 
@@ -132,7 +132,7 @@
 
 ## 10. 证据边界
 
-1. **状态依据**：取回西班牙 CIMA 的 VINPOCETINA COVEX 两份现行 Ficha técnica（10 mg 片 85430，文本修订 2020 年 9 月；5 mg 片 61827，文本修订 2020 年 6 月）。两份文本可逐节引用适应证与给药方案，禁忌与相互作用，不良反应与过量，药代，故状态由 `basic` 升为 `reviewed`（`ES-FT-10`，`ES-FT-5`）。CIMA 记录显示两个产品均在售，检索日 2026-11-10（`ES-CIMA`）。
+1. **状态依据**：取回西班牙 CIMA 的 VINPOCETINA COVEX 两份现行 Ficha técnica（10 mg 片 85430，文本修订 2020 年 9 月、5 mg 片 61827，文本修订 2020 年 6 月）。两份文本可逐节引用适应证与给药方案，禁忌与相互作用，不良反应与过量，药代，故状态由 `basic` 升为 `reviewed`（`ES-FT-10`，`ES-FT-5`）。CIMA 记录显示两个产品均在售，检索日 2026-11-10（`ES-CIMA`）。
 2. **法域边界**：西班牙文本只代表西班牙。美国无批准药品记录，且 FDA 2016 年的膳食成分意见与后续状态未定（`US-FDA-2016`）。英国、法国与中国的现行文本未取得。法国 BDPM 前缀检索 0 条，英国 emc 检索页未返回可解析产品列表，美国 openFDA 与 DailyMed 按通用名均 0 条。这些是检索事实，不推断为未批准或已撤市。
 3. **批准范围与证据强度处于不同层级**：西班牙核准的适应证是脑血管病相关认知减退症状，疗程上限为 30 天加 2 个月，且要求先排除阿尔茨海默病（§4）。Cochrane（2003）对痴呆的结论是证据不确定、不支持临床使用（`PMID:12535455`）。本档案并列两者，不用批准状态覆盖系统评价结论，也不用系统评价否定该文本的适用范围。
 4. **药代与机制数值的来源限制**：Tmax、生物利用度范围、分布容积与半衰期均来自西班牙说明书的汇总表述，未附原始研究出处。说明书的药效段明写各机制效应没有一项能与临床获益建立联系（§5.1）。因此本档案不推算剂量-暴露关系。
@@ -145,7 +145,7 @@
 
 本页不设专题：在取得西班牙现行文本之后，剩下的核心问题是批准范围与证据强度的落差。西班牙核准的是脑血管病相关认知减退症状且疗程有限，Cochrane 对痴呆的结论是不支持临床使用，两者已在 §5 与 §10 并列。当前最有价值的问题是卒中试验的效应量能否在更大样本中重复，该问题需要 2022 年荟萃纳入试验的全文，未取得。同类处理见 [piracetam](piracetam.md) 与 [pyritinol](pyritinol.md)。
 
-**监管与官方文件**：[西班牙 CIMA：VINPOCETINA COVEX 10 mg 片 Ficha técnica（注册号 85430，文本修订 2020 年 9 月）](https://cima.aemps.es/cima/dochtml/ft/85430/FT_85430.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/85430/FT_85430.pdf)。[西班牙 CIMA：VINPOCETINA COVEX 5 mg 片 Ficha técnica（注册号 61827，文本修订 2020 年 6 月）](https://cima.aemps.es/cima/dochtml/ft/61827/FT_61827.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/61827/FT_61827.pdf)。[CIMA REST 药名检索 `nombre=vinpocetina`（2026-11-10）](https://cima.aemps.es/cima/rest/medicamentos?nombre=vinpocetina)。[FDA《联邦公报》81 FR 61700（2016-09-07）Request for Comment on the Status of Vinpocetine](https://www.federalregister.gov/documents/2016/09/07/2016-21350/request-for-comment-on-the-status-of-vinpocetine)。[NTP DART-03（2020）产前发育研究](https://ntp.niehs.nih.gov/publications/reports/dart/dart03)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索 vinpocetine（无结果）](https://www.medicines.org.uk/emc/search?q=vinpocetine)。[openFDA 通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinpocetine%22)。[DailyMed 药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinpocetine)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
+**监管与官方文件**：[西班牙 CIMA。VINPOCETINA COVEX 10 mg 片 Ficha técnica（注册号 85430，文本修订 2020 年 9 月）](https://cima.aemps.es/cima/dochtml/ft/85430/FT_85430.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/85430/FT_85430.pdf)。[西班牙 CIMA：VINPOCETINA COVEX 5 mg 片 Ficha técnica（注册号 61827，文本修订 2020 年 6 月）](https://cima.aemps.es/cima/dochtml/ft/61827/FT_61827.html)。[PDF 版](https://cima.aemps.es/cima/pdfs/ft/61827/FT_61827.pdf)。[CIMA REST 药名检索 `nombre=vinpocetina`（2026-11-10）](https://cima.aemps.es/cima/rest/medicamentos?nombre=vinpocetina)。[FDA《联邦公报》81 FR 61700（2016-09-07）Request for Comment on the Status of Vinpocetine](https://www.federalregister.gov/documents/2016/09/07/2016-21350/request-for-comment-on-the-status-of-vinpocetine)。[NTP DART-03（2020）产前发育研究](https://ntp.niehs.nih.gov/publications/reports/dart/dart03)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索 vinpocetine（无结果）](https://www.medicines.org.uk/emc/search?q=vinpocetine)。[openFDA 通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinpocetine%22)。[DailyMed 药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinpocetine)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
 **研究与系统综述**：[PMID:18253980](https://pubmed.ncbi.nlm.nih.gov/18253980/)（Cochrane 2008，急性缺血性卒中）。[PMID:35488169](https://pubmed.ncbi.nlm.nih.gov/35488169/)（2022 年系统综述与荟萃，4 项 RCT）。[PMID:12535455](https://pubmed.ncbi.nlm.nih.gov/12535455/)（Cochrane 2003，认知障碍与痴呆）。[PMID:33957389](https://pubmed.ncbi.nlm.nih.gov/33957389/)（健康人与癫痫患者随机交叉，认知终点阴性）。[PMID:38147382](https://pubmed.ncbi.nlm.nih.gov/38147382/)（30 例开放标签，慢性脑缺血）。[PMID:32166194](https://pubmed.ncbi.nlm.nih.gov/32166194/) 与 [PMID:29183836](https://pubmed.ncbi.nlm.nih.gov/29183836/)（机制与临床使用综述）。
 

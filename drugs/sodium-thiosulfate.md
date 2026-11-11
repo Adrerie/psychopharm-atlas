@@ -1,6 +1,6 @@
 # sodium-thiosulfate｜硫代硫酸钠（Sodium Thiosulfate；WHO ATC 官方条目名为 **thiosulfate**，`V03AB06`，候选名写作 sodium thiosulfate；美国现行有两个适应证完全不同的单实体产品，分开记载）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国两现行 SPL 正文逐节回读：generic Sodium Thiosulfate Injection／Hope 与 PEDMARK／Fennec；WHO ATC V03AB 与 M01CB 亚组页；DailyMed `drug_name=sodium thiosulfate` 命中清单；KEGG 药物条目 ATC 行；中国四份管制目录＋2026-07-01 十六项增列附表逐名核对；PubChem 身份；钙化防御与氰化物解毒文献锚点题名级核对）｜ ATC：`V03AB06`（WHO ATC/DDD Index 2026）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国两现行 SPL 正文逐节回读：generic Sodium Thiosulfate Injection／Hope 与 PEDMARK／Fennec，WHO ATC V03AB 与 M01CB 亚组页，DailyMed `drug_name=sodium thiosulfate` 命中清单，KEGG 药物条目 ATC 行，中国四份管制目录＋2026-07-01 十六项增列附表逐名核对，PubChem 身份，钙化防御与氰化物解毒文献锚点题名级核对）｜ ATC：`V03AB06`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-STS`＝DailyMed 现行官方标签 SODIUM THIOSULFATE injection, solution（Hope Pharmaceuticals，setid `82f55408-2de9-463d-85e8-b39c3b259f0b`，版本 15，DailyMed 发布日 **2026-05-21**，页面标注 Updated **May 26, 2026**，文内 Highlights 末行 **Revised: 11/2023**，"Initial U.S. Approval: 1992"，DEA Schedule: None，Marketing Status: New Drug Application，NDC 60267-705-50）。`US-PED`＝PEDMARK（sodium thiosulfate injection，Fennec Pharmaceuticals Inc.，setid `f98c7076-2a7b-4fd7-ab90-eed5e9137bae`，版本 7，发布日 **2025-11-17**，页面标注 Updated **October 27, 2025**，文内 **Revised: 6/2025**，同列 Initial U.S. Approval: 1992）。`DM-4`＝DailyMed `services/v2/spls.json?drug_name=sodium thiosulfate`（2026-11-05 检索命中 **4 条**，库发布日 2026-11-04）。`ATC-V03AB`／`ATC-M01CB`＝WHO ATC/DDD 索引相应亚组页（页脚 Last updated 2026-01-20，2026-11-05 回读）。`KEGG`＝`rest.kegg.jp/get/D01091` 与 `get/D08521`（HTTP 200，2026-11-05）。`PCID`＝PubChem 名检索（HTTP 200）。`NCT…`＝标签 §14 内明示的登记号。`PMID:…`＝PubMed eutils（HTTP 200）。§N 指所引标签章节号。
@@ -11,10 +11,10 @@
 | --- | --- |
 | 类型／药理类别 | 单方无机硫盐解毒剂。氰化物解毒药（硫供体）与顺铂毒性预防药两个治疗目标共用同一活性物质。`US-STS` §11 化学名 thiosulfuric acid, disodium salt, pentahydrate，分子式 Na2S2O3·5H2O、MW 248.17；`US-STS` §12.1 记其为 cyanide antidote |
 | 现行 ATC 与 DDD | `V03AB06 thiosulfate`（`ATC-V03AB` 表内条目名为 thiosulfate，非 sodium thiosulfate）。**本条无 DDD**：WHO 组注原文"This group comprises many different types of drugs, and assigning DDDs are difficult. Very few DDDs are assigned in this group." |
-| 主要剂型（所引） | 均为静脉注射溶液。`US-STS`：单支 50 mL、25%、12.5 g（250 mg/mL），"Administration of one vial constitutes a single dose"（§3），含硼酸等辅料（§11）；`US-PED`：单剂量瓶 12.5 g/100 mL（§3），按体表面积给药、15 min 输注（§2.2）。**不含**外用洗剂与非药用制剂 |
+| 主要剂型（所引） | 均为静脉注射溶液。`US-STS`：单支 50 mL、25%、12.5 g（250 mg/mL），"Administration of one vial constitutes a single dose"（§3），含硼酸等辅料（§11）；`US-PED`。单剂量瓶 12.5 g/100 mL（§3），按体表面积给药、15 min 输注（§2.2）。**不含**外用洗剂与非药用制剂 |
 | 实体边界 | ①**两个产品、两套证据**：氰化物中毒的序贯解毒（`US-STS`，与亚硝酸钠配对）与顺铂相关耳毒性风险降低（`US-PED`，儿科肿瘤）。两标签互不通用，`US-PED` §2.1 明示"**PEDMARK is not substitutable with other sodium thiosulfate products**"。②**复方／kit**：`DM-4` 中的 **NITHIODOTE（sodium nitrite and sodium thiosulfate kit）** 是双成分套装，属另一对象，不计入单方评分；[sodium-nitrite](sodium-nitrite.md) 另建档案。③**羟钴胺** `V03AB33` 为另一氰化物解毒实体，且与本品存在化学不相容（§2.4）。④`DM-4` 第 4 条为含氯二甲酚／水杨酸／硫代硫酸钠的外用洗剂（Vetoquinol USA），属多组分局部制品，不继承本档案任何结论 |
 | 关键药代摘要 | §12.3：口服硫代硫酸**不系统吸收**。大部分氧化为硫酸或掺入内源含硫化合物，约 **20–50% 以原型经肾排泄**。静脉 1 g 后血清半衰期约 20 min，而静脉 150 mg/kg（60 kg 约 9 g）后报告半衰期 182 min（剂量依赖性）；犬实验维持 2 µmol/mL 稳态可使氰化物→硫氰酸盐转化速率提高 30 倍以上（§12.2）。`US-PED` §12.2：20/15/10 g/m² 分别带来 162/121/81 mmol/m² 的钠负荷，SIOPEL 6 中给药后 1 h 血钠平均短暂升高约 6 mmol/L，18–24 h 回基线 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）逐名检索"硫代硫酸钠／sodium thiosulfate／thiosulfate"均未命中，并已按 2026-07-01 生效的十六项非药用类增列附表逐名核对未命中。整类结构核查：本实体为 Na2S2O3（无机硫盐，无碳骨架），①**芬太尼类**母体 N-[1-(2-苯乙基)-4-哌啶基]-N-苯基丙酰胺的四项替代条件（换丙酰基／换与氮直接相连的苯基／哌啶环引入所列取代基／换苯乙基）在无哌啶、无酰胺、无芳香环的分子上无从适用。②**合成大麻素类**按 R1–R5、X、Y、Z 通式要求含氮杂芳基酰基母核。不适用。③**尼秦类**母体依托尼秦（2-[2-(4-乙氧基苄基)-5-硝基-1H-苯并咪唑-1-基]-N,N-二乙基-1-乙胺）四条件均以 1H-苯并咪唑为前提。不适用。④**奥啡类**以溴啡与螺溴啡两种母体各三条件列举。本分子无相应骨架。按公告字面不落入任一整类（定义原文见 [SOURCES.md](../SOURCES.md#整类列管的结构定义结构核查基准)）。**此表述不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）；此外"硫代硫酸钠"在工业与食品用途广泛，本判断仅针对药用实体口径 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）逐名检索"硫代硫酸钠／sodium thiosulfate／thiosulfate"均未命中，并已按 2026-07-01 生效的十六项非药用类增列附表逐名核对未命中。整类结构核查：本实体为 Na2S2O3（无机硫盐，无碳骨架），①**芬太尼类**母体 N-[1-(2-苯乙基)-4-哌啶基]-N-苯基丙酰胺的四项替代条件（换丙酰基／换与氮直接相连的苯基／哌啶环引入所列取代基／换苯乙基）在无哌啶、无酰胺、无芳香环的分子上无从适用。②**合成大麻素类**按 R1–R5、X、Y、Z 通式要求含氮杂芳基酰基母核。不适用。③**尼秦类**母体依托尼秦（2-[2-(4-乙氧基苄基)-5-硝基-1H-苯并咪唑-1-基]-N,N-二乙基-1-乙胺）四条件均以 1H-苯并咪唑为前提。不适用。④**奥啡类**以溴啡与螺溴啡两种母体各三条件列举。本分子无相应骨架。按公告字面不落入任一整类（定义原文见 [SOURCES.md](../SOURCES.md#整类列管的结构定义结构核查基准)）。**目录未命中不等于非管制**，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)；此外"硫代硫酸钠"在工业与食品用途广泛，本判断仅针对药用实体口径 |
 | 主要法域批准状态 | 美国：两现行单实体注射剂 SPL 均在库（`DM-4`），`US-STS` 适应证为与亚硝酸钠序贯用于严重／危及生命的急性氰化物中毒，`US-PED` 适应证为 ≥1 月龄局限性非转移性实体瘤儿童降低顺铂相关耳毒性风险。两页均列 Initial U.S. Approval: 1992（该字段为成分级日期，不等同于 PEDMARK 的批准年）。欧盟／英国／日本：未取用现行产品信息；日本 KEGG 条目列有 JP19 名与 Detoxol/Sulfactol 等商品名线索（`KEGG`），未回监管文本 → 待核实。中国：NMPA 恒 **HTTP 412**、CDE 目录接口 **202 校验页** → 上市与核准适应证待核实（不得据此推断未批准） |
 | 身份与统计 | WHO ATC `V03AB06`。PubChem CID 24477，分子式 Na2O3S2、MW 158.11（**无水口径**，与标签五水物 MW 248.17 分属两种计数口径）。KEGG `D01091` Sodium thiosulfate 的 `ATC code:` 行只列 **V03AB06**，同库 `D08521` 为 Sodium aurothiosulfate（金制剂）。官方 `ATC-M01CB` 页显示 M01CB02 是 **sodium aurotiosulfate**（14 mg P），属另一实体；官方 M01CB 与 M01AX 表内**均无 thiosulfate 行** → 聚合库关于"本品另有 M01CB02"的说法属混淆线索，本档案不写双码 |
 
@@ -95,15 +95,15 @@
 - 场景不外推：氰化物解毒文本不含耳毒性结论，PEDMARK 文本不含氰化物结论。两产品不可互换（`US-PED` §2.1）。
 - 官方 ATC 身份：`V03AB06` 无 DDD。M01CB02 经官方 `ATC-M01CB` 页确认为 sodium aurotiosulfate（金制剂），KEGG `D01091` 的 ATC 行亦只列 V03AB06 → 聚合库的"sodium thiosulfate＝M01CB02"属混淆线索，本档案不采纳双码。
 - 未取得文本的法域：欧盟／英国／日本的产品信息与适应证未取（缺口，不作否定性表述）。NMPA 412、CDE 202 拦截 → 中国上市与核准适应证待核实。
-- 文献层面锚点（题名／来源级，效应量未逐篇回原文）：`PMID:19650716`（氰化物解毒剂选择的综述）、`PMID:17098327`（烟雾吸入经验性治疗：硫代硫酸钠 vs 羟钴胺）、`PMID:37512116` 与 `PMID:28603903`（钙化防御的系统评价）、`PMID:29719190` 与 `PMID:25960299`（钙化防御的临床综述）。检索式与返回码见 §11 与汇报。
+- 文献层面锚点（题名／来源级，效应量未逐篇回原文）：`PMID:19650716`（氰化物解毒剂选择的综述）、`PMID:17098327`（烟雾吸入经验性治疗，硫代硫酸钠 vs 羟钴胺）、`PMID:37512116` 与 `PMID:28603903`（钙化防御的系统评价）、`PMID:29719190` 与 `PMID:25960299`（钙化防御的临床综述）。检索式与返回码见 §11 与汇报。
 - 未检得本药的人体滥用／强化效应资料，也未检得中国境内处方偏离数据 → 两维度分别记 N/A（见 §2.1）。
 
 ## 11. 深入分析与来源
 
 - `US-STS`：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82f55408-2de9-463d-85e8-b39c3b259f0b （§1 适应证与 §2 用法／监测／不相容。§4 禁忌 None 与 §5 亚硫酸盐。§6 不良反应与 §8 特殊人群。§10 过量与 §11 描述。§12 机制与药代）
 - `US-PED`：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f98c7076-2a7b-4fd7-ab90-eed5e9137bae （§1 适应证与 Limitations of Use。§2 不可互换与时窗、§5 超敏／钠钾／呕吐。§12 机制与钠负荷、§13 非临床。§14 SIOPEL 6 与 COG ACCL0431）
-- `DM-4`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sodium%20thiosulfate （HTTP 200，total_elements 4：Hope 注射液 v15、PEDMARK v7、NITHIODOTE kit v10 2025-11-17、Vetoquinol 复方洗剂 v3 2020-12-17）
-- `ATC-V03AB`：https://atcddd.fhi.no/atc_ddd_index/?code=V03AB&display=subgroup ｜ `ATC-M01CB`：https://atcddd.fhi.no/atc_ddd_index/?code=M01CB&display=subgroup
+- `DM-4`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=sodium%20thiosulfate （HTTP 200，total_elements 4，Hope 注射液 v15、PEDMARK v7、NITHIODOTE kit v10 2025-11-17、Vetoquinol 复方洗剂 v3 2020-12-17）
+- `ATC-V03AB`：https://atcddd.fhi.no/atc_ddd_index/?code=V03AB&display=subgroup ｜ `ATC-M01CB`。https://atcddd.fhi.no/atc_ddd_index/?code=M01CB&display=subgroup
 - KEGG：https://rest.kegg.jp/get/D01091 ｜ https://rest.kegg.jp/get/D08521 （HTTP 200）
 - PubChem：https://pubchem.ncbi.nlm.nih.gov/compound/24477 （HTTP 200）
 - PubMed 检索式（esearch＋esummary，均 HTTP 200）：`sodium thiosulfate calciphylaxis`（count 353）、`cyanide poisoning smoke inhalation sodium thiosulfate hydroxocobalamin antidote`（count 16）

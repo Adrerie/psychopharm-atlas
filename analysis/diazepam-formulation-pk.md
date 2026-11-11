@@ -27,7 +27,13 @@
 代谢通路与 N-去甲地西泮的超长半衰期已在主条目 §1 与 §9 记录，且这些参数在所有途径共用同一套酶与同一个代谢物，因此**途径换成直肠或鼻喷并不会缩短蓄积时间窗**。本页只补主条目没有保留的三组人群数值：
 
 - **酒精性肝硬化的对照规模**：延长 2–5 倍、清除率约减半这组结论来自 0.1–0.15 mg/kg 单次静注的 **n=24 患者对同龄对照 n=37**，即它是按人群对照测得的，不是个案观察。
-- **儿科分段半衰期**（标签注明这些数值来自文献综述）：新生儿约 50–95 h、婴幼儿约 40–50 h、2–12 岁约 15–21 h、12–16 岁约 18–20 h。年轻成人清除率约 20–30 mL/min。这解释了为什么年长儿童更接近成人清除，而婴儿期的暴露时间可接近老年。
+- **儿科分段半衰期**（标签注明这些数值来自文献综述）：
+  - 新生儿约 50–95 h
+  - 婴幼儿约 40–50 h
+  - 2–12 岁约 15–21 h
+- 12–16 岁约 18–20 h
+
+年轻成人清除率约 20–30 mL/min。这解释了为什么年长儿童更接近成人清除，而婴儿期的暴露时间可接近老年。
 - **排泄终点**：最终主要以葡萄糖醛酸结合物经尿排出（`US-DZ-PO` §12.3）。这是主条目没有记录的终点，也是 §3.3 那条两侧结论相反的分歧所指向的环节。
 
 ### 2.3 同一用途的两套量化口径
@@ -47,8 +53,12 @@
 
 - **短期耐受负担 3 的依据是分子共有事件**（嗜睡、疲乏、肌无力、共济失调在口服与注射标签一致列出），不使用直肠凝胶的剂型特异发生率来抬高基础分。该 23% 对 8% 的数字在本页保留为剂型层面证据。
 - **长期风险负担 3 只反映共有机制**：活性代谢物蓄积、依赖与戒断、跌倒与慢性每日使用的反向发作风险。注射剂的丙二醇毒性与血管损伤不进此分。
-- **场景分化的原因**：发作簇 B（直肠凝胶有直接对照试验，鼻喷有效性依据相对生物利用度桥接，观察窗短）、持续状态 B−（指南级定位但标签无对照结局／且氟马西尼在此类危及生命用途中属禁忌）、操作前镇静 B−（呼吸抑制与心血管虚脱集中在该途径）、焦虑与失眠 C+／C−（效应量只能靠类级证据，且失眠未获批）。
-- **相互作用／监测负担 3 的边界**：与途径无关的 CYP3A4／2C19 通路问题在分子层面评估：
+- **场景分化的原因**：
+  - 发作簇 B（直肠凝胶有直接对照试验，鼻喷有效性依据相对生物利用度桥接，观察窗短）
+  - 持续状态 B−（指南级定位但标签无对照结局，且氟马西尼在此类危及生命用途中属禁忌）
+  - 操作前镇静 B−（呼吸抑制与心血管虚脱集中在该途径）
+  - 焦虑与失眠 C+／C−（效应量只能靠类级证据，且失眠未获批）
+- **相互作用／监测负担 3 的边界**。与途径无关的 CYP3A4／2C19 通路问题在分子层面评估：
 - 英国 §4.5 给定量倍数：氟伏沙明 AUC +190%
 - 氟康唑半衰期 31→73 h
 - 利福平清除率约升 4 倍
@@ -59,4 +69,4 @@
 
 **监管文件**：[地西泮片处方资料（DailyMed setid ba953b22，生效 2026-08-27）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ba953b22-f0cd-4be5-9e0e-178bded88727)。[地西泮注射液（setid cf7bd9ba，生效 2026-08-19）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf7bd9ba-5030-479a-8448-3a99395b0d0c)。[另一持证方注射剂（setid c57af2a2，生效 2026-07-23）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c57af2a2-aa9a-4dac-a200-e0d845005d05)。[Valium 片（setid 260e2041，生效 2026-08-11）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6)。[地西泮直肠凝胶（ANDA217468，setid b5b17a28，生效 2026-05-28）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5b17a28-2cab-4c0d-8f9d-7b224e4d0989)。[VALTOCO 鼻喷（NDA211635，setid 1a8bcc90，生效 2026-06-03）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a8bcc90-68fa-474d-832c-0df01e825f39)。[英国 emc 地西泮 2 mg 片 SmPC（产品 101911，PL 06464/1400，文本修订 2025-11-11）](https://www.medicines.org.uk/emc/product/101911/smpc)。[英国 emc 地西泮直肠管 SmPC（产品 3001）](https://www.medicines.org.uk/emc/product/3001/smpc)。[英国 emc 地西泮注射剂 SmPC（产品 6274）](https://www.medicines.org.uk/emc/product/6274/smpc)。[FDA 苯二氮䓬类黑框警示更新（2020-09-23）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class)。[WHO 基本药物目录地西泮条目](https://list.essentialmeds.org/medicines/22)。
 
-**指南**：[PMID:26900382](https://pubmed.ncbi.nlm.nih.gov/26900382/)（美国癫痫学会 2016 惊厥性癫痫持续状态处理指南：静脉地西泮成人／儿童 Level A，儿童直肠给药 Level B）。类级黑框警示见上方 [FDA 苯二氮䓬类黑框警示更新（2020-09-23）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class)，持续状态定位另见 [WHO 基本药物目录地西泮条目](https://list.essentialmeds.org/medicines/22)。
+**指南**：[PMID:26900382](https://pubmed.ncbi.nlm.nih.gov/26900382/)（美国癫痫学会 2016 惊厥性癫痫持续状态处理指南，静脉地西泮成人／儿童 Level A，儿童直肠给药 Level B）。类级黑框警示见上方 [FDA 苯二氮䓬类黑框警示更新（2020-09-23）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class)，持续状态定位另见 [WHO 基本药物目录地西泮条目](https://list.essentialmeds.org/medicines/22)。

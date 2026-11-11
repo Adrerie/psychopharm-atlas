@@ -12,7 +12,7 @@
 | 类型／药理类别 | 单方。SSRI。ATC 亚组 N06AB（`UK-SPC` §5.1）|
 | 产品线（必须分开判断） | 速释片／口服悬液、控释片（CR）、低剂量潮热线三条产品线的适应证集合不同。`US-IR`／`US-PAXIL` §1＝抑郁发作、强迫症、恐慌障碍、社交焦虑障碍、广泛性焦虑障碍、创伤后应激障碍（均限成人）。`US-CR`／`US-CRG` §1＝抑郁发作、恐慌障碍、社交焦虑障碍、经前期心境障碍（无 OCD／GAD／PTSD）。`US-BRIS` §1＝仅中重度绝经血管舒缩症状，并自写"not indicated for the treatment of any psychiatric condition" |
 | 关键药代 | 平均消除半衰期约 21 小时（CV 32%）。药动学非线性，稳态浓度约为单次给药预测值的数倍，标签把此归因于 CYP2D6 在临床剂量即被饱和。CYP2D6 弱代谢者中的药动学"未评估"（`US-IR` §12.3）。`UK-SPC` §5.2 表述半衰期"一般约一天"、个体差异大 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：五份现行目录与增列公告逐项未命中"paroxetine／帕罗西汀"，四个整类按公告结构定义核查亦不落入（本药苯环上两个氧同属一个亚甲二氧基，不构成第七类结构式所要求的二羟基芳环）。此表述不等于"非管制"，处方、携带、进出口等限制另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：五份现行目录与增列公告逐项未命中"paroxetine／帕罗西汀"，四个整类按公告结构定义核查亦不落入（本药苯环上两个氧同属一个亚甲二氧基，不构成第七类结构式所要求的二羟基芳环）。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 美国：速释线六项适应证均限成人。PMDD 只属控释线。潮热只属低剂量线。黑框与 §8.4 均写"Paroxetine is not approved for use in pediatric patients"（`US-IR`）。英国：§4.1＝抑郁发作、OCD、伴或不伴广场恐惧的恐慌障碍、社交焦虑／社交恐惧、GAD、PTSD。**含 GAD 与 PTSD，但不含 PMDD 与潮热**。§4.4 写明 18 岁以下儿童与青少年"should not be used"。中国：待核实（§10）|
 | 身份与统计 | WHO ATC `N06AB05`。DDD 20 mg／日口服（统计指标，非处方剂量）。Wikidata [Q408471](https://www.wikidata.org/wiki/Q408471)。PubChem [43815](https://pubchem.ncbi.nlm.nih.gov/compound/43815)。MeSH [D017374](https://meshb.nlm.nih.gov/record/ui?ui=D017374)。DrugBank [DB00715](https://www.drugbank.ca/r/DB00715)。RxNorm [32937](https://rxnav.nlm.nih.gov/REST/rxcui/32937.json)。[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06AB05) |
 
@@ -97,7 +97,7 @@
 ## 8. 重要相互作用
 
 - **MAOI 洗脱的方向不对称**：美国要求两侧均为 14 天，并把利奈唑胺与静脉亚甲蓝写进 MAOI 定义（`US-IR` §4／§2.4）。英国写法是"停用不可逆 MAOI 后 2 周、停用可逆 MAOI（吗氯贝胺／利奈唑胺／亚甲蓝）后至少 24 小时"才可启用帕罗西汀，而停用帕罗西汀后至少 1 周才可用任何 MAOI（`UK-SPC` §4.3／§4.4）。
-- **CYP2D6 底物**：美国现行标签 §7 点名的例子包括：
+- **CYP2D6 底物**。美国现行标签 §7 点名的例子包括：
 - 普罗帕酮
 - 氟卡尼
 - 托莫西汀

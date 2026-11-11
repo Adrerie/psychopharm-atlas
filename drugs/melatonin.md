@@ -6,7 +6,7 @@
 **引用键**：
 
 - `UK-CIR`＝英国 Circadin 2 mg 缓释片 SmPC（emc 2809，PLGB 52348/0002，RAD Neurim Pharmaceuticals EEC SARL，授权／续展与文本修订日期均为 2021-01-01，emc 页面标注最近更新 2025-02-11）。
-- `UK-SLE`＝英国 Slenyto 5 mg 缓释片 SmPC（emc 10024，Flynn Pharma Ltd，文本修订 2025-06-25；同厂 1 mg 规格 emc 10023）。
+- `UK-SLE`＝英国 Slenyto 5 mg 缓释片 SmPC（emc 10024，Flynn Pharma Ltd，文本修订 2025-06-25、同厂 1 mg 规格 emc 10023）。
 - `FR-CIR`＝法国 BDPM CIRCADIN 2 mg, comprimé à libération prolongée（CIS 68578854，授权 Valide，中央程序）。
 - `US-FDA-DS`＝FDA 膳食补充剂监管页与《膳食补充剂问答》。
 - `PMID:……`＝PubMed。§N 指相应 SmPC 章节号。**本药的第一要点是监管身份而非法域疗效**：美国按膳食补充剂管理、无任何 FDA 批准的褪黑素药品或适应证（§1、§10 第 1 项），英国与法国的现行文本只代表 2 mg 缓释与 Slenyto 等**药品**身份。
@@ -19,7 +19,7 @@
 | **监管身份（本页第一要点）** | **美国：膳食补充剂**。`US-FDA-DS` 载明膳食补充剂在 DSHEA（1994）下按**食品**范畴管理，安全性与标签由生产与经销者自行负责，法律**没有上市前由 FDA 批准安全性的条款**，FDA 仅能上市后执法。Drugs@FDA 按通用名检索 melatonin **0 条**批准申请；DailyMed 命中的 60 条均为含褪黑素的顺势／多成分制剂，**不是褪黑素药品批准**。因此**美国不存在"标签适应证"这一证据层**。**英国／法国：药品**（POM），Circadin 2 mg 与 Slenyto 1／5 mg 缓释片均有现行 SmPC，法国另有数款 MELATONINE 2 mg 缓释仿制。**中国：以保健食品原料管理**。三部门 2020-11-23 公告发布的《保健食品原料目录》附件 5 即褪黑素，2021-03-01 施行，该公告只证明保健食品原料目录身份，**不证明任何药品适应证或疗效**（§10 第 2 项） |
 | 主要剂型 | 英国／法国：2 mg **缓释片**（须整片吞服、**不得压碎或掰开**以维持缓释特性）、Slenyto 1／5 mg 缓释微型片；英国另有 1–5 mg 普通片、胶囊与口服溶液等现行规格（39 个产品条目）。美国：以补充剂形式销售，剂型与含量不由药品监管决定。**内源性与外源性、不同释型之间不可互换**：Cochrane 指出**2 mg 缓释在时差场景相对无效**（`PMID:12076414`） |
 | 关键药代摘要 | **口服吸收完全（成人），老年人吸收可能下降多达 50%；生物利用度约 15%，首过代谢约 85%，2–8 mg 呈线性**，缓释片**进食后 Tmax 3.0 小时／Cmax 1,020 pg/mL，空腹 Tmax 0.75 小时／Cmax 1,176 pg/mL**，体外血浆蛋白结合约 60%，**终末半衰期 3.5–4 小时**，代谢物经肾排泄（89% 为 6-羟基褪黑素的结合物，原形 2%），主要代谢酶 **CYP1A1／CYP1A2，可能含 CYP2C19**，女性 Cmax 为男性 3–4 倍但**药效学无性别差异**（`UK-CIR` §5.2） |
-| 中国管制状态 | **未发现列入现行麻精目录（核查至 2026-10-06）**：2025 年版药用类麻醉药品目录、药用类精神药品目录（第一类 18／第二类 78 项）、2026 年第 58 号增列、2025 年版非药用类目录（396 项）与其 16 种增列逐项均未命中"melatonin／褪黑素"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类，本药（吲哚 N1 为氢、3 位为 N-乙酰化乙胺侧链，无 `-C(=O)Z-R3` 酰基侧链）不落入任一母核或所列替代条件。**此表述不等于"非管制"**：只说明未列入麻精目录，处方、携带、进出口与保健食品／药品注册等限制须另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入现行麻精目录（核查至 2026-10-06）**：2025 年版药用类麻醉药品目录、药用类精神药品目录（第一类 18／第二类 78 项）、2026 年第 58 号增列、2025 年版非药用类目录（396 项）与其 16 种增列逐项均未命中"melatonin／褪黑素"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类，本药（吲哚 N1 为氢、3 位为 N-乙酰化乙胺侧链，无 `-C(=O)Z-R3` 酰基侧链）不落入任一母核或所列替代条件。**目录未命中不等于非管制**：只说明未列入麻精目录，处方、携带、进出口与保健食品／药品注册等限制须另按[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)核实 |
 | 主要法域批准状态 | **美国**：**无 FDA 批准的适应证**（膳食补充剂不得宣称治疗、预防或诊断疾病）。**英国**：Circadin 单药用于 **55 岁及以上**原发性失眠（以睡眠质量差为特征）的短期治疗；Slenyto 用于 **2–18 岁** ASD 和／或伴异常昼夜褪黑素分泌或夜间觉醒的神经遗传疾病、以及 **6–17 岁** ADHD 的儿童与青少年失眠（两者均限睡眠卫生措施不足时）。**法国**：CIRCADIN 2 mg 与 SLENYTO 1／5 mg 均为中央程序现行授权。**中国**：褪黑素的**药品**上市与核准适应证待核实，已核实的是保健食品原料目录身份（§10 第 2 项） |
 | 身份与统计 | WHO ATC `N05CH01`；DDD **2 mg 口服**（统计指标，非处方剂量），Wikidata [Q180912](https://www.wikidata.org/wiki/Q180912)，PubChem [896](https://pubchem.ncbi.nlm.nih.gov/compound/896)，MeSH [D008550](https://meshb.nlm.nih.gov/record/ui?ui=D008550)，DrugBank [DB01065](https://www.drugbank.ca/r/DB01065)，RxNorm [6711](https://rxnav.nlm.nih.gov/REST/rxcui/6711.json)，**英国《受管制药物清单》未收录本药**（取回页面逐项检索无 melatonin，与苯二氮䓬与 Z 药的列管位置不同） |
 
@@ -38,7 +38,7 @@
 | 滥用／误用潜力 | N/A | **未取回褪黑素特异的人体强化效应、自身给药或误用流行病学／药物警戒证据**。相邻三条都不属于该维度：英国《受管制药物清单》未收录本药（**未列管是监管事实，不能折算 1 分**）；§5.1"戒断症状未增加"属停药维度，`PMID:16336040` 是概念性算法、未对本药测定。按 SCORING"滥用潜力须依据药物特异的强化效应或误用证据"，本项记 `N/A` 而**不以 1 分填充** |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 《中国老年人潜在不适当用药判断标准（2017 年版）》全文**0 次出现褪黑素**；亦未取回**中国境内针对本药的处方偏离或药物利用计数**（九城市儿童失眠用药研究显示处方量 2016→2023 增长约 409%，最常用类别列为阿普唑仑、唑吡坦、曲唑酮、舍曲林与喹硫平，**未给褪黑素逐药计数**）（`PMID:39787818`），中国老年抑郁门诊 PIM 队列亦无本药条目（`PMID:42756141`）。保健食品原料目录身份与"未列入麻精目录"都不是处方适宜性证据（§10 第 2 项） |
 
-总体解释：褪黑素的负担评分明显低于同批苯二氮䓬催眠药。长期 2、短期 2、停药 1。但这**不等于"可随意使用"**。它的核心问题不在毒理，而在**证据与身份的错位**：美国侧没有任何药品级疗效结论（补充剂身份），英法批准被限定在**很窄的人群与很短的疗程**（55 岁以上原发性失眠、13 周内；或特定神经发育疾病相关失眠），而效应量本身是**分钟级**（睡眠潜伏期缩短 9 分钟；荟萃加权差值 −5 至 −6 分钟）。本条目把"未列入中国麻精目录"与"英国未列管"严格当作监管事实，不折算成任何低风险分数。
+总体解释：褪黑素的负担评分明显低于同批苯二氮䓬催眠药。长期 2、短期 2、停药 1，但这**不等于"可随意使用"**。它的核心问题不在毒理，而在**证据与身份的错位**：美国侧没有任何药品级疗效结论（补充剂身份），英法批准被限定在**很窄的人群与很短的疗程**（55 岁以上原发性失眠、13 周内、或特定神经发育疾病相关失眠），而效应量本身是**分钟级**（睡眠潜伏期缩短 9 分钟、荟萃加权差值 −5 至 −6 分钟）。本条目把"未列入中国麻精目录"与"英国未列管"严格当作监管事实，不折算成任何低风险分数。
 
 ### 2.2 按使用场景适宜度（A–D）
 
@@ -66,7 +66,7 @@
 - **6 个月的失败是明确的**：n=600 的随机试验在第 3 周重新随机化，**3 个月内维持获益（额外约 10% 应答者），但 6 个月未达到主要分析集**（`UK-CIR` §5.1），"可长期使用"没有获批文本支持。
 - **剂量与时机是主要修饰项**：26 项 RCT（1,689 条观测）的剂量-反应荟萃显示改善**在约 4 mg/日达峰**，且"给药与睡眠时段的间隔"和"给药时刻"均为显著预测因子（`PMID:38888087`）。Cochrane 亦强调时机。两者都是试验条件，不构成用法建议。
 - **补充剂不等于已测定的剂量**：对 31 种商业产品的化学分析显示**实测含量相对标示值偏差 −83% 至 +478%、批间差异可达 465%，并在 8 种产品中检出 1–75 µg 5-羟色胺**（`PMID:27855744`）。该研究对象不是任何法域的授权药品，不能用于推断英国／法国制剂的含量，但足以说明不能用补充剂文献的剂量推断标签制剂的暴露。
-- **儿科长期结局证据薄弱**：丹麦卫生局的 GRADE 评估覆盖 22 项随机研究（1,350 例）与 4 项观察研究（105 例）：**未见与严重不良事件的关联，但非严重不良事件增多（RR 1.56，1.01–2.43，I²=47%）**。青春期发育方面三项研究报告 2–4 年治疗"很少或无影响"，另一项记录**用药超过 7 年者可能延迟**（`PMID:37483551`）。另有综述指出**在美国褪黑素是 0–6 岁儿童急诊"无人看管用药暴露／过量"的首位原因**、长期结局数据缺失（`PMID:41481289`），属**意外伤害口径**，与药物毒性口径不可混用。
+- **儿科长期结局证据薄弱**。丹麦卫生局的 GRADE 评估覆盖 22 项随机研究（1,350 例）与 4 项观察研究（105 例）：**未见与严重不良事件的关联，但非严重不良事件增多（RR 1.56，1.01–2.43，I²=47%）**。青春期发育方面三项研究报告 2–4 年治疗"很少或无影响"，另一项记录**用药超过 7 年者可能延迟**（`PMID:37483551`）。另有综述指出**在美国褪黑素是 0–6 岁儿童急诊"无人看管用药暴露／过量"的首位原因**、长期结局数据缺失（`PMID:41481289`），属**意外伤害口径**，与药物毒性口径不可混用。
 
 ## 6. 长期风险
 
@@ -84,19 +84,19 @@
 
 - **氟伏沙明**：抑制 CYP1A2 与 CYP2C19，使褪黑素 **AUC 升高约 17 倍、Cmax 约 12 倍**。英国文本写明**应避免该组合**（`UK-CIR` §4.5）。
 - **其他升高暴露者**：雌激素（口服避孕药或激素替代，抑制 CYP1A1／1A2）、西咪替丁（CYP2D 抑制）、5-与 8-甲氧沙补骨脂素（抑制代谢）、其他 CYP1A2 抑制剂如喹诺酮类。
-- **降低暴露者**：CYP1A2 诱导剂：**卡马西平与利福平**。**吸烟亦可降低褪黑素水平**（经诱导 CYP1A2）。
+- **降低暴露者**。CYP1A2 诱导剂：**卡马西平与利福平**。**吸烟亦可降低褪黑素水平**（经诱导 CYP1A2）。
 - **外向作用**：体外在高超治疗浓度下诱导 CYP3A，**临床意义未知**。对 CYP1A 无体外诱导作用，因此经 CYP1A 介导的相互作用不太可能显著。
 - **机制相关但未研究**：文献记载多种药物会影响**内源性褪黑素分泌**，包括肾上腺素能与阿片类配剂、抗抑郁药与前列腺素抑制剂。苯二氮䓬、色氨酸与酒精亦在列。英国文本明确写其是否干扰本药效应"尚未研究"（§4.5）。
 - **个案警示**：Cochrane 指出病例报告提示**癫痫患者与服华法林者可能受害**，并列为待研究问题（`PMID:12076414`）。
 
 ## 9. 特殊人群
 
-**老年**：吸收"成人完全、老年人可能下降多达 50%"。批准人群即 ≥55 岁，给药要求睡前 1–2 小时、**餐后**（§4.2、§5.2）。**儿童与青少年**：Circadin 的 0–18 岁"安全有效性尚未确立"。Slenyto 批准限 2–18 岁（ASD／神经遗传病）与 6–17 岁（ADHD），并要求至少每 6 个月复评、用药≥3 个月无明确效果时考虑停药（§4.2）。**妊娠与哺乳**：取回的英国两份文本无可核对的相应条款，不作断言（§10 第 6 项）。**肝功能不全**：不推荐（无使用经验；肝损者白天内源性褪黑素因清除下降而显著升高）。**肾功能不全**：各期肾损的药代**未被研究**，须谨慎。**自身免疫性疾病**：不推荐（无临床数据）。**乳糖**：Circadin 含乳糖，相关遗传性不耐受者不应服用。**驾驶**：可致嗜睡（§4.4、§4.7）。以上均为文本事实，不构成个体化建议。补充剂人群（尤其儿童与孕妇）的实际暴露不在这些条款覆盖范围内。
+**老年**：吸收"成人完全、老年人可能下降多达 50%"。批准人群即 ≥55 岁，给药要求睡前 1–2 小时、**餐后**（§4.2、§5.2）。**儿童与青少年**：Circadin 的 0–18 岁"安全有效性尚未确立"。Slenyto 批准限 2–18 岁（ASD／神经遗传病）与 6–17 岁（ADHD），并要求至少每 6 个月复评、用药≥3 个月无明确效果时考虑停药（§4.2）。**妊娠与哺乳**：取回的英国两份文本无可核对的相应条款，不作断言（§10 第 6 项）。**肝功能不全**：不推荐（无使用经验、肝损者白天内源性褪黑素因清除下降而显著升高）。**肾功能不全**：各期肾损的药代**未被研究**，须谨慎。**自身免疫性疾病**：不推荐（无临床数据）。**乳糖**：Circadin 含乳糖，相关遗传性不耐受者不应服用。**驾驶**：可致嗜睡（§4.4、§4.7）。以上均为文本事实，不构成个体化建议。补充剂人群（尤其儿童与孕妇）的实际暴露不在这些条款覆盖范围内。
 
 ## 10. 证据边界
 
 1. **美国侧没有"标签适应证"这一证据层**：Drugs@FDA 检索 melatonin 为 0 条批准申请。DailyMed 的 60 条命中全部为含褪黑素的多成分顺势／营养制剂。FDA 页面明确膳食补充剂依法**不经上市前批准**、由企业自行负责安全性与标签。因此不得把补充剂剂量、补充剂文献或健康信息页叙述写成核准适应证。
-2. **中国的两项事实相互独立、都不能外推**：① **未列入现行麻精目录**（核查至 2026-10-06，含四个整类的结构核查），这不是"非管制"，也不涉及处方与其他法律限制。② **列入《保健食品原料目录》（附件 5，2021-03-01 施行）**。只证明保健食品原料身份与管理路径，**不证明药品适应证、疗效或安全结论**。中国**药品**上市与核准状态无法核实（NMPA 412、CDE 202，商业药品库不采用）。
+2. **中国的两项事实相互独立，互不可外推**。① **未列入现行麻精目录**（核查至 2026-10-06，含四个整类的结构核查）只表示逐项未命中，不表示"非管制"，也不涉及处方与其他法律限制。② **列入《保健食品原料目录》（附件 5，2021-03-01 施行）**。只证明保健食品原料身份与管理路径，**不证明药品适应证、疗效或安全结论**。中国**药品**上市与核准状态无法核实（NMPA 412、CDE 202，商业药品库不采用）。
 3. **成人／儿童的疗效结论方向不一致**：`PMID:36179487` 认为成人不显著、儿童与青少年显著。`PMID:37434463` 报告缓释褪黑素在成人的分钟级改善且 ≥55 岁亚组更大。英国批准的是 ≥55 岁人群，其 §5.1 给出的效应同样是分钟级与应答者比例。三者人群、制剂与终点口径不同，本条目并列保留而不合并成"褪黑素有效／无效"。
 4. **停药与滥用两维不可互换**：英国文本的"无戒断、无反跳"来自最长 6 个月的试验。本药无任何人体强化效应测定被取回，"英国未列管"不能折算成滥用 1 分，故该维度记 `N/A`，与停药维度（1 分并附范围限定）分开。
 5. **不同口径的数字不可合并**：`PMID:41481289` 为意外伤害口径（美国 0–6 岁急诊），`PMID:37483551` 的 RR 1.56 为临床试验非严重不良事件口径，`PMID:27855744` 为产品质量口径。分母、人群与测量对象完全不同。
@@ -112,11 +112,11 @@
 - [lemborexant](lemborexant.md)
 - [remimazolam](remimazolam.md)
 
-**监管与官方文件**：[英国 Circadin 2 mg 缓释片 SmPC（emc 2809，PLGB 52348/0002，修订 2021-01-01）](https://www.medicines.org.uk/emc/product/2809/smpc)。[英国 Slenyto 5 mg 缓释片 SmPC（emc 10024，修订 2025-06-25）](https://www.medicines.org.uk/emc/product/10024/smpc)。[英国 Slenyto 1 mg（emc 10023）](https://www.medicines.org.uk/emc/product/10023/smpc)。[emc 检索 melatonin（39 个现行产品条目，含 2 mg 缓释仿制与 1–5 mg 普通片）](https://www.medicines.org.uk/emc/search?q=melatonin)。[法国 BDPM CIRCADIN 2 mg 缓释片（CIS 68578854，Valide，中央程序）](https://base-donnees-publique.medicaments.gouv.fr/medicament/68578854/extrait)。[法国 BDPM SLENYTO 5 mg 缓释片（CIS 64322882）](https://base-donnees-publique.medicaments.gouv.fr/medicament/64322882/extrait)。[FDA：Dietary Supplements（DSHEA 下的监管框架）](https://www.fda.gov/food/dietary-supplements)。[FDA：Questions and Answers on Dietary Supplements（"法律没有上市前批准膳食补充剂安全性的条款"）](https://www.fda.gov/food/dietarysupplements/usingdietarysupplements/ucm480069.htm)。[openFDA Drugs@FDA 检索 melatonin（0 条批准申请）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22melatonin%22)。[DailyMed 按药名检索 melatonin（60 条，均为含褪黑素的多成分／顺势制剂）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=melatonin)。[市场监管总局等三部门《关于发布辅酶 Q10 等五种保健食品原料目录的公告》（2020-11-23，2021-03-01 施行；附件 5《保健食品原料目录 褪黑素》）](https://www.samr.gov.cn:83/tssps/zcwj/art/2023/art_f22954c667fc400abddd0b7ece6155a6.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
+**监管与官方文件**：[英国 Circadin 2 mg 缓释片 SmPC（emc 2809，PLGB 52348/0002，修订 2021-01-01）](https://www.medicines.org.uk/emc/product/2809/smpc)。[英国 Slenyto 5 mg 缓释片 SmPC（emc 10024，修订 2025-06-25）](https://www.medicines.org.uk/emc/product/10024/smpc)。[英国 Slenyto 1 mg（emc 10023）](https://www.medicines.org.uk/emc/product/10023/smpc)。[emc 检索 melatonin（39 个现行产品条目，含 2 mg 缓释仿制与 1–5 mg 普通片）](https://www.medicines.org.uk/emc/search?q=melatonin)。[法国 BDPM CIRCADIN 2 mg 缓释片（CIS 68578854，Valide，中央程序）](https://base-donnees-publique.medicaments.gouv.fr/medicament/68578854/extrait)。[法国 BDPM SLENYTO 5 mg 缓释片（CIS 64322882）](https://base-donnees-publique.medicaments.gouv.fr/medicament/64322882/extrait)。[FDA：Dietary Supplements（DSHEA 下的监管框架）](https://www.fda.gov/food/dietary-supplements)。[FDA：Questions and Answers on Dietary Supplements（"法律没有上市前批准膳食补充剂安全性的条款"）](https://www.fda.gov/food/dietarysupplements/usingdietarysupplements/ucm480069.htm)。[openFDA Drugs@FDA 检索 melatonin（0 条批准申请）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22melatonin%22)。[DailyMed 按药名检索 melatonin（60 条，均为含褪黑素的多成分／顺势制剂）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=melatonin)。[市场监管总局等三部门《关于发布辅酶 Q10 等五种保健食品原料目录的公告》（2020-11-23，2021-03-01 施行、附件 5《保健食品原料目录 褪黑素》）](https://www.samr.gov.cn:83/tssps/zcwj/art/2023/art_f22954c667fc400abddd0b7ece6155a6.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
 **指南与官方健康信息**：[NIH NCCIH《Melatonin: What You Need To Know》（含 AASM 2015 对 DSWPD 的弱推荐转述与时差、DSWPD 证据概况）](https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know)。[《中国老年人潜在不适当用药判断标准（2017 年版）》全文（本药 0 次命中）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[AGS Beers 2023（苯二氮䓬行与 Z 药条目均不含本药）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。
 
-**研究与系统综述**：[Cochrane：褪黑素与时差（10 项试验、NNT≈2，PMID:12076414）](https://pubmed.ncbi.nlm.nih.gov/12076414/)。[慢性失眠系统综述与荟萃（24 项 RCT，成人不显著，PMID:36179487）](https://pubmed.ncbi.nlm.nih.gov/36179487/)。[褪黑素与雷美替胺荟萃（22 项研究 4,875 人，PMID:37434463）](https://pubmed.ncbi.nlm.nih.gov/37434463/)。[儿童与青少年特发性慢性失眠：荟萃与临床推荐（8 项 RCT 419 例，PMID:37457117）](https://pubmed.ncbi.nlm.nih.gov/37457117/)。[儿童与青少年褪黑素不良事件 GRADE 评估（22 项随机＋4 项观察研究，PMID:37483551）](https://pubmed.ncbi.nlm.nih.gov/37483551/)。[幼儿褪黑素使用的系统综述（PMID:41481289）](https://pubmed.ncbi.nlm.nih.gov/41481289/)。[剂量与给药时机：剂量-反应荟萃（26 项 RCT，PMID:38888087）](https://pubmed.ncbi.nlm.nih.gov/38888087/)。[老年人褪黑素／雷美替胺荟萃（17 项研究，PMID:36079069）](https://pubmed.ncbi.nlm.nih.gov/36079069/)。[商业制剂含量变异与 5-羟色胺污染（31 种产品，PMID:27855744）](https://pubmed.ncbi.nlm.nih.gov/27855744/)。[催眠药相对滥用潜力框架（PMID:16336040）](https://pubmed.ncbi.nlm.nih.gov/16336040/)。[中国九城市儿童失眠用药趋势 2016–2023（PMID:39787818）](https://pubmed.ncbi.nlm.nih.gov/39787818/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
+**研究与系统综述**。[Cochrane：褪黑素与时差（10 项试验、NNT≈2，PMID:12076414）](https://pubmed.ncbi.nlm.nih.gov/12076414/)。[慢性失眠系统综述与荟萃（24 项 RCT，成人不显著，PMID:36179487）](https://pubmed.ncbi.nlm.nih.gov/36179487/)。[褪黑素与雷美替胺荟萃（22 项研究 4,875 人，PMID:37434463）](https://pubmed.ncbi.nlm.nih.gov/37434463/)。[儿童与青少年特发性慢性失眠：荟萃与临床推荐（8 项 RCT 419 例，PMID:37457117）](https://pubmed.ncbi.nlm.nih.gov/37457117/)。[儿童与青少年褪黑素不良事件 GRADE 评估（22 项随机＋4 项观察研究，PMID:37483551）](https://pubmed.ncbi.nlm.nih.gov/37483551/)。[幼儿褪黑素使用的系统综述（PMID:41481289）](https://pubmed.ncbi.nlm.nih.gov/41481289/)。[剂量与给药时机：剂量-反应荟萃（26 项 RCT，PMID:38888087）](https://pubmed.ncbi.nlm.nih.gov/38888087/)。[老年人褪黑素／雷美替胺荟萃（17 项研究，PMID:36079069）](https://pubmed.ncbi.nlm.nih.gov/36079069/)。[商业制剂含量变异与 5-羟色胺污染（31 种产品，PMID:27855744）](https://pubmed.ncbi.nlm.nih.gov/27855744/)。[催眠药相对滥用潜力框架（PMID:16336040）](https://pubmed.ncbi.nlm.nih.gov/16336040/)。[中国九城市儿童失眠用药趋势 2016–2023（PMID:39787818）](https://pubmed.ncbi.nlm.nih.gov/39787818/)。[中国老年抑郁门诊双标准 PIM（PMID:42756141）](https://pubmed.ncbi.nlm.nih.gov/42756141/)。
 
 **分类与身份**：[WHO ATC/DDD Index `N05CH01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CH01)。[Wikidata Q180912](https://www.wikidata.org/wiki/Q180912)。[PubChem CID 896](https://pubchem.ncbi.nlm.nih.gov/compound/896)。[MeSH D008550](https://meshb.nlm.nih.gov/record/ui?ui=D008550)。[DrugBank DB01065](https://www.drugbank.ca/r/DB01065)。[RxNorm RXCUI 6711](https://rxnav.nlm.nih.gov/REST/rxcui/6711.json)。[英国《受管制药物清单》（本药未收录）](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。English Wikipedia（标题指针，未复制正文）：[Melatonin](https://en.wikipedia.org/wiki/Melatonin)。
 

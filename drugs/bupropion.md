@@ -22,7 +22,7 @@
 | 主要剂型 | 单方有速释（IR）与缓释（SR）两种。缓释产品中另有每日一次（XL）剂型。同为 SR 的不同美国产品可有不同批准用途。WELLBUTRIN SR 用于 MDD，而 `US-SMOKE` 明确用于戒烟。必须按具体标签与产品线区分 |
 | 机制（标签表述） | §12.1：抗抑郁的确切机制未知，但推测与**去甲肾上腺素能与／或多巴胺能**机制相关。本药是 NE 与 DA 神经元再摄取的**较弱**抑制剂，**不抑制 5‑HT 再摄取**，也不抑制单胺氧化酶（`US-SR` §12.1） |
 | 关键药代摘要 | 消旋混合物，**单个对映体的药理活性与药代未被研究**。母药平均消除半衰期 21±9 h，8 天内达稳态，口服绝对生物利用度未测定。三个活性代谢物中，hydroxybupropion（由 **CYP2B6** 生成）稳态 AUC 约为母药 **17 倍**。erythro‑ 与 threo‑hydrobupropion（**不经 P450 生成**）的半衰期分别为 33±10 h 与 37±13 h。蛋白结合 84%，以原形经尿排出仅 0.5%（`US-SR` §12.3） |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**。五份现行目录与增列公告逐项未命中"bupropion／丁氨苯丙酮"，四个整类按公告结构定义核查并经 RDKit 复核亦不落入。此表述不等于"非管制"。本药在中国的上市与批准状态同时**未能确认**（NMPA 返回 HTTP 412，CDE 无可结构化结果），处方、携带、进出口等限制另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**。五份现行目录与增列公告逐项未命中"bupropion／丁氨苯丙酮"，四个整类按公告结构定义核查并经 RDKit 复核亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)。本药在中国的上市与批准状态同时**未能确认**（NMPA 返回 HTTP 412，CDE 无可结构化结果） |
 | 主要法域批准状态 | 美国：MDD（IR／SR／XL）。SAD 预防仅 XL。**戒烟仍有现行安非他酮 SR 仿制产品获批**（`US-SMOKE` §1），即使 ZYBAN 品牌本身已列 discontinued。英国：Zyban 现行 SmPC 仍列戒烟适应证，英国无单方抑郁许可记录（`UK-SPC` §4.1）。中国：待核实（§10） |
 | 身份与统计 | WHO ATC `N06AX12`，见 [ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX12)。DDD 0.3 g（口服，统计指标、非处方剂量）。标识符：Wikidata [Q834280](https://www.wikidata.org/wiki/Q834280)、PubChem [444](https://pubchem.ncbi.nlm.nih.gov/compound/444)、MeSH [D016642](https://meshb.nlm.nih.gov/record/ui?ui=D016642)、DrugBank [DB01156](https://www.drugbank.ca/r/DB01156)、RxNorm [42347](https://rxnav.nlm.nih.gov/REST/rxcui/42347.json)。 |
 
@@ -38,7 +38,7 @@
 | 短期耐受负担 | 4 | MDD 对照试验中 ≥5% 的反应呈明显剂量梯度：口干 7%→17%→24%、失眠 6%→11%→16%、恶心 8%→13%→18%，震颤与激越同样随剂量上升。因不良反应停药率安慰剂 4%、300 mg 9%、400 mg 11%。本药不加重体重，反而常伴体重下降（见 §3 与 §6），故镇静／代谢型负担低而**激活型**反应突出（`US-SR` §6.1 表 3、表 4） |
 | 相互作用／监测负担 | 4 | 监测要求是明确的血压项。相互作用的核心是**本药抑制 CYP2D6**（标签点名的底物清单见 §8）。标签引用的正式研究只有一项。15 名广泛代谢者合用单次地昔帕明 50 mg 后，地昔帕明的 Cmax、AUC 与半衰期分别平均升高约 2、5 与 2 倍，且**末次给药后至少 7 天仍存在**。标签同时写明"与其他 2D6 底物的合用未经正式研究"。反向通路为 CYP2B6（噻氯匹定／氯吡格雷升高本药暴露，依法韦仑等诱导剂降低）。本药不经 CYP2D6 代谢，故 2D6 抑制主要影响合用药而非本药（`US-SR` §7.2–§7.7、§12.3） |
 | 停药负担 | 2 | 本药黑框是抗抑郁药类的自杀意念与行为警示，**不含戒断条款**。标签 §4 中"骤停"条目指的是**停用酒精、苯二氮䓬、巴比妥与抗癫痫药**会升高癫痫风险，而非停用安非他酮本身。ZYBAN §9.2 只在戒烟语境下写"评估纳入个体方案时应记住本药可能诱发依赖的可能性"。未检索到安非他酮停药综合征的标签量化数据（`US-IR` §4、`US-SR` 黑框、`US-ZYB` §9.2） |
-| 滥用／误用潜力 | 2 | §9.1 原文为"**Bupropion is not a controlled substance**"，中国亦未列入麻精目录。但标签并未声称无滥用潜力。§9.2 记录既往多药滥用者的对照试验中 400 mg 单次给药呈轻度苯丙胺样活性、喜好度量表得分介于安慰剂与苯丙胺之间，同时声明临床试验结果不能可靠预测滥用潜力。**非口服途径的误用是标签明确记载的风险**："有吸入压碎片剂或注射溶解后安非他酮的报告；经鼻或胃肠外给药后出现过癫痫与死亡病例"。英国 SmPC §4.4 则表述为"滥用潜力低"，两处口径强度不同（`US-SR` §9.1–§9.3；`UK-SPC` §4.4） |
+| 滥用／误用潜力 | 2 | §9.1 原文为"**Bupropion is not a controlled substance**"，中国亦未列入麻精目录。但标签并未声称无滥用潜力。§9.2 记录既往多药滥用者的对照试验中 400 mg 单次给药呈轻度苯丙胺样活性、喜好度量表得分介于安慰剂与苯丙胺之间，同时声明临床试验结果不能可靠预测滥用潜力。**非口服途径的误用是标签明确记载的风险**："有吸入压碎片剂或注射溶解后安非他酮的报告；经鼻或胃肠外给药后出现过癫痫与死亡病例"。英国 SmPC §4.4 则表述为"滥用潜力低"，两处口径强度不同（`US-SR` §9.1–§9.3。`UK-SPC` §4.4） |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 中国上市与批准状态未能从官方入口确认，也没有针对中国安非他酮处方的药物利用或 PIM 研究。在 3155 名≥65 岁抑郁门诊患者的两套标准前 10 位名单中安非他酮未出现，但这只说明它不在该样本的判定前列，**不构成风险高低的评价**（`PMID:42756141`） |
 
 **负担特征**：与多数 SSRI/SNRI 不同，安非他酮**体重与性功能相关负担较低，激活与癫痫风险更突出**。美国的关键事实是 **ZYBAN 品牌已 discontinued，但仍有当前安非他酮 SR 仿制标签明确批准用于戒烟**。抑郁用 SR／XL 产品与戒烟用 SR 产品不能只按"同成分"合并理解（§10 第 1 项）。复方（纳曲酮＋安非他酮）带来的阿片相关限制与体重管理用途不计入本页任何分数。
@@ -69,7 +69,7 @@
 ## 5. 实际效果与局限
 
 - 戒烟是本药证据较充分的用途。Cochrane 2023 给出高确定性的 RR 1.60（1.49–1.72），同时明确它**劣于伐尼克兰**（RR 0.73，0.67–0.80）。把"有效"与"最优"分开陈述是必要的（`PMID:37230961`）。
-- 抑郁侧的跨药参照来自 21 药网络荟萃（522 项试验、116,477 人）："所有抗抑郁药均优于安慰剂，OR 介于 1.37 与 2.13 之间"。但**未能取回安非他酮自身的 OR 值**，因此不能在本页给出它的排序位置（`PMID:29477251`）。
+- 抑郁侧的跨药参照来自 21 药网络荟萃（522 项试验、116,477 人）："所有抗抑郁药均优于安慰剂，OR 介于 1.37 与 2.13 之间"，但**未能取回安非他酮自身的 OR 值**，因此不能在本页给出它的排序位置（`PMID:29477251`）。
 - 剂型证据的不对称是真实存在的局限。SR 标签载明没有证明缓释剂型抗抑郁疗效的独立试验，疗效由速释试验加生物等效性外推。XL 则有独立的维持期与 SAD 试验（`US-SR` §14、`US-XL` §14）。
 - 共病抑郁人群的戒烟获益不确定。Cochrane 该亚组 RR 1.37（0.83–2.27）区间跨越 1（`PMID:24115157`）。
 - 非口服误用的临床描述见系统综述（17 篇定性合成）。鼻吸与注射几乎只见于已有物质使用障碍（尤其兴奋剂使用障碍）者，主观为较弱的可卡因样短暂效应，最常见体征是心动过速，随后是可被苯二氮䓬缓解的癫痫。该合成无法给出发生率（`PMID:38656298`）。
@@ -87,11 +87,11 @@
 - **短期反应**：以激活型反应为主，失眠、口干与恶心为常见，另有头痛、多汗与震颤。激越与食欲下降亦见（剂量梯度见 §2.1），因不良反应停药率 4%／9%／11%。戒烟人群另有"梦境异常"（Dream abnormality）5% 与嗜睡、头晕等项。
 - **停药**：黑框与标签均未把本药自身列为躯体依赖风险来源。标签的"骤停"禁忌针对酒精、苯二氮䓬、巴比妥与抗癫痫药的撤除。ZYBAN §9.2 在戒烟语境下保留"可能诱发依赖"的表述。
 - **误用**：非管制药品。吸入压碎片剂与注射溶解制剂均有报告，经鼻或胃肠外给药后出现过癫痫与死亡。400 mg 单次在既往滥用者量表中呈部分苯丙胺样特征。标签要求在有滥用史者中谨慎评估。
-- **过量**：报告剂量达 30 g 以上，约三分之一病例出现癫痫。无特异性解毒剂，需支持治疗并考虑活性炭（`US-SR` §4、§9.1–§9.3；`US-ZYB` §9.2、§10.1）。
+- **过量**：报告剂量达 30 g 以上，约三分之一病例出现癫痫。无特异性解毒剂，需支持治疗并考虑活性炭（`US-SR` §4、§9.1–§9.3、`US-ZYB` §9.2、§10.1）。
 
 ## 8. 重要相互作用
 
-- **CYP2D6 底物**：本药与其代谢物抑制 2D6，标签点名以下类别，并要求考虑减量：
+- **CYP2D6 底物**。本药与其代谢物抑制 2D6，标签点名以下类别，并要求考虑减量：
   - 抗抑郁药（文拉法辛／去甲替林／丙咪嗪／地昔帕明／帕罗西汀／氟西汀／舍曲林）
   - 抗精神病药（氟哌啶醇／利哌酮／硫利达嗪）
   - β 阻滞剂（美托洛尔）
@@ -125,17 +125,17 @@
 4. **对映体与机制陈述的强度**：标签写明本药为消旋体且"单个对映体的药理活性与药代未被研究"。任何关于右旋／左旋异构体分工的说法都不属标签事实。§12.1 用词为"确切机制未知"，把本药称作"NDRI"是文献简称，标签说的是"较弱"的再摄取抑制且不覆盖 5‑HT。
 5. **常见说法在当前标签文本中无依据**：现行标签没有"性功能不良反应发生率低"的正面陈述，仅有 decreased libido 的试验百分比与上市后 increased libido、勃起功能障碍条目。"vivid dreams"字样在 2021 版 ZYBAN 标签中未找到，相关条目以 Dream abnormality 呈现。
 6. **与伐尼克兰的并用证据不在本药标签内**：现行安非他酮标签**未提及**伐尼克兰。可核的是 CHANTIX 标签 §7.1（伐尼克兰不改变安非他酮稳态药代，且"联合用药的安全性尚未确立"）与 ZYBAN §14 比较试验中非精神科人群临床有意义神经精神事件率（安非他酮 3.5%、伐尼克兰 3.1%、NRT 3.3%、安慰剂 4.1%）。
-7. **中国信息缺口**：NMPA 返回 HTTP 412，CDE 无可结构化结果。本药在中国的上市剂型、核准适应证与说明书均未确认，也未使用商业药品库补足。管制状态按"未发现列入现行目录"表述（§1）。29 省 41 家医院与老年 PIM 两项中国处方研究**均无安非他酮命中**。在无法确认中国上市状态的前提下，不据"零命中"推断使用强度（`PMID:34315410`；`PMID:42756141`）。
+7. **中国信息缺口**：NMPA 返回 HTTP 412，CDE 无可结构化结果。本药在中国的上市剂型、核准适应证与说明书均未确认，也未使用商业药品库补足。管制状态按"未发现列入现行目录"表述（§1）。29 省 41 家医院与老年 PIM 两项中国处方研究**均无安非他酮命中**。在无法确认中国上市状态的前提下，不据"零命中"推断使用强度（`PMID:34315410`、`PMID:42756141`）。
 8. DDD 0.3 g 为统计指标。各剂型的剂量上限、加量节奏与戒烟疗程判定不在本条目复述。
 
 ## 11. 深入分析与来源
 
 专题分析：[bupropion-pk-risk.md](../analysis/bupropion-pk-risk.md)（母药与三个活性代谢物的暴露、CYP2D6 与 CYP2B6 的不对称影响、IR／SR／XL 与戒烟产品线的证据来源，以及癫痫量化为何只存在于速释标签）。
 
-**监管与官方文件**：[WELLBUTRIN SR（DailyMed setid cbc8c074，生效 2025-11-05）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8c074-f080-4489-a5ae-207b5fadeba3)；[美国现行戒烟用 Bupropion HCl SR（setid a591e33a，更新 2025-09-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a591e33a-52f0-41c8-a00b-4a1afcc3dc4c)；[WELLBUTRIN XL（setid a435da9d，生效 2026-02-10）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21)；[仿制速释片（setid 86530199，生效 2026-09-09）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86530199-999b-9f92-b1bc-b8515ec829f3)；[ZYBAN 存档标签（NDA020711，2021-03-09）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020711s052lbl.pdf)；[Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/)；[英国 Zyban SmPC](https://www.medicines.org.uk/emc/product/3827/smpc)；[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE](https://www.cde.org.cn/)。
+**监管与官方文件**：[WELLBUTRIN SR（DailyMed setid cbc8c074，生效 2025-11-05）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8c074-f080-4489-a5ae-207b5fadeba3)。[美国现行戒烟用 Bupropion HCl SR（setid a591e33a，更新 2025-09-30）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a591e33a-52f0-41c8-a00b-4a1afcc3dc4c)。[WELLBUTRIN XL（setid a435da9d，生效 2026-02-10）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21)。[仿制速释片（setid 86530199，生效 2026-09-09）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86530199-999b-9f92-b1bc-b8515ec829f3)。[ZYBAN 存档标签（NDA020711，2021-03-09）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020711s052lbl.pdf)。[Drugs@FDA](https://www.accessdata.fda.gov/scripts/cder/daf/)。[英国 Zyban SmPC](https://www.medicines.org.uk/emc/product/3827/smpc)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE](https://www.cde.org.cn/)。
 
-**系统与综述证据**：[PMID:37230961](https://pubmed.ncbi.nlm.nih.gov/37230961/)（Cochrane CD000031.pub6，2023：抗抑郁药戒烟）；[PMID:24115157](https://pubmed.ncbi.nlm.nih.gov/24115157/)（Cochrane CD006102：现患或既往抑郁吸烟者的戒烟干预）；[PMID:29477251](https://pubmed.ncbi.nlm.nih.gov/29477251/)（21 种抗抑郁药网络荟萃）；[PMID:38656298](https://pubmed.ncbi.nlm.nih.gov/38656298/)（安非他酮处方误用临床表现的 systematic review）；[PMID:34315410](https://pubmed.ncbi.nlm.nih.gov/34315410/) 与 [PMID:42756141](https://pubmed.ncbi.nlm.nih.gov/42756141/)（中国处方与老年 PIM 研究，本药均无命中）。
+**系统与综述证据**：[PMID:37230961](https://pubmed.ncbi.nlm.nih.gov/37230961/)（Cochrane CD000031.pub6，2023，抗抑郁药戒烟）。[PMID:24115157](https://pubmed.ncbi.nlm.nih.gov/24115157/)（Cochrane CD006102：现患或既往抑郁吸烟者的戒烟干预）。[PMID:29477251](https://pubmed.ncbi.nlm.nih.gov/29477251/)（21 种抗抑郁药网络荟萃）。[PMID:38656298](https://pubmed.ncbi.nlm.nih.gov/38656298/)（安非他酮处方误用临床表现的 systematic review）。[PMID:34315410](https://pubmed.ncbi.nlm.nih.gov/34315410/) 与 [PMID:42756141](https://pubmed.ncbi.nlm.nih.gov/42756141/)（中国处方与老年 PIM 研究，本药均无命中）。
 
-**分类与身份**：[WHO ATC/DDD Index `N06AX12`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX12)；[Wikidata Q834280](https://www.wikidata.org/wiki/Q834280)；[PubChem CID 444](https://pubchem.ncbi.nlm.nih.gov/compound/444)；[MeSH D016642](https://meshb.nlm.nih.gov/record/ui?ui=D016642)；[DrugBank DB01156](https://www.drugbank.ca/r/DB01156)；[RxNorm RXCUI 42347](https://rxnav.nlm.nih.gov/REST/rxcui/42347.json)。
+**分类与身份**：[WHO ATC/DDD Index `N06AX12`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX12)。[Wikidata Q834280](https://www.wikidata.org/wiki/Q834280)。[PubChem CID 444](https://pubchem.ncbi.nlm.nih.gov/compound/444)。[MeSH D016642](https://meshb.nlm.nih.gov/record/ui?ui=D016642)。[DrugBank DB01156](https://www.drugbank.ca/r/DB01156)。[RxNorm RXCUI 42347](https://rxnav.nlm.nih.gov/REST/rxcui/42347.json)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -9,12 +9,12 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 类型／药理类别 | 单方；ATC 亚组 N05BX（其他抗焦虑药），法国 RCP  pharmacotherapeutic class 记为 ANXIOLYTIQUE。化学属**苯并噁嗪类（benzoxazine）**。`FR-STRESAM` §5.1 把机制写成经**两条路径强化 GABA_A 传递**：① 直接别构正调节 GABA_A、优先结合 β2 或 β3 亚基、其结合位点**不同于苯二氮䓬位点**；② 间接经激活线粒体转位蛋白 **TSPO（18 kDa）**增加脑内神经甾体（如别孕烷醇酮 allopregnanolone）生成，后者本身即 GABA_A 别构正调节剂 |
+| 类型／药理类别 | 单方；ATC 亚组 N05BX（其他抗焦虑药），法国 RCP  pharmacotherapeutic class 记为 ANXIOLYTIQUE。化学属**苯并噁嗪类（benzoxazine）**。`FR-STRESAM` §5.1 把机制写成经**两条路径强化 GABA_A 传递**：① 直接别构正调节 GABA_A、优先结合 β2 或 β3 亚基、其结合位点**不同于苯二氮䓬位点**、② 间接经激活线粒体转位蛋白 **TSPO（18 kDa）**增加脑内神经甾体（如别孕烷醇酮 allopregnanolone）生成，后者本身即 GABA_A 别构正调节剂 |
 | 主要剂型 | 法国：50 mg 硬胶囊（PVC‑Alu 泡罩 60 粒）；辅料含**乳糖**。本次核查无注射、缓释或口溶剂型 |
 | 关键药代摘要 | `FR-STRESAM` §5.2：口服吸收良好、不与血液有形成分结合、血浆浓度以**三相缓慢下降**、**主要经尿排泄**，并**通过胎盘**。RCP **未给出消除半衰期数值、达峰时间、蛋白结合百分比或具体 CYP 酶**：这些字段属本条目数据缺口（§10 第 7 项），不据二手来源补写；临床给药（每日 2–3 次）与"三相下降"相容，但不等于已核定的 PK 参数。 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026‑10‑06）**：逐一核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026‑07‑01 生效的 16 种非药用类增列，"etifoxine／étifoxine"逐项未命中；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类（以 PubChem 分子式与结构式预筛、阳性与边界案例人工回看），本药不落入任何一类的母核或替代条件。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026‑10‑06）**：逐一核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026‑07‑01 生效的 16 种非药用类增列，"etifoxine／étifoxine"逐项未命中；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类（以 PubChem 分子式与结构式预筛、阳性与边界案例人工回看），本药不落入任何一类的母核或替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **法国**：处方药（liste I），**处方时长上限 12 周**；RCP §4.1 适应证为"**焦虑的心理‑躯体表现（manifestations psycho‑somatiques de l'anxiété）**"，面向成人的"减轻伴随焦虑的多种情绪与躯体反应"。**美国／英国／欧盟其他成员国**：本次核查无现行授权产品（openFDA、DailyMed、emc 各 0 条），故美国与英国均**无现行产品记录**，其批准状态写为"无"。中国上市与核准适应证待核实（§10 第 4 项） |
-| 身份与统计 | WHO ATC `N05BX03`；**2026 年索引未对本编码列 DDD**（官方无 DDD 值）；Wikidata [Q3592452](https://www.wikidata.org/wiki/Q3592452)；PubChem [135413553](https://pubchem.ncbi.nlm.nih.gov/compound/135413553)；MeSH [C002125](https://meshb.nlm.nih.gov/record/ui?ui=C002125)；DrugBank [DB08986](https://www.drugbank.ca/r/DB08986)；RxNorm [24441](https://rxnav.nlm.nih.gov/REST/rxcui/24441.json)；商品名 Stresam®；研究代号 HOE 36‑801 |
+| 身份与统计 | WHO ATC `N05BX03`；**2026 年索引未对本编码列 DDD**（官方无 DDD 值）、Wikidata [Q3592452](https://www.wikidata.org/wiki/Q3592452)、PubChem [135413553](https://pubchem.ncbi.nlm.nih.gov/compound/135413553)、MeSH [C002125](https://meshb.nlm.nih.gov/record/ui?ui=C002125)、DrugBank [DB08986](https://www.drugbank.ca/r/DB08986)、RxNorm [24441](https://rxnav.nlm.nih.gov/REST/rxcui/24441.json)、商品名 Stresam®、研究代号 HOE 36‑801 |
 
 ## 2. 评分
 
@@ -37,7 +37,7 @@
 
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 焦虑的心理‑躯体表现（成人） | **仅法国获批**（12 周上限）；美／英／其他法域无现行产品；中国待核实 | B− | 一项 260 例成人 GAD（伴躯体症状）双盲双模拟 4 周试验中，étifoxine 50 mg tid 与阿普唑仑 0.5 mg tid 的 HAM‑A 自基线下降相当（**−13.5 对 −13.4，调整后均差 −0.18，95% CI −1.08 至 0.72，达非劣效**）（`PMID:41763071`）。获益可靠但仅 4 周对照、单一日后随访缺失；法国 RCP 适应证措辞限于"心理‑躯体表现"，不等于所有 GAD 亚型 |
+| 焦虑的心理‑躯体表现（成人） | **仅法国获批**（12 周上限）；美／英／其他法域无现行产品、中国待核实 | B− | 一项 260 例成人 GAD（伴躯体症状）双盲双模拟 4 周试验中，étifoxine 50 mg tid 与阿普唑仑 0.5 mg tid 的 HAM‑A 自基线下降相当（**−13.5 对 −13.4，调整后均差 −0.18，95% CI −1.08 至 0.72，达非劣效**）（`PMID:41763071`）。获益可靠但仅 4 周对照、单一日后随访缺失；法国 RCP 适应证措辞限于"心理‑躯体表现"，不等于所有 GAD 亚型 |
 | 苯二氮䓬依赖顾虑者的替代抗焦虑 | 属试验结论层面的相对优势，非独立适应证 | C+ | 头对试验作者据此把 étifoxine 描述为"管理焦虑、无药物依赖的有前景替代"（`PMID:41763071`）；RCP 亦区分其 GABA_A 结合位点不同于苯二氮䓬。此优势来自本药试验而非"法国批准"外推，且仍受皮肤／肝超敏限制 |
 
 **本条目不单列以下场景的评分**（依 SCORING.md）：妊娠／哺乳、肝肾功能、老年剂量与肝功能监测都属"特殊人群"（见 §9）。与酒精／CNS 抑制剂合用属相互作用（§8）。"美／英未获批""缺少长期对照证据"本身不构成评分场景。除上述两项有药物特异证据且有决策价值的场景外，其余用途（失眠、抑郁共病焦虑等）在法国 RCP 未载且无本药当代对照数据，保留于 §4／§10。
@@ -48,7 +48,7 @@
 
 ## 4. 适应范围
 
-**获批（法国，唯一法域）**：焦虑的心理‑躯体表现（成人）。处方为 liste I、**时长上限 12 周**。常用量 3–4 粒/日分 2–3 次（即 150–200 mg/日）。**未获批／无本药证据**：原发性失眠、抑郁核心治疗、儿童与青少年（RCP 未确立儿科数据）、GAD 之外的焦虑谱系障碍：均不作场景评分，留此说明。**无美／英／欧盟现行文本**。**中国未上市、核准适应证待核实**（§10）。
+**获批（法国，唯一法域）**：焦虑的心理‑躯体表现（成人）。处方为 liste I、**时长上限 12 周**。常用量 3–4 粒/日分 2–3 次（即 150–200 mg/日）。**未获批／无本药证据**：原发性失眠、抑郁核心治疗、儿童与青少年（RCP 未确立儿科数据）、GAD 之外的焦虑谱系障碍，均不作场景评分，留此说明。**无美／英／欧盟现行文本**。**中国未上市、核准适应证待核实**（§10）。
 
 ## 5. 实际效果与局限
 
@@ -81,7 +81,7 @@
 - 中枢降压药
 - 巴氯芬
 - 沙利度胺等，中枢抑制相加（§4.5）
-- **RCP 未记载代谢酶层面的相互作用**：`FR-STRESAM` §4.5 只列上述镇静／CNS 抑制剂组合，未点名 CYP 抑制剂、诱导剂或底物。因此本条目不据代谢机制外推具体倍数或剂量调整（§10 第 7 项）。
+- **RCP 未记载代谢酶层面的相互作用**：`FR-STRESAM` §4.5 只列上述镇静／CNS 抑制剂组合，未点名 CYP 抑制剂、诱导剂或底物，因此本条目不据代谢机制外推具体倍数或剂量调整（§10 第 7 项）。
 - 无"禁忌联用"级相互作用。
 
 ## 9. 特殊人群
@@ -90,7 +90,7 @@
 
 ## 10. 证据边界
 
-1. **只有法国有现行文本**：`FR-STRESAM`（CIS 63136857）与 `FR-AIP`（CIS 68285851）经服务端渲染提取页逐项核对，页面药品名为 STRESAM, gélule、成分为 étifoxine 盐酸盐、规格 50 mg 胶囊：与要求一致。美国 openFDA 与 DailyMed、英国 emc 检索 etifoxine 均返回 **0 条现行产品**，故本条目写"无现行文本／无批准记录"，**不由"法国批准"外推**。
+1. **只有法国有现行文本**：`FR-STRESAM`（CIS 63136857）与 `FR-AIP`（CIS 68285851）经服务端渲染提取页逐项核对，页面药品名为 STRESAM, gélule、成分为 étifoxine 盐酸盐、规格 50 mg 胶囊。与要求一致。美国 openFDA 与 DailyMed、英国 emc 检索 etifoxine 均返回 **0 条现行产品**，故本条目写"无现行文本／无批准记录"，**不由"法国批准"外推**。
 2. **BDPM 两条记录须区分**：CIS 63136857 为原研 STRESAM（BioCodex），CIS 68285851 为 DIFARMED 平行进口 AIP。后者接口带"信息重要／强监测"（isOrange/typeAlert）标记，本条目如实记为**带加强监测标记**。两记录均对应同一 50 mg 胶囊分子与规格。
 3. **机制证据层级**：β2/β3 亚基结合、TSPO 与神经甾体通路来自 §5.1 与临床前研究。不构成人体占有率或疗效证明。
 4. **中国注册信息未取得**：NMPA 数据入口返回 412 校验页、CDE 上市药品目录集返回 202 校验页。中国未确认上市，核准适应证待核实。中国管制字段沿用既有逐药核查（未重跑全库结构审计）。
@@ -109,7 +109,7 @@
 
 **监管与官方文件**：[法国 BDPM STRESAM 提取页（CIS 63136857，50 mg 胶囊，BioCodex，ANSM 文本 2024‑11‑08）](https://base-donnees-publique.medicaments.gouv.fr/medicament/63136857/extrait)。[法国 BDPM STRESAM 平行进口 AIP 提取页（CIS 68285851，DIFARMED SLU，授权 2025‑04‑10，带强监测标记）](https://base-donnees-publique.medicaments.gouv.fr/medicament/68285851/extrait)。[BDPM 按商品名前缀检索接口 startBy=STRESAM（返回 2 条规格）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=STRESAM)。[美国 openFDA 按通用名 etifoxine 检索（0 条标签）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22etifoxine%22)。[英国 emc 检索 etifoxine（0 条产品）](https://www.medicines.org.uk/emc/search?q=etifoxine)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)、[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**指南与研究**：[J Anxiety Disord 2026 成人 GAD 伴躯体症状 étifoxine 对比阿普唑仑的随机双盲非劣效试验（PMID:41763071）](https://pubmed.ncbi.nlm.nih.gov/41763071/)。[Etifoxine：GABA 调节与神经保护性质综述（PMID:31308671）](https://pubmed.ncbi.nlm.nih.gov/31308671/)。[TSPO 配体 étifoxine 动物焦虑模型（性别与品系依赖；PMID:39725124）](https://pubmed.ncbi.nlm.nih.gov/39725124/)。
+**指南与研究**：[J Anxiety Disord 2026 成人 GAD 伴躯体症状 étifoxine 对比阿普唑仑的随机双盲非劣效试验（PMID:41763071）](https://pubmed.ncbi.nlm.nih.gov/41763071/)。[Etifoxine：GABA 调节与神经保护性质综述（PMID:31308671）](https://pubmed.ncbi.nlm.nih.gov/31308671/)。[TSPO 配体 étifoxine 动物焦虑模型（性别与品系依赖、PMID:39725124）](https://pubmed.ncbi.nlm.nih.gov/39725124/)。
 
 **分类与身份**：[WHO ATC/DDD Index `N05BX03`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BX03)。[Wikidata Q3592452](https://www.wikidata.org/wiki/Q3592452)。[PubChem CID 135413553](https://pubchem.ncbi.nlm.nih.gov/compound/135413553)。[MeSH C002125](https://meshb.nlm.nih.gov/record/ui?ui=C002125)。[DrugBank DB08986](https://www.drugbank.ca/r/DB08986)。[RxNorm RXCUI 24441](https://rxnav.nlm.nih.gov/REST/rxcui/24441.json)。English Wikipedia（标题指针）：[Etifoxine](https://en.wikipedia.org/wiki/Etifoxine)。
 

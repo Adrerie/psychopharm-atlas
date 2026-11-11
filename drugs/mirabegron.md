@@ -1,6 +1,6 @@
 # mirabegron｜米拉贝隆（中文核准名待核实；缓释片与缓释口服混悬颗粒为同一成分的两类产品）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国 MYRBETRIQ 现行处方标签正文逐节核对，含片剂与颗粒剂条款；DailyMed 现行 SPL 清单与命中数；WHO ATC/DDD G04BD 子组页回读；中国四份目录与 2026-07-01 增列附表逐名核对）｜ ATC：`G04BD12`（WHO ATC/DDD Index 2026）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国 MYRBETRIQ 现行处方标签正文逐节核对，含片剂与颗粒剂条款，DailyMed 现行 SPL 清单与命中数，WHO ATC/DDD G04BD 子组页回读，中国四份目录与 2026-07-01 增列附表逐名核对）｜ ATC：`G04BD12`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-MYR`＝MYRBETRIQ（mirabegron）缓释片与 MYRBETRIQ Granules（缓释口服混悬）现行处方标签正文。该正文的 DailyMed setid 为 `ba9e9e15-e666-4c56-9271-2e24739cfa2d`，持证方为 Astellas Pharma US, Inc.，Marketing Status 为 New Drug Application。页面明示"Drug Label Information Updated 2024-08-01"，DailyMed 发布日 2024-08-20，SPL 版本 17。文内 Revised 标注未单独回核，只并列页面明示字段。`DM-15`＝DailyMed 接口 `services/v2/spls.json?drug_name=mirabegron` 返回 15 条现行 SPL（2026-11-05），含原研、多家仿制片剂与混悬剂条目。`ATC-BD`＝WHO ATC/DDD 索引 G04BD 子组页（页脚 Last updated 2026-01-20，2026-11-05 回读）。`NCT00689104`／`NCT00662909`／`NCT00912964`＝标签 §14.1 的三项成人试验编号。`NCT02751931`＝标签 §14.3 的儿科研究编号 Study 9（以上均按标签引用，本次核查未回读登记条目）。`PMID:30258096`，`PMID:37993438`＝PubMed 检索"mirabegron AND hepatocellular"的两条命中（2026-11-05，仅题录记录，正文未取）。`CN-CAT`＝2025 年版药用类麻醉药品与精神药品目录、2026 年第 58 号增列、2025 年版非药用类目录及 2026-07-01 增列 16 项附表（逐名核对至 2026-11-05）。§N 指所引标签正文章节号。

@@ -84,7 +84,11 @@
 - **蓄积相关的过量**：去乙基西泮 40–50 h 的半衰期与中度蓄积（`US-CZP`）使老年、重复给药与合并其他中枢抑制剂者的实际暴露跨日累积。标签要求老年与衰弱者小量起始、缓慢加量以避免共济失调与过度镇静。
 - **监测条款**：长期用药者定期检查血细胞计数与肝功能。已报告肝／肾功能检查异常与血细胞比容下降、收缩压下降（`US-CZP` §不良反应／§注意事项）。
 - **抗癫痫药类自杀风险**：199 项试验合并分析 RR 1.8（1.2–2.7），0.43% 对 0.24%，最早用药 1 周即出现、>24 周无法评估（§5 警告原文，适用本药的全部三个收载用途）。
-- **认知与运动**：嗜睡、头晕、共济失调、意识模糊在老年更突出。治疗效应可耐受而**遗忘与认知损害少有耐受**（§9）。
+- **认知与运动**：
+  - 嗜睡
+  - 头晕
+  - 共济失调
+- 意识模糊在老年更突出，治疗效应可耐受而**遗忘与认知损害少有耐受**（§9）。
 
 ## 7. 短期风险、停药与误用
 
@@ -106,14 +110,20 @@
 ## 8. 重要相互作用
 
 - **阿片类**：黑框。不同受体位点（GABA_A 与 μ）叠加呼吸抑制。合用时限最低剂量与最短疗程、监测呼吸抑制与镇静，并告知患者与照护者（`US-CZP`）。
-- **其他中枢抑制剂**：巴比妥类、麻醉性镇痛药、酚噻嗪类、MAOI 与其他抗抑郁药可增强苯二氮䓬作用。催眠药合用的镇静增加有临床研究支持。酒精效应可增加。动物实验中本药延长己巴比妥与乙醇的睡眠时间、增强氯丙嗪的抑制效应，但**不显示单胺氧化酶抑制**（`US-CZP` §相互作用）。
+- **其他中枢抑制剂**：
+  - 巴比妥类
+  - 麻醉性镇痛药
+  - 酚噻嗪类
+- MAOI 与其他抗抑郁药
+
+本类药可增强苯二氮䓬作用。催眠药合用的镇静增加有临床研究支持。酒精效应可增加。动物实验中本药延长己巴比妥与乙醇的睡眠时间、增强氯丙嗪的抑制效应，但**不显示单胺氧化酶抑制**（`US-CZP` §相互作用）。
 - **抗酸剂**：标签口径（无明显影响）与 1978 年人体交叉试验（吸收速率与程度均降、效应减弱）冲突，两处并列、不自行综合（`PMID:28870`，§10 第 7 项）。
 - **躯体疾病合并用药**：用于伴躯体疾病的焦虑时须注意与合并药物的相互作用。肝或肾功能受损者按一般注意事项处理。
 - 标签未列 CYP 特异相互作用条目。本药经代谢酶（去乙基西泮段的 CYP 细节）与他药竞争的数字不在现行文本内，不引用他药标签代替（§10 第 6 项）。
 
 ## 9. 特殊人群
 
-**妊娠**：标签告知孕晚期使用可致新生儿镇静（呼吸抑制、迟钝、肌张力低下）与／或戒断症状：
+**妊娠**。标签告知孕晚期使用可致新生儿镇静（呼吸抑制、迟钝、肌张力低下）与／或戒断症状：
 - 反射亢进
 - 易激惹
 - 不安
@@ -125,7 +135,7 @@
 
 1. **现行文本全部为仿制片，品牌 TRANXENE 检索 404**：openFDA 按 brand_name="Tranxene" 查询返回 404（2026-10-22）。这是检索事实，**不写"已撤市／不存在"**。15 份 DailyMed 现行记录共享同一仿制文本结构，本条目逐字读取其中 Clinical Solutions 一份（生效 2026-07-24），其余仿制的措辞差异未逐份比对。
 2. **英国与法国缺口**：emc 按 "clorazepate" 检索返回 0 条产品记录（2026-10-22）。BDPM 对首页与检索接口恒返回 503。两地均无现行文本可引，不作任何上市结论。
-3. **中国注册信息未取得**：NMPA 恒返回 412 拦截页、CDE 恒返回校验页。中国上市剂型与核准适应证待核实。管制字段沿用 2026-10-06 审计（非药用类第 288 项，目录备注 Clorazepate，CAS 23887-31-2），盐型覆盖依据为非药用类目录注 1 的原文。**目录层级（非药用类）与药用类条目（如氯氮䓬第二类第 15 项）分属不同目录结构，不可互相外推，也不可据此改写层级**。
+3. **中国注册信息未取得**：NMPA 恒返回 412 拦截页、CDE 恒返回校验页。中国上市剂型与核准适应证待核实。管制字段沿用 2026-10-06 审计（非药用类第 288 项，目录备注 Clorazepate，CAS 23887-31-2），盐型覆盖依据为非药用类目录注 1 的原文。**目录层级（非药用类）与药用类条目（如氯氮䓬第二类第 15 项）分属不同目录结构，互不外推，层级结论按各自目录原文**。
 4. **旧式文本的量化缺口**：无发生率表、无 §14。"嗜睡最常见"等排序系标签定性描述。类级数字（如抗焦虑 SMD、酒精戒断网络荟萃）不测本药特异结局，引用时一律标注"类级"。
 5. **半衰期口径不一**：同一标签临床药理节并存"血清半衰期约 2 天"与"去乙基西泮 apparent 半衰期约 40 至 50 小时"。1982 年 IV／IM／口服比较研究测得去乙基西泮终末半衰期 65 h。本页不合并为单一数值，按各自文本标注。
 6. **跨实体的代谢物关系**：本药的效应由去乙基西泮（＝地西泮的主要代谢物）承担，但这不意味着可用 [地西泮](diazepam.md) 或 [氯氮䓬](chlordiazepoxide.md) 条目中的分数、发生率或相互作用数字为本药评分。三者的母体身份、目录层级与各自标签文本不同。奥沙西泮同处共同下游，见 [oxazepam](oxazepam.md)。
@@ -135,9 +145,9 @@
 
 ## 11. 深入分析与来源
 
-本页不设专题：本药最有决策价值的两点。代谢长尾带来的蓄积与戒断、以及"前体药—单一代谢物"效应结构。已由现行标签文本与 §2/§3/§6/§10 承载。没有需要独立展开的高价值证据冲突。同类对照见 [地西泮](diazepam.md)、[氯氮䓬](chlordiazepoxide.md)（不同母体、不同目录层级）与 [奥沙西泮](oxazepam.md)（共同下游）。
+本页不设专题：本药最有决策价值的两点。代谢长尾带来的蓄积与戒断、以及"前体药-单一代谢物"效应结构。已由现行标签文本与 §2/§3/§6/§10 承载。没有需要独立展开的高价值证据冲突。同类对照见 [地西泮](diazepam.md)、[氯氮䓬](chlordiazepoxide.md)（不同母体、不同目录层级）与 [奥沙西泮](oxazepam.md)（共同下游）。
 
-**监管与官方文件**：[DailyMed：氯拉西泮酸二钾片（Clinical Solutions，setid 11b72861-64c9-4cdc-9289-c7fa9ea23bf6，生效 2026-07-24）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11b72861-64c9-4cdc-9289-c7fa9ea23bf6)。[PD-RX 版（setid 7b59a3ab-3dff-4458-a63a-ef0d9e0d996d，发布 2026-09-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b59a3ab-3dff-4458-a63a-ef0d9e0d996d)。[Apotex 版（setid 6e07efe5-29b6-6d1e-661a-f696c4b17f43，发布 2026-09-11）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e07efe5-29b6-6d1e-661a-f696c4b17f43)。[SUN 版（setid 499a6989-8912-44b7-b1eb-ee8f85ae378f，发布 2026-07-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=499a6989-8912-44b7-b1eb-ee8f85ae378f)。[openFDA 按通用名 clorazepate dipotassium 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clorazepate%20dipotassium%22&limit=4)。[openFDA 品牌检索 Tranxene（404，2026-10-22）](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Tranxene%22)。[FDA 苯二氮䓬类黑框警示更新（2020-09-23）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class)。[英国 emc 检索（0 命中，2026-10-22）](https://www.medicines.org.uk/emc/search?q=clorazepate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**。[DailyMed：氯拉西泮酸二钾片（Clinical Solutions，setid 11b72861-64c9-4cdc-9289-c7fa9ea23bf6，生效 2026-07-24）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11b72861-64c9-4cdc-9289-c7fa9ea23bf6)。[PD-RX 版（setid 7b59a3ab-3dff-4458-a63a-ef0d9e0d996d，发布 2026-09-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b59a3ab-3dff-4458-a63a-ef0d9e0d996d)。[Apotex 版（setid 6e07efe5-29b6-6d1e-661a-f696c4b17f43，发布 2026-09-11）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e07efe5-29b6-6d1e-661a-f696c4b17f43)。[SUN 版（setid 499a6989-8912-44b7-b1eb-ee8f85ae378f，发布 2026-07-15）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=499a6989-8912-44b7-b1eb-ee8f85ae378f)。[openFDA 按通用名 clorazepate dipotassium 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clorazepate%20dipotassium%22&limit=4)。[openFDA 品牌检索 Tranxene（404，2026-10-22）](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22Tranxene%22)。[FDA 苯二氮䓬类黑框警示更新（2020-09-23）](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class)。[英国 emc 检索（0 命中，2026-10-22）](https://www.medicines.org.uk/emc/search?q=clorazepate)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
 **指南、标准与研究**：[PMID:2895993](https://pubmed.ncbi.nlm.nih.gov/2895993/)（氯拉西泮酸二钾对比丁螺环酮的 6 周盲态骤停试验）。[PMID:28870](https://pubmed.ncbi.nlm.nih.gov/28870/)（抗酸剂减少去乙基西泮吸收的交叉试验）。[PMID:6124654](https://pubmed.ncbi.nlm.nih.gov/6124654/)（IV／IM／口服后去乙基西泮药代）。[PMID:14604717](https://pubmed.ncbi.nlm.nih.gov/14604717/) 与 [PMID:9527752](https://pubmed.ncbi.nlm.nih.gov/9527752/)（术前镇静历史对照，方向相反）。[PMID:37624378](https://pubmed.ncbi.nlm.nih.gov/37624378/)（焦虑／应激急性期网络荟萃，类级）。[PMID:35194860](https://pubmed.ncbi.nlm.nih.gov/35194860/)（酒精戒断药物网络荟萃，149 项试验）。[AGS Beers 2023（苯二氮䓬 Avoid 行逐名收录 clorazepate）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《非药用类麻醉药品和精神药品目录（2025年版）》等基准见 SOURCES](../SOURCES.md#中国麻醉药品和精神药品管制)。
 

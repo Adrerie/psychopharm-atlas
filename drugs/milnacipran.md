@@ -13,7 +13,7 @@
 | 与左旋米那普仑的关系 | 左旋米那普仑是本外消旋的 **(1S,2R)-左旋对映体**（美国另有 `US-FETZIMA` 单一方、成人 MDD 适应证、缓释一日一次至 120 mg）。**两者是不同药物实体**。SAVELLA 的适应证（纤维肌痛）与剂量方案（分次 BID 100–200 mg/日）不适用于 Fetzima。Fetzima 的成人 MDD 与 120 mg/日数字不构成本药事实。其风险条款同样不适用于本药。对照见 [levomilnacipran](levomilnacipran.md) |
 | 主要剂型 | 美国：薄膜包衣片 5／10／25／50 mg，口服**分两次**（bid）。法国：硬胶囊 25／50 mg（MILNACIPRAN ARROW／EG 等）。**两侧规格与给药频次不同**，均以各自说明书为准 |
 | 关键药代摘要 | `US-SAVELLA` §12.3：口服 ¹⁴C‑milnacipran 约 **55% 剂量以原型随尿排出**，葡萄糖醛酸结合物约 17%，表明清除以原型药经尿排出为主。**血浆蛋白结合约 13%（低）**。半衰期 约 6–8 h，稳态 36–48 h。**体外与在体研究显示本药不抑制或诱导人 CYP1A2/2B6/2C8/2C9/2C19/2D6/2E1/3A4**，故 CYP 介导的相互作用潜力低（与 [venlafaxine](venlafaxine.md)，[nefazodone](nefazodone.md) 不同） |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**。逐一核对五份现行目录与增列公告，均未命中"milnacipran／米那普仑"。四个整类（芬太尼类、合成大麻素类、尼秦类、奥啡类）按公告结构定义核查并经 RDKit 复核，亦不落入。此表述不等于"非管制"，处方、携带、进出口等限制另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**。逐一核对五份现行目录与增列公告，均未命中"milnacipran／米那普仑"。四个整类（芬太尼类、合成大麻素类、尼秦类、奥啡类）按公告结构定义核查并经 RDKit 复核，亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **美国**：`US-SAVELLA` §1 **仅批准纤维肌痛管理**（成人），**抗抑郁适应证在美国未获批**（§INDICATIONS 无 MDD 条目，§12.1 只述"central pain inhibitory action"）。黑框（`US-SAVELLA` §BOXED WARNING）为抗抑郁药类警告，**标签把本药与"某些用于抑郁及其他精神科疾病治疗的药物同属 SNRI"来衔接黑框要求监测抑郁恶化与自杀风险**。§8.4 记未批准儿科。**法国**：`FR-MILNA` §4.1/患者须知"属于抗抑郁药类，用于**治疗成人抑郁状态**（états dépressifs de l'adulte）"，ATC `N06AX17`，临床相关条款（自杀风险、MAOI 与选择性可逆 MAO‑A 抑制剂合用不推荐等）在正文。**英国**：emc 检索 milnacipran 返回 **0 条现行产品**。**中国**：上市与核准适应证待核实（§10） |
 | 身份与统计 | WHO ATC `N06AX17`。DDD **0.1 g／日口服**（统计指标，非处方剂量）。Wikidata [Q421058](https://www.wikidata.org/wiki/Q421058)。PubChem [65833](https://pubchem.ncbi.nlm.nih.gov/compound/65833)。MeSH [D000078764](https://meshb.nlm.nih.gov/record/ui?ui=D000078764)。DrugBank [DB04896](https://www.drugbank.ca/r/DB04896)。RxNorm [588250](https://rxnav.nlm.nih.gov/REST/rxcui/588250.json)。别名 Midalcipran、Milnacipranum、SAVELLA、Ixel（欧洲部分原研品牌，英/法现行文本未取回，不作现行上市陈述） |
 
@@ -98,7 +98,7 @@
 
 ## 11. 深入分析与来源
 
-本条目不设专题。核心张力（同分子两法域两适应证、与左旋米那普仑的对映体与临床边界、ABPM 研究的血压量化、CYP 惰性）在快速判断页内已闭环。如后续需要单独解释"SNRI 在纤维肌痛的复合终点如何与情绪效应分离"，再单独立项。同类对照条目见 [levomilnacipran](levomilnacipran.md)，[venlafaxine](venlafaxine.md)，[duloxetine](duloxetine.md)，[desvenlafaxine](desvenlafaxine.md)。
+本条目不设专题。核心张力包括同分子在两法域的两适应证，以及与左旋米那普仑的对映体与临床边界。ABPM 研究的血压量化与 CYP 惰性也在快速判断页内闭环。如后续需要单独解释"SNRI 在纤维肌痛的复合终点如何与情绪效应分离"，再单独立项。同类对照条目见 [levomilnacipran](levomilnacipran.md)，[venlafaxine](venlafaxine.md)，[duloxetine](duloxetine.md)，[desvenlafaxine](desvenlafaxine.md)。
 
 **监管文件**：[美国 SAVELLA DailyMed 条目（setid 8b720a1e-034b-4583-b80d-105a794cce74，生效 2026-01-26）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b720a1e-034b-4583-b80d-105a794cce74)。[openFDA 按通用名 milnacipran 检索（5 条，含原品牌与仿制）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22milnacipran%22&limit=100)。[法国 BDPM MILNACIPRAN ARROW 25 mg 摘录页（CIS 60430095）](https://base-donnees-publique.medicaments.gouv.fr/medicament/60430095/extrait)。[法国 BDPM 按 Milnacipran 前缀接口（4 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=Milnacipran)。[英国 emc 检索 milnacipran（0 条产品）](https://www.medicines.org.uk/emc/search?q=milnacipran&displayFormat=Html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
 

@@ -1,6 +1,6 @@
 # ondelopran｜奥德罗普拉（Ondelopran；试验文献亦作 Odelepran，两者拼写对应关系见"证据边界"）
 
-> 状态：`indexed` ｜ 最后核查：2026-11-03（WHO ATC `N07BB06` 码页复核；DailyMed／emc／PubChem／KEGG／ClinicalTrials／文献与中文圈检索；中国四份管制目录逐名检索；未取得任何现行核准说明书正文）｜ ATC：`N07BB06`（WHO ATC/DDD Index 2026）  
+> 状态：`indexed` ｜ 最后核查：2026-11-03（WHO ATC `N07BB06` 码页复核，DailyMed／emc／PubChem／KEGG／ClinicalTrials／文献与中文圈检索，中国四份管制目录逐名检索，未取得任何现行核准说明书正文）｜ ATC：`N07BB06`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`ATC-B06`＝WHO ATC/DDD 索引 `N07BB06` 码页（原文行："N07BB06 ondelopran"，**无 DDD、无单位、无给药途径字母、无附加注**，页面脚注 Last updated 2026-01-20）。`CT-3374`＝ClinicalTrials.gov NCT03663374（"Efficacy and Safety Evaluating Study of Odelepran for the Use in Patient With Alcohol Dependence"，R-Pharm，III 期，状态 Completed，研究完成时间 2016-05，无结果张贴）。`ECNP16`＝PM308 会议摘要"A phase 3, multicenter randomized double blind placebo controlled study of the opioid receptor antagonist — Odelepran the treatment of alcohol addiction"（Int J Neuropsychopharmacol 2016 增刊，PMC5616244）。`PMID:36263121`＝Off-label and investigational drugs in the treatment of alcohol use disorder: A critical review（Front Pharmacol 2022）。`PMID:24010675`＝Wong 等，Alcohol Clin Exp Res 2014;38(2):511-520，本实体（研发代号 LY2196044，Eli Lilly）的 II 期随机双盲安慰剂对照试验（N=375，16 周）。`PMID:23761048`＝Ding 等，J Pharm Sci 2013;102(8):2859-2874，同一代号的生理药剂吸收建模研究（解释其人体药代高变异）。`PMID:21651459`＝Expert Opin Investig Drugs 2011 的阿片调制剂用于酒精依赖综述。`DM-0`／`EMC-0`／`KEGG-0`＝DailyMed spls.json?drug_name=ondelopran 返回 data[] 空、emc 无产品、KEGG DRUG 检索无条目（均 2026-11-03 检索事实）。`PC-10457387`＝PubChem CID 10457387（同一条目同时收录 Ondelopran [USAN:INN]、Odelepran [USAN]、LY2196044、CAS 676501-25-0、UNII 4VZT670SD9，分子式 C20H24FN3O3，2026-11-03 读取）。
@@ -14,7 +14,7 @@
 | 主要剂型（本页所引） | 未取得任何法域现行说明书。剂型、规格与给药途径不作档案级陈述（试验登记仅给出 125 mg 口服给药的口服给法口径，见 §5） |
 | 实体边界 | 与 [naltrexone](naltrexone.md)、[nalmefene](nalmefene.md) 同为"阿片拮抗剂治酒精依赖"策略家族，但化学实体独立，任何批准措辞、疗效与风险均不得从后两者继承。与 [calcium-carbimide](calcium-carbimide.md) 一样属于"编码在册、文本缺位"型条目 |
 | 关键药代摘要 | 无现行标签可引。可核对到的是：人体 I 期血浆浓度-时间曲线在吸收相呈异常高的受试者间变异，生理药剂吸收建模把它归因于药物在胃肠道中的溶解／沉淀行为而非体外性质（`PMID:23761048`）。II 期采用每日一次 125 或 250 mg 的给药档（`PMID:24010675`）。其余参数（生物利用度、半衰期、代谢通路）为缺口 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-03）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）中，逐名检索"Ondelopran／奥德罗普拉"及音译变体均未命中。四个整类按 `PC-10457387` 的确证结构（6-[2-氟-4-[[2-(四氢吡喃-4-基)乙氨基]甲基]苯氧基]吡啶-3-甲酰胺）逐项比对：芬太尼类要求哌啶-4-基氮同时连芳基与酰基（本分子无哌啶环）。合成大麻素类要求芳稠合或单五元含氮杂环带 `-C(=O)Z-R3` 侧链且环氮带 R1（本分子是六元吡啶-3-甲酰胺，不成环于该通式）。尼秦类要求 1H-苯并咪唑骨架（无）。奥啡类要求 1,3-二氢-2H-苯并咪唑-2-酮并哌啶-4-基或 1-芳基-1,3,8-三氮杂螺[4.5]癸烷-4-酮母体（均无）。四类均不落入，惟此结论限于该结构式所代表的实体。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-03）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）中，逐名检索"Ondelopran／奥德罗普拉"及音译变体均未命中。四个整类按 `PC-10457387` 的确证结构（6-[2-氟-4-[[2-(四氢吡喃-4-基)乙氨基]甲基]苯氧基]吡啶-3-甲酰胺）逐项比对：芬太尼类要求哌啶-4-基氮同时连芳基与酰基（本分子无哌啶环）。合成大麻素类要求芳稠合或单五元含氮杂环带 `-C(=O)Z-R3` 侧链且环氮带 R1（本分子是六元吡啶-3-甲酰胺，不成环于该通式）。尼秦类要求 1H-苯并咪唑骨架（无）。奥啡类要求 1,3-二氢-2H-苯并咪唑-2-酮并哌啶-4-基或 1-芳基-1,3,8-三氮杂螺[4.5]癸烷-4-酮母体（均无）。四类均不落入，惟此结论限于该结构式所代表的实体。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 美国：DailyMed 现行 SPL 检索 0 条（`DM-0`）。openFDA 按通用名检索此前对本组全部名称均 404。写为检索事实，不写成"未批准"推定（如需批准沿革应回 Drugs@FDA 核，未取得）。英国：emc 无产品（`EMC-0`）。日本：PMDA 对本机不可脚本访问，日文通用名与试验名检索未见审评或上市记录，KEGG DRUG 无条目（`KEGG-0`）。日本申报／审评结论**未取得**，记待核实。俄罗斯（R-Pharm 为已知的研究发起方）：注册状态无法从官方库核验，待核实。中国：NMPA 恒 HTTP 412、CDE 校验页拦截，待核实 |
 | 身份与统计 | WHO ATC `N07BB06`（`ATC-B06`）。[PubChem CID 10457387](https://pubchem.ncbi.nlm.nih.gov/compound/10457387)（CAS 676501-25-0、UNII 4VZT670SD9、研发代号 LY2196044、拉丁名 ondelopranum）。聚合库 DrugBank 存在条目 DB12585（直接访问 go.drugbank.com 返回 HTTP 403，其存在性经由引用它的公开学术页面 PMC11835822 确证）。两库的注册与状态标记按规则只作线索，不作监管事实 |
 
@@ -39,7 +39,7 @@
 
 ## 3. 主要作用
 
-仅有题名级描述：阿片受体拮抗剂（`ECNP16` 对 Odelepran 的定语）。若该定位成立，其在酒精依赖中的作用逻辑与 [naltrexone](naltrexone.md) 同族。阻断饮酒相关内源性阿片释放的正性强化。但本档案**不借用**纳曲酮的任何机制数值、受体亲和力或临床效应作为 ondelopran 的属性陈述。除机制方向外无任何参数可写。
+仅有题名级描述：阿片受体拮抗剂（`ECNP16` 对 Odelepran 的定语）。若该定位成立，其在酒精依赖中的作用逻辑与 [naltrexone](naltrexone.md) 同族。阻断饮酒相关内源性阿片释放的正性强化，但本档案**不借用**纳曲酮的任何机制数值、受体亲和力或临床效应作为 ondelopran 的属性陈述。除机制方向外无任何参数可写。
 
 ## 4. 适应范围
 
@@ -77,7 +77,7 @@
 ## 11. 深入分析与来源
 
 - `ATC-B06`：https://atcddd.fhi.no/atc_ddd_index/?code=N07BB06（Last updated 2026-01-20）
-- `CT-3374`：https://clinicaltrials.gov/study/NCT03663374（2026-11-03 经 API 检索：Completed 2016-05，Phase 3，R-Pharm，无结果张贴）
+- `CT-3374`：https://clinicaltrials.gov/study/NCT03663374（2026-11-03 经 API 检索。Completed 2016-05，Phase 3，R-Pharm，无结果张贴）
 - `ECNP16`：https://pmc.ncbi.nlm.nih.gov/articles/PMC5616244/（PM308 摘要）
 - `PMID:36263121`：https://pubmed.ncbi.nlm.nih.gov/36263121/
 - `DM-0`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=ondelopran（返回空数组）

@@ -5,7 +5,9 @@
 
 **引用键**：
 
-- `PMID:……`＝PubMed。**未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11；日本／德国历史制剂无脚本入口、未取回），故不设说明书引用键。`DB-APRONAL`＝DrugBank 条目 DB13221 的陈述（称本药在日本获批，并称因患者发生血小板减少性紫癜而在许多其他国家撤市），属聚合库口径，不是监管文件。凡标"题录"者指**只取得题名与出处、未取得全文数值**。本药（CAS 528-92-7）是**单一酰脲类化合物** allylisopropylacetylurea（apronalide）。
+- `PMID:……`＝PubMed。
+
+**未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11、日本／德国历史制剂无脚本入口、未取回），故不设说明书引用键。`DB-APRONAL`＝DrugBank 条目 DB13221 的陈述（称本药在日本获批，并称因患者发生血小板减少性紫癜而在许多其他国家撤市），属聚合库口径，不是监管文件。凡标"题录"者指**只取得题名与出处、未取得全文数值**。本药（CAS 528-92-7）是**单一酰脲类化合物** allylisopropylacetylurea（apronalide）。
 - 历史上的 "**Apronal／Apronal Compound**" 是**与环巴比妥（cyclobarbital）的固定复方**，复方不进单方评分。
 - 本药与 **bromisoval（溴异戊酰脲）、carbromal** 同为酰脲类但**是不同分子**，不互借数据。
 
@@ -18,7 +20,7 @@
 | 与"复方"和近似分子区分（本组最关键） | **"Apronal Compound"＝本药＋环巴比妥的固定复方**（简报明确），复方的适应证、剂量与风险不计入本页（§10 第 3 项）；本药 **≠ bromisoval／bromvalerylurea、≠ carbromal**：三者常被同一批法医学方法学并列测定（`PMID:12798177`、`PMID:1682528`、`PMID:1522708`、`PMID:8315862`），但**疗效、代谢与毒性读数不得互借**（bromisoval 的溴蓄积／小脑萎缩属该药，非本药） |
 | 剂型与产品 | 无可核官方剂型文字。文献侧证其为**日本 OTC 解热镇痛复方**的成分之一：商品名 New Kaiteki A（`PMID:14996063`）、含 isopropylantipyrine／phenacetin／caffeine 的解热镇痛片（`PMID:8365127`、`PMID:925850`、`PMID:925849`，题录）。**这些是本药作为复方成分暴露的来源，属复方情境**，其条款不进本页评分 |
 | 关键药代／代谢 | **未取得本药人体吸收、半衰期或代谢物的可引数值**；仅有法医学测定与动物研究。动物长期给药显示其影响肝血红素蛋白：降低大鼠肝细胞色素 P-450 与过氧化氢酶、升高 5-氨基乙酰丙酸合酶（`PMID:1274379`），兔实验性卟啉模型用本药诱导（`PMID:5861118`，题录）。**卟啉生成性是本药特异的机制线索**（§6） |
-| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“apronal / 丙戊酰脲”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制 |
+| 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“apronal / 丙戊酰脲”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)，也不表示不存在处方、携带、进出口或其他法律限制 |
 | 主要法域批准状态 | **无可引的监管文本**。检索事实：openFDA 标签按通用名与 Drugs@FDA 均 **404（无记录）**；DailyMed v2 `spls.json?drug_name=apronal` 的 `total_elements`＝0，法国 BDPM `startBy=APRONAL` `recordsTotal`＝0，西班牙 CIMA `nombre=apronal` `totalFilas`＝0，英国 emc 检索页结果由脚本加载、静态 HTML 未取到针对本名的可读命中清单。可及性仅由**法医学与皮肤科文献侧证**（日本 OTC 复方检出本药，`PMID:42574895`、`PMID:28966270`、`PMID:14996063`），**证明日本当时可及，不等于取得其上市许可文本**。2026-11-10 复检公开药品库：未取得现行说明书或批准文号，DrugBank 条目称本药在日本获批，并称因血小板减少性紫癜在多国撤市（`DB-APRONAL`，聚合库陈述，未由 PMDA 或各国监管文件核实）。**中国上市与核准适应证待核实** |
 | 身份与统计 | WHO ATC `N05CM12`；DDD **0.25 g 口服**（群体统计指标，不是处方剂量），Wikidata [Q1095009](https://www.wikidata.org/wiki/Q1095009)，PubChem [10715](https://pubchem.ncbi.nlm.nih.gov/compound/10715)，DrugBank [DB13221](https://www.drugbank.ca/r/DB13221)，CAS 528-92-7 |
 
@@ -45,9 +47,9 @@
 
 ## 3. 主要作用
 
-- **镇静催眠（类别定位，机制未定量）**：本药为酰脲类镇静催眠药（`PMID:11728758` 称 fatty acid ureide sedative；`PMID:15869852` 把它列入日本"其他镇静催眠药"筛查名单）。**未取得本药特异的受体／睡眠结构定量**，不迁移 bromisoval 的大鼠 EEG／GABA_A 结果作为本药机制。
+- **镇静催眠（类别定位，机制未定量）**：本药为酰脲类镇静催眠药（`PMID:11728758` 称 fatty acid ureide sedative、`PMID:15869852` 把它列入日本"其他镇静催眠药"筛查名单）。**未取得本药特异的受体／睡眠结构定量**，不迁移 bromisoval 的大鼠 EEG／GABA_A 结果作为本药机制。
 - **卟啉生成性（药物特异机制）**：长期给药降低大鼠肝细胞色素 P-450 与过氧化氢酶、升高 δ-氨基乙酰丙酸合酶（`PMID:1274379`）。兔实验性卟啉模型以本药诱导（`PMID:5861118`，题录）。这是本药相对同类的一个特异药理特征，提示**对卟啉症易感者的理论风险**（§6），但无本药人体卟啉发作病例读数。
-- **皮肤致敏（药物特异临床读数）**：固定型药疹（fixed drug eruption）由本药单独引起并经**本药本身斑贴试验阳性**确认（`PMID:14996063`：对 New Kaiteki A 及其活性成分 allylisopropylacetylurea 在皮损区斑贴阳性）。另有非色素沉着型固定型药疹（`PMID:14996063`）、急性泛发性发疹性脓疱病（AGEP，`PMID:21227897`，涉及产 IL-17 的 T 细胞）等报告。
+- **皮肤致敏（药物特异临床读数）**：固定型药疹（fixed drug eruption）由本药单独引起并经**本药本身斑贴试验阳性**确认（`PMID:14996063` 记对 New Kaiteki A 及其活性成分 allylisopropylacetylurea 在皮损区斑贴阳性）。另有非色素沉着型固定型药疹（`PMID:14996063`）、急性泛发性发疹性脓疱病（AGEP，`PMID:21227897`，涉及产 IL-17 的 T 细胞）等报告。
 
 ## 4. 适应范围
 
@@ -102,7 +104,7 @@
 
 **监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22apronal%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22apronal%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=apronal)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=APRONAL&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=apronal)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=apronal)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**综述与警戒**：[JADER：含 AIAU 的 OTC 解热镇痛药皮肤事件信号（`PMID:28966270`）](https://pubmed.ncbi.nlm.nih.gov/28966270/)。[日本镇静催眠药血清筛查（含 apronalide，`PMID:15869852`）](https://pubmed.ncbi.nlm.nih.gov/15869852/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
+**综述与警戒**。[JADER：含 AIAU 的 OTC 解热镇痛药皮肤事件信号（`PMID:28966270`）](https://pubmed.ncbi.nlm.nih.gov/28966270/)。[日本镇静催眠药血清筛查（含 apronalide，`PMID:15869852`）](https://pubmed.ncbi.nlm.nih.gov/15869852/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 
 **研究**：[长期给药对大鼠肝血红素蛋白／卟啉（`PMID:1274379`）](https://pubmed.ncbi.nlm.nih.gov/1274379/)。[兔实验性卟啉（`PMID:5861118`，题录）](https://pubmed.ncbi.nlm.nih.gov/5861118/)。[固定型药疹斑贴阳性（`PMID:14996063`）](https://pubmed.ncbi.nlm.nih.gov/14996063/)。[面部固定型药疹（`PMID:31400018`）](https://pubmed.ncbi.nlm.nih.gov/31400018/)、[多例固定型药疹（`PMID:11218000`、`PMID:8789234`）](https://pubmed.ncbi.nlm.nih.gov/11218000/)。另见两例（`PMID:8365127`、`PMID:16156502`，题录）。[AGEP 与 IL-17 T 细胞（`PMID:21227897`）](https://pubmed.ncbi.nlm.nih.gov/21227897/)。[两酰脲类共触发皮损（`PMID:38924567`，题录）](https://pubmed.ncbi.nlm.nih.gov/38924567/)。[OTC 成分 DBS-LC-MS/MS 定量（`PMID:42574895`）](https://pubmed.ncbi.nlm.nih.gov/42574895/)。[bromvalerylurea 撤药与假性高氯血症（`PMID:40065875`）](https://pubmed.ncbi.nlm.nih.gov/40065875/)。[本药＋bromvalerylurea GC-MS 测定（`PMID:12798177`）](https://pubmed.ncbi.nlm.nih.gov/12798177/)、[三酰脲类 HPLC 测定（`PMID:1682528`）](https://pubmed.ncbi.nlm.nih.gov/1682528/)。[七药致死法医学（`PMID:8315862`，题录）](https://pubmed.ncbi.nlm.nih.gov/8315862/)。[复方相互（`PMID:925849`、`PMID:925850`，题录）](https://pubmed.ncbi.nlm.nih.gov/925850/)。
 

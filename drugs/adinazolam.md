@@ -2,7 +2,7 @@
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（ATC 与跨法域检索 2026-11-10，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05BA07`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
-> **本条目保持 `basic`**：本药从未在美国获批上市，也没有取得任何法域的现行说明书（§10 第 1 项）。因此"核准适应证"与"给药方案"为空缺。已有的恐慌障碍、广泛性焦虑与抑郁试验只作为研究证据写在 §5，不构成可处方场景。
+> **本条目保持 `basic`**：本药从未在美国获批上市，也没有取得任何法域的现行说明书（§10 第 1 项），因此"核准适应证"与"给药方案"为空缺。已有的恐慌障碍、广泛性焦虑与抑郁试验只作为研究证据写在 §5，不构成可处方场景。
 
 **引用键**：
 
@@ -21,7 +21,7 @@
 | 主要剂型 | 历史上只有**研究用口服制剂**：速释片与**缓释片（SR）**，研究剂量从 10–120 mg/日不等；`US-FDA`、`UK-EMC`、`FR-BDPM` 均无现行产品记录（2026-10-23／24）。**不写现行规格、片剂刻字或辅料**。WHO ATC 未给本编码列 DDD |
 | 主要活性代谢物 | **N－去甲基阿地唑仑（NDMAD）**是主要活性代谢物，也是苯二氮䓬效应的主要来源：人体静脉研究显示 **>80% 的阿地唑仑转化为 NDMAD**；阿地唑仑本身的 β－EEG 激动活性最弱，NDMAD 与阿普唑仑均显著降低数字符号替换测试成绩，而阿地唑仑相对安慰剂无影响（`PMID:15831776`）。阿地唑仑 半衰期 **2.9 小时**、NDMAD **2.8 小时**、阿普唑仑 **14.6 小时**，分布容积分别 106、100、77 L，清除率 444、321、84 mL/min（同文） |
 | 关键药代摘要 | 口服吸收快；主要经 **CYP3A4** 代谢为 NDMAD，再经 CYP 生成双去甲基代谢物（`PMID:9600717`），吸烟对阿地唑仑与 NDMAD 的药代影响很小，仅 NDMAD 肾清除略降（`PMID:8068865`），丙磺舒降低阿地唑仑口服清除与 NDMAD 肾清除（`PMID:8062489`）。半衰期短，缓释片曾被用来维持每日给药 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"adinazolam／阿地唑仑"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类范围。本药为三唑环并入 1,4－苯并二氮杂䓬的母核，无芬太尼的哌啶－酰胺排布、无苯并咪唑／苯并咪唑酮母核、无三氮杂螺癸烷酮，且无合成大麻素类所需的 -C(=O)Z-R3 酰基侧链，不落入任何整类。此表述**不等于"非管制"**，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"adinazolam／阿地唑仑"；再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类与奥啡类四个整类范围。本药为三唑环并入 1,4－苯并二氮杂䓬的母核，无芬太尼的哌啶－酰胺排布、无苯并咪唑／苯并咪唑酮母核、无三氮杂螺癸烷酮，且无合成大麻素类所需的 -C(=O)Z-R3 酰基侧链，不落入任何整类。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **没有任何法域的现行批准文本**。`US-FDA`、`UK-EMC`、`FR-BDPM` 均无记录（2026-10-23／24）；公开综述明确写它"**从未获 FDA 批准，也从未进入公开市场**"，2015 年起作为非法designer drug 出现（`MDPI 2021` 综述）。美国联邦公报 2022 年就包括本药在内的 10 种物质征求滥用潜力意见（`FR-2022`），WHO ECDD 2022 年对本药作 critical review，建议**置于监测之下（under surveillance）**，**不是**列入国际管制附表（`WHO-2023`）。中国上市与核准适应证待核实 |
 | 身份与统计 | WHO ATC `N05BA07`；**2026 年索引未列 DDD**，CAS 37115-32-5，Wikidata [Q4682904](https://www.wikidata.org/wiki/Q4682904)，PubChem [37632](https://pubchem.ncbi.nlm.nih.gov/compound/37632)，MeSH [C039668](https://meshb.nlm.nih.gov/record/ui?ui=C039668)，DrugBank [DB00546](https://www.drugbank.ca/r/DB00546)，研究代号 U-41123，别名 Adinazolamum、Deracyn（文献商品名，未上市） |
 
@@ -68,8 +68,8 @@
 - **恐慌障碍（阳性，样本最大）**：1994 年多中心、双盲、安慰剂对照 4 周试验，206 例恐慌障碍伴广场恐惧的成人，缓释阿地唑仑按 30 mg/日起步、最高 120 mg/日。意向治疗分析 202 例，**CGI-I "much/very much improved" 69.7% 对 39.6%**（P=0.0001）。**恐慌发作完全阻断 57.1% 对 39.2%**（P=0.009）。在整体改善、恐慌发作次数与 SCL-90 恐惧严重度上优于安慰剂。在主恐惧、预期性焦虑与一般焦虑上亦然。**整体自评恐惧严重度、意外／情境性恐慌发作、工作／家庭／社交功能无差异**（`PMID:7962681`）。局限：4 周、缓释制剂、脱落率 12–15%，没有长期维持或停药数据。
 - **广泛性焦虑（阳性，样本小）**：1994 年 4 周、双盲、多中心、固定剂量研究，单中心 40 例随机接受 30／60／90 mg/日或安慰剂。把三个剂量合并后，HAM-A 在第 1、2 周与终点均优于安慰剂（P<0.02、<0.01、<0.03）。终点反应者 8 例对 0 例（P<0.05）。剂量-反应关系不显著（`PMID:7824763`）。局限：合并剂量、样本小、只报告单中心。
 - **恐慌障碍与阿普唑仑的头对头（小样本）**：1989 年双盲交叉 4 周，14 例 DSM-III 恐慌障碍，阿普唑仑 0.5–6.0 mg/日对阿地唑仑甲磺酸盐 10–120 mg/日。两者相对基线均广泛有效、总体疗效高度相似，但个体偏好各 6 例。只有 2 例在两药下均获最大改善且无副作用（`PMID:2651489`）。**没有非劣效界值，不能写成等效**。
-- **抑郁（证据不一致）**：1988 年 6 周双盲安慰剂对照、72 例重性抑郁。阿地唑仑在全部指标上优于安慰剂：完成率 67% 对 19%。"much/very much improved" 78% 对 19%。HAM-D 下降≥50% 61% 对 17%（`PMID:3281930`）。但安慰剂组完成率仅 19%，脱落极高，疗效估计不可靠。1991 年四臂研究（阿地唑仑、地西泮、丙咪嗪、安慰剂）中，阿地唑仑只有** mild/weak 抗抑郁作用，且在任何指标上都不优于地西泮**。丙咪嗪如预期优于安慰剂（`PMID:1754608`）。1991 年内生性抑郁住院研究 66 例，阿地唑仑 60–90 mg/日在内生形态分量表上**劣于阿米替林**，与地西泮相近（`PMID:2066454`）。1990 年老年抑郁 30 例，阿地唑仑与地昔帕明均显著改善 HAM-D，阿地唑仑在第 3 天下降更快、总体下降更多，但样本小、开放比较的解读有限（`PMID:2230067`）。**结论：抑郁证据不一致，不能写"有效"。**
-- **Cochrane 网络荟萃的间接性**：2023 年恐慌障碍网络荟萃把阿地唑仑列入"响应结局效应较强"的药物之一，但作者同时指出多数比较证据质量低、异质性大。这是**跨试验的网络证据**，不能当作阿地唑仑单药的效应量，也不能与阿普唑仑、地西泮作头对头优效比较（`PMID:38014714`）。
+- **抑郁（证据不一致）**：1988 年 6 周双盲安慰剂对照、72 例重性抑郁。阿地唑仑在全部指标上优于安慰剂：完成率 67% 对 19%。"much/very much improved" 78% 对 19%。HAM-D 下降≥50% 61% 对 17%（`PMID:3281930`），但安慰剂组完成率仅 19%，脱落极高，疗效估计不可靠。1991 年四臂研究（阿地唑仑、地西泮、丙咪嗪、安慰剂）中，阿地唑仑只有** mild/weak 抗抑郁作用，且在任何指标上都不优于地西泮**。丙咪嗪如预期优于安慰剂（`PMID:1754608`）。1991 年内生性抑郁住院研究 66 例，阿地唑仑 60–90 mg/日在内生形态分量表上**劣于阿米替林**，与地西泮相近（`PMID:2066454`）。1990 年老年抑郁 30 例，阿地唑仑与地昔帕明均显著改善 HAM-D，阿地唑仑在第 3 天下降更快、总体下降更多，但样本小、开放比较的解读有限（`PMID:2230067`）。**结论：抑郁证据不一致，不能写"有效"。**
+- **Cochrane 网络荟萃的间接性**：2023 年恐慌障碍网络荟萃把阿地唑仑列入"响应结局效应较强"的药物之一，但作者同时指出多数比较证据质量低、异质性大。这是**跨试验的网络证据**，不能当作阿地唑仑单药的效应量或与阿普唑仑、地西泮作头对头优效比较（`PMID:38014714`）。
 - **总体局限**：所有试验都在 1988–1994 年，样本 14–206 例，疗程 4–8 周。没有长期、复发预防、功能结局或现代 GCP 数据。
 
 ## 6. 长期风险
@@ -106,8 +106,8 @@
 1. **没有现行文本**：美国 openFDA／DailyMed 0（2026-10-23）、英国 emc 0（2026-10-24）、法国 BDPM 0（2026-10-24）。这些是**检索事实**。"从未获批、从未上市"的依据是公开综述的明确陈述（`MDPI 2021`），不是单靠零命中推断。
 2. **"置于监测之下"不是列管**：WHO ECDD 2022 年对本药作 critical review，建议 under surveillance（`WHO-2023`）。这只是监测建议，不是列入 1971 年公约附表。美国 2022 年征求意见（`FR-2022`）也不是列管决定。**不写"国际已列管"**。
 3. **中国目录未命中**：不等于"非管制"。本药在中国的上市与核准适应证待核实（NMPA、CDE 入口不可脚本化）。
-4. **试验的年代与设计限制**：所有疗效试验在 1988–1994 年，样本 14–206 例、疗程 4–8 周。抑郁证据内部不一致（阳性、弱于地西泮、劣于阿米替林、老年阳性），**不能择一写成"有效"**。
-5. **网络荟萃的间接性**：`PMID:38014714` 是跨药物网络荟萃，不能把其中的"强效应"当作阿地唑仑单药效应量，也不能作头对头优效结论。
+4. **试验的年代与设计限制**：所有疗效试验在 1988–1994 年，样本 14–206 例、疗程 4–8 周。抑郁证据内部不一致：既有阳性结果，也有弱于地西泮、劣于阿米替林与老年阳性的结果，**不能择一写成"有效"**。
+5. **网络荟萃的间接性**：`PMID:38014714` 是跨药物网络荟萃，不能把其中的"强效应"当作阿地唑仑单药效应量或作头对头优效结论。
 6. **头对头不是等效**：1989 年阿普唑仑对照只有 14 例、没有非劣效界值，只能写"未显示差异"。
 7. **非医疗使用数据的分母**：designer drug 的病例与死亡来自综述汇总，没有人群分母。不写发生率或"流行程度"。
 8. **DDD 缺失**：WHO 2026 索引未给 N05BA07 列 DDD。试验剂量不是 DDD。
@@ -121,8 +121,8 @@
 
 **监管与官方文件**：[openFDA 按通用名检索 adinazolam（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22adinazolam%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=adinazolam)。[英国 emc 检索 adinazolam（0 条）](https://www.medicines.org.uk/emc/search?q=adinazolam)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ADINAZOLAM&page=1&limit=20)。[WHO 2023-03-30 新闻稿（ECDD 对 adinazolam 与 bromazolam 作 critical review，建议监测）](https://www.who.int/news/item/30-03-2023-commission-on-narcotic-drugs-accepts-all-who-recommendations-on-the-control-of-several-psychoactive-substances)。[美国联邦公报 87 FR 47428（2022-08-03，就 adinazolam 等 10 种物质征求滥用潜力意见）](https://www.federalregister.gov/documents/2022/08/03/2022-16572/international-drug-scheduling-convention-on-psychotropic-substances-single-convention-on-narcotic)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**研究**：[恐慌障碍缓释片随机对照（n=206，PMID:7962681）](https://pubmed.ncbi.nlm.nih.gov/7962681/)。[广泛性焦虑固定剂量研究（n=40，PMID:7824763）](https://pubmed.ncbi.nlm.nih.gov/7824763/)。[阿普唑仑与阿地唑仑头对头（n=14，PMID:2651489）](https://pubmed.ncbi.nlm.nih.gov/2651489/)。[重性抑郁 6 周安慰剂对照（n=72，PMID:3281930）](https://pubmed.ncbi.nlm.nih.gov/3281930/)。[四臂抑郁研究（阿地唑仑、地西泮、丙咪嗪、安慰剂，PMID:1754608）](https://pubmed.ncbi.nlm.nih.gov/1754608/)。[内生性抑郁住院研究（n=66，PMID:2066454）](https://pubmed.ncbi.nlm.nih.gov/2066454/)。[老年抑郁与地昔帕明对照（n=30，PMID:2230067）](https://pubmed.ncbi.nlm.nih.gov/2230067/)。[静脉阿地唑仑、NDMAD 与阿普唑仑的药效学（n=9，PMID:15831776）](https://pubmed.ncbi.nlm.nih.gov/15831776/)。[CYP3A4 代谢（PMID:9600717）](https://pubmed.ncbi.nlm.nih.gov/9600717/)。[丙磺舒相互作用（PMID:8062489）](https://pubmed.ncbi.nlm.nih.gov/8062489/)。[吸烟对药代的影响（PMID:8068865）](https://pubmed.ncbi.nlm.nih.gov/8068865/)。[健康人认知效应（PMID:7480549）](https://pubmed.ncbi.nlm.nih.gov/7480549/)。[恐慌障碍网络荟萃（PMID:38014714）](https://pubmed.ncbi.nlm.nih.gov/38014714/)。
+**研究**：[恐慌障碍缓释片随机对照（n=206，PMID:7962681）](https://pubmed.ncbi.nlm.nih.gov/7962681/)。[广泛性焦虑固定剂量研究（n=40，PMID:7824763）](https://pubmed.ncbi.nlm.nih.gov/7824763/)。[阿普唑仑与阿地唑仑头对头（n=14，PMID:2651489）](https://pubmed.ncbi.nlm.nih.gov/2651489/)。[重性抑郁 6 周安慰剂对照（n=72，PMID:3281930）](https://pubmed.ncbi.nlm.nih.gov/3281930/)。[四臂抑郁研究（阿地唑仑／地西泮／丙咪嗪／安慰剂，PMID:1754608）](https://pubmed.ncbi.nlm.nih.gov/1754608/)。[内生性抑郁住院研究（n=66，PMID:2066454）](https://pubmed.ncbi.nlm.nih.gov/2066454/)。[老年抑郁与地昔帕明对照（n=30，PMID:2230067）](https://pubmed.ncbi.nlm.nih.gov/2230067/)。[静脉阿地唑仑、NDMAD 与阿普唑仑的药效学（n=9，PMID:15831776）](https://pubmed.ncbi.nlm.nih.gov/15831776/)。[CYP3A4 代谢（PMID:9600717）](https://pubmed.ncbi.nlm.nih.gov/9600717/)。[丙磺舒相互作用（PMID:8062489）](https://pubmed.ncbi.nlm.nih.gov/8062489/)。[吸烟对药代的影响（PMID:8068865）](https://pubmed.ncbi.nlm.nih.gov/8068865/)。[健康人认知效应（PMID:7480549）](https://pubmed.ncbi.nlm.nih.gov/7480549/)。[恐慌障碍网络荟萃（PMID:38014714）](https://pubmed.ncbi.nlm.nih.gov/38014714/)。
 
-**综述与身份**：[Designer Benzodiazepines: A Review of Toxicology and Public Health Risks（Pharmaceuticals 2021, 14:560；含 adinazolam 从未获批、2015 年起作为 designer drug 出现及相关死亡）](https://www.mdpi.com/1424-8247/14/6/560)。[WHO ATC/DDD Index `N05BA07`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA07)。[Wikidata Q4682904](https://www.wikidata.org/wiki/Q4682904)。[PubChem CID 37632](https://pubchem.ncbi.nlm.nih.gov/compound/37632)。[MeSH C039668](https://meshb.nlm.nih.gov/record/ui?ui=C039668)。[DrugBank DB00546](https://www.drugbank.ca/r/DB00546)。English Wikipedia（标题指针，未复制正文）：[Adinazolam](https://en.wikipedia.org/wiki/Adinazolam)。
+**综述与身份**：[Designer Benzodiazepines: A Review of Toxicology and Public Health Risks（Pharmaceuticals 2021, 14:560、含 adinazolam 从未获批、2015 年起作为 designer drug 出现及相关死亡）](https://www.mdpi.com/1424-8247/14/6/560)。[WHO ATC/DDD Index `N05BA07`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA07)。[Wikidata Q4682904](https://www.wikidata.org/wiki/Q4682904)。[PubChem CID 37632](https://pubchem.ncbi.nlm.nih.gov/compound/37632)。[MeSH C039668](https://meshb.nlm.nih.gov/record/ui?ui=C039668)。[DrugBank DB00546](https://www.drugbank.ca/r/DB00546)。English Wikipedia（标题指针，未复制正文）：[Adinazolam](https://en.wikipedia.org/wiki/Adinazolam)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

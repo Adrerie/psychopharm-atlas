@@ -5,8 +5,8 @@
 
 **引用键**：
 
-- 本药**未取得任何法域的说明书正文**（现行或历史），因此没有 `XX-LABEL` 键。可引证据：`ATC-02`＝WHO ATC/DDD 索引 `N05AD02` 页（Last updated 2026-01-20；同亚组 haloperidol 为 `N05AD01`）。
-- `MESH-D014272`＝MeSH 描述符 Trifluperidol（词表含 Trisedyl；scope note 转引 Martindale 第 30 版）。
+- 本药**未取得任何法域的说明书正文**（现行或历史），因此没有 `XX-LABEL` 键。可引证据：`ATC-02`＝WHO ATC/DDD 索引 `N05AD02` 页（Last updated 2026-01-20、同亚组 haloperidol 为 `N05AD01`）。
+- `MESH-D014272`＝MeSH 描述符 Trifluperidol（词表含 Trisedyl、scope note 转引 Martindale 第 30 版）。
 - `KEGG-D02625`＝KEGG DRUG D02625（Trifluperidol (USAN/INN); Triperidol (TN)）。
 - `PUBCHEM-ID`＝PubChem CID 5567 性质节。
 - `US-NEG`＝美国检索（2026-10-28 实测）：openFDA 人用标签、NDC 目录与 Drugs@FDA 按成分名均"无记录"，DailyMed `drug_name=trifluperidol` 与 `drug_name=Hoalondriol` 均 `total_elements＝0`。
@@ -22,8 +22,8 @@
 | --- | --- |
 | 类型／药理类别 | 单方，**丁酰苯类**（ATC 亚组 N05AD；与 haloperidol、droperidol、bromperidol、benperidol、moperone、pipamperone、fluanisone 同亚组但**各为不同分子**）。PubChem 系统名 1-(4-fluorophenyl)-4-[4-hydroxy-4-[3-(trifluoromethyl)phenyl]piperidin-1-yl]butan-1-one，分子式 C₂₂H₂₃F₄NO₂、分子量 409.4，研究代号 McN-JR-2498（`PUBCHEM-ID`），与 haloperidol 同属"对氟苯丁酰基＋4-羟基哌啶"骨架，差别在 4 位芳基为**间三氟甲基苯基**而非 4-氯苯基。MeSH 描述符的 scope note 称其为"与 haloperidol 性质相近的丁酰苯类，用于精神病（含躁狂与精神分裂症）"，并注明该表述转引自 Martindale 第 30 版（`MESH-D014272`）：**这是索引层面的类别描述，不是本药的人体疗效或批准结论**。无本药的人体受体结合或占有率数据 |
 | 主要剂型 | **未取得任何法域的官方剂型清单或规格**。可核的人用形态只有**口服**：WHO 对 `N05AD02` 只列 **2 mg 口服**一条 DDD，无非口服与直肠口径（`ATC-02`）；1991 年一篇德语题名的血浆 HPLC 测定方法（`PMID:1811235`）提示存在人体血浆检测需求，但未取得其样本来源、线性范围或数值，**不据此写任何药代参数**。意大利 1986–1989 年的社区处方研究把本药列为当时罗马省常用神经阻滞剂之一（`PMID:8582472`）。美国 DailyMed 0 条、openFDA 三接口无记录（`US-NEG`），BDPM 与 CIMA 按完整名与商品名前缀 0 条（`FR-BDPM`、`ES-CIMA`），emc 未取回（`UK-EMC`）。**中国上市剂型与核准状态待核实** |
-| 关键药代摘要 | **无可引的人体药代参数**。Janssen 团队 1970 年的"神经阻滞剂的分布与代谢"系列第 3 篇题为 trifluperidol 的药代研究（`PMID:5536974`）与 1971 年丁酰苯类的分析与药代研究（`PMID:5113569`）**只有题录、无摘要**，故不写种属、途径、半衰期或代谢物；同系列的动物分布研究（大鼠脑／血，`PMID:5030587`；大鼠多种丁酰苯类分布与神经阻滞活性关系，`PMID:5818759`）属**动物数据，不得换算为人体参数**。WHO 层面 2 mg 口服是群体统计口径（`ATC-02`），2010 年国际剂量共识研究把本药列为口服抗精神病药中效价换算比最高的一端（见 §5），两者都不是处方剂量 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“trifluperidol”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于“非管制”，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 关键药代摘要 | **无可引的人体药代参数**。Janssen 团队 1970 年的"神经阻滞剂的分布与代谢"系列第 3 篇题为 trifluperidol 的药代研究（`PMID:5536974`）与 1971 年丁酰苯类的分析与药代研究（`PMID:5113569`）**只有题录、无摘要**，故不写种属、途径、半衰期或代谢物；同系列的动物分布研究（大鼠脑／血，`PMID:5030587`、大鼠多种丁酰苯类分布与神经阻滞活性关系，`PMID:5818759`）属**动物数据，不得换算为人体参数**。WHO 层面 2 mg 口服是群体统计口径（`ATC-02`），2010 年国际剂量共识研究把本药列为口服抗精神病药中效价换算比最高的一端（见 §5），两者都不是处方剂量 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“trifluperidol”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **无法确认任何法域的现行批准，也未取得任何说明书正文**：美国 openFDA 标签／NDC／Drugs@FDA 无记录、DailyMed 0 条（`US-NEG`），法国 BDPM 与西班牙 CIMA 均 0 条，英国 emc 清单未取回；德国、意大利、荷兰与比利时官方库无脚本入口。**联邦公报按本药分子名命中的实质文本只有 HISA 赛马用药管制规则**：其禁药清单列 Trifluperidol、注记 Antipsychotic、"Lacks FDA approval"、BANNED（`HISA-2022`），该清单针对马用产品，既不替代人用注册记录，也不能读作"人用未批准"的独立认定（捷克、波兰与东德 1969–1976 年的临床研究报告提示本药曾在当地临床使用，`PMID:4609154`、`PMID:5363280`、`PMID:4146043`、`PMID:829614`）。**中国注册与核准适应证待核实** |
 | 身份与统计 | WHO ATC `N05AD02`；DDD **2 mg 口服**（`ATC-02`），CAS 749-13-3，PubChem [5567](https://pubchem.ncbi.nlm.nih.gov/compound/5567)，MeSH 描述符 [D014272](https://meshb.nlm.nih.gov/record/ui?ui=D014272)（登记号 R8869Q7R8I，1972 年引入、括注 1965），KEGG [D02625](https://www.kegg.jp/entry/D02625) 与 [D08637](https://www.kegg.jp/entry/D08637)，RxNorm [RXCUI 10804](https://rxnav.nlm.nih.gov/REST/rxcui/10804.json)，DrugBank 沿用骨架记录 [DB13552](https://www.drugbank.ca/r/DB13552)（未复核），Wikidata [Q4463264](https://www.wikidata.org/wiki/Q4463264)。商品名归属：**Trisedyl** 由 MeSH 词表与本药同列，并在 1974 年研究题名中直接同现（`PMID:4609154`），**Triperidol** 由 KEGG 作为本药商品名列出（`KEGG-D02625`），与捷克、波兰、日本文献使用的名称变体一致（`PMID:5363280`、`PMID:5730286`、`PMID:696518`），**归属仍需在引用具体结局前回原文物质表核对**（§10 第 3 项）。Halondrol／Hoalondriol 一类线索在 BDPM、CIMA、DailyMed、PubMed 均无命中，不作商品名归属 |
 
@@ -36,7 +36,7 @@
 | 维度 | 评分 | 依据 |
 | --- | ---: | --- |
 | 长期风险负担 | N/A | 无本药的人体长期随访或迟发性运动障碍、代谢、血液与内分泌结局研究。本药特异的长期性线索只有个案：1974 年泌乳（催乳素相关）报告仅有题录（`PMID:4812984`），1978 年"triperidol 治疗后全白内障"报告同样无摘要且依赖名称变体归属（`PMID:696518`）；单一个案不足以定分，类别条款不得借用 |
-| 短期耐受负担 | 4 | 现实世界运动症状负担有本药特异证据：罗马省 1986–1989 年全部神经阻滞剂与抗帕金森药处方研究中，抗胆碱能抗帕金森药与本药同期共处的概率在所测常用神经阻滞剂中最高（以 chlorpromazine 为基线，比值 5.0；全体神经阻滞剂治疗者中 10.6% 合并抗帕金森药；合并概率随年龄下降、随神经阻滞剂用量上升）（`PMID:8582472`）。另有 1 例恶性综合征个案（`PMID:2611583`）与 1969-1972 年把本药描述为"少镇静／具激活性"的儿童对照研究（题录级，`PMID:4981301`、`PMID:4629814`）。给 4 而不给 5：共处方比值是代理指标，不等于发生率或严重程度分级 |
+| 短期耐受负担 | 4 | 现实世界运动症状负担有本药特异证据：罗马省 1986–1989 年全部神经阻滞剂与抗帕金森药处方研究中，抗胆碱能抗帕金森药与本药同期共处的概率在所测常用神经阻滞剂中最高（以 chlorpromazine 为基线，比值 5.0；全体神经阻滞剂治疗者中 10.6% 合并抗帕金森药、合并概率随年龄下降、随神经阻滞剂用量上升）（`PMID:8582472`）。另有 1 例恶性综合征个案（`PMID:2611583`）与 1969-1972 年把本药描述为"少镇静／具激活性"的儿童对照研究（题录级，`PMID:4981301`、`PMID:4629814`）。给 4 而不给 5：共处方比值是代理指标，不等于发生率或严重程度分级 |
 | 相互作用／监测负担 | N/A | 无法域文本的相互作用与监测章节可引。本药特异的人体组合观察只有 1 例：锂＋卡马西平＋本药治疗期间因大叶肺炎出现急性且持续的小脑功能恶化，作者判断最可能为锂毒性（且当时血锂在治疗范围内），并指出这一常见组合未必如通常认为般安全（`PMID:10572345`）。单例不能定分；NMDA 位点的体外工作（`PMID:9023267`）不构成交互作用证据 |
 | 停药负担 | N/A | 无本药的人体撤药研究或标签条款；"骤停抗精神病药可出现撤药症状"属类别文字，不充当本药发生率 |
 | 滥用／误用潜力 | N/A | 未检索到本药的人体强化效应、自身给药或带分母的非医疗使用报告；`DEA-ALPHA` 按名未命中只说明法律层级（§7），HISA 清单把本药列为赛马禁用物质（`HISA-2022`）属竞赛用药监管，不是人体误用率 |
@@ -45,7 +45,12 @@
 ### 2.2 按使用场景适宜度（A–D）
 
 **不设场景评分。** 理由针对本药证据：① **当前可及性无法确认**。四个美国接口、法国 BDPM 与西班牙 CIMA 均无记录，英国清单未取回，德／意／荷／比官方库无脚本入口（§1）。按硬规则"仅说明标签未收载或缺少证据"不构成 A–D 行，也不能据此给 C／D。
-- ② 本药的抗精神病用途证据全部落在 1968–1976 年，且**可回读摘要者极少**（急性与慢性精神分裂症的对照、儿童试用、内源性抑郁、极低剂量维持等均为题录级）。没有现代对照，也没有复发预防证据，属无当前决策价值的历史用途，其人体研究保留在 §5。
+- ② 本药的抗精神病用途证据全部落在 1968–1976 年，且**可回读摘要者极少**：
+- 急性与慢性精神分裂症的对照
+- 儿童试用
+- 内源性抑郁
+- 极低剂量维持等均为题录级。
+- 没有现代对照，也没有复发预防证据，属无当前决策价值的历史用途，其人体研究保留在 §5。
 - ③ 仅有带数值的本药特异现代研究（罗马处方调查）测量的是**不良反应管理**而非疗效场景，按规则它改变的是 §2.1 与 §8 的负担判断，不构成一个可评分的使用场景。
 - ④ 老年、儿童、肝肾功能与妊娠属限制条件，写在 §9。
 
@@ -79,7 +84,12 @@
 - **效价层面的现代证据**：2010 年国际剂量共识研究以两阶段 Delphi 法汇集 18 国 43 位专家意见，给出 61 种抗精神病药的起始／目标／最大剂量建议与以 olanzapine 20 mg／日为参照的临床等效比，其中本药的口服等效比为所列口服药中最高（10.0，对照 sulpiride 的 0.025）（`PMID:20360319`）。这是**专家共识的换算比值**，不是头对头试验结果，也不证明本药在当前临床中被使用或可用。
 - **运动症状负担的现实指标**：罗马省 1986–1989 年全部神经阻滞剂与抗帕金森药处方数据库（约 375 万人口）显示，接受神经阻滞剂治疗者中 10.6% 同期被处方抗胆碱能抗帕金森药。以 chlorpromazine 为基线，本药的合并处方比值最高（5.0），而 sulpiride、levosulpiride 与 tiapride 低于 0.1。合并概率随年龄下降、随神经阻滞剂总量上升（`PMID:8582472`）。作者的用途是刻画抗帕金森药使用的流行病学，**共处方比值是运动症状管理负担的代理，不等于锥体外系反应发生率**。
 - **本药特异的不良事件报告**：一例年轻男性在使用本药后发生恶性综合征，对溴隐亭反应迅速（`PMID:2611583`）。一例用药期间出现泌乳（题录级，`PMID:4812984`）。一例锂＋卡马西平＋本药患者在肺炎期间出现急性且持续的小脑功能恶化，作者认为最可能为锂毒性所致、且当时血锂在治疗范围内（`PMID:10572345`）。一例"triperidol 治疗后全白内障"（日本，1978，题录且名称变体归属未定，`PMID:696518`）。
-- **局限**：本药既无药代参数、也无受体占有率、无现代对照、无长期结局。上述四条不良事件报告都是个例，不能换算为发生率。任何"本药等同 haloperidol"或"本药效价最高所以疗效更强"的读法都超出证据。
+- **局限**：
+- 本药既无药代参数
+- 也无受体占有率
+- 无现代对照
+- 无长期结局
+- 上述四条不良事件报告都是个例，不能换算为发生率。任何"本药等同 haloperidol"或"本药效价最高所以疗效更强"的读法都超出证据。
 
 ## 6. 长期风险
 
@@ -110,7 +120,7 @@
 
 本药没有人用说明书，**故不写妊娠、哺乳、老年、肝肾的人体条款**。与人群有关的可核事实：
 
-- **儿童**：1969 与 1972 年两组学龄前精神分裂症儿童研究把本药与 trifluoperazine、chlorpromazine 对照，其框架是"较少镇静性的抗精神病药的价值"（题录级，`PMID:4981301`、`PMID:4629814`）。**无摘要、无结局数值**，因此既不能读作儿童疗效证据，也不能读作儿童安全性证据。
+- **儿童**：1969 与 1972 年两组学龄前精神分裂症儿童研究把本药与 trifluoperazine、chlorpromazine 对照，其框架是"较少镇静性的抗精神病药的价值"（题录级，`PMID:4981301`、`PMID:4629814`）。**无摘要、无结局数值**，因此既不能读作儿童疗效证据或读作儿童安全性证据。
 - **老年**：意大利处方研究显示合并抗帕金森药的概率随年龄下降（`PMID:8582472`），该结论与该省人群的处方结构绑定，不用于推断老年风险。老年抗精神病药死亡风险属类别议题，不用于本药。
 - **妊娠与哺乳、肝肾功能**：未检索到本药的特异人群研究。中国的人群限制随上市状态待核实。
 
@@ -118,11 +128,11 @@
 
 1. **状态判定**：本条为 `basic`。身份、结构、类别位置与数条本药特异人体证据可核，但**未取回任何法域的说明书正文**。美国 openFDA 标签／NDC／Drugs@FDA 无记录、DailyMed 0 条（含按 Hoalondriol 检索），BDPM 与 CIMA 按完整名与商品名前缀均 0 条，emc 清单未取回，德国、意大利、荷兰与比利时官方库无脚本入口。**这些都写成检索缺口，不写成"未批准／已撤市／不存在"。**
 2. **与近似名实体严格分开**：本药（`N05AD02`）与 **triflupromazine**（`N05AA05`，吩噻嗪类，DDD 0.1 g 口服／0.1 g 非口服）拼写近似但不同分子、不同亚组。与 haloperidol（`N05AD01`）、droperidol（`N05AD08`）与 benperidol（`N05AD07`）、moperone（`N05AD04`）、bromperidol（`N05AD06`）同亚组但各为独立编码与独立 DDD。与 perazine／perphenazine 等"哌嗪吩噻嗪"名亦不同。同亚组分子的剂量、QT 与内分泌条款不得互相移植（`ATC-02`）。
-3. **名称变体与商品名的归属**：MeSH 词表支持 **Trisedyl**（`MESH-D014272`），KEGG 支持 **Triperidol** 作商品名（`KEGG-D02625`），因此捷克、波兰与日语文献中的"triperidol"很可能是同一物质。但 KEGG 与 MeSH 都不替代原文物质表，**凡要引用某一条具体结局（尤其 §6 的白内障报告），仍须回到原文的成分／代号记录确认**。未确认前，该结论只作为待核线索留在本节。"trifluorperidol"等拼写变体同理（`PMID:4146043`）。Halondrol／Hoalondriol 无任何按名命中，不作归属。
+3. **名称变体与商品名的归属**：MeSH 词表支持 **Trisedyl**（`MESH-D014272`），KEGG 支持 **Triperidol** 作商品名（`KEGG-D02625`），因此捷克、波兰与日语文献中的"triperidol"很可能是同一物质，但 KEGG 与 MeSH 都不替代原文物质表，**凡要引用某一条具体结局（尤其 §6 的白内障报告），仍须回到原文的成分／代号记录确认**。未确认前，该结论只作为待核线索留在本节。"trifluorperidol"等拼写变体同理（`PMID:4146043`）。Halondrol／Hoalondriol 无任何按名命中，不作归属。
 4. **苏联与东欧复合题名**：部分动物研究把 Trisedyl 与 aminazin、majeptil 等并列给药（如大鼠脑蛋白合成研究 `PMID:6090`、`PMID:17544`），其中 majeptil 属 thioproperazine 而非本药。合并给药或合并题名的实验**不能拆出本药特异结论**。
 5. **DDD 2 mg 口服不是处方剂量**：它是 WHO 群体统计口径（`ATC-02`）。§5 的等效比来自专家共识，两者都不构成给药建议。
 6. **老文献的可读性限制**：为确认是否存在现代对照或本药特异的长期研究，已按通用名与 Trisedyl／Triperidol 检索（命中 140 余篇，多为体外与动物研究），其中 1968–1976 年人体试验基本无英文摘要，故只作题录记录。
-7. **无当前决策价值的条目不入评分**：本药在抗真菌与抗病毒筛选、分子对接与受体标记法中，以及代谢物化学中被检出的记录（`PMID:24277040`；`PMID:34290823`；`PMID:41276463`）不构成使用场景或风险证据。同类药的重金属／质谱方法学文献同理。
+7. **无当前决策价值的条目不入评分**：本药在抗真菌与抗病毒筛选、分子对接与受体标记法中，以及代谢物化学中被检出的记录（`PMID:24277040`、`PMID:34290823`、`PMID:41276463`）不构成使用场景或风险证据。同类药的重金属／质谱方法学文献同理。
 8. **中国字段沿用 2026-10-06 已审计结论原文**（含"不等于非管制"的限定语），不重跑。NMPA 与 CDE 不可脚本检索，中国上市剂型与核准适应证待核实。列管层级与滥用率、处方行为是不同问题。
 
 - **2026-11-10 复核记录**：openFDA、DailyMed、法国 BDPM 与西班牙 CIMA 按通用名及 Trisedyl／Triperidol 检索仍 0 条，英国 emc 无产品条目，WHO ATC `N05AD02` 行回读为 DDD 2 mg 口服。KEGG MEDICUS 以トリペリドール与トリフルペリドール检索 0 条，日本现行添付文書未取回。
@@ -131,7 +141,7 @@
 
 本条目未建专题文件：需要解释的只有"名称变体与近似拼写如何影响归属"，已在 §1 与 §10 第 2、3 项写明。本药的证据量与可读性都不支持再拆分专题。
 
-**监管与检索记录**：[WHO ATC/DDD N05AD02](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD02) 与对照页 [N05AD01（haloperidol）](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD01)。[DailyMed 药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=trifluperidol)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluperidol%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIFLUPERIDOL)（TRISEDYL、HALONDROL 同样 0 条；该接口为前缀匹配，现行清单不含历史退市产品）。[西班牙 CIMA（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=trifluperidol)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（不可脚本检索）。
+**监管与检索记录**：[WHO ATC/DDD N05AD02](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD02) 与对照页 [N05AD01（haloperidol）](https://atcddd.fhi.no/atc_ddd_index/?code=N05AD01)。[DailyMed 药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=trifluperidol)。[openFDA 人用标签（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22trifluperidol%22&limit=5)。[法国 BDPM 前缀检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIFLUPERIDOL)（TRISEDYL、HALONDROL 同样 0 条、该接口为前缀匹配，现行清单不含历史退市产品）。[西班牙 CIMA（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=trifluperidol)。[HISA 规则通知（2022-10-28 发布、2023-01-01 生效）](https://www.federalregister.gov/documents/2022-10-28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[DEA 管制物质字母表（按名未命中）](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（不可脚本检索）。
 
 **研究（本药特异）**：[PMID:8582472 罗马处方研究](https://pubmed.ncbi.nlm.nih.gov/8582472/)。[PMID:20360319 国际剂量共识](https://pubmed.ncbi.nlm.nih.gov/20360319/)。[PMID:2611583 恶性综合征个案](https://pubmed.ncbi.nlm.nih.gov/2611583/)。[PMID:10572345 锂＋卡马西平组合个案](https://pubmed.ncbi.nlm.nih.gov/10572345/)。[PMID:9023267 NMDA 位点体外](https://pubmed.ncbi.nlm.nih.gov/9023267/)。[PMID:4389944 急性精神分裂症双盲](https://pubmed.ncbi.nlm.nih.gov/4389944/)。[PMID:696518 白内障个案（名称变体）](https://pubmed.ncbi.nlm.nih.gov/696518/)。
 

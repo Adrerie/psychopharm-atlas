@@ -92,7 +92,7 @@
 
 ## 11. 深入分析与来源
 
-本条未建专题：本条目的关键判断（肝衰竭黑框决定二线定位、强 CYP3A4 抑制的高影响相互作用清单、机制-体位性低血压直连）在快速判断页内已闭环，未出现需要独立研究问题的冲突结构。若日后要系统梳理"奈法唑酮肝毒性的风险—获益再评价与各国撤市决策"，属值得独立解释的监管-临床争议，再单独立项。同类对照条目见 [trazodone](trazodone.md)、[vilazodone](vilazodone.md)、[mirtazapine](mirtazapine.md)、[agomelatine](agomelatine.md)。
+本条未建专题：本条目的关键判断（肝衰竭黑框决定二线定位、强 CYP3A4 抑制的高影响相互作用清单、机制-体位性低血压直连）在快速判断页内已闭环，未出现需要独立研究问题的冲突结构。若日后要系统梳理"奈法唑酮肝毒性的风险-获益再评价与各国撤市决策"，属值得独立解释的监管-临床争议，再单独立项。同类对照条目见 [trazodone](trazodone.md)、[vilazodone](vilazodone.md)、[mirtazapine](mirtazapine.md)、[agomelatine](agomelatine.md)。
 
 **监管文件**：[美国 Nefazodone Hydrochloride 片 DailyMed 条目（setid 0bd4c34a-4f43-4c84-8b98-1d074cba97d5，生效 2025-09-04）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0bd4c34a-4f43-4c84-8b98-1d074cba97d5)。[另一现行 setid 51ff7db5-aaf9-4c3c-86e6-958ebf16b60f（生效 2025-07-31）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=51ff7db5-aaf9-4c3c-86e6-958ebf16b60f)。[openFDA 按通用名 nefazodone 检索（2 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:nefazodone*&limit=100)。[英国 emc 检索 nefazodone（ 0 条产品）](https://www.medicines.org.uk/emc/search?q=nefazodone&displayFormat=Html)。[法国 BDPM 按 Nefazodone 前缀检索（recordsTotal=0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=Nefazodone)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
 

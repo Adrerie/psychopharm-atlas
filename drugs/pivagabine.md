@@ -1,6 +1,6 @@
 # pivagabine｜匹伐加宾（维基数据中文标签，未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（意大利 1998 年撤销法令（Gazzetta Ufficiale）核对；美英法西现行库复核；身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX15`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-10（意大利 1998 年撤销法令（Gazzetta Ufficiale）核对，美英法西现行库复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX15`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PMID:……`＝PubMed。本次核查取得意大利 1998 年 6 月 19 日卫生部法令（Gazzetta Ufficiale 1998-06-27），确认 Tonerg 的上市许可应申请人撤回而撤销。仍无任何现行或历史说明书正文，故不设 `*-LABEL` 键。§N 指相应文件章节号。
@@ -12,7 +12,7 @@
 | 类型／药理类别 | 单方，**N-频哪酰基-GABA（N-pivaloyl-GABA，4-(2,2-二甲基丙酰氨基)丁酸，CAS 69542-93-4）**。疏水的 GABA 衍生物。**⚠ 实体红线：与 gabapentin、pregabalin 仅命名相似，是不同分子**，不得借用后两者的适应证、药代或不良反应结论。早期被视为 GABA 前药（体外对 GABA 降解系统仅极弱的抑制，Ki 0.83 mmol/l，`PMID:6634934`），现按其自身研究描述为**经 CRF／HPA 轴调节起效的精神应激调节药**（`PMID:9450153`）。历史商品名 **Tonerg**（1997 年意大利 symposium 各文一致使用）；另见 Hydipiv，未在本药文献中核实该商品名 |
 | 主要剂型／规格 | 未取得产品文本；试验均为口服给药（见 §4）。WHO 2026 索引未对本编码列 DDD |
 | 关键药代摘要 | 未取得人体吸收／代谢／排泄参数。动物侧：代谢稳定的口服化合物，大鼠 i.p. 100–300 mg/kg 剂量依赖改变脑内 CRF（`PMID:11113531`） |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"pivagabine / 匹伐加宾"。再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"pivagabine / 匹伐加宾"。再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 英文维基记载本药 **1997 年在意大利上市**（ACRAF/Angelini），用于抑郁与适应不良（stress maladaptation）综合征，**后在意大利停产退出**。 openFDA 通用名 0 条、DailyMed 以 `drug_name=pivagabine` 与 `drug_name=Hydipiv` 检索均 0 条。意大利 AIFA 无脚本端点，**上市批准文号与退出日期未定位正式文件**。法国 BDPM／西班牙 CIMA／英国 emc 均无检索命中（只作缺口）。**中国上市与核准适应证待核实** **2026-11-10 复核**：意大利 1998 年 6 月 19 日卫生部法令（Gazzetta Ufficiale 1998-06-27）记载，应 Angelini 撤回申请，撤销 Tonerg（pivagabine）的上市许可，同法令另暂停 Gabrium 与 Zenit；该法令是一手监管文件（`IT-DECREE-1998`）。 |
 | 身份与统计 | WHO ATC `N06AX15`。**无 DDD**。CAS 69542-93-4。Wikidata [Q7199622](https://www.wikidata.org/wiki/Q7199622)。PubChem [68888](https://pubchem.ncbi.nlm.nih.gov/compound/68888)（C9H17NO3）。DrugBank [DB12951](https://www.drugbank.ca/r/DB12951)。早期研究代号 PG2；English Wikipedia（标题指针，未复制正文）：[Pivagabine](https://en.wikipedia.org/wiki/Pivagabine) |
 
@@ -25,7 +25,7 @@
 | 维度 | 评分 | 依据 |
 | --- | ---: | --- |
 | 长期风险负担 | N/A | 无现行文本；本药最长可核暴露为 90 天（更年期双盲试验，实验室与体格检查正常，`PMID:9450156`），无更长期随访或器官毒性研究，记 `N/A` |
-| 短期耐受负担 | 2 | 各试验一致报告耐受良好：儿童 21 天双盲无严重不良事件（`PMID:9450160`）。更年期 90 天"仅少数轻微一过性副作用、实验室正常"（`PMID:9450156`）；开放试验"无严重副作用"（`PMID:9450158`）。与苯二氮䓬类对照的动物行为学研究亦见其**不损害学习、运动表现与攻击行为**（`PMID:9450154`） |
+| 短期耐受负担 | 2 | 各试验一致报告耐受良好：儿童 21 天双盲无严重不良事件（`PMID:9450160`）。更年期 90 天"仅少数轻微一过性不良反应、实验室正常"（`PMID:9450156`）；开放试验"无严重不良反应"（`PMID:9450158`）。与苯二氮䓬类对照的动物行为学研究亦见其**不损害学习、运动表现与攻击行为**（`PMID:9450154`） |
 | 相互作用／监测负担 | N/A | 无现行文本、无人体相互作用研究；不借加巴喷丁类条款凑分，记 `N/A` |
 | 停药负担 | N/A | 无本药特异撤药研究；动物行为学未显示依赖样表型，但不足以定分，记 `N/A` |
 | 滥用／误用潜力 | N/A | GABA 能命名易被误联想为镇静剂，但**无任何本药特异强化效应、自身给药或非医疗使用证据**；按规则记 `N/A`，不凭"未列管"写 1 分 |
@@ -49,7 +49,7 @@
 
 ## 5. 实际效果与局限
 
-- **更年期综合征（最像确证的一项）**：多中心双盲对照 n=186（33–79 岁），900 mg/日 vs 安慰剂 90 天，以 HDRS、Zung SAS 评价：本药组焦虑与（常并存的轻度抑郁）症状改善获医患一致评价，耐受性好（`PMID:9450156`）。**该适应证并非重症抑郁**，量表改善的幅度数值未在摘要给出。
+- **更年期综合征（最像确证的一项）**：多中心双盲对照 n=186（33–79 岁），900 mg/日 vs 安慰剂 90 天，以 HDRS、Zung SAS 评价。本药组焦虑与（常并存的轻度抑郁）症状改善获医患一致评价，耐受性好（`PMID:9450156`）。**该适应证并非重症抑郁**，量表改善的幅度数值未在摘要给出。
 - **心境／适应障碍（开放）**：22 例恶劣心境＋38 例适应障碍，1800 mg/日×30 天，HDRS/HARS/SAS 改善"50–80%"（无对照组，不能排除安慰剂效应，`PMID:9450158`）。失眠伴心境障碍 n=100，900 mg/日，睡眠与醒后质量改善（`PMID:9450157`）。
 - **儿童住院应激（双盲）**：90 例 2–13 岁随机分组，450–900 mg/日×21 天，日间行为、活动、注意、失眠与醒后行为均明显优于安慰剂（`PMID:9450160`）。
 - **系统综述定位**：2020 年适应障碍 RCT 系统综述（PubMed 1980–2019）纳入 23 项研究、其中 11 项药物试验共 1,020 名患者，**本药名列其中**，但综述未提供本药可提取的效应量（`PMID:32520732`）。
@@ -62,7 +62,7 @@
 
 ## 7. 短期风险、停药与误用
 
-短期耐受性证据（小样本）：副作用"轻微一过性"，无严重事件（`PMID:9450156`，`PMID:9450160`，`PMID:9450158`）。动物行为学对照苯二氮䓬：本药不产生学习／运动损害，也未见镇静样代价（`PMID:9450154`）。**停药**：无特异撤药数据，`N/A`。**误用**：无证据，`N/A`。过量数据未取得。
+短期耐受性证据（小样本）：不良反应"轻微一过性"，无严重事件（`PMID:9450156`，`PMID:9450160`，`PMID:9450158`）。动物行为学对照苯二氮䓬：本药不产生学习／运动损害，也未见镇静样代价（`PMID:9450154`）。**停药**：无特异撤药数据，`N/A`。**误用**：无证据，`N/A`。过量数据未取得。
 
 ## 8. 重要相互作用
 
@@ -70,7 +70,7 @@
 
 ## 9. 特殊人群
 
-**儿童**：仅有可核的人体证据恰是 2–13 岁住院应激双盲试验（450–900 mg/日×21 天，无严重不良事件，`PMID:9450160`）。但这属历史研究语境，不构成当前儿科推荐。**育龄女性／内分泌**：闭经研究提示 ACTH／皮质醇下降与 GH 升高（`PMID:11021769`），为药效观察非安全性结论。**妊娠／哺乳／老年／肝肾功能**：无本药特异数据。以上不构成个体化建议。
+**儿童**：仅有可核的人体证据恰是 2–13 岁住院应激双盲试验（450–900 mg/日×21 天，无严重不良事件，`PMID:9450160`），但这属历史研究语境，不构成当前儿科推荐。**育龄女性／内分泌**：闭经研究提示 ACTH／皮质醇下降与 GH 升高（`PMID:11021769`），为药效观察非安全性结论。**妊娠／哺乳／老年／肝肾功能**：无本药特异数据。以上不构成个体化建议。
 
 ## 10. 证据边界
 
@@ -91,7 +91,7 @@
 
 **监管与官方文件（均为检索缺口）**：[openFDA 按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pivagabine%22&limit=5)。[DailyMed 按药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pivagabine)。[意大利 AIFA 检索首页](https://www.aifa.gov.it/)（非脚本端点）。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均不可脚本检索）。
 
-**研究**：[1997 Tonerg symposium：综述（PMID:9450152）](https://pubmed.ncbi.nlm.nih.gov/9450152/)／[CRF 机制（PMID:9450153）](https://pubmed.ncbi.nlm.nih.gov/9450153/)／[动物行为学（PMID:9450154）](https://pubmed.ncbi.nlm.nih.gov/9450154/)／[应激性胃溃疡（PMID:9450155）](https://pubmed.ncbi.nlm.nih.gov/9450155/)／[更年期双盲 n=186（PMID:9450156）](https://pubmed.ncbi.nlm.nih.gov/9450156/)／[失眠伴心境障碍 n=100（PMID:9450157）](https://pubmed.ncbi.nlm.nih.gov/9450157/)／[心境／适应障碍开放试验（PMID:9450158）](https://pubmed.ncbi.nlm.nih.gov/9450158/)／[儿童住院应激双盲 n=90（PMID:9450160）](https://pubmed.ncbi.nlm.nih.gov/9450160/)。[Gerra 2001 健康人应激 HPA 钝化（PMID:11287080）](https://pubmed.ncbi.nlm.nih.gov/11287080/)。[Genazzani 2000 下丘脑性闭经内分泌（PMID:11021769）](https://pubmed.ncbi.nlm.nih.gov/11021769/)。[Serra 1999 CRF／GABA-A 拮抗应激（PMID:10101733）](https://pubmed.ncbi.nlm.nih.gov/10101733/)。[Follesa 2000 CRF mRNA（PMID:11113531）](https://pubmed.ncbi.nlm.nih.gov/11113531/)。[Bianchi 1983 PG2 弱 GABAergic 药代（PMID:6634934）](https://pubmed.ncbi.nlm.nih.gov/6634934/)。[Constantin 2020 适应障碍系统综述（PMID:32520732）](https://pubmed.ncbi.nlm.nih.gov/32520732/)。
+**研究**：[1997 Tonerg symposium。综述（PMID:9450152）](https://pubmed.ncbi.nlm.nih.gov/9450152/)／[CRF 机制（PMID:9450153）](https://pubmed.ncbi.nlm.nih.gov/9450153/)／[动物行为学（PMID:9450154）](https://pubmed.ncbi.nlm.nih.gov/9450154/)／[应激性胃溃疡（PMID:9450155）](https://pubmed.ncbi.nlm.nih.gov/9450155/)／[更年期双盲 n=186（PMID:9450156）](https://pubmed.ncbi.nlm.nih.gov/9450156/)／[失眠伴心境障碍 n=100（PMID:9450157）](https://pubmed.ncbi.nlm.nih.gov/9450157/)／[心境／适应障碍开放试验（PMID:9450158）](https://pubmed.ncbi.nlm.nih.gov/9450158/)／[儿童住院应激双盲 n=90（PMID:9450160）](https://pubmed.ncbi.nlm.nih.gov/9450160/)。[Gerra 2001 健康人应激 HPA 钝化（PMID:11287080）](https://pubmed.ncbi.nlm.nih.gov/11287080/)。[Genazzani 2000 下丘脑性闭经内分泌（PMID:11021769）](https://pubmed.ncbi.nlm.nih.gov/11021769/)。[Serra 1999 CRF／GABA-A 拮抗应激（PMID:10101733）](https://pubmed.ncbi.nlm.nih.gov/10101733/)。[Follesa 2000 CRF mRNA（PMID:11113531）](https://pubmed.ncbi.nlm.nih.gov/11113531/)。[Bianchi 1983 PG2 弱 GABAergic 药代（PMID:6634934）](https://pubmed.ncbi.nlm.nih.gov/6634934/)。[Constantin 2020 适应障碍系统综述（PMID:32520732）](https://pubmed.ncbi.nlm.nih.gov/32520732/)。
 
 **分类与身份**：[WHO ATC/DDD Index `N06AX15`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX15)。[Wikidata Q7199622](https://www.wikidata.org/wiki/Q7199622)。[PubChem CID 68888](https://pubchem.ncbi.nlm.nih.gov/compound/68888)。[DrugBank DB12951](https://www.drugbank.ca/r/DB12951)。English Wikipedia（标题指针，未复制正文）：[Pivagabine](https://en.wikipedia.org/wiki/Pivagabine)。
 

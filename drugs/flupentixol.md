@@ -12,7 +12,7 @@
 | 类型／药理类别 | 单方，**噻吨（硫杂蒽）类**抗精神病药（ATC 亚组 N05AF）。片剂为二盐酸盐（每片 3 mg，相当于 3.504 mg 二盐酸盐），注射液为**癸酸酯**溶于 thin vegetable oil（`UK-FLU-TAB` §2，`UK-FLU-INJ` §2、§6.1）。两份文本 §5.1 对同一分子给出**相反的镇静定性**：片剂文本只写类内机制，注射文本称"**非镇静（non-sedating）抗精神病药**"，而两者 §4.8 都把 somnolence 列在 **Very common**（§10 第 2 项） |
 | 主要剂型 | 口服薄膜衣片 3 mg（100 片／HDPE 瓶）。**深部肌注**油溶液 20 mg/ml（1、2 ml 安瓿）与 100 mg/ml（1 ml 安瓿，同文两 PL）。emc 同分子命中 6 条，另有 Depixol Low Volume 200 mg/ml（996）与 **Fluanxol 0.5／1 mg 薄膜衣片（998／11768）未取文本**（§10 第 3 项） |
 | 关键药代摘要 | 口服：血药浓度**峰位约 4 小时**（志愿者 8 mg 单剂与 1.5 mg/日，患者 5–60 mg/日），患者**平均生物半衰期约 35 小时**，单剂与多次给药无差异，**平均生物利用度 40%–55%**（`UK-FLU-TAB` §5.2）。癸酸酯：肌注后酯从油库缓慢释放并迅速水解为母药，广泛分布、主要经肝代谢，**循环峰值约在注射后第 7 日**（`UK-FLU-INJ` §5.2）。两份文本均未给蛋白结合率、酶表型或活性代谢物 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：按英文名、中文名与 CAS **三口径**逐项核对 2025 年版药用类麻醉药品目录 32 项、药用类精神药品目录第一类 18 项与第二类 78 项、2026 年第 58 号增列 3 项、非药用类目录 396 项及 2026-07-01 增列 16 种，**逐项列名均未命中**。再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类：本药以 PubChem CID 5281881（C23H25F3N2OS）参与母核预筛，**四类母核特征均未触发**（噻吨三环＋哌嗪丙醇侧链，无哌啶 4 位酰胺四方排布、无苯并咪唑或螺环哌啶母核、无含氮五元环带 `-C(=O)Z-R3` 侧链），同批 haloperidol、risperidone 等亦不命中。此表述**不等于"非管制"**，处方、携带、进出口等限制另行核实（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：按英文名、中文名与 CAS **三口径**逐项核对 2025 年版药用类麻醉药品目录 32 项、药用类精神药品目录第一类 18 项与第二类 78 项、2026 年第 58 号增列 3 项、非药用类目录 396 项及 2026-07-01 增列 16 种，**逐项列名均未命中**。再按公告结构定义核查芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类：本药以 PubChem CID 5281881（C23H25F3N2OS）参与母核预筛，**四类母核特征均未触发**（噻吨三环＋哌嗪丙醇侧链，无哌啶 4 位酰胺四方排布、无苯并咪唑或螺环哌啶母核、无含氮五元环带 `-C(=O)Z-R3` 侧链），同批 haloperidol、risperidone 等亦不命中。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | **英国**：两份文本 §4.1 **逐字相同**。"The treatment of schizophrenia and other psychoses"。注射文本另加"**Depixol 的使用应限于已在口服治疗下稳定者**"。**美国**：检索无现行标签。**中国**：上市剂型与核准适应证待核实（§10 第 6 项） |
 | 身份与统计 | WHO ATC `N05AF01`。DDD **6 mg 口服**、**4 mg 非口服（官方标注 depot）**，depot 值按"平均推荐剂量÷给药间隔"定义，属统计指标。Wikidata [Q420350](https://www.wikidata.org/wiki/Q420350)。PubChem [5281881](https://pubchem.ncbi.nlm.nih.gov/compound/5281881)。MeSH [D005475](https://meshb.nlm.nih.gov/record/ui?ui=D005475)。DrugBank [DB00875](https://www.drugbank.ca/r/DB00875)。RxNorm [RXCUI 4495](https://rxnav.nlm.nih.gov/REST/rxcui/4495.json)（RxNorm 首选名 flupenthixol）。别名 (Z)-/alpha-/cis-flupenthixol、Depixol、Fluanxol |
 
@@ -102,6 +102,7 @@
 - 排尿障碍与尿潴留
 - 呼吸困难
 - 消化道症状及乏力
+
 **NMS** Very rare（高热／肌强直／意识波动／自主神经不稳）：停用神经阻滞剂、对症与支持，丹曲林与溴隐亭"可能有帮助"。文本特别记载**致命病例中预先存在器质性脑综合征、精神发育迟滞与阿片／酒精滥用者比例偏高**。**驾驶**：§4.7 写明警觉性可能受损（治疗初期与饮酒后尤甚），视物模糊时不得驾驶。
 
 **停药**：具名症状清单与时程见 §2.1。口服"通常建议逐渐停药"。孕晚期暴露的新生儿可出现锥体外系与／或撤药症状。**剂型修正**：注射文本 §4.4 写"血浆浓度数周内逐渐下降，因此无需逐步减量"。同一分子因剂型而相反的减停规则，不互相外推。
@@ -115,12 +116,13 @@
 - 低血压
 - 休克
 - 体温过高或过低
+
 **在与已知影响心脏的药物同服的过量情境下**报告过 ECG 改变、QT 延长、尖端扭转、心脏骤停与室性心律失常。处理：支持呼吸与循环。EPS 用抗胆碱能抗帕药。激越或惊厥用苯二氮䓬。休克用去甲肾上腺素静滴、**不得使用肾上腺素**。片剂文本另建议考虑活性炭与洗胃（注射文本无此条）。
 
 ## 8. 重要相互作用
 
 - **其他抗精神病药**：§4.4 明文"应避免同时使用"。硫利达嗪又在 §4.5 的 QT 名单中。
-- **QT／电解质轴**：避免统计学显著延长 QT 的药物：
+- **QT／电解质轴**：避免统计学显著延长 QT 的药物。
 - Ia／III 类抗心律失常药如奎尼丁
 - 胺碘酮
 - 索他洛尔
@@ -144,6 +146,7 @@
 - 嗜睡
 - 呼吸窘迫
 - 喂养困难，需监测。
+
 动物有生殖毒性（§5.3：大鼠与兔在母体毒性剂量下植入后丢失／吸收率增加或偶发流产，三种动物未见致畸证据）。**哺乳**：随乳汁排泄，若用药必需应**停止哺乳**。**辅料**：片剂含**乳糖一水合物**，半乳糖不耐受、乳糖酶缺乏或葡萄糖-半乳糖吸收不良者不应服用。§2 另把 Sunset yellow（E110）列为"有已知作用的辅料"。
 **§4.4 谨慎清单**：
 - 肝病
@@ -158,6 +161,7 @@
 - 重症肌无力
 - 嗜铬细胞瘤
 - 对噻吨类或其他抗精神病药过敏者
+
 **剂型相关操作与储存**：注射液须**深部肌注于臀外上象限或大腿外侧、注射前回抽**避免入血管（油基），2–3 ml 分两处注射，>60 mg（3 ml）需改用更高浓度制剂且其体积不超过 2 ml。安瓿**保存于外盒避光**，除同系列 Depixol 注射产品外**不得与其他注射液混合**。片剂 3 年效期、无需特殊储存，注射液 4 年效期。以上为英国 SmPC 事实，不构成个体化建议。
 
 ## 10. 证据边界
@@ -177,7 +181,7 @@
 
 **监管文件**：[英国 Depixol 3 mg 薄膜衣片 SmPC（emc 997）](https://www.medicines.org.uk/emc/product/997/smpc)。[英国 Depixol 20 mg/ml 注射液 SmPC（emc 995，同文覆盖 Conc. 100 mg/ml）](https://www.medicines.org.uk/emc/product/995/smpc)。[emc 检索 flupentixol（ 6 条产品命中）](https://www.medicines.org.uk/emc/search?q=flupentixol&displayFormat=Html)。美国检索式（0 命中）：[openFDA 标签接口](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22flupentixol%22&limit=3)、[DailyMed SPL 接口](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=flupentixol&page_size=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。
 
-**指南、标准与研究**：[Cochrane：Depot flupenthixol decanoate for schizophrenia or other similar psychotic disorders（CD001470，2000 版，2014 更新版未取，PMID:10796442）](https://pubmed.ncbi.nlm.nih.gov/10796442/)。低剂量片剂的历史全科试验题录（未取正文）：[PMID:2692973](https://pubmed.ncbi.nlm.nih.gov/2692973/)、[PMID:2272193](https://pubmed.ncbi.nlm.nih.gov/2272193/)、[PMID:1496124](https://pubmed.ncbi.nlm.nih.gov/1496124/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（本药按"氟哌噻吨"检索 0 命中）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
+**指南、标准与研究**：[Cochrane。Depot flupenthixol decanoate for schizophrenia or other similar psychotic disorders（CD001470，2000 版，2014 更新版未取，PMID:10796442）](https://pubmed.ncbi.nlm.nih.gov/10796442/)。低剂量片剂的历史全科试验题录（未取正文）：[PMID:2692973](https://pubmed.ncbi.nlm.nih.gov/2692973/)、[PMID:2272193](https://pubmed.ncbi.nlm.nih.gov/2272193/)、[PMID:1496124](https://pubmed.ncbi.nlm.nih.gov/1496124/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（本药按"氟哌噻吨"检索 0 命中）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 
 **分类与身份**：[WHO ATC/DDD Index `N05AF01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AF01)。[Wikidata Q420350](https://www.wikidata.org/wiki/Q420350)。[PubChem CID 5281881](https://pubchem.ncbi.nlm.nih.gov/compound/5281881)。[MeSH D005475](https://meshb.nlm.nih.gov/record/ui?ui=D005475)。[DrugBank DB00875](https://www.drugbank.ca/r/DB00875)。[RxNorm RXCUI 4495](https://rxnav.nlm.nih.gov/REST/rxcui/4495.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Flupentixol)。
 

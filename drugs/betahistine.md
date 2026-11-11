@@ -1,6 +1,6 @@
 # betahistine｜倍他司汀（Betahistine；常译名，中国核准名待核实；建档实体为英国 Serc 品牌的倍他司汀二盐酸盐口服片）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-05（英国 emc 的 Serc 16 mg 现行 SmPC 正文逐节核对、emc 按 betahistine 检索的 8 条现行产品清单、WHO ATC/DDD 索引 N07CA01 行（2026-11-05 回读，页脚 Last updated 2026-01-20）、DailyMed 以 betahistine 为名的检索（0 条，2026-11-05 实测）、PubMed 按题名的现行文献清单逐条校验、中国四份管制目录与 2026-07-01 增列 16 项附表逐名核对）｜ ATC：`N07CA01`（betahistine，DDD 24 mg／日口服；WHO ATC/DDD Index 2026）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-05（英国 emc 的 Serc 16 mg 现行 SmPC 正文逐节核对、emc 按 betahistine 检索的 8 条现行产品清单、WHO ATC/DDD 索引 N07CA01 行（2026-11-05 回读，页脚 Last updated 2026-01-20）、DailyMed 以 betahistine 为名的检索（0 条，2026-11-05 实测）、PubMed 按题名的现行文献清单逐条校验、中国四份管制目录与 2026-07-01 增列 16 项附表逐名核对）｜ ATC：`N07CA01`（betahistine，DDD 24 mg／日口服，WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 > **本条目的评价骨架**：疗效结论只属于"倍他司汀在 Ménière 综合征"这一**被监管文本载明的适应证**。其机制（H1 部分激动／H3 拮抗、促前庭代偿）与抗组胺类前庭抑制剂（见 [cinnarizine](cinnarizine.md)、[meclizine](meclizine.md)、[dimenhydrinate](dimenhydrinate.md)）方向不同。后者以"压住前庭反应"为代价换取症状缓解，本品的文本主张恰好相反（§5.1）。这一区别是本组条目的分层依据，不应混写为"所有眩晕药都一样"。

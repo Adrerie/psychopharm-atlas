@@ -12,11 +12,11 @@
 | 类型／药理类别 | 单方，**氧巴比妥类**、相对短-中效催眠药，5-(环己-1-烯-1-基)-5-乙基巴比妥酸；别名 cyclobarbitone、hexemal、tetrahydrophenobarbital（ PubChem 同义）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA） |
 | 主要剂型 | 历史上以单方口服（Delmont）与**固定复方**（Reladorm＝环巴比妥＋硝西泮，须分开）出售。本次核查 openFDA、DailyMed、Drugs@FDA、法国 BDPM 检索均 0 条，**无现行或历史说明书正文** |
 | 关键药代摘要 | 无本药人体 PK 正文可引；本次核查命中的本药特异文献为法证检测与材料化学（分子印迹），不涉药代参数，故不填数值 |
-| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 289 项“环己巴比妥”（英文名 5-(1-Cyclohexen-1-yl)-5-ethylbarbituric acid；CAS 52-31-3），目录备注“Cyclobarbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 289 项“环己巴比妥”（英文名 5-(1-Cyclohexen-1-yl)-5-ethylbarbituric acid、CAS 52-31-3），目录备注“Cyclobarbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
 | 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药，其归入"Barbituric acid derivative＝CSCN 2100，附表 III（未特别列名的巴比妥类）"这一通配行（法律层级，不证明滥用率或疗效）。现行 openFDA／DailyMed／Drugs@FDA／BDPM 检索 0 条 → 无正文，按 `basic`。**中国**上市与核准适应证待核实（NMPA／CDE 不可脚本检索） |
-| 身份与统计 | WHO ATC `N05CA10`；DDD **0.2 g 口服**（统计指标非处方量）；CAS **52-31-3**；分子式 **C12H16N2O3**（MW 236.27，PubChem CID 5838）；PubChem [5838](https://pubchem.ncbi.nlm.nih.gov/compound/5838)；DrugBank [DB13737](https://www.drugbank.ca/r/DB13737)；RxNorm [2978](https://rxnav.nlm.nih.gov/REST/rxcui/2978.json)；MeSH 无独立描述符（归入 Barbiturates） |
+| 身份与统计 | WHO ATC `N05CA10`；DDD **0.2 g 口服**（统计指标非处方量）。CAS **52-31-3**。分子式 **C12H16N2O3**（MW 236.27，PubChem CID 5838）。PubChem [5838](https://pubchem.ncbi.nlm.nih.gov/compound/5838)。DrugBank [DB13737](https://www.drugbank.ca/r/DB13737)。RxNorm [2978](https://rxnav.nlm.nih.gov/REST/rxcui/2978.json)。MeSH 无独立描述符（归入 Barbiturates） |
 
-**中国格口径说明（沿用已审计结论，不改判）**：目录第 289 项中文名"环己巴比妥"所配 CAS **52-31-3** 正是本药 cyclobarbital，目录备注亦为"Cyclobarbital"。此对应关系已在 Wave 9 审阅并记入 `hexobarbital` 条目的同名冲突辨析。本项不得错配给 hexobarbital（异巴比妥）或其他药，也不因中文译名相近而改判，本档案仅搬运该结论并保留其限定语。
+**中国格口径说明（沿用已审计结论，不改判）**：目录第 289 项中文名"环己巴比妥"所配 CAS **52-31-3** 正是本药 cyclobarbital，目录备注亦为"Cyclobarbital"。此对应关系已在 Wave 9 审阅并记入 `hexobarbital` 条目的同名冲突辨析。本项不得错配给 hexobarbital（异巴比妥）或其他药。也不因中文译名相近而改判，本档案仅搬运该结论并保留其限定语。
 
 ## 2. 评分
 
@@ -41,7 +41,7 @@
 
 ## 3. 主要作用
 
-按**巴比妥类共有机制**：易化 GABA-A 受体与氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠与（高浓度）麻醉／呼吸抑制。**为类别机制**。本药无特异受体／通道定量资料。结构上本药 5 位为环己烯基＋乙基（PubChem 同义 tetrahydrophenobarbital 反映其与苯巴比妥的骨架亲缘），归为相对短与中效催眠药。此为类别／结构归属，非本药实验结果。
+按**巴比妥类共有机制**：易化 GABA-A 受体与氯通道并延长开放，高浓度直接拟 GABA，产生镇静与催眠及（高浓度）麻醉／呼吸抑制。**为类别机制**。本药无特异受体／通道定量资料。结构上本药 5 位为环己烯基＋乙基（PubChem 同义 tetrahydrophenobarbital 反映其与苯巴比妥的骨架亲缘），归为相对短与中效催眠药。此为类别／结构归属，非本药实验结果。
 
 ## 4. 适应范围
 

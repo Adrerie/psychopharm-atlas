@@ -1,6 +1,6 @@
 # methyprylon｜甲乙哌酮（维基数据中文标签，zh；未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（美英法西现行库复核；历史批准与 1996 年撤回记录沿用；身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CE02`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-10（美英法西现行库复核，历史批准与 1996 年撤回记录沿用，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CE02`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`FR-1996`＝*Hoffmann-La Roche, Inc., et al.; Withdrawal of Approval of 49 New Drug Applications, 9 Abbreviated Antibiotic Applications, and 36 Abbreviated New Drug Applications*，美国《联邦公报》第 61 卷第 60 号（Pages 13506–13508），**公告日 1996-03-27**、**生效日 1996-04-26**，FR Doc No. 96-7309，Docket No. 96N-0095，Janet Woodcock（CDER）签署，文件日期 **1996-03-07**。`DAF-NDA009660`＝美国 Drugs@FDA 档案 NDA 009660（持证方 Roche。ORIG 1 批准 **1955-01-18**，Type 1 新分子实体。末条 Labeling 补充件 SUPPL 9 批准 **1996-04-26**。产品 002／004＝TABLET、007＝ELIXIR、008＝CAPSULE，marketing_status 均 Discontinued）。`CFR-1308`＝eCFR 21 CFR part 1308（快照 2025-01-01）。`PMID:……`＝PubMed。**本条目没有说明书正文可引**（DailyMed `total_elements`＝0、openFDA 标签接口 0 条），故不写任何标签式章节条款。
@@ -15,7 +15,7 @@
 | 活性代谢物 | 主要血浆代谢物为**脱氢产物 5-methylpyrithyldione**：过量病例中其浓度峰值约 17 µg/mL、出现在入院后约 13 h、半衰期约 8 h，**长于母药在该例中的表观半衰期 4.4 h**（`PMID:1686463`）。另有"2,4,6-trioxo-3,3-diethyl-5-methylpiperidine"的代谢物鉴定（`PMID:6014268`，题录）与人肾排泄研究（`PMID:5806381`，题录）。该代谢物与母药**不是同一实体**，母药适应证不外推；其自身的临床活性强度未取得定量结论 |
 | 关键药代 | 健康志愿者单次口服 300 mg（n＝10）：零级吸收模型拟合最佳；**半衰期 9.2 ± 2.2 h**、表观清除率 11.91 ± 4.42 mL/h/kg、表观稳态分布容积 0.97 ± 0.33 L/kg（`PMID:2866242`）。同一文献族中"300 mg 治疗剂量下公认的约 4 小时半衰期"被过量病例研究引用并被否证。过量时 66→30 µg/mL 区间呈**非线性（浓度依赖）消除**，<30 µg/mL 才转为线性、表观半衰期 4.4 h，作者强调"4 h 这一数值不适用于中毒患者，会大幅低估达到安全浓度所需时间"（`PMID:1686463`。另见 14 岁女孩过量后"半衰期远长于通常报告的 4 小时"，`PMID:13231`，题录）。**两个数值来源不同、条件不同，本条目并列保留、不综合成新参数** |
 | 中国管制状态（核查 2026-10-06） | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 301 项“甲乙哌酮”（英文名 3,3-Diethyl-5-methylpiperidine-2,4-dione。CAS 125-64-4），目录备注“Methyprylon”。 |
-| 主要法域批准状态 | **美国（历史批准、现已撤准）**：NDA 9-660（NOLUDAR）由 Roche 持有，1955-01-18 批准为**新分子实体**；经 `FR-1996` 撤回。持证人书面告知 FDA 产品**已不再上市**并请求撤回，申请人放弃听证机会，依 FDCA §505(e)（21 U.S.C. 355(e)）与 21 CFR 5.82，"所列申请**及其全部修改与补充件**的批准自 1996-04-26 起撤回"。公告表格中该条药物名写作 **"Noludar Tablets"**（剂型点名见 §10 第 2 项）。本公告仅确认**持证人声明产品不再销售并申请撤回**，**未独立认定停销不涉及安全性或疗效**，且不同于 FDA 单独作出的“非因安全性或有效性原因撤出销售”认定。**美国联邦管制**：Schedule III，21 CFR 1308.13(c)(10)，DEA 码 2575（`CFR-1308`）。法国 BDPM、西班牙 CIMA、英国 emc、DailyMed 与 openFDA 标签检索 0 条；中国上市与核准适应证待核实 |
+| 主要法域批准状态 | **美国（历史批准、现已撤准）**：NDA 9-660（NOLUDAR）由 Roche 持有，1955-01-18 批准为**新分子实体**；经 `FR-1996` 撤回。持证人书面告知 FDA 产品**已不再上市**并请求撤回，申请人放弃听证机会，依 FDCA §505(e)（21 U.S.C. 355(e)）与 21 CFR 5.82，"所列申请**及其全部修改与补充件**的批准自 1996-04-26 起撤回"。公告表格中该条药物名写作 **"Noludar Tablets"**（剂型点名见 §10 第 2 项）。本公告仅确认**持证人声明产品不再销售并申请撤回**，**未独立认定停销不涉及安全性或疗效**，且不同于 FDA 单独作出的“非因安全性或有效性原因撤出销售”认定。**美国联邦管制**：Schedule III，21 CFR 1308.13(c)(10)，DEA 码 2575（`CFR-1308`）。法国 BDPM、西班牙 CIMA、英国 emc、DailyMed 与 openFDA 标签检索 0 条。中国上市与核准适应证待核实 |
 | 商品名拼写更正 | 任务简报写作"Nodular"；**监管档案与全部已读文献均为 "Noludar"**（`DAF-NDA009660`，`FR-1996`，`PMID:1686463`，`PMID:5190781` 等）。本条目按 Noludar 记 |
 | 身份与统计 | WHO ATC `N05CE02`。DDD **0.2 g 口服**（群体统计指标，不是处方剂量）。CAS 125-64-4。别名 methprylon／methyprolon／methyprylone／metiprilon。Wikidata [Q409558](https://www.wikidata.org/wiki/Q409558)。PubChem [4162](https://pubchem.ncbi.nlm.nih.gov/compound/4162)。DrugBank [DB1107](https://www.drugbank.ca/r/DB1107)；RxNorm [RXCUI 6910](https://rxnav.nlm.nih.gov/REST/rxcui/6910.json) |
 
@@ -43,7 +43,7 @@
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
 
-**不设为场景的内容**：① **老年失眠、慢性躯体病失眠、酒精依赖者的 EEG 检查前镇静、儿科检查镇静**。均有本药特异的历史研究（`PMID:13951889`，`PMID:13841585`，`PMID:13295345`，`PMID:13869209`，`PMID:13845210`，`PMID:13480244`，`PMID:14449058`，题录），但这些是**年龄组／检查情境**而非独立临床场景，按规则归入 §9。② **"批准已撤回"本身不是 D 分理由**，只作 §1 监管事实。③ 依赖与滥用属 §7。④ 与酒精的相互作用（`PMID:13561228`"甲乙哌酮不增强酒精的兴奋"，题录）不单独成行。
+**不设为场景的内容**：① **老年失眠、慢性躯体病失眠、酒精依赖者的 EEG 检查前镇静与儿科检查镇静**。均有本药特异的历史研究（`PMID:13951889`，`PMID:13841585`，`PMID:13295345`，`PMID:13869209`，`PMID:13845210`，`PMID:13480244`，`PMID:14449058`，题录），但这些是**年龄组／检查情境**而非独立临床场景，按规则归入 §9。② **"批准已撤回"本身不是 D 分理由**，只作 §1 监管事实。③ 依赖与滥用属 §7。④ 与酒精的相互作用（`PMID:13561228`"甲乙哌酮不增强酒精的兴奋"，题录）不单独成行。
 
 **不单独评分**：**手术前夜／术前焦虑相关失眠的镇静（历史用途）**（无现行文本、无该场景的本药特异随机对照疗效证据）。术前用药方向只有早年开放研究与对照评价（`PMID:13396638`，`PMID:13540982`，`PMID:13808446`，`PMID:4931270`，均题录、无摘要），按 SCORING 属"仅有历史研究、无当前决策价值"，留在 §4／§10，不设行。
 
@@ -107,7 +107,7 @@
 ## 10. 证据边界
 
 1. **无说明书正文**：DailyMed `spls.json?drug_name=methyprylon` 的 `total_elements`＝0、openFDA 标签接口 0 条。因此不写适应证原文、禁忌、警告或剂量规则。Drugs@FDA 只提供产品／持证方／提交与批准日期／状态。
-2. **撤回公告点名的剂型**：`FR-1996` 表格该条写作"NDA 9-660｜**Noludar Tablets**｜Hoffmann-La Roche, Inc."，效力覆盖"该申请及其全部修改与补充件"。`DAF-NDA009660` 在同一 NDA 下另列胶囊（008）与口服溶液（007），三者状态都是 Discontinued，但**公告文字点名的剂型只有 Tablets**，故不把 1996-04-26 当作三种剂型一致的撤市时点，也不把该 NDA 的撤回外推到任何 ANDA。
+2. **撤回公告点名的剂型**：`FR-1996` 表格该条写作"NDA 9-660｜**Noludar Tablets**｜Hoffmann-La Roche, Inc."，效力覆盖"该申请及其全部修改与补充件"。`DAF-NDA009660` 在同一 NDA 下另列胶囊（008）与口服溶液（007），三者状态都是 Discontinued，但**公告文字点名的剂型只有 Tablets**，故不把 1996-04-26 当作三种剂型一致的撤市时点。也不把该 NDA 的撤回外推到任何 ANDA。
 3. **半衰期冲突未解决**：9.2 ± 2.2 h（10 名健康志愿者，单次口服 300 mg，`PMID:2866242`）与"300 mg 治疗剂量公认约 4 h"（被过量研究引用并否证，`PMID:1686463`）并存。本条目并列保留，不给出"本药半衰期＝X"的单值。
 4. **与格鲁米特不互借**：同亚组、且被多项研究并列，但**分子不同**。格鲁米特的代谢、依赖与疗效读数一律不迁入本条目（格鲁米特档案另立）。
 5. **生殖安全性缺口**：未检得本药的人体妊娠／哺乳研究或动物致畸研究报告。不写"无致畸性"，也不写"有"。
@@ -126,7 +126,7 @@
 
 **指南与综述**：[把本药列入"不应开给失眠"的非巴比妥镇静催眠药（CMAJ, PMID:42479）](https://pubmed.ncbi.nlm.nih.gov/42479/)。[巴比妥替代品的药理与临床综述族（PMID:5259358，题录）](https://pubmed.ncbi.nlm.nih.gov/5259358/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 
-**研究**：[狒狒自身给药：巴比妥类、苯二氮䓬类与其他镇静。抗焦虑药（PMID:1674158）](https://pubmed.ncbi.nlm.nih.gov/1674158/)。[三催眠药对照（甲乙哌酮／格鲁米特／水合氯醛，PMID:4914614）](https://pubmed.ncbi.nlm.nih.gov/4914614/)。[三唑仑与甲乙哌酮头对头（门诊，PMID:7002）](https://pubmed.ncbi.nlm.nih.gov/7002/)。[三唑仑与甲乙哌酮头对头（住院肿瘤失眠，PMID:16792）](https://pubmed.ncbi.nlm.nih.gov/16792/)。[健康志愿者单次口服药代（PMID:2866242）](https://pubmed.ncbi.nlm.nih.gov/2866242/)。[过量患者非线性消除与临床。浓度相关（PMID:1686463）](https://pubmed.ncbi.nlm.nih.gov/1686463/)。[血液透析与腹膜透析清除（PMID:13231，PMID:16105，PMID:24684，PMID:5653624，PMID:4146648）](https://pubmed.ncbi.nlm.nih.gov/13231/)。[姐妹骨髓抑制（PMID:29137）](https://pubmed.ncbi.nlm.nih.gov/29137/)。[纽约州苯二氮䓬管制后的替代处方（PMID:1681121）](https://pubmed.ncbi.nlm.nih.gov/1681121/)。[酶诱导对比（PMID:239443）与低脂饮食／类固醇影响（PMID:5726663、PMID:4148445、PMID:4392362）](https://pubmed.ncbi.nlm.nih.gov/239443/)。[血／尿浓度测定与中毒解释（PMID:6136615、PMID:6142054、PMID:4151405、PMID:7278154）](https://pubmed.ncbi.nlm.nih.gov/6142054/)。[LS/SS 与 WSP/WSR 小鼠品系中的甲乙哌酮反应遗传分析（PMID:1352660、PMID:6151363、PMID:3093669、PMID:2005589）](https://pubmed.ncbi.nlm.nih.gov/6151363/)。
+**研究**：[狒狒自身给药。巴比妥类、苯二氮䓬类与其他镇静。抗焦虑药（PMID:1674158）](https://pubmed.ncbi.nlm.nih.gov/1674158/)。[三催眠药对照（甲乙哌酮／格鲁米特／水合氯醛，PMID:4914614）](https://pubmed.ncbi.nlm.nih.gov/4914614/)。[三唑仑与甲乙哌酮头对头（门诊，PMID:7002）](https://pubmed.ncbi.nlm.nih.gov/7002/)。[三唑仑与甲乙哌酮头对头（住院肿瘤失眠，PMID:16792）](https://pubmed.ncbi.nlm.nih.gov/16792/)。[健康志愿者单次口服药代（PMID:2866242）](https://pubmed.ncbi.nlm.nih.gov/2866242/)。[过量患者非线性消除与临床。浓度相关（PMID:1686463）](https://pubmed.ncbi.nlm.nih.gov/1686463/)。[血液透析与腹膜透析清除（PMID:13231，PMID:16105，PMID:24684，PMID:5653624，PMID:4146648）](https://pubmed.ncbi.nlm.nih.gov/13231/)。[姐妹骨髓抑制（PMID:29137）](https://pubmed.ncbi.nlm.nih.gov/29137/)。[纽约州苯二氮䓬管制后的替代处方（PMID:1681121）](https://pubmed.ncbi.nlm.nih.gov/1681121/)。[酶诱导对比（PMID:239443）与低脂饮食／类固醇影响（PMID:5726663、PMID:4148445、PMID:4392362）](https://pubmed.ncbi.nlm.nih.gov/239443/)。[血／尿浓度测定与中毒解释（PMID:6136615、PMID:6142054、PMID:4151405、PMID:7278154）](https://pubmed.ncbi.nlm.nih.gov/6142054/)。[LS/SS 与 WSP/WSR 小鼠品系中的甲乙哌酮反应遗传分析（PMID:1352660、PMID:6151363、PMID:3093669、PMID:2005589）](https://pubmed.ncbi.nlm.nih.gov/6151363/)。
 
 **美国联邦列管交叉核对**：DEA《Alphabetic Order of Controlled Substances》（取回 PDF 后逐名核对）本药按 **Methyprylon、CSA 码 2575、附表 III** 收载，商品名列记 Noludar。该名单只证明联邦列管层级与 DEA 物质码，**不证明本药的医疗用途、滥用率或某项 CFR 段落编号**。正文引用的 CFR 段落号取自 eCFR 快照，未能独立复核到段落一级（[DEA 字母顺序表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)）。
 

@@ -31,7 +31,7 @@
 | 滥用／误用潜力 | 5 | 依据是本药自身标签的强度而非"被列管"：现行 `US-XR` 与 `US-IR` **两份标签都带 ABUSE, MISUSE, AND ADDICTION 黑框**，写"**高滥用与误用潜力，可导致物质使用障碍包括成瘾**""**可被转移至非法渠道**"，并点明**鼻吸或注射等未经批准途径**提高过量与死亡风险。§9.1 自述 **Schedule II**。人体实验室证据（`PMID:26075488`，24 名健康志愿者，交叉设计）：右哌甲酯 0.15 mg/kg 与乙醇 0.6 g/kg 合用，**"飘""好""喜欢""兴奋""有药效"五项 VAS 的 AUC 全部明显升高（P<0.005）**，其累加兴奋增效不低于消旋体 |
 | 非适应证／潜在不适当处方风险（中国） | N/A | Beers 2023 全文对 methylphenidate、amphetamine、stimulant、atomoxetine **均 0 命中**。老年处方标准整类未覆盖 ADHD 用药。2017 年《中国老年人潜在不适当用药判断标准》以"哌甲酯""右旋"检索亦 **0 命中**（其"精神药物"分节逐名收录的是抗精神病药与三环类）。未取得针对中国右哌甲酯或哌甲酯处方的药物利用／PIM 研究，浙江 3,155 名 ≥65 岁门诊队列无本药逐药计数，故记 N/A |
 
-总体解释：右哌甲酯的负担形状与 [methylphenidate](methylphenidate.md) 同为"**躯体条目可控、奖赏与管制条目极重**"，但它不是"减半的哌甲酯"那么简单：`US-XR` §2.2 规定从消旋体换药时取**当日总剂量的一半**，而它的**缓释双峰曲线**（1.5 小时与约 6.5 小时两峰）与消旋体渗透泵或迟释微丸的一次上升曲线不同，峰谷波动直接影响"何时算过量"与"何时失效"。标签同时明写**儿科与成人上限之上未做过研究**（30／40 mg），因此本药的安全边界是"试验过的剂量"而非"机制推算的剂量"。单方制剂与含丝右哌甲酯的组合制剂分属不同实体，比较见 §10 第 1 项。
+总体解释：右哌甲酯的负担形状与 [methylphenidate](methylphenidate.md) 同为"**躯体条目可控、奖赏与管制条目极重**"，但它不是"减半的哌甲酯"那么简单。`US-XR` §2.2 规定从消旋体换药时取**当日总剂量的一半**，而它的**缓释双峰曲线**（1.5 小时与约 6.5 小时两峰）与消旋体渗透泵或迟释微丸的一次上升曲线不同，峰谷波动直接影响"何时算过量"与"何时失效"。标签同时明写**儿科与成人上限之上未做过研究**（30／40 mg），因此本药的安全边界是"试验过的剂量"而非"机制推算的剂量"。单方制剂与含丝右哌甲酯的组合制剂分属不同实体，比较见 §10 第 1 项。
 
 ### 2.2 按使用场景适宜度（A–D）
 
@@ -139,7 +139,7 @@
 
 **指南与标准**：[AGS Beers 2023（对本药及兴奋剂整类 0 命中）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》（未点名本药）](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。[《药用类精神药品目录（2025 年版）》等六份基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
-**研究**：[右哌甲酯与消旋哌甲酯的乙醇增效比较：24 名志愿者交叉试验（PMID:26075488）](https://pubmed.ncbi.nlm.nih.gov/26075488/)。[乙醇对消旋体与右旋体早期暴露的差异（PMID:23104969）](https://pubmed.ncbi.nlm.nih.gov/23104969/)。[哌甲酯与右哌甲酯制剂的个体化给药综述（PMID:30351459）](https://pubmed.ncbi.nlm.nih.gov/30351459/)。[处方兴奋剂的误用（PMID:26695166）](https://pubmed.ncbi.nlm.nih.gov/26695166/)。[青少年 ADHD 药物治疗与成年早期处方药误用（PMID:38321920）](https://pubmed.ncbi.nlm.nih.gov/38321920/)。[ADHD 用药与后续非医疗兴奋剂使用（PMID:38483378）](https://pubmed.ncbi.nlm.nih.gov/38483378/)。
+**研究**：[右哌甲酯与消旋哌甲酯的乙醇增效比较。24 名志愿者交叉试验（PMID:26075488）](https://pubmed.ncbi.nlm.nih.gov/26075488/)。[乙醇对消旋体与右旋体早期暴露的差异（PMID:23104969）](https://pubmed.ncbi.nlm.nih.gov/23104969/)。[哌甲酯与右哌甲酯制剂的个体化给药综述（PMID:30351459）](https://pubmed.ncbi.nlm.nih.gov/30351459/)。[处方兴奋剂的误用（PMID:26695166）](https://pubmed.ncbi.nlm.nih.gov/26695166/)。[青少年 ADHD 药物治疗与成年早期处方药误用（PMID:38321920）](https://pubmed.ncbi.nlm.nih.gov/38321920/)。[ADHD 用药与后续非医疗兴奋剂使用（PMID:38483378）](https://pubmed.ncbi.nlm.nih.gov/38483378/)。
 
 **分类与身份**：[WHO ATC/DDD Index `N06BA11`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BA11)。[Wikidata Q1207210](https://www.wikidata.org/wiki/Q1207210)。[PubChem CID 154101](https://pubchem.ncbi.nlm.nih.gov/compound/154101)。[DrugBank DB06701](https://www.drugbank.ca/r/DB06701)。[RxNorm RXCUI 352372](https://rxnav.nlm.nih.gov/REST/rxcui/352372.json)。English Wikipedia（标题指针，未复制正文）：[Dexmethylphenidate](https://en.wikipedia.org/wiki/Dexmethylphenidate)。
 

@@ -5,7 +5,7 @@
 
 **引用键**：
 
-- `DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行；本药未被单独列名，若受控则落入"Barbituric acid derivative 2100 III"通配行，段落号未独立复核）。
+- `DEA-ALPHA`＝美国 DEA《管制物质字母表》`c_cs_alpha.pdf`（2026-10-27 取，`-raw` 还原整行、本药未被单独列名，若受控则落入"Barbituric acid derivative 2100 III"通配行，段落号未独立复核）。
 - `ECDD-VINYLBITAL`＝WHO 专家委员会药物依赖性评审（ECDD repository「Vinylbital」条目，含技术报告系列的建议：列入 1971 年精神药物公约附表四）。
 - `PMID:……`＝PubMed。本药无现行或历史说明书正文，故不以 `§N` 引用说明书章节。
 
@@ -16,7 +16,7 @@
 | 类型／药理类别 | 单方，**氧巴比妥类**、5-乙烯基-5-(1-甲基丁基)巴比妥酸（butylvinal／vinylbarbital，RxNorm 首选名 `butylvinal`）。作用按**巴比妥类共有**机制解释（GABA-A 通道开放时程延长、高浓度直接拟 GABA） |
 | 主要剂型 | 历史**口服片剂**（Bykonox，150 mg）与**直肠栓剂**（Suppoptanox，聚乙二醇基质，200 mg），二者在同一人体交叉研究比较（`PMID:989344`），口服与直肠为不同剂型、须分开。 openFDA、DailyMed、Drugs@FDA、BDPM、CIMA 检索 0 条，**无说明书正文** |
 | 关键药代摘要 | **人体**：消除半衰期 17.6–33.5 h，口服均值 23.5 h、直肠均值 23.8 h，符合单室模型；片剂吸收更快（平均吸收 半衰期 0.24 h）、栓剂lag time 更短（`PMID:989344`）。代谢经**1',2'-环氧–二醇通路**，脱乙烯基代谢物 5-(1-甲基丁基)巴比妥酸为主要尿排泄终产物（`PMID:6110286`） |
-| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 305 项“乙烯比妥”（英文名 5-(1-Methylbutyl)-5-vinylbarbituric acid；CAS 2430-49-1），目录备注“Vinylbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **非药用类麻醉药品和精神药品**：列入《非药用类麻醉药品和精神药品目录（2025年版）》第 305 项“乙烯比妥”（英文名 5-(1-Methylbutyl)-5-vinylbarbituric acid、CAS 2430-49-1），目录备注“Vinylbital”。（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
 | 主要法域批准状态 | **美国**：`DEA-ALPHA` 未单列本药（若受控落"Barbituric acid derivative 2100 III"通配行）。现行 openFDA／DailyMed／Drugs@FDA／BDPM／CIMA 检索 0 条 → 无正文，按 `basic`，**不据零命中断言"未批准／已撤市／不存在"**。国际管制层面：WHO 专家委员会药物依赖性评审曾评估本药，滥用倾向评为中等、公共卫生与社会问题的严重程度评为中等、治疗价值偏低，并建议列入 1971 年精神药物公约附表四（`ECDD-VINYLBITAL`）。该记录列出奥地利、比利时、芬兰的滥用个案，德国报告较多，另有刚果的非法贩运报告与芬兰、美国的查获，并称本药在四个国家受国家管制、在十二个国家注册或上市；这些数据年代较早，不构成现行流行率。**中国**上市与核准状态待核实（NMPA／CDE 不可脚本检索）。品牌线索 Speda，本组内 Bykonox／Suppoptanox 来自药代文献 |
 | 身份与统计 | WHO ATC `N05CA08`；DDD **0.15 g 口服**（统计指标非处方量），CAS **2430-49-1**（另有登记号 5767-33-9、5821-16-9），分子式 **C11H16N2O3**（MW 224.26，与 vinbarbital 互为同分异构，PubChem CID 72135），PubChem [72135](https://pubchem.ncbi.nlm.nih.gov/compound/72135)，DrugBank [DB13770](https://www.drugbank.ca/r/DB13770)，RxNorm [19928](https://rxnav.nlm.nih.gov/REST/rxcui/19928.json)（首选名 `butylvinal`，与官方名不同），MeSH 无独立描述符 |
 
@@ -45,7 +45,7 @@
 
 ## 3. 主要作用
 
-按**巴比妥类共有机制**：易化 GABA-A 受体-氯通道、延长开放、高浓度直接拟 GABA，产生镇静、催眠与（高浓度）麻醉／呼吸抑制。**为类别机制**。本药人体 PK（单室、半衰期 约 23.5 h `PMID:989344`）说明其作用持续偏长，但无本药特异受体／通道定量。
+按**巴比妥类共有机制**：易化 GABA-A 受体-氯通道并延长开放，高浓度直接拟 GABA，产生镇静与催眠及（高浓度）麻醉／呼吸抑制。**为类别机制**。本药人体 PK（单室、半衰期 约 23.5 h `PMID:989344`）说明其作用持续偏长，但无本药特异受体／通道定量。
 
 ## 4. 适应范围
 
@@ -61,7 +61,7 @@
 
 ## 7. 短期风险、停药与误用
 
-**短期**：镇静、共济失调、宿醉样次日损害，高剂量呼吸抑制（**类别**）。**剂型修正**：直肠栓剂（Suppoptanox，聚乙二醇基质 200 mg）与口服片（Bykonox 150 mg）吸收特征差异明确：**lag time 栓剂短于片剂**、但**平均吸收 半衰期 片剂 0.24 h 短于栓剂 0.64 h**（`PMID:989344`）。两者消除 半衰期 相近（口服 23.5 h vs 直肠 23.8 h）。剂型层面差异不改变药物本体基线分。**停药**：类内通用，骤停可致戒断，本药无特异时程。**误用／滥用**：WHO 评审记录奥地利、比利时、芬兰的滥用个案，德国报告较多，另有刚果非法贩运与芬兰、美国的查获（`ECDD-VINYLBITAL`）。无人体强化效应试验与带分母的使用率，故滥用维度记 3（§2.1）。法律层级本身不证明滥用率。
+**短期**：镇静、共济失调、宿醉样次日损害，高剂量呼吸抑制（**类别**）。**剂型修正**：直肠栓剂（Suppoptanox，聚乙二醇基质 200 mg）与口服片（Bykonox 150 mg）吸收特征差异明确。**lag time 栓剂短于片剂**、但**平均吸收 半衰期 片剂 0.24 h 短于栓剂 0.64 h**（`PMID:989344`）。两者消除 半衰期 相近（口服 23.5 h vs 直肠 23.8 h）。剂型层面差异不改变药物本体基线分。**停药**：类内通用，骤停可致戒断，本药无特异时程。**误用／滥用**：WHO 评审记录奥地利、比利时、芬兰的滥用个案，德国报告较多，另有刚果非法贩运与芬兰、美国的查获（`ECDD-VINYLBITAL`）。无人体强化效应试验与带分母的使用率，故滥用维度记 3（§2.1）。法律层级本身不证明滥用率。
 
 ## 8. 重要相互作用
 
@@ -82,9 +82,9 @@
 
 ## 11. 深入分析与来源
 
-本条目未建专题文件：本药特异证据集中在"半衰期—代谢通路"这一条清晰 PK 线，未构成需独立解释的临床争议，主条目已足够。
+本条目未建专题文件：本药特异证据集中在"半衰期-代谢通路"这一条清晰 PK 线，未构成需独立解释的临床争议，主条目已足够。
 
-**监管与检索**：[WHO ECDD repository：Vinylbital 评审记录（含 1971 年公约附表四建议）](https://ecddrepository.org/en/vinylbital)。[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（本药未单列，落"Barbituric acid derivative"通配行）。[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinylbital%22)（0 条）。[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinylbital)。[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22vinylbital%22)（0 条）。
+**监管与检索**：[WHO ECDD repository。Vinylbital 评审记录（含 1971 年公约附表四建议）](https://ecddrepository.org/en/vinylbital)。[DEA 管制物质字母表 c_cs_alpha.pdf](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（本药未单列，落"Barbituric acid derivative"通配行）。[openFDA 检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22vinylbital%22)（0 条）。[DailyMed SPL 检索](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=vinylbital)。[Drugs@FDA 检索](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22vinylbital%22)（0 条）。
 
 **研究（本药特异，人体 PK／代谢）**：[口服与直肠药代与相对生物利用度（PMID:989344）](https://pubmed.ncbi.nlm.nih.gov/989344/)。[环氧–二醇代谢通路（鼠与人，PMID:6110286）](https://pubmed.ncbi.nlm.nih.gov/6110286/)。[人体生物转化系列（PMID:1037252）](https://pubmed.ncbi.nlm.nih.gov/1037252/)。
 

@@ -1,6 +1,6 @@
 # amifampridine｜（中文核准名待核实；通用名口径 amifampridine＝3,4-二氨基吡啶磷酸盐；本档案只评价 amifampridine／FIRDAPSE 与 Lambert-Eaton 肌无力综合征，**不得与 fampridine／dalfampridine＝4-氨基吡啶混用**）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-05（DailyMed 通用名检索与 FIRDAPSE 现行 SPL 逐节正文、WHO ATC/DDD 索引 N07XX 亚组页行文本、KEGG 名称检索与 D10228/D10689 条目的化学与商品名归属、中国四份管制目录与 2026-07-01 增列 16 项附表的逐名口径）｜ ATC：`N07XX05`（amifampridine，DDD 40 mg O；WHO ATC/DDD Index 2026，N07XX 亚组页脚注 Last updated 2026-01-20）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-05（DailyMed 通用名检索与 FIRDAPSE 现行 SPL 逐节正文、WHO ATC/DDD 索引 N07XX 亚组页行文本、KEGG 名称检索与 D10228/D10689 条目的化学与商品名归属、中国四份管制目录与 2026-07-01 增列 16 项附表的逐名口径）｜ ATC：`N07XX05`（amifampridine，DDD 40 mg O，WHO ATC/DDD Index 2026，N07XX 亚组页脚注 Last updated 2026-01-20）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **本页的首要实体风险是名称互换。** WHO 索引把 `N07XX05` 命名为 amifampridine、`N07XX07` 命名为 fampridine。聚合库层面另有一层混淆：KEGG 以 `fampridine` 检索会**同时**返回 D04127（Dalfampridine／Fampridine (JAN/INN)／**4-Aminopyridine**／Ampyra／Fampyra／Neurelan，ATC 行 N07XX07）与 D10228、D10689（Amifampridine／Amifampridine phosphate／Ruzurgi／Firdapse）。文献与数据库常把两个不同分子用同一名字互相标注。本页按**标签化学定名**锚定：FIRDAPSE 的成分在 §11 写作 "3,4-diaminopyridine phosphate"（分子式 C5H7N3·H3PO4，分子量 207.1），即**双氨基**吡啶。[fampridine](fampridine.md)（美国产品名 dalfampridine，化学名 4-aminopyridine）是**单氨基**吡啶，适应证为多发性硬化步行障碍。**两个档案的适应证与剂量上限互不继承。** 惊厥风险与监测条款同样各自独立。本档案不采用任何 4-氨基吡啶／Ampyra／Fampyra 文本的结论，也不采用"钾通道阻滞改善 MS 步行"的推定。

@@ -91,7 +91,7 @@
 
 ## 11. 深入分析与来源
 
-- `US-TAB`：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712（现行；§1、§5.2、§12、§14 各节）
+- `US-TAB`：https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712（现行、§1、§5.2、§12、§14 各节）
 - `UK-SMPC`：https://www.medicines.org.uk/emc/product/986/smpc（Campral EC，§4.1–§4.4，修订 2026-08-05）
 - `ATC-BB`：https://atcddd.fhi.no/atc_ddd_index/?code=N07BB&display=subgroup（Last updated 2026-01-20）
 - `PMID:20824837` Rösner 等，Acamprosate for alcohol dependence，Cochrane Database Syst Rev 2010：https://pubmed.ncbi.nlm.nih.gov/20824837/

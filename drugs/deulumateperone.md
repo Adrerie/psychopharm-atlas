@@ -9,8 +9,8 @@
 - `ITCI-8K-2502`＝Intra-Cellular Therapies, Inc. 2025-02-21 提交 SEC 的 8-K 附件 EX-99.1（2024 年度业绩与管线更新，accession `0001193125-25-031355`）。
 - `JNJ-PR-2504`＝Johnson & Johnson《Johnson & Johnson Closes Landmark Intra-Cellular Therapies, Inc. Acquisition to Solidify Neuroscience Leadership》，2025-04-02。
 - `NCT……`＝ClinicalTrials.gov 登记（状态、起止、是否张贴结果，检索日期 2026-11-05）。
-- `PMID:…`＝PubMed。§N 指本档案正文章节号。**本药在任何法域均无现行产品文本。
-- 本页不引用、也不继承卢美哌隆的任何标签条款。**。
+- `PMID:…`＝PubMed。§N 指本档案正文章节号。**本药在任何法域均无现行产品文本。**
+- 本页不引用、也不继承卢美哌隆的任何标签条款。
 
 ## 1. 基本信息
 
@@ -18,9 +18,9 @@
 | --- | --- |
 | 名称口径与实体身份 | USAN/INN 名 **deulumateperone**（PubChem CID 140916642，同义名含 `deulumateperone [INN]`、`DEULUMATEPERONE [USAN]`、**DIDEUTERATED LUMATEPERONE**、ITI-1284、ITI-15、D13268）；CAS 2102683-75-8，UNII NBA7J58PPP，分子式 **C₂₄H₂₈FN₃O**（氘计入氢计数）、分子量 **395.5**，IUPAC 名写作 4-[(10R,15S)-**3,3-dideuterio**-4-methyl-1,4,12-triazatetracyclo[7.6.1.0⁵,¹⁶.0¹⁰,¹⁵]hexadeca-5,7,9(16)-trien-12-yl]-1-(4-fluorophenyl)butan-1-one。清单以 **ITI-1284** 为条目名，本档案按 INN 名建页，ITI-1284 与 JNJ-99245354 作为同一实体的代号别名处理 |
 | 与卢美哌隆的关系（仅作身份说明） | 对照 PubChem 两条记录：lumateperone 游离碱（CID 21302490）分子式同为 C₂₄H₂₈FN₃O、分子量 **393.5**，而本药为 **395.5**、IUPAC 名多写 `3,3-dideuterio`，二者**连接方式相同、差别是同位素取代**，也就是说本药是卢美哌隆的双氘代新实体（`ITCI-8K-2502` 亦把 ITI-1284 与 lumateperone 列为不同项目）。**这一关系只用于说明分子身份：本药不继承卢美哌隆的美国批准（精神分裂症、双相抑郁、MDD 辅助）、不继承其 42 mg 剂量与胶囊规格、不继承其任何黑框、警告或相互作用条款**；卢美哌隆的批准与标签见其独立档案 [`drugs/lumateperone.md`](lumateperone.md) |
-| 剂型与给药途径 | 研发用剂型为**舌下给药的速释／口崩片**（rapidly disintegrating tablet，置于舌下溶化；`ITCI-8K-2502` 称 ITI-1284-ODT-SL）。ADP 方案写"ITI-1284 10 mg 或 20 mg 速释片，每日一次，舌下给药"（`NCT06540833`），GAD 三期同样写舌下给药（`NCT07856420`）。**这些是试验用药规格，不是处方剂量**；本药无获批剂量 |
+| 剂型与给药途径 | 研发用剂型为**舌下给药的速释／口崩片**（rapidly disintegrating tablet，置于舌下溶化、`ITCI-8K-2502` 称 ITI-1284-ODT-SL）。ADP 方案写"ITI-1284 10 mg 或 20 mg 速释片，每日一次，舌下给药"（`NCT06540833`），GAD 三期同样写舌下给药（`NCT07856420`）。**这些是试验用药规格，不是处方剂量**；本药无获批剂量 |
 | 申办方与代号链条 | 逐条取回的全部登记条目，lead sponsor 均写 **Intra-Cellular Therapies, Inc.**（industry，责任方类型 SPONSOR），且 collaborators 字段为空数组：**登记层面看不到"授权给第三方"的记录**。仅有出现强生代号的是 `NCT07856420`：干预名写"JNJ-99245354"，其 `otherNames` 字段列 **ITI-1284**。据此并结合一手公告核对到的是**并购关系而非对外许可**：强生于 2025-01-13 宣布以每股 132 美元现金收购 Intra-Cellular（股权价值约 146 亿美元），并于 **2025-04-02 完成交割**，Intra-Cellular 成为强生创新制药内部的业务单元（`JNJ-PR-2504`），该交易同时把 ITI-1284 纳入强生管线。因此 JNJ-99245354 是本资产进入强生体系后的内部代号；**清单把该项目表述为"Science Therapeutics"的口径，未在任何一手来源中核实到该主体与 ITI-1284／deulumateperone 的关联**，故不采用（§10 第 4 项） |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：按"deulumateperone""氘代卢美哌隆""卢美哌隆""lumateperone""ITI-1284""JNJ-99245354"及 CAS 2102683-75-8（并同核母体 CAS 与分子式口径）逐一检索 2025 年版《药用类麻醉药品目录》32 项、《药用类精神药品目录》第一类 18 项与第二类 78 项、2026 年第 58 号增列 3 项与《非药用类麻醉药品和精神药品目录》396 项，全部未命中；母体 lumateperone 本身亦未见于任何一份目录，故不存在"由母体条目覆盖"的问题。四类整类核查：芬太尼类要求芳香基-酰胺氮-哌啶-4-基-羰基的四方排布，本药的 4-氟苯基是**酮羰基**（丁酰苯侧链）的取代基、且环系为四环三氮杂桥环而非哌啶-4-基酰胺，不具备该母体排布，合成大麻素类要求芳稠合或单五元含氮杂环带 `-C(=O)Z-R3` 侧链，本药无此类杂环酰胺，尼秦类要求 1H-苯并咪唑母核，本药无，奥啡类的溴啡型与螺溴啡型母体亦不具备。另需说明：氘代属**同位素取代**，既不是目录注所称的"盐"，也不是"立体异构体"或"酯与醚"，因此不能靠目录通例把母体条目的适用范围自动扩张到本药。本案因母体本身未列管而无实际争议。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：按"deulumateperone""氘代卢美哌隆""卢美哌隆""lumateperone""ITI-1284""JNJ-99245354"及 CAS 2102683-75-8（并同核母体 CAS 与分子式口径）逐一检索 2025 年版《药用类麻醉药品目录》32 项、《药用类精神药品目录》第一类 18 项与第二类 78 项、2026 年第 58 号增列 3 项与《非药用类麻醉药品和精神药品目录》396 项，全部未命中；母体 lumateperone 本身亦未见于任何一份目录，故不存在"由母体条目覆盖"的问题。四类整类核查：芬太尼类要求芳香基-酰胺氮-哌啶-4-基-羰基的四方排布，本药的 4-氟苯基是**酮羰基**（丁酰苯侧链）的取代基、且环系为四环三氮杂桥环而非哌啶-4-基酰胺，不具备该母体排布，合成大麻素类要求芳稠合或单五元含氮杂环带 `-C(=O)Z-R3` 侧链，本药无此类杂环酰胺，尼秦类要求 1H-苯并咪唑母核，本药无，奥啡类的溴啡型与螺溴啡型母体亦不具备。另需说明：氘代属**同位素取代**，既不是目录注所称的"盐"。也不是"立体异构体"或"酯与醚"，因此不能靠目录通例把母体条目的适用范围自动扩张到本药。本案因母体本身未列管而无实际争议。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 上市与注册状态 | **未检得任何法域的可核验批准记录**。DailyMed 按 deulumateperone 与 ITI-1284 检索各 **0 条**，openFDA 药物标签库 0 条，EMA 无该分子 EPAR（检索 2026-11-05）。**中国**：无上市与核准适应证可谈。NMPA 对本机恒返回 HTTP 412、CDE 目录集恒返回 202 校验页，只记录"未见注册记录"这一检索事实（§10 第 8 项）。当前最高阶段：AD 域为 **Phase 2**（两项），GAD 域已进入 **Phase 3**（两项，2026-09 起） |
 
 ## 2. 评分
@@ -46,7 +46,7 @@
 
 ## 3. 主要作用
 
-- **靶点方向（按本药自己的证据）**：`NCT06299410` 的登记描述明确本药被检测的是**多巴胺 D2 受体、5-HT2A 受体与 5-羟色胺转运体（SERT）**三类中枢占据，分三个部分执行：Part A 用 [¹¹C]raclopride 在 10、20、30 mg 三个剂量测 D2 占据，Part B 用 [¹¹C]MDL100907 与 [¹¹C]DASB 在 20 mg 测 5-HT2A 与 SERT 占据，Part C 在给药后约 24 h 复测 D2 或 5-HT2A 的晚时相占据（58 例完成，2024-04-11→2026-08-18）。**该研究测的是受体占据，不是症状改善**。未取回任何提示"疾病修饰"的本药证据。
+- **靶点方向（按本药自己的证据）**：`NCT06299410` 的登记描述明确本药被检测的是**多巴胺 D2 受体、5-HT2A 受体与 5-羟色胺转运体（SERT）**三类中枢占据，分三个部分执行。Part A 用 [¹¹C]raclopride 在 10、20、30 mg 三个剂量测 D2 占据，Part B 用 [¹¹C]MDL100907 与 [¹¹C]DASB 在 20 mg 测 5-HT2A 与 SERT 占据，Part C 在给药后约 24 h 复测 D2 或 5-HT2A 的晚时相占据（58 例完成，2024-04-11→2026-08-18）。**该研究测的是受体占据，不是症状改善**。未取回任何提示"疾病修饰"的本药证据。
 - **与母体的机制叙述边界**：本药是母体的同位素变体，机制类别可叙述为"多受体／转运体谱与母体同源"，但**其占据幅度、时程与剂量-占据关系必须由本药自己的 PET 数据回答**。该数据尚未张贴（§10 第 5 项），因此本页不写任何定量占据值，也不引用卢美哌隆标签的机制段落。
 - **剂型设计意图**：口崩／速释片舌下给药，方案描述为置于舌下即溶（`ITCI-8K-2502`），针对的是吞咽常规片剂困难的老年人群这一给药可行性问题。**这是制剂属性，不等于疗效或安全性优势**。无该剂型与母体口服给药的头对端数据。
 - **不是认知增强剂，也不是疾病修饰候选**：本药 AD 域的两项研究主要终点分别是精神病症状量表与激越量表（见 §5），未把 CDR-SB、ADAS-Cog 或淀粉样蛋白／tau 影像设为主要终点。不得由"氘代改善代谢"这一机制叙述推定其具有病程修饰作用。
@@ -57,13 +57,13 @@
 
 - **AD 相关精神病（ADP）**：`NCT06540833`，Phase 2，随机双盲四盲（受试者、照护者、研究者与结局评估者），安慰剂平行对照，2024-08-15 起，RECRUITING，计划 370 例，主要终点为**第 6 周 BEHAVE-AD 精神病亚量表**分数变化，次要终点第 6 周 CGI-S。干预为 10 mg 或 20 mg 舌下速释片每日一次。
 - **AD 相关激越**：`NCT06651567`，Phase 2，多中心随机双盲安慰剂对照、**剂量可调**，2024-10-22 起，RECRUITING，计划 320 例，主要终点为**第 12 周 Cohen-Mansfield 激越量表（CMAI）总分**变化，次要终点第 12 周 CGI-S。
-- **广泛性焦虑障碍（GAD）**：Phase 2 adjunctive `NCT06480383`（2024-08-05 起，计划 705 例，主要终点第 6 周 HAM-A 总分）与单药 `NCT06701903`（均 RECRUITING）。Phase 3 两项均为 2026-09 起、RECRUITING。`NCT07807865`（单药或附加治疗的 52 周安全性与耐受性研究，计划 900 例，主要终点为至第 52 周的不良事件数）与 `NCT07856420`（对 GAD 治疗应答不充分者的附加治疗确证研究，计划 705 例，6 周双盲期主要终点为第 6 周 HAM-A 总分自基线变化，另有至多 24 周开放标签期；该条目的干预名写作 JNJ-99245354）。
+- **广泛性焦虑障碍（GAD）**：Phase 2 adjunctive `NCT06480383`（2024-08-05 起，计划 705 例，主要终点第 6 周 HAM-A 总分）与单药 `NCT06701903`（均 RECRUITING）。Phase 3 两项均为 2026-09 起、RECRUITING。`NCT07807865`（单药或附加治疗的 52 周安全性与耐受性研究，计划 900 例，主要终点为至第 52 周的不良事件数）与 `NCT07856420`（对 GAD 治疗应答不充分者的附加治疗确证研究，计划 705 例，6 周双盲期主要终点为第 6 周 HAM-A 总分自基线变化，另有至多 24 周开放标签期、该条目的干预名写作 JNJ-99245354）。
 
 ADP 与 GAD 是**不同的适应证域与不同的靶症状量表**，其证据不得互相借用。"痴呆患者的激越"与"痴呆患者的幻觉／妄想"也不是同一场景（CMAI 与 BEHAVE-AD 精神病亚量表测量的行为维度不同）。
 
 ## 5. 实际效果与局限
 
-**截至 2026-11-05，本药没有任何已张贴的疗效结果。**六项已启动试验的"结果首次张贴日期"字段全部为空**：
+**截至 2026-11-05，本药没有任何已张贴的疗效结果。六项已启动试验的"结果首次张贴日期"字段全部为空**：
 - `NCT06299410`
 - `NCT06786286`
 - `NCT06540833`
@@ -83,7 +83,7 @@ ADP 与 GAD 是**不同的适应证域与不同的靶症状量表**，其证据�
 
 **无可引用的本药长期风险数据**（§2.1 第一行）。需要显式记录的缺口与边界：
 
-- 痴呆人群使用具有多巴胺能／抗精神病样作用的药物，其类别层面的死亡风险升高与脑血管事件问题是已知议题。但本药**无标签、无该类人群对照长期数据**，因此这些条款既不能写成"本药已证实的长期风险"，也不能据其受体谱断言不存在。仓库已有的 [`drugs/lumateperone.md`](lumateperone.md) 中的黑框与老年痴呆条款属**另一实体的标签文本**，不计入本页评分或风险清单。
+- 痴呆人群使用具有多巴胺能／抗精神病样作用的药物，其类别层面的死亡风险升高与脑血管事件问题是已知议题，但本药**无标签、无该类人群对照长期数据**，因此这些条款既不能写成"本药已证实的长期风险"。也不能据其受体谱断言不存在。仓库已有的 [`drugs/lumateperone.md`](lumateperone.md) 中的黑框与老年痴呆条款属**另一实体的标签文本**，不计入本页评分或风险清单。
 - 本药自身的长期暴露计划：52 周 GAD 安全性研究（`NCT07807865`，2026-09-03 起）与 GAD 三期研究中的至多 24 周开放标签期。两者均未完成。
 - 氘代可能改变代谢速率与暴露-反应关系，这类改变只有在代谢物谱与暴露数据公开后才能评估。本档案未取回相关内容。
 
@@ -120,18 +120,18 @@ ADP 与 GAD 是**不同的适应证域与不同的靶症状量表**，其证据�
 ## 11. 深入分析与来源
 
 一手公司文件
-- `ITCI-8K-2502`：Intra-Cellular Therapies 2025-02-21 8-K EX-99.1（含 ITI-1284-ODT-SL 管线段与 lumateperone sNDA 段落，明确区分两条项目）：https://www.sec.gov/Archives/edgar/data/1567514/000119312525031355/d923815dex991.htm
-- `JNJ-PR-2504`：Johnson & Johnson 宣布完成对 Intra-Cellular Therapies 的收购（2025-04-02，Intra-Cellular 成为强生创新制药业务单元）：https://www.jnj.com/media-center/press-releases/johnson-johnson-closes-landmark-intra-cellular-therapies-acquisition-to-solidify-neuroscience-leadership
+- `ITCI-8K-2502`：Intra-Cellular Therapies 2025-02-21 8-K EX-99.1（含 ITI-1284-ODT-SL 管线段与 lumateperone sNDA 段落，明确区分两条项目）。https://www.sec.gov/Archives/edgar/data/1567514/000119312525031355/d923815dex991.htm
+- `JNJ-PR-2504`：Johnson & Johnson 宣布完成对 Intra-Cellular Therapies 的收购（2025-04-02，Intra-Cellular 成为强生创新制药业务单元）。https://www.jnj.com/media-center/press-releases/johnson-johnson-closes-landmark-intra-cellular-therapies-acquisition-to-solidify-neuroscience-leadership
 - Johnson & Johnson 2025-01-13 收购公告（每股 132 美元现金、股权价值约 146 亿美元）：https://www.jnj.com/media-center/press-releases/johnson-johnson-strengthens-neuroscience-leadership-with-acquisition-of-intra-cellular-therapies-inc
 
 试验登记（检索 2026-11-05）
 - `NCT06299410` 健康受试者 PET 受体占据（Phase 1，COMPLETED，结果未张贴）：https://clinicaltrials.gov/study/NCT06299410
 - `NCT06786286` 皮下 [¹⁴C]-ITI-1284 质量平衡（Phase 1，COMPLETED，结果未张贴）：https://clinicaltrials.gov/study/NCT06786286
-- `NCT06540833` AD 相关精神病（Phase 2，RECRUITING；主要终点 BEHAVE-AD 精神病亚量表）：https://clinicaltrials.gov/study/NCT06540833
-- `NCT06651567` AD 相关激越（Phase 2，RECRUITING；主要终点 CMAI）：https://clinicaltrials.gov/study/NCT06651567
+- `NCT06540833` AD 相关精神病（Phase 2，RECRUITING、主要终点 BEHAVE-AD 精神病亚量表）：https://clinicaltrials.gov/study/NCT06540833
+- `NCT06651567` AD 相关激越（Phase 2，RECRUITING、主要终点 CMAI）：https://clinicaltrials.gov/study/NCT06651567
 - `NCT06480383`／`NCT06701903` GAD 二期附加治疗与单药（RECRUITING）：https://clinicaltrials.gov/study/NCT06480383 、 https://clinicaltrials.gov/study/NCT06701903
 - `NCT07807865` GAD 三期 52 周安全性（RECRUITING，2026-09-03 起）：https://clinicaltrials.gov/study/NCT07807865
-- `NCT07856420` GAD 三期附加治疗确证（干预名 JNJ-99245354，别名 ITI-1284；RECRUITING，2026-09-29 起）：https://clinicaltrials.gov/study/NCT07856420
+- `NCT07856420` GAD 三期附加治疗确证（干预名 JNJ-99245354，别名 ITI-1284、RECRUITING，2026-09-29 起）：https://clinicaltrials.gov/study/NCT07856420
 
 身份与管制基准
 - PubChem CID 140916642（deulumateperone，同义名含 DIDEUTERATED LUMATEPERONE／ITI-1284）：https://pubchem.ncbi.nlm.nih.gov/compound/140916642

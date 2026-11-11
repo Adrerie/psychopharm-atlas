@@ -1,6 +1,6 @@
 # acetylleucine｜乙酰亮氨酸（N-乙酰-DL-亮氨酸；法国 TANGANIL 现行说明书已取得）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-10（法国 BDPM 所载 TANGANIL 500 mg 片 RCP 全文逐节读取；DailyMed 与英国 emc 按药名检索；WHO ATC/DDD 索引 N07CA 与 N07XX 亚组页回读；中国现行管制目录与 2026-07-01 增列附表逐名核对）｜ ATC：`N07CA04`（acetylleucine，官方索引未列 DDD；WHO ATC/DDD Index 2026，页脚 Last updated 2026-01-20）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-10（法国 BDPM 所载 TANGANIL 500 mg 片 RCP 全文逐节读取，DailyMed 与英国 emc 按药名检索，WHO ATC/DDD 索引 N07CA 与 N07XX 亚组页回读，中国现行管制目录与 2026-07-01 增列附表逐名核对）｜ ATC：`N07CA04`（acetylleucine，官方索引未列 DDD，WHO ATC/DDD Index 2026，页脚 Last updated 2026-01-20）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`FR-RCP`＝法国 TANGANIL 500 mg 片 RCP（BDPM，CIS 68276457，AMM 2013-04-30）。`ATC-CA`＝WHO ATC/DDD 索引 N07CA 与 N07XX 亚组页。`DM-0`／`UK-0`＝美国 DailyMed 与英国 emc 按药名检索 0 条（2026-11-10）。`PMID:…`＝PubMed 记录。§N 指所引文本的章节号。
@@ -15,7 +15,7 @@
 | 主要剂型 | 法国 TANGANIL 500 mg 片剂，包装 20、30、40 或 60 片；30 片装报销比例 30%，60 片装声明于 2026-09-30 停止上市（BDPM 产品页）。同组另有 TANGANIL 500 mg/5 ml 静脉注射液（CIS 63358726）与仿制药组 ACÉTYLLEUCINE 500 mg／TANGANILPRO 500 mg，本次只读取口服片的 RCP（`FR-RCP`） |
 | 关键药代摘要 | 口服后约 2 h 达血药浓度峰值；文本未给出半衰期、生物利用度与代谢通路（`FR-RCP` §5.2） |
 | 现行 ATC 与 DDD | `N07CA04`，官方索引未对本行列 DDD（`ATC-CA`）。无 DDD 说明其用药统计口径未定，与同组倍他司汀、桂利嗪、氟桂利嗪不同 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-10）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 项增列附表逐名核对（"乙酰亮氨酸／acetylleucine"）均未命中。结构核查：本实体为氨基酸乙酰化衍生物小分子，不落入芬太尼类母核与替代条件、合成大麻素类通式、尼秦类与奥啡类公告范围；左旋体同样不落入。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-10）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 项增列附表逐名核对（"乙酰亮氨酸／acetylleucine"）均未命中。结构核查：本实体为氨基酸乙酰化衍生物小分子，不落入芬太尼类母核与替代条件、合成大麻素类通式、尼秦类与奥啡类公告范围；左旋体同样不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 法国：TANGANIL 500 mg 片现行有效，AMM 日期 2013-04-30，CIS 68276457，BDPM 状态 Valide，核准适应证为成人眩晕发作的症状治疗（`FR-RCP` §4.1）。美国：DailyMed 0 条（`DM-0`）。英国：emc 无产品（`UK-0`）。中国：NMPA 返回 HTTP 412、CDE 返回 202 校验页，上市与核准适应证待核实 |
 | 身份与统计 | 美国 DailyMed 0 条（`DM-0`，检索事实，不推定未获批）。英国 emc 无产品（`UK-0`）。法国 CIS 68276457（`FR-RCP`）。ATC `N07CA04`（`ATC-CA`）；左旋体 `N07XX27` 另码 |
 
@@ -98,7 +98,7 @@
 
 **分类**：[WHO ATC/DDD Index N07CA 亚组（N07CA04 行）](https://atcddd.fhi.no/atc_ddd_index/?code=N07CA&display=subgroup)。[WHO ATC/DDD Index N07XX 亚组（N07XX27 levacetylleucine 行）](https://atcddd.fhi.no/atc_ddd_index/?code=N07XX&display=subgroup)。[DailyMed acetylleucine 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=acetylleucine)。
 
-**已读文献**：`PMID:30613860`（Eur J Clin Pharmacol 2019，眩晕与头晕随机试验系统评价：无已发表随机对照试验）、`PMID:34905009`（JAMA Netw Open 2021，ALCAT 交叉试验：不优于安慰剂）。
+**已读文献**：`PMID:30613860`（Eur J Clin Pharmacol 2019，眩晕与头晕随机试验系统评价。无已发表随机对照试验）、`PMID:34905009`（JAMA Netw Open 2021，ALCAT 交叉试验。不优于安慰剂）。
 
 **题名已核（正文未读）**：
 - `PMID:40851547`（MSA-C 构音障碍改善病例系列）

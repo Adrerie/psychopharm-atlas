@@ -26,7 +26,7 @@
 
 ## 2. 评分
 
-规则见 [SCORING.md](../SCORING.md)。**因缺少任何法域的现行说明书，本节的依据只能来自综述与原始研究层。凡只能由说明书确定的事实（禁忌清单、监测条款、制剂特异性风险）一律不打分、不推断。** 分数是证据与负担的整理，不构成对个体是否用药的判断。
+规则见 [SCORING.md](../SCORING.md)。**因缺少任何法域的现行说明书，本节的依据只能来自综述与原始研究层。凡只能由说明书确定的事实（禁忌清单与监测条款、制剂特异性风险）一律不打分、不推断。** 分数是证据与负担的整理，不构成对个体是否用药的判断。
 
 ### 2.1 药物负担（1–5，越高越重）
 
@@ -96,7 +96,11 @@
 2. **「Discontinued」不是撤销公告**：Drugs@FDA 的营销状态字段说明产品不再销售，但本次未取得《联邦公报》的批准撤销或企业停销声明，也不存在「因安全或疗效撤出」的官方认定。本页不据此写撤市原因。
 3. **临床证据均为 1970–1980 年代的小样本研究**：最大者为 80 例的酒精戒断等效性试验与 64 例的睡前给药试验。多数为医师总体量表终点，显著性阈值偏松（p≤0.10），没有现代 GAD 量表、功能结局或长期随访。
 4. **中国目录结论与药品身份是两件事**：第 296 项的非药用类列管只说明该物质在中国按非药用类麻精药品管理，不能推出「已批准」「已上市」或「可用于医疗」。反之，也不能因为它是苯二氮䓬就推断其列管层级（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）。
-5. **代谢物相同不等于可互换**：去甲基地西泮与奥沙西泮同时是地西泮、氯拉䓬酸、普拉西泮等的下游代谢物，但各母体的标签、目录层级与剂量不同。本页不引用其他条目的评分、发生率或相互作用数字。
+5. **代谢物相同不等于可互换**：
+- 去甲基地西泮与奥沙西泮同时是地西泮、氯拉䓬酸
+- 普拉西泮等的下游代谢物，但各母体的标签、目录层级与剂量不同
+
+本页不引用其他条目的评分、发生率或相互作用数字。
 6. **DDD 0.1 g 是统计指标**：它与试验中 80–160 mg/日、单日最高 600 mg 的方案不是同一概念，不能据此换算等效剂量或处方量。
 7. **综述与试验分层**：1982 年综述的「优于地西泮」、1990 年滥用潜力比较的「较低一档」都属于汇总判断，本页只在标明其性质后使用，不写成单条试验结论。
 8. **2026-11-10 复核**：openFDA 标签接口按 `halazepam` 检索仍无记录（HTTP 404 即无命中），Drugs@FDA 仍为 NDA017736 一条记录（两个规格营销状态 Discontinued，见 §1），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
@@ -106,7 +110,7 @@
 
 本页不设专题：核心张力只有两处。「已停售但文献仍在引用」与「温和的急性表现对比长半衰期代谢物的蓄积与戒断」，已由 §2、§3 与 §10 就近承载。同类对照见 [普拉西泮](prazepam.md)（同样是长半衰期代谢物路径、但法国现行文本完整）、[奥沙西泮](oxazepam.md)（本药的下游活性代谢物，不能互换）与 [氟硝西泮](flunitrazepam.md)（同样在无现行说明书条件下保持 `basic` 的写法先例）。
 
-**监管与官方文件**：[openFDA Drugs@FDA：PAXIPAM（NDA 017736，20 mg／40 mg 片，营销状态 Discontinued）](https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:%22Paxipam%22)。[DailyMed 按药名 halazepam 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=halazepam)。[法国 BDPM 检索页](https://base-donnees-publique.medicaments.gouv.fr/)。[西班牙 CIMA 检索页](https://cima.aemps.es/cima/publico/home.html)。[英国 emc 按 halazepam 检索（无结果，2026-10-24）](https://www.medicines.org.uk/emc/search?q=halazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[openFDA Drugs@FDA。PAXIPAM（NDA 017736，20 mg／40 mg 片，营销状态 Discontinued）](https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:%22Paxipam%22)。[DailyMed 按药名 halazepam 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=halazepam)。[法国 BDPM 检索页](https://base-donnees-publique.medicaments.gouv.fr/)。[西班牙 CIMA 检索页](https://cima.aemps.es/cima/publico/home.html)。[英国 emc 按 halazepam 检索（无结果，2026-10-24）](https://www.medicines.org.uk/emc/search?q=halazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
 **研究与文献**：[PMID:6131488](https://pubmed.ncbi.nlm.nih.gov/6131488/)（29 例撤药观察，1982）。[PMID:6109568](https://pubmed.ncbi.nlm.nih.gov/6109568/)（64 例睡前给药对照，1980）。[PMID:6106612](https://pubmed.ncbi.nlm.nih.gov/6106612/)（120 mg 睡前 vs 60 mg vs 安慰剂，1980）。[PMID:24645](https://pubmed.ncbi.nlm.nih.gov/24645/)（单日高剂量交叉，1978）。[PMID:27465](https://pubmed.ncbi.nlm.nih.gov/27465/)（预后分析，1978）。[PMID:2859274](https://pubmed.ncbi.nlm.nih.gov/2859274/)（80 例酒精戒断，1985）。[PMID:681309](https://pubmed.ncbi.nlm.nih.gov/681309/)（敌意量表阴性，1978）。[PMID:1981067](https://pubmed.ncbi.nlm.nih.gov/1981067/)（滥用潜力比较，1990）。[PMID:6152591](https://pubmed.ncbi.nlm.nih.gov/6152591/)（1982 年综述）。[PMID:6133664](https://pubmed.ncbi.nlm.nih.gov/6133664/)（1983 年临床药代综述）。[PMID:28903606](https://pubmed.ncbi.nlm.nih.gov/28903606/)（2017 年奥沙西泮及相关苯二氮䓬代谢综述）。
 

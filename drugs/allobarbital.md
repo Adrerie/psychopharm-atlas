@@ -7,20 +7,20 @@
 **引用键**：
 
 - `CFR-1308`＝eCFR 21 CFR part 1308（快照 2025-01-01）。
-- `PMID:……`＝PubMed。**未取得任何本药的产品说明书或上市许可文本**（美／法／西／英检索事实见 §11；德国与瑞典的历史产品只由复方与文献记载侧证），因此不设说明书引用键，§N 在本条目中无适用对象。凡标"题录"者指**只取得题名、未取得摘要与数值**。**巴比妥类的类别知识（呼吸抑制、依赖、酶诱导、卟啉诱发）在本条目与"本药特异研究"分开标注**，类别内容不折算为分数（§2）。
+- `PMID:……`＝PubMed。**未取得任何本药的产品说明书或上市许可文本**（美／法／西／英检索事实见 §11、德国与瑞典的历史产品只由复方与文献记载侧证），因此不设说明书引用键，§N 在本条目中无适用对象。凡标"题录"者指**只取得题名、未取得摘要与数值**。**巴比妥类的类别知识（呼吸抑制、依赖、酶诱导、卟啉诱发）在本条目与"本药特异研究"分开标注**，类别内容不折算为分数（§2）。
 
 ## 1. 基本信息
 
 | 项目 | 内容 |
 | --- | --- |
-| 类型／药理类别 | 单方，**巴比妥类（5,5-二烯丙基巴比妥酸）**，ATC 亚组 N05CA "Barbiturates, plain"。化学名口径：**5,5-diallylbarbituric acid（allobarbital）**（`PMID:35131` 标题直接给出）；因其**两个烯丙基侧链**被归入"含烯丙基的巴比妥类"这一实验药理亚组（`PMID:5034548`、`PMID:21777`） |
-| 剂型与规格 | **无可核的官方剂型文字**。文献中的给药量线索：人体对照研究把本药 **30 mg** 与 propyphenazone 220 mg 组成复方用于门诊头痛（`PMID:7023493`），**这是复方剂量，不写入单方**；大鼠经口长期试验用"与 500 ppm 苯巴比妥等摩尔"的饲料浓度（`PMID:8313534`），鸡肌注试验用 40 与 80 mg/kg（`PMID:10666`，动物），实验麻醉用"urethane + allobarbital 混合物"（`PMID:3996465`、`PMID:11207671`） |
+| 类型／药理类别 | 单方，**巴比妥类（5,5-二烯丙基巴比妥酸）**，ATC 亚组 N05CA "Barbiturates, plain"。化学名口径：**5,5-diallylbarbituric acid（allobarbital）**（`PMID:35131` 标题直接给出）。因其**两个烯丙基侧链**被归入"含烯丙基的巴比妥类"这一实验药理亚组（`PMID:5034548`、`PMID:21777`） |
+| 剂型与规格 | **无可核的官方剂型文字**。文献中的给药量线索：人体对照研究把本药 **30 mg** 与 propyphenazone 220 mg 组成复方用于门诊头痛（`PMID:7023493`），**这是复方剂量，不写入单方**。大鼠经口长期试验用"与 500 ppm 苯巴比妥等摩尔"的饲料浓度（`PMID:8313534`），鸡肌注试验用 40 与 80 mg/kg（`PMID:10666`，动物），实验麻醉用"urethane + allobarbital 混合物"（`PMID:3996465`、`PMID:11207671`） |
 | 复方产品（存在性提示，不进单方评分） | 药学稳定性与含量测定文献记录含本药的固定复方：**aminophenazone＋allobarbital＋adiphenine hydrochloride**（制剂名 Pabialgin liquidum／Cibalgin／Vegantalgin，`PMID:5093143`、`PMID:5163824`、`PMID:6117089`、`PMID:6118857`，题录为主）与 **propyphenazone＋allobarbital（Pabialgin P）**（`PMID:2575847`）。**这些复方条款不计入本页评分与风险**（§10 第 3 项） |
 | 活性代谢物 | 本药（以及 secobarbital、alphenal、aprobarbital）的**烯丙基侧链在鼠与豚鼠体内被代谢为环氧化物与二醇**（epoxide／diol），而**hexobarbital 走烯丙位羟化、未见 epoxide–diol 路径**（`PMID:21777`）。含硫代巴比妥类的胃酸稳定性研究中本药未被降解（同批仅 thiobutabarbital 降解）（`PMID:39111846`）。**代谢物自身的催眠活性未取得数据** |
-| 关键药代 | **未取得任何人体药代参数**（无半衰期、无生物利用度、无分布容积）。可核的只有动物处置学：尿中代谢物可低至 0.1 µg/mL 被鉴定（`PMID:21777`，方法学）；以及"长期饲喂等摩尔于 500 ppm 苯巴比妥浓度的本药"在大鼠产生肝肿大（`PMID:10676885`、`PMID:8313534`）。**不借用其他巴比妥类的药代数值** |
-| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 1 项“阿洛巴比妥”（英文名 Allobarbital；CAS 52-43-7）。 |
-| 主要法域批准状态 | **无可核的现行或历史监管文本**。检索事实：openFDA 标签按通用名 0 条、Drugs@FDA 0 条、DailyMed v2 `spls.json?drug_name=allobarbital` 的 `total_elements`＝0；法国 BDPM `startBy=ALLOBAR` 0 条（`startBy=ALLO` 返回 31 条无一为本药），西班牙 CIMA `nombre=allobarbital` 检索 `totalFilas`＝0，英国 emc 检索页返回 200 但结果列表由脚本动态加载、未取到可读命中清单，Federal Register 按词检索 8 条**均为无关文件**（DEA 对照品豁免通告、HISA 规则等）。**美国联邦管制层面**：`CFR-1308` 中**未以"allobarbital"之名逐项列出**，但 §1308.13(c)(3)（Schedule III，Depressants）以"**任何含任何量巴比妥酸衍生物或其盐的物质**"（DEA 码 2100）设**类别条款**，其前提为"除非被特别豁免或列入其他附表"，**本药是否落入该类别条款、或是否被 21 CFR 1300.12 等豁免条款覆盖，未逐项核实**。本条目据此保留不确定性，既不写"美国未列管"，也不写"美国 Schedule III 列管"。中国药用类结论沿用 2026-10-06 已核查字段 |
-| 身份与统计 | WHO ATC `N05CA21`；**WHO 2026 索引未对本编码列出 DDD**（索引注明与 N05CB 相关的评论见 N05C 条目本身；§10 第 1 项），CAS 52-43-7，Wikidata [Q418905](https://www.wikidata.org/wiki/Q418905)，PubChem [5842](https://pubchem.ncbi.nlm.nih.gov/compound/5842)，DrugBank [DB13577](https://www.drugbank.ca/r/DB13577)，RxNorm [RXCUI 516](https://rxnav.nlm.nih.gov/REST/rxcui/516.json) |
+| 关键药代 | **未取得任何人体药代参数**（无半衰期、无生物利用度、无分布容积）。可核的只有动物处置学：尿中代谢物可低至 0.1 µg/mL 被鉴定（`PMID:21777`，方法学）。以及"长期饲喂等摩尔于 500 ppm 苯巴比妥浓度的本药"在大鼠产生肝肿大（`PMID:10676885`、`PMID:8313534`）。**不借用其他巴比妥类的药代数值** |
+| 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 1 项“阿洛巴比妥”（英文名 Allobarbital、CAS 52-43-7）。 |
+| 主要法域批准状态 | **无可核的现行或历史监管文本**。检索事实：openFDA 标签按通用名 0 条、Drugs@FDA 0 条、DailyMed v2 `spls.json?drug_name=allobarbital` 的 `total_elements`＝0。法国 BDPM `startBy=ALLOBAR` 0 条（`startBy=ALLO` 返回 31 条无一为本药），西班牙 CIMA `nombre=allobarbital` 检索 `totalFilas`＝0，英国 emc 检索页返回 200 但结果列表由脚本动态加载、未取到可读命中清单，Federal Register 按词检索 8 条**均为无关文件**（DEA 对照品豁免通告、HISA 规则等）。**美国联邦管制层面**：`CFR-1308` 中**未以"allobarbital"之名逐项列出**，但 §1308.13(c)(3)（Schedule III，Depressants）以"**任何含任何量巴比妥酸衍生物或其盐的物质**"（DEA 码 2100）设**类别条款**，其前提为"除非被特别豁免或列入其他附表"，**本药是否落入该类别条款、或是否被 21 CFR 1300.12 等豁免条款覆盖，未逐项核实**。本条目据此保留不确定性，既不写"美国未列管"，也不写"美国 Schedule III 列管"。中国药用类结论沿用 2026-10-06 已核查字段 |
+| 身份与统计 | WHO ATC `N05CA21`。**WHO 2026 索引未对本编码列出 DDD**（索引注明与 N05CB 相关的评论见 N05C 条目本身。§10 第 1 项），CAS 52-43-7，Wikidata [Q418905](https://www.wikidata.org/wiki/Q418905)，PubChem [5842](https://pubchem.ncbi.nlm.nih.gov/compound/5842)，DrugBank [DB13577](https://www.drugbank.ca/r/DB13577)，RxNorm [RXCUI 516](https://rxnav.nlm.nih.gov/REST/rxcui/516.json) |
 
 ## 2. 评分
 
@@ -30,12 +30,12 @@
 
 | 维度 | 评分 | 依据 |
 | --- | ---: | --- |
-| 长期风险负担 | 4 | **本药特异的动物长期研究（非人体）**：① 在 N-亚硝基二乙胺启动的 F344 大鼠中，饲料给予"与 500 ppm 苯巴比妥等摩尔"的本药，**促肝细胞癌生成的效力与苯巴比妥相当**（同为中等时长镇静剂的 aprobarbital 稍弱），而本药的 **CYP2B 型诱导只有苯巴比妥的约 25%**（`PMID:8313534`）；② 大鼠连续 7 日经口，本药引起肝肿大，**且该肝肿大归因于酶诱导而非肝细胞增殖**，停药后细胞增殖降到对照以下，抑制幅度与治疗期增殖程度相关（苯巴比妥>巴比妥钠>本药）（`PMID:10676885`），③ 本药被该领域列为**已知致卟啉生成物**之一，使大鼠肝 5-氨基乙酰丙酸合成酶升高约 **2.5 倍**（`PMID:8216`）。评 4 而明确标注：**全部为啮齿类数据，不含人体长期风险读数** |
-| 短期耐受负担 | N/A | **未检得任何本药的人体不良事件数据**（无频率、无剂量-反应）。巴比妥类"镇静过深、呼吸抑制"属**类别知识**，按 SCORING 不折算为本药分数；实验麻醉文献只提供大鼠压力感受器反射被"urethane＋本药混合物"减弱 4–5 倍这一动物读数（`PMID:3996465`）。故记 `N/A` |
-| 相互作用／监测负担 | 3 | **本药特异的酶学交互**：① 给长期服用微粒体酶诱导剂的大鼠施用含烯丙基的巴比妥类（**明文包括 allobarbital**）会**迅速破坏作为药物代谢末端氧化酶的肝微粒体血红素蛋白（细胞色素 P-450）**，而不含烯丙基的巴比妥类无此效应，且在需 NADPH 的离体肝微粒体系统中同样可重现，作者推断经代谢转化为破坏 P-450 的产物（`PMID:5034548`）；② 同批文献把本药列为**诱导微粒体药物代谢酶**并**致卟啉生成**（`PMID:8216`），③ 烯丙基侧链经**环氧化物／二醇**代谢（`PMID:21777`），与①的机制推断一致。评 3：机制证据强、对本药特异，但**没有人体相互作用试验**，也无从写出监测清单 |
-| 停药负担 | N/A | 未检得本药的人体撤药研究或依赖病例系列。"巴比妥类依赖与戒断惊厥"属**类别知识**，不折算为本药分数（§10 第 5 项）；故记 `N/A`，**与滥用维度分开** |
-| 滥用／误用潜力 | N/A | 未检得本药特异的强化效应、自身给药或带分母的非医疗使用证据；中国把它列入药用类精神药品第二类属**管制事实，不能充当本药滥用分数**（§1）。按 SCORING 记 `N/A`，不据"证据缺"给 1 |
-| 非适应证／潜在不适当处方风险（中国） | N/A | 本药在中国为药用类精神药品第二类（目录第 1 项），但 2017 年版《中国老年人潜在不适当用药判断标准》**未逐名收录本药**（巴比妥类只有类别条款），且无中国境内本药处方数据；按 SCORING 记 `N/A`，不凑 1 或 3 |
+| 长期风险负担 | 4 | **本药特异的动物长期研究（非人体）**：① 在 N-亚硝基二乙胺启动的 F344 大鼠中，饲料给予"与 500 ppm 苯巴比妥等摩尔"的本药，**促肝细胞癌生成的效力与苯巴比妥相当**（同为中等时长镇静剂的 aprobarbital 稍弱），而本药的 **CYP2B 型诱导只有苯巴比妥的约 25%**（`PMID:8313534`）。② 大鼠连续 7 日经口，本药引起肝肿大，**且该肝肿大归因于酶诱导而非肝细胞增殖**，停药后细胞增殖降到对照以下，抑制幅度与治疗期增殖程度相关（苯巴比妥>巴比妥钠>本药）（`PMID:10676885`），③ 本药被该领域列为**已知致卟啉生成物**之一，使大鼠肝 5-氨基乙酰丙酸合成酶升高约 **2.5 倍**（`PMID:8216`）。评 4 而明确标注：**全部为啮齿类数据，不含人体长期风险读数** |
+| 短期耐受负担 | N/A | **未检得任何本药的人体不良事件数据**（无频率、无剂量-反应）。巴比妥类"镇静过深、呼吸抑制"属**类别知识**，按 SCORING 不折算为本药分数。实验麻醉文献只提供大鼠压力感受器反射被"urethane＋本药混合物"减弱 4–5 倍这一动物读数（`PMID:3996465`）。故记 `N/A` |
+| 相互作用／监测负担 | 3 | **本药特异的酶学交互**：① 给长期服用微粒体酶诱导剂的大鼠施用含烯丙基的巴比妥类（**明文包括 allobarbital**）会**迅速破坏作为药物代谢末端氧化酶的肝微粒体血红素蛋白（细胞色素 P-450）**，而不含烯丙基的巴比妥类无此效应，且在需 NADPH 的离体肝微粒体系统中同样可重现，作者推断经代谢转化为破坏 P-450 的产物（`PMID:5034548`）。② 同批文献把本药列为**诱导微粒体药物代谢酶**并**致卟啉生成**（`PMID:8216`），③ 烯丙基侧链经**环氧化物／二醇**代谢（`PMID:21777`），与①的机制推断一致。评 3：机制证据强、对本药特异，但**没有人体相互作用试验**，也无从写出监测清单 |
+| 停药负担 | N/A | 未检得本药的人体撤药研究或依赖病例系列。"巴比妥类依赖与戒断惊厥"属**类别知识**，不折算为本药分数（§10 第 5 项）。故记 `N/A`，**与滥用维度分开** |
+| 滥用／误用潜力 | N/A | 未检得本药特异的强化效应、自身给药或带分母的非医疗使用证据。中国把它列入药用类精神药品第二类属**管制事实，不能充当本药滥用分数**（§1）。按 SCORING 记 `N/A`，不据"证据缺"给 1 |
+| 非适应证／潜在不适当处方风险（中国） | N/A | 本药在中国为药用类精神药品第二类（目录第 1 项），但 2017 年版《中国老年人潜在不适当用药判断标准》**未逐名收录本药**（巴比妥类只有类别条款），且无中国境内本药处方数据。按 SCORING 记 `N/A`，不凑 1 或 3 |
 
 总体解释：allobarbital 是一张**几乎没有人体数据的档案**。它能被评的格子全部落在啮齿类肝肿瘤促生与酶学交互上。它的"高分"不代表临床上更危险，只代表**动物长期毒理信号明确**。相反，真正决定临床处置的镇静、呼吸抑制、依赖与戒断，本药一条特异证据都没有，因而这些维度诚实记 `N/A`。这是 `basic` 状态的核心原因，不是撰写遗漏。
 
@@ -43,8 +43,8 @@
 
 **本条目不给出场景评分**（不添加占位行），理由逐项：
 
-- **失眠／镇静的催眠用途**：**未取得任何法域的批准文本**，因此没有"核准适应证"这一可评分对象。同时**未检得本药治疗失眠的人体随机试验**。可读的全部是动物睡眠时长与结构研究（鸡肌注后本药睡眠时程最长，`PMID:10666`；大鼠中本药催眠时长被多种烯丙基氧嘧啶衍生物延长或拮抗，`PMID:15635282`）。按 SCORING，"仅有历史／动物研究、无当前临床决策价值"不强行设行。
-- **疼痛（门诊非偏头痛性头痛）**：仅有的人体对照读数来自**复方**（propyphenazone＋allobarbital，剂量见 §4）与 fluproquazone 的比较（131 名门诊患者，三项对照研究；复方略优）（`PMID:7023493`），**固定复方不进单方 A–D 表**。
+- **失眠／镇静的催眠用途**：**未取得任何法域的批准文本**，因此没有"核准适应证"这一可评分对象。同时**未检得本药治疗失眠的人体随机试验**。可读的全部是动物睡眠时长与结构研究（鸡肌注后本药睡眠时程最长，`PMID:10666`、大鼠中本药催眠时长被多种烯丙基氧嘧啶衍生物延长或拮抗，`PMID:15635282`）。按 SCORING，"仅有历史／动物研究、无当前临床决策价值"不强行设行。
+- **疼痛（门诊非偏头痛性头痛）**：仅有的人体对照读数来自**复方**（propyphenazone＋allobarbital，剂量见 §4）与 fluproquazone 的比较（131 名门诊患者，三项对照研究、复方略优）（`PMID:7023493`），**固定复方不进单方 A–D 表**。
 - **抗惊厥**：本药被用作**参照药**与新合成巴比妥类、戊巴比妥、苯巴比妥与苯妥英比较（小鼠致惊剂拮抗与大鼠 allylglycine 致惊模型，`PMID:3439474`）。这是药理参照，不是临床场景。
 - **实验动物麻醉**：作为科研用固定剂（大鼠、猫）在本波次文献中被反复使用（`PMID:3996465`、`PMID:11207671`），属工具药用途，不构成临床场景。
 - **"无现行文本／未获批"本身不是场景**，只作 §1 与 §10 的事实。
@@ -64,7 +64,7 @@
 
 **没有任何可引用的核准适应证文字**。在美国、法国、西班牙与英国四个监管入口检索 0 条或不可读。德国／瑞典的历史产品与复方只由药学文献侧证（§1），因此不写适应证、禁忌或给药规则。
 
-**文献记载的用途与给药量（研究事实，不是处方建议）**：催眠／镇静（动物模型，`PMID:15635282`、`PMID:10666`）。作为科研麻醉固定剂（`PMID:3996465`、`PMID:11207671`）。复方中的镇痛辅助成分（**propyphenazone 220 mg＋本药 30 mg**，`PMID:7023493`；aminophenazone＋本药＋adiphenine，`PMID:5093143`），**复方剂量一律不用于单方剂量推算**。早产儿曾用含本药的抑制性药物治疗（`PMID:13316890`，题录）。
+**文献记载的用途与给药量（研究事实，不是处方建议）**：催眠／镇静（动物模型，`PMID:15635282`、`PMID:10666`）。作为科研麻醉固定剂（`PMID:3996465`、`PMID:11207671`）。复方中的镇痛辅助成分（**propyphenazone 220 mg＋本药 30 mg**，`PMID:7023493`、aminophenazone＋本药＋adiphenine，`PMID:5093143`），**复方剂量一律不用于单方剂量推算**。早产儿曾用含本药的抑制性药物治疗（`PMID:13316890`，题录）。
 
 **中国**：本药列入**药用类精神药品目录（2025 年版）第二类第 1 项**（§1）。这证明其在中国属药用类精神药品管理，但**不等同于取得上市许可**。中国上市剂型与核准适应证待核实（§10 第 6 项）。
 
@@ -101,7 +101,7 @@
 
 ## 9. 特殊人群
 
-**没有可核的本药人体人群数据**。可引的仅有：**早产儿**曾用含本药的抑制性药物治疗并报告临床经验（与 largactil 并列，`PMID:13316890`，题录；**年龄组不单列为场景**）。**类别关注点**：
+**没有可核的本药人体人群数据**。可引的仅有：**早产儿**曾用含本药的抑制性药物治疗并报告临床经验（与 largactil 并列，`PMID:13316890`，题录、**年龄组不单列为场景**）。**类别关注点**：
 - 卟啉病
 - 肝功能不全
 - 呼吸功能不全
@@ -122,7 +122,7 @@
    - `PMID:6118857`
 4. **实体辨析（的重要更正）**：任务简报把 **Reposal／Aliodorm** 列为本药的复方伙伴。检索 "Aliodorm"、"phenpromedlate"、"Veganol"、"Delvormin" 在 PubMed 为 **0 条**。而 "Reposal" 命中的是**另一种巴比妥**。5-(bicyclo[3.2.1]oct-2-en-2-yl)-5-ethylbarbituric acid 的代谢归趋（`PMID:5756387`）与 1963 年丹麦的催眠药药理与临床报告（`PMID:14103836`、`PMID:14103837`，题录），**未能与 allobarbital 建立关联**。另简报提到的"与 diphenylhydantoin 组复方"**未检得**（苯妥英只作为抗惊厥比较药出现，`PMID:3439474`）。这些条目一律不作本药证据。
 5. **类别与本药分栏**：巴比妥类的呼吸抑制、依赖与戒断惊厥是**类别知识**。本条目未把它们写入本药分数，只标注类别。若后续取得本药人体数据，应替换而非追加。
-6. **中国注册不可脚本核验**：NMPA／CDE 入口拦截自动化检索。中国管制字段沿用 2026-10-06 的已核查结论（药用类精神药品第二类第 1 项；英文名 Allobarbital；CAS 52-43-7），未重跑、未改判。"列入精神药品目录"不等于"已上市并取得核准适应证"。
+6. **中国注册不可脚本核验**：NMPA／CDE 入口拦截自动化检索。中国管制字段沿用 2026-10-06 的已核查结论（药用类精神药品第二类第 1 项、英文名 Allobarbital、CAS 52-43-7），未重跑、未改判。"列入精神药品目录"不等于"已上市并取得核准适应证"。
 7. **美国联邦层面保留不确定性**：本药未按名出现在 21 CFR part 1308 的逐项清单，但 §1308.13(c)(3) 为"巴比妥酸衍生物（含其盐）"设类别条款。本条目**不判断**本药是否落入或获豁免（§1）。
 8. **大量条目只有题录**：以下条目无摘要，正文仅引用题名可支撑的主题层面。
    - `PMID:4557143`
@@ -141,11 +141,11 @@
 
 本条目未建专题文件：最需要解释的"促肝癌生成与 CYP2B 诱导为何在本药上解耦"已在 §5 用两篇啮齿类文献并列给出，结论仍是"差异保留"。把它拆成专题会需要搬运完整启动-促生方案与酶活数据，超出快速判断页定位。
 
-**监管与官方文件**：[eCFR 21 CFR part 1308（未以 allobarbital 之名逐项列出；§1308.13(c)(3) 为巴比妥酸衍生物类别条款，DEA 码 2100）](https://www.ecfr.gov/api/versioner/v1/full/2025-01-01/title-21.xml?chapter=II&part=1308)。[openFDA 标签按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22allobarbital%22&limit=5)。[Drugs@FDA 全文检索（0 条）](https://api.fda.gov/drug/drugsfda.json?search=allobarbital&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=allobarbital)。[法国 BDPM `startBy=ALLOBAR`（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ALLOBAR&limit=20)。[法国 BDPM `startBy=ALLO`（31 条，无本药）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ALLO&limit=50)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=allobarbital)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=allobarbital&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[eCFR 21 CFR part 1308（未以 allobarbital 之名逐项列出、§1308.13(c)(3) 为巴比妥酸衍生物类别条款，DEA 码 2100）](https://www.ecfr.gov/api/versioner/v1/full/2025-01-01/title-21.xml?chapter=II&part=1308)。[openFDA 标签按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22allobarbital%22&limit=5)。[Drugs@FDA 全文检索（0 条）](https://api.fda.gov/drug/drugsfda.json?search=allobarbital&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=allobarbital)。[法国 BDPM `startBy=ALLOBAR`（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ALLOBAR&limit=20)。[法国 BDPM `startBy=ALLO`（31 条，无本药）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=ALLO&limit=50)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=allobarbital)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=allobarbital&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
 
 **指南与标准**：[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)（未逐名收录本药）。
 
-**研究**：[烯丙基巴比妥类破坏细胞色素 P-450（Science, PMID:5034548）](https://pubmed.ncbi.nlm.nih.gov/5034548/)。[烯丙基化合物对微粒体混合功能氧化与致卟啉生成的作用（PMID:8216）](https://pubmed.ncbi.nlm.nih.gov/8216/)。[巴比妥类促肝癌生成与 CYP2B 诱导的比较（含 allobarbital＝苯巴比妥级促生、约 25% 诱导）（PMID:8313534）](https://pubmed.ncbi.nlm.nih.gov/8313534/)。[大鼠肝细胞凋亡与增殖（PMID:10676885）](https://pubmed.ncbi.nlm.nih.gov/10676885/)。[烯丙基巴比妥类与 hexobarbital 的代谢路径（PMID:21777）](https://pubmed.ncbi.nlm.nih.gov/21777/)。[烯丙基取代氧嘧啶的构效与催眠相互作用研究（PMID:15635282）](https://pubmed.ncbi.nlm.nih.gov/15635282/)。[不同周龄鸡的巴比妥类镇静效力（PMID:10666）](https://pubmed.ncbi.nlm.nih.gov/10666/)。[GABA 能机制与新合成巴比妥类抗惊厥（本药为参照，PMID:3439474）](https://pubmed.ncbi.nlm.nih.gov/3439474/)。[麻醉剂对大鼠压力感受器反射的减弱（PMID:3996465）](https://pubmed.ncbi.nlm.nih.gov/3996465/)。[人工胃液中的巴比妥类稳定性（PMID:39111846）](https://pubmed.ncbi.nlm.nih.gov/39111846/)。[复方 Pabialgin P 的含量测定（PMID:2575847）](https://pubmed.ncbi.nlm.nih.gov/2575847/) 与门诊头痛对照试验（PMID:7023493）。[复方稳定性研究族（PMID:6117089、PMID:6118857、PMID:5163824、PMID:5093143，题录）](https://pubmed.ncbi.nlm.nih.gov/6117089/)。[人体历史条目（记忆巩固 PMID:4557143；早产儿 PMID:13316890，均题录）](https://pubmed.ncbi.nlm.nih.gov/4557143/)。
+**研究**：[烯丙基巴比妥类破坏细胞色素 P-450（Science, PMID:5034548）](https://pubmed.ncbi.nlm.nih.gov/5034548/)。[烯丙基化合物对微粒体混合功能氧化与致卟啉生成的作用（PMID:8216）](https://pubmed.ncbi.nlm.nih.gov/8216/)。[巴比妥类促肝癌生成与 CYP2B 诱导的比较（含 allobarbital＝苯巴比妥级促生、约 25% 诱导）（PMID:8313534）](https://pubmed.ncbi.nlm.nih.gov/8313534/)。[大鼠肝细胞凋亡与增殖（PMID:10676885）](https://pubmed.ncbi.nlm.nih.gov/10676885/)。[烯丙基巴比妥类与 hexobarbital 的代谢路径（PMID:21777）](https://pubmed.ncbi.nlm.nih.gov/21777/)。[烯丙基取代氧嘧啶的构效与催眠相互作用研究（PMID:15635282）](https://pubmed.ncbi.nlm.nih.gov/15635282/)。[不同周龄鸡的巴比妥类镇静效力（PMID:10666）](https://pubmed.ncbi.nlm.nih.gov/10666/)。[GABA 能机制与新合成巴比妥类抗惊厥（本药为参照，PMID:3439474）](https://pubmed.ncbi.nlm.nih.gov/3439474/)。[麻醉剂对大鼠压力感受器反射的减弱（PMID:3996465）](https://pubmed.ncbi.nlm.nih.gov/3996465/)。[人工胃液中的巴比妥类稳定性（PMID:39111846）](https://pubmed.ncbi.nlm.nih.gov/39111846/)。[复方 Pabialgin P 的含量测定（PMID:2575847）](https://pubmed.ncbi.nlm.nih.gov/2575847/) 与门诊头痛对照试验（PMID:7023493）。[复方稳定性研究族（PMID:6117089、PMID:6118857、PMID:5163824、PMID:5093143，题录）](https://pubmed.ncbi.nlm.nih.gov/6117089/)。[人体历史条目（记忆巩固 PMID:4557143、早产儿 PMID:13316890，均题录）](https://pubmed.ncbi.nlm.nih.gov/4557143/)。
 
 **分类与身份**：[WHO ATC/DDD Index `N05CA21`（2026 索引未列 DDD）](https://atcddd.fhi.no/atc_ddd_index/?code=N05CA21)。[Wikidata Q418905](https://www.wikidata.org/wiki/Q418905)。[PubChem CID 5842](https://pubchem.ncbi.nlm.nih.gov/compound/5842)。[DrugBank DB13577](https://www.drugbank.ca/r/DB13577)。[RxNorm RXCUI 516](https://rxnav.nlm.nih.gov/REST/rxcui/516.json)。English Wikipedia（标题指针，未复制正文）：[Allobarbital](https://en.wikipedia.org/wiki/Allobarbital)。
 

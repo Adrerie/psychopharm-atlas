@@ -2,7 +2,7 @@
 
 > 状态：`reviewed` ｜ 最后核查：2026-10-22（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BC01`（WHO ATC/DDD Index 2026）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。  
-> **本条目分三类语境写**：① 临床制剂（逐产品引用）；② OTC 提神制剂；③ 高剂量与非医疗使用。三者的适应证、剂量与风险结构不同，不合并成一套结论；**含咖啡因的复方（镇痛／抗酸／巴比妥类）是独立实体，不计入本单方的适应证或负担分**（§10 第 2 项）。
+> **本条目分三类语境写**：① 临床制剂（逐产品引用）。② OTC 提神制剂。③ 高剂量与非医疗使用。三者的适应证、剂量与风险结构不同，不合并成一套结论。**含咖啡因的复方（镇痛／抗酸／巴比妥类）是独立实体，不计入本单方的适应证或负担分**（§10 第 2 项）。
 
 **引用键**：`US-CIT-1`＝美国 **Caffeine Citrate Injection, USP ＋ Oral Solution, USP**（一个 setid 覆盖两产品，Sagent Pharmaceuticals，`5f38c395-0093-4afd-89ec-f96e5dc0934a`，DailyMed v10 发布 2026-08-10，正文脚注 Revised: July 2025）。`US-CIT-2`＝Caffeine Citrate **Injection**（Micro Labs，`279a43b8-9ff5-4792-ac19-441f3fa49269`，发布 2026-08-03）。`US-CIT-3`＝Caffeine Citrate **Oral Solution**（Micro Labs，`db4477a3-b291-4b77-9eca-b7ba8f66b2be`，发布 2026-08-03）。`US-BNZ`＝**Caffeine and Sodium Benzoate Injection, USP**（American Regent，`b2c6b352-f837-4903-8e4c-fb0a2b20bb60`，v7 发布 2022-12-28，正文 Rev. 11/05，**Marketing Status: unapproved drug other**）。`US-OTC-1`＝**NoDoz Alertness Aid**（`e700e809-29b5-799e-e053-2a95a90a235c`，Updated 2025-01-06）。`US-OTC-2`＝**Stay Awake**（`00cc94fa-23b7-4148-87a3-669111267522`，Updated 2025-09-04）。`US-OTC-3`＝**Uplift Chewable**（`01e352a7-24f3-d380-e063-6394a90acc5e`，生效 2025-01-15）。三份 OTC 文本的 Marketing Category 均为 **OTC Monograph Drug M011**、DEA Schedule 均标 None。`UK-PEY`＝**Peyona 20 mg/mL solution for infusion and oral solution**（emc 4098，Chiesi Limited，PLGB 08829/0189，§10 修订 **2024-05**）。`UK-MIN`＝**Caffeine Citrate 10 mg/mL Solution for Injection**（emc 5146，Macarthys Laboratories T/A Martindale Pharma，PL 01883/0344，**2026-04-24**）。`UK-MOR`＝同厂 **10 mg/mL Oral Solution**（emc 101891 与 5145 同 PL 01883/0345，**2025-02-11**）。`UK-BB`＝**Brown & Burk 20 mg/mL**（emc 102035，PL 25298/0381，**2025-09-05**）。`UK-FEN`＝**Fenapin 20 mg/mL Solution for Infusion**（emc 15325，Galvany Pharma，PL 56809/0002，2023-06）。`PMID:……`＝PubMed。§N 指相应文件章节号。
 
@@ -28,7 +28,7 @@
 | 长期风险负担 | 2 | `UK-PEY` §4.8 原文："**现有证据不提示新生儿咖啡因治疗在神经发育结局、生长迟缓或心血管／胃肠／内分泌系统方面有任何不良长期反应**"，且 n=2006 随访（18–21 月龄）中脑损伤、惊厥与耳聋**在安慰剂组更多见**。需权衡的长期现象与代谢监测项见 §6（血红蛋白下降、一过性 T4 下降）。成人侧是耐受与重复使用，无器官毒性条款 |
 | 短期耐受负担 | 2 | `UK-PEY` §4.8：**常见**为高血糖、心动过速、输液部位静脉炎与炎症。**少见**为惊厥、心律失常。激越、抖动、反流、胃液增多、NEC、脓毒症、喂养不耐受、生长迟缓、耳聋为"未知频率"（上市后数据不足以估算发生率）。`US-CIT-1` 的试验表（咖啡因 46 例对安慰剂 39 例）各项差异都很小。成人侧见 `US-BNZ` 定性清单与 OTC 标签的"神经过敏、易激、失眠、偶发心悸" |
 | 相互作用／监测负担 | 3 | 三项强制条款：**茶碱双向互变、两药不得同用**（既往茶碱者须测基线浓度）。**多沙普仑**合用放大心肺与中枢兴奋，须监测心律与血压。CYP1A2 轴（西咪替丁／酮康唑需减量、苯巴比妥／苯妥英需加量，由成人数据外推）。`UK-PEY` §4.2 点名**六类须按血药浓度调整剂量的情形**。`UK-MIN` §4.4 的监测口径更松。另有 `US-BNZ` 的检验干扰与"增强 β 受体激动剂的正性肌力作用"（全文见 §8） |
-| 停药负担 | 3 | **新生儿**：`UK-PEY` §4.2 明写"**因清除缓慢，停药不需剂量递减**"，但**停药后须继续监测约一周**以防呼吸暂停再现，并给出停止与重启规则（连续 5–7 天无明显发作即停；复发时按间隔用维持量或半量负荷重启）。停用时机的系统评价证据见 §5（`PMID:39045901`）。**成人撤药**（头痛、倦睡）另有本药特异人体研究，机制与"疾病再现"不同（§7） |
+| 停药负担 | 3 | **新生儿**：`UK-PEY` §4.2 明写"**因清除缓慢，停药不需剂量递减**"，但**停药后须继续监测约一周**以防呼吸暂停再现，并给出停止与重启规则（连续 5–7 天无明显发作即停、复发时按间隔用维持量或半量负荷重启）。停用时机的系统评价证据见 §5（`PMID:39045901`）。**成人撤药**（头痛、倦睡）另有本药特异人体研究，机制与"疾病再现"不同（§7） |
 | 滥用／误用潜力 | 2 | **不给 1**：现行文本 DEA Schedule 均为 None，但无对本药的主动阴性定性、也无阴性人体强化试验，按 SCORING.md 不足以定 1。支撑 2 分的是本药特异证据：综述汇总对照实验室与临床资料后指出**部分使用者形成依赖、明知健康问题仍无法减少摄入**，并把 **Caffeine Use Disorder 列为 DSM-5"需要进一步研究"条目**（`PMID:24761279`）。波士顿 12–17 岁就诊者便利样本（N=213，153 人近 30 天使用咖啡因）中 **6 人（4%）符合 CUD，且全部同时符合酒精和／或大麻使用障碍**（`PMID:28078168`，就诊人群、不代表总体流行率） |
 | 非适应证／潜在不适当处方风险（中国） | N/A | 未检得任何**咖啡因单方**在中国的处方偏离、PIM 判定或药物利用研究。中国的第二类精神药品归属是管制注册事实，不是处方不当证据。中国可核对的相关问题（如含咖啡因复方镇痛剂的过度使用与药物过度使用性头痛）**属复方实体**，按规则不计入本单方 |
 
@@ -57,13 +57,13 @@
 
 `US-BNZ` 另述效应谱：
 - 皮质兴奋**较苯丙胺类温和且短暂**
-- 稍大剂量兴奋延髓迷走、血管运动与呼吸中枢
+- 稍大剂量兴奋延髓迷走 与 血管运动与呼吸中枢
 - 正性肌力与正性变时
-- **收缩脑血管、直接扩张外周血管**
-- 增强骨骼肌收缩力、减轻疲劳
+- **收缩脑血管 与 直接扩张外周血管**
+- 增强骨骼肌收缩力 与 减轻疲劳
 - 刺激胃酸分泌
-- 增加肾血流与滤过率、减少近端钠水重吸收（轻度利尿）
-- 促进糖原分解与脂解稍大剂量兴奋延髓迷走、血管运动与呼吸中枢，并出现正性肌力与正性变时。该文本还记**收缩脑血管、直接扩张外周血管**，并增强骨骼肌收缩力、减轻疲劳、刺激胃酸分泌。同一文本另记咖啡因增加肾血流与滤过率、减少近端钠水重吸收（轻度利尿），并促进糖原分解与脂解。同一文本给出耐受表述："**对咖啡因的利尿、心血管与中枢效应可产生耐受**"。
+- 增加肾血流与滤过率 与 减少近端钠水重吸收（轻度利尿）
+- 促进糖原分解与脂解稍大剂量兴奋延髓迷走、血管运动与呼吸中枢，并出现正性肌力与正性变时。该文本还记**收缩脑血管、直接扩张外周血管**，并增强骨骼肌收缩力、减轻疲劳与刺激胃酸分泌。同一文本另记咖啡因增加肾血流与滤过率、减少近端钠水重吸收（轻度利尿），并促进糖原分解与脂解。同一文本给出耐受表述："**对咖啡因的利尿、心血管与中枢效应可产生耐受**"。
 
 ## 4. 适应范围
 
@@ -93,14 +93,14 @@
 ## 6. 长期风险
 
 - **NICU 内的代谢与血液学监测**：高血糖常见，低血糖有报告，文本要求定期监测血糖。长期治疗可因促红细胞生成素受抑使血红蛋白下降。治疗初期一过性 T4 下降。尿量与尿钠尿钙增加、电解质丢失可能需纠正（`UK-PEY` §4.4／§4.8）。§5.3 另并列"重复给药毒性研究未见对人的主要危害"与"治疗剂量下新生鼠行为改变，最可能由**持续至成年的腺苷受体表达上调**所致"，两者不折中。
-- **坏死性小肠结肠炎（NEC）**：85 例双盲试验共 6 例（其中 3 例死亡），两份文本结论一致，原文写"**甲基黄嘌呤与 NEC 的因果关系尚未确立**"，约 2,000 例随机试验中 NEC 在治疗组**不比安慰剂多见**，但仍须密切监测（`US-CIT-1`；`UK-PEY` §4.4／§4.8）。`UK-PEY` §4.5 另提机制性理论：**抑酸药（H2 受体阻滞剂或质子泵抑制剂）**经胃内细菌过度生长**理论上可能提高 NEC 风险**。
+- **坏死性小肠结肠炎（NEC）**：85 例双盲试验共 6 例（其中 3 例死亡），两份文本结论一致，原文写"**甲基黄嘌呤与 NEC 的因果关系尚未确立**"，约 2,000 例随机试验中 NEC 在治疗组**不比安慰剂多见**，但仍须密切监测（`US-CIT-1`、`UK-PEY` §4.4／§4.8）。`UK-PEY` §4.5 另提机制性理论：**抑酸药（H2 受体阻滞剂或质子泵抑制剂）**经胃内细菌过度生长**理论上可能提高 NEC 风险**。
 - **成人重复使用**：`US-BNZ` 自陈对利尿、心血管与中枢效应可产生耐受。长期后果是**摄入升级与撤药循环**而非器官毒性（依赖侧证据见 §2.1 滥用行）。
 
 ## 7. 短期风险、停药与误用
 
 **短期（临床制剂）**：见 §2.1 与 §6 的条目清单（`UK-PEY` §4.8）。操作相关事件另有**输液部位静脉炎与炎症**。
 **过量**（`UK-PEY` §4.9）：早产儿过量时血浆浓度约 **50–350 mg/L**，表现为发热、呼吸增快与抖动。肌张力增高、角弓反张、呕吐与高血糖亦见。**早产儿过量未见死亡报告**。处理以对症支持为主，**换血可降低浓度**。惊厥用地西泮或巴比妥类，并纠正低钾与高糖。`US-CIT-1` 另记新西兰一例约 **600 mg 柠檬酸咖啡因（约 322 mg/kg）在 40 分钟内给药**后的表现：
-- 心动过速、ST 段压低
+- 心动过速 与 ST 段压低
 - 呼吸窘迫
 - 心衰
 - 胃扩张
@@ -119,13 +119,13 @@
 
 ## 8. 重要相互作用
 
-- **茶碱与其他黄嘌呤**：早产儿中咖啡因与茶碱**双向互变**（茶碱给药后咖啡因浓度约为茶碱的 25%，约 3%–8% 的咖啡因转为茶碱），两药**不得同时使用**（`UK-PEY` §4.5／§5.2；`US-CIT-1`）。
+- **茶碱与其他黄嘌呤**：早产儿中咖啡因与茶碱**双向互变**（茶碱给药后咖啡因浓度约为茶碱的 25%，约 3%–8% 的咖啡因转为茶碱），两药**不得同时使用**（`UK-PEY` §4.5／§5.2、`US-CIT-1`）。
 - **多沙普仑**：合用放大心肺与中枢兴奋。确有指征时**必须密切监测心律与血压**（`UK-PEY` §4.5）。
-- **CYP1A2 轴**：CYP1A2 是咖啡因代谢的主要酶。降低清除者（西咪替丁、酮康唑）需减量，加快清除者（苯巴比妥、苯妥英）需加量。早产儿数据极少，存疑时测血药浓度（`UK-PEY` §4.5；`US-CIT-1`）。
+- **CYP1A2 轴**：CYP1A2 是咖啡因代谢的主要酶。降低清除者（西咪替丁、酮康唑）需减量，加快清除者（苯巴比妥、苯妥英）需加量。早产儿数据极少，存疑时测血药浓度（`UK-PEY` §4.5、`US-CIT-1`）。
 - **抑酸药**：H2 受体阻滞剂或质子泵抑制剂经胃内细菌过度生长**理论上可能增加 NEC 风险**（`UK-PEY` §4.5）。
 - **β 受体激动剂**：咖啡因与其他黄嘌呤可增强其心脏正性肌力作用（`US-BNZ`）。
 - **检验干扰**（`US-BNZ`）：Bittner 法血清尿酸假性升高、尿 VMA 与儿茶酚胺升高可使**嗜铬细胞瘤或神经母细胞瘤**诊断假阳性。该文本另记咖啡因加快自身与苯巴比妥、阿司匹林的代谢。
-- **复方文本的咖啡因条款（独立实体，不计入本单方）**：英国含咖啡因复方（Anadin Extra P，emc 101267；Alka-Seltzer XS，emc 13694）另有自己的咖啡因口径：
+- **复方文本的咖啡因条款（独立实体，不计入本单方）**：英国含咖啡因复方（Anadin Extra P，emc 101267、Alka-Seltzer XS，emc 13694）另有自己的咖啡因口径。
   - **服药期间避免过量摄入咖啡因**
   - 对该复方设**总咖啡因（含其他来源）不超 200 mg/日**
   - **咖啡因拮抗镇静类药物并与拟交感药协同**
@@ -144,7 +144,7 @@
 4. **成人蛋白结合的文本冲突**：`US-BNZ` 写约 **17%**、`US-CIT-1`／`UK-PEY` 写体外平均约 **36%**，按原文并列，不取平均、不择一为准。**新生儿与成人半衰期的量级差异（约 3–4 天对约 3–5 小时）两侧一致**，本条目据此把"清除缓慢"作为新生儿监测与"停药不需递减"的依据。
 5. **n=2006 试验的数字只见于英国文本**：BPD 与"无神经障碍生存"的 OR 及按呼吸支持分层的亚组 OR 均取自 `UK-PEY` §5.1。美国文本对同一试验只给"NEC 与死亡不更常见、18 月与 5 岁随访未受不良影响"。两侧不综合，亚组 OR 不作头对头优效证据。
 6. **消费量与公众摄入资料不作适应证证据**：`PMID:31317857`（CAERS 与 NPDS）、`PMID:29792898`（德州，按销量单位折算）只用于 §7 的非医疗语境，`PMID:26378246` 属生理机制实验。三者都不用于支持或削弱任何核准适应证。
-7. **OTC 场景的证据结构**：M011 产品按**非处方药专论**流通、不经 NDA 审批证据。本页引用的警觉试验 n=24 并报告耐受，皮质醇试验 n=96。**不能推及"日常提神有益健康"**，也不构成个人摄入量建议。
+7. **OTC 场景的证据结构**：M011 产品按**非处方药专论**流通、不经 NDA 审批证据。本页引用的警觉试验 n=24 并报告耐受，皮质醇试验 n=96。**不能推及"日常提神有益健康"**。也不构成个人摄入量建议。
 8. **`US-BNZ` 的性质**：页面标注 **Marketing Status: unapproved drug other** 并附 FDA 声明"本药未经 FDA 判定安全有效、该标签未经 FDA 批准"。页面 Updated 2019-12-06、DailyMed 发布 2022-12-28、正文脚注 Rev. 11/05。引用它得到的是**现行托管文本**，不等于"FDA 已批准"。第 4 行的 D 依据是文本自陈的负面专业共识。
 9. **未核范围**：英国结论不外推为"欧盟状态"。`PMID:40294395` 与 `PMID:39045901` 的核对仅至摘要层。
 10. DDD 0.4 g（口服／非口服）为统计指标，与 §4 的新生儿按公斤方案、OTC 的 200 mg 片剂及 `US-BNZ` 的 0.5 g 上限**不可互换解读**。
@@ -153,10 +153,10 @@
 
 本页不设专题："同一分子在 NICU、OTC 货架与非法高剂量三种语境下风险结构不同"已由 §1 逐产品字段、§2.2 场景表与 §7／§10 就地承载。
 
-**监管与官方文件**：[Sagent 柠檬酸咖啡因注射与口服溶液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a)；[Micro Labs 注射液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=279a43b8-9ff5-4792-ac19-441f3fa49269) 与[口服溶液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=db4477a3-b291-4b77-9eca-b7ba8f66b2be)（均发布 2026-08-03）；[American Regent 苯甲酸钠咖啡因注射液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2c6b352-f837-4903-8e4c-fb0a2b20bb60)；[NoDoz Alertness Aid](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e700e809-29b5-799e-e053-2a95a90a235c) 与 [Stay Awake](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00cc94fa-23b7-4148-87a3-669111267522)；[openFDA 品牌检索 NoDoz](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22NoDoz%22&limit=4)。英国 emc SmPC：[Peyona 20 mg/mL（4098）](https://www.medicines.org.uk/emc/product/4098/smpc) 与 [Caffeine Citrate 10 mg/mL Solution for Injection（5146）](https://www.medicines.org.uk/emc/product/5146/smpc)。[Caffeine Citrate 10 mg/mL Oral Solution（101891）](https://www.medicines.org.uk/emc/product/101891/smpc) 与 [Brown & Burk 20 mg/mL（102035）](https://www.medicines.org.uk/emc/product/102035/smpc)。[Fenapin 20 mg/mL（15325）](https://www.medicines.org.uk/emc/product/15325/smpc)；复方对照文本 [Anadin Extra P（101267）](https://www.medicines.org.uk/emc/product/101267/smpc) 与 [Alka-Seltzer XS（13694）](https://www.medicines.org.uk/emc/product/13694/smpc)；两个 emc 检索词（`caffeine` 与 `caffeine citrate`）命中集合不同（§10 第 2 项）。[NMPA 入口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)；[CDE 入口](https://www.cde.org.cn/hzmp/)；[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
+**监管与官方文件**：[Sagent 柠檬酸咖啡因注射与口服溶液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a)。[Micro Labs 注射液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=279a43b8-9ff5-4792-ac19-441f3fa49269) 与[口服溶液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=db4477a3-b291-4b77-9eca-b7ba8f66b2be)（均发布 2026-08-03）。[American Regent 苯甲酸钠咖啡因注射液](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2c6b352-f837-4903-8e4c-fb0a2b20bb60)。[NoDoz Alertness Aid](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e700e809-29b5-799e-e053-2a95a90a235c) 与 [Stay Awake](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00cc94fa-23b7-4148-87a3-669111267522)。[openFDA 品牌检索 NoDoz](https://api.fda.gov/drug/label.json?search=openfda.brand_name:%22NoDoz%22&limit=4)。英国 emc SmPC：[Peyona 20 mg/mL（4098）](https://www.medicines.org.uk/emc/product/4098/smpc) 与 [Caffeine Citrate 10 mg/mL Solution for Injection（5146）](https://www.medicines.org.uk/emc/product/5146/smpc)。[Caffeine Citrate 10 mg/mL Oral Solution（101891）](https://www.medicines.org.uk/emc/product/101891/smpc) 与 [Brown & Burk 20 mg/mL（102035）](https://www.medicines.org.uk/emc/product/102035/smpc)。[Fenapin 20 mg/mL（15325）](https://www.medicines.org.uk/emc/product/15325/smpc)。复方对照文本 [Anadin Extra P（101267）](https://www.medicines.org.uk/emc/product/101267/smpc) 与 [Alka-Seltzer XS（13694）](https://www.medicines.org.uk/emc/product/13694/smpc)。两个 emc 检索词（`caffeine` 与 `caffeine citrate`）命中集合不同（§10 第 2 项）。[NMPA 入口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 入口](https://www.cde.org.cn/hzmp/)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
-**研究、指南与系统综述**：[PMID:40294395](https://pubmed.ncbi.nlm.nih.gov/40294395/)（JAMA 2025 MoCHA，827 例，延长疗程阴性）；[PMID:39045901](https://pubmed.ncbi.nlm.nih.gov/39045901/)（Cochrane 2024 CD015802，停药策略，3 项 RCT／392 例）；[PMID:2296626](https://pubmed.ncbi.nlm.nih.gov/2296626/) 与 [PMID:16204431](https://pubmed.ncbi.nlm.nih.gov/16204431/)（警觉与皮质醇侧的耐受试验）；[PMID:33013662](https://pubmed.ncbi.nlm.nih.gov/33013662/)（骤停触发偏头痛，n=10）；[PMID:42174033](https://pubmed.ncbi.nlm.nih.gov/42174033/)（随机 case-crossover）；[PMID:24761279](https://pubmed.ncbi.nlm.nih.gov/24761279/) 与 [PMID:28078168](https://pubmed.ncbi.nlm.nih.gov/28078168/)（Caffeine Use Disorder 的综述与青少年就诊者检出）；[PMID:26378246](https://pubmed.ncbi.nlm.nih.gov/26378246/)（褪黑素相位）；[PMID:24196726](https://pubmed.ncbi.nlm.nih.gov/24196726/) 与 [PMID:34922795](https://pubmed.ncbi.nlm.nih.gov/34922795/)（纯粉致死与近致死个案）；[PMID:31317857](https://pubmed.ncbi.nlm.nih.gov/31317857/)（CAERS 与 NPDS）；[PMID:29792898](https://pubmed.ncbi.nlm.nih.gov/29792898/)（德州中毒中心与销量折算）。
+**研究、指南与系统综述**：[PMID:40294395](https://pubmed.ncbi.nlm.nih.gov/40294395/)（JAMA 2025 MoCHA，827 例，延长疗程阴性）。[PMID:39045901](https://pubmed.ncbi.nlm.nih.gov/39045901/)（Cochrane 2024 CD015802，停药策略，3 项 RCT／392 例）。[PMID:2296626](https://pubmed.ncbi.nlm.nih.gov/2296626/) 与 [PMID:16204431](https://pubmed.ncbi.nlm.nih.gov/16204431/)（警觉与皮质醇侧的耐受试验）。[PMID:33013662](https://pubmed.ncbi.nlm.nih.gov/33013662/)（骤停触发偏头痛，n=10）。[PMID:42174033](https://pubmed.ncbi.nlm.nih.gov/42174033/)（随机 case-crossover）。[PMID:24761279](https://pubmed.ncbi.nlm.nih.gov/24761279/) 与 [PMID:28078168](https://pubmed.ncbi.nlm.nih.gov/28078168/)（Caffeine Use Disorder 的综述与青少年就诊者检出）。[PMID:26378246](https://pubmed.ncbi.nlm.nih.gov/26378246/)（褪黑素相位）。[PMID:24196726](https://pubmed.ncbi.nlm.nih.gov/24196726/) 与 [PMID:34922795](https://pubmed.ncbi.nlm.nih.gov/34922795/)（纯粉致死与近致死个案）。[PMID:31317857](https://pubmed.ncbi.nlm.nih.gov/31317857/)（CAERS 与 NPDS）。[PMID:29792898](https://pubmed.ncbi.nlm.nih.gov/29792898/)（德州中毒中心与销量折算）。
 
-**分类与身份**：[ATC/DDD Index N06BC01](https://atcddd.fhi.no/atc_ddd_index/?code=N06BC01)；[Wikidata Q60235](https://www.wikidata.org/wiki/Q60235)；[PubChem 2519](https://pubchem.ncbi.nlm.nih.gov/compound/2519)；[MeSH D002110](https://meshb.nlm.nih.gov/record/ui?ui=D002110)；[DrugBank DB00201](https://www.drugbank.ca/r/DB00201)；[RxNorm 1886](https://rxnav.nlm.nih.gov/REST/rxcui/1886.json)；[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Caffeine)。
+**分类与身份**：[ATC/DDD Index N06BC01](https://atcddd.fhi.no/atc_ddd_index/?code=N06BC01)。[Wikidata Q60235](https://www.wikidata.org/wiki/Q60235)。[PubChem 2519](https://pubchem.ncbi.nlm.nih.gov/compound/2519)。[MeSH D002110](https://meshb.nlm.nih.gov/record/ui?ui=D002110)。[DrugBank DB00201](https://www.drugbank.ca/r/DB00201)。[RxNorm 1886](https://rxnav.nlm.nih.gov/REST/rxcui/1886.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Caffeine)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

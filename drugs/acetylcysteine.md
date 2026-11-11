@@ -1,6 +1,6 @@
 # acetylcysteine｜乙酰半胱氨酸（N-乙酰半胱氨酸；档案只评价**解毒用途**的产品，祛痰用途与其他途径产品属于另一实体层）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-06（美国现行注射剂标签正文逐节核对；DailyMed 现行条目按药名检索；WHO ATC/DDD 索引 `V03AB` 与 `R05C` 子组页回读；中国四份现行管制目录与 2026-07-01 增列 16 项附表逐名检索）｜ ATC：`V03AB23`（WHO ATC/DDD Index 2026；同一活性成分另见 `R05CB01` 祛痰码，`R05C` 组注并对吸入溶液的 DDD 作出说明；`V03AB` 子组页脚注 Last updated 2026-01-20）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-06（美国现行注射剂标签正文逐节核对，DailyMed 现行条目按药名检索，WHO ATC/DDD 索引 `V03AB` 与 `R05C` 子组页回读，中国四份现行管制目录与 2026-07-01 增列 16 项附表逐名检索）｜ ATC：`V03AB23`（WHO ATC/DDD Index 2026，同一活性成分另见 `R05CB01` 祛痰码，`R05C` 组注并对吸入溶液的 DDD 作出说明，`V03AB` 子组页脚注 Last updated 2026-01-20）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-NAC-IV`＝现行乙酰半胱氨酸注射液标签正文（DailyMed setid `3b0310d2-4e70-4b94-8d69-cb5999a32b54`，持证方 Onesource Specialty Pharma Limited，接口记录发布 2026-11-09，文内 Revised 11/2026）。`DM-28`＝DailyMed `services/v2/spls.json?drug_name=acetylcysteine` 返回 28 条现行条目（含注射与其他口服／吸入溶液条目，检索日期 2026-11-06，仅逐节读取 `US-NAC-IV`）。`ATC-VA`＝`V03AB` 子组页。`ATC-R5`＝`R05C` 组页（含"acetylcysteine 吸入溶液 DDD 高于……"的组注口径）。`PMID:…`＝PubMed。§N 指所引正文章节号。

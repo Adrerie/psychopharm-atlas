@@ -1,11 +1,11 @@
 # donepezil-and-memantine｜多奈哌齐与美金刚（复方缓释胶囊；按具体产品 NAMZARIC 建档，非 ATC 复方码的抽象描述）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国现行复方标签全文逐节核对、DailyMed 现行复方 SPL 清单、Drugs@FDA 申请沿革、FDA 首仿批准名录、WHO ATC 亚组页、中国四份管制目录逐名检索）｜ ATC：`N06DA52`（donepezil and memantine，无 DDD；WHO ATC/DDD Index 2026，亚组页 Last updated 2026-01-20）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-05（美国现行复方标签全文逐节核对、DailyMed 现行复方 SPL 清单、Drugs@FDA 申请沿革、FDA 首仿批准名录、WHO ATC 亚组页、中国四份管制目录逐名检索）｜ ATC：`N06DA52`（donepezil and memantine，无 DDD，WHO ATC/DDD Index 2026，亚组页 Last updated 2026-01-20）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **本档案不是多奈哌齐或美金刚单方的替代。** 评价对象是"两种成分已制成的具体复方缓释胶囊"这一实体：复方自己的适应证措辞、自己的滴定与转换规则、自己的警告与肾功能分档。单方页见 [memantine](memantine.md)（美金刚，`N06DX01`）与 [donepezil](donepezil.md)（多奈哌齐，`N06DA02`）。两个单方的结论一律以各自标签原文为准，不在本页转述，也不把本页的复方结论回灌给单方。**复方码不等于复方产品**：`N06DA52` 只证明 WHO 分类归属，本页的产品事实全部来自具体标签文本。
 
-**引用键**：`US-FDC`＝DailyMed 现行复方标签（NAMZARIC／memantine hydrochloride and donepezil hydrochloride extended-release capsules，持证方 Allergan, Inc.，分销 AbbVie Inc.，技术授权来自 Merz Pharma GmbH & Co. KGaA 与 Adamas Pharmaceuticals, Inc.；NDA206439；setid `90fedc32-19e5-480c-afc6-f35a5cf4b9aa`；SPL 生效日 2026-03-06、版本号 23、DailyMed 发布日 2026-05-06；**文内 Revised 标注本次核查未回页面核对，只并列已确证的两项日期**）。`US-GEN`＝同复方其他现行 SPL（Macleods、Vitruvias、Amneal、Avkare、ANI；发布日 2025-01-01 至 2025-07-16）。`US-FDA`＝Drugs@FDA 结构化申请记录（`api.fda.gov/drug/drugsfda.json`，检索 2026-11-05）与 FDA《2023 年首仿批准名录》。`ATC-DA`＝WHO ATC/DDD 索引 N06DA 亚组页。`PMID:…`＝PubMed／`CT…`＝ClinicalTrials.gov。§N 指所引正文章节号。
+**引用键**：`US-FDC`＝DailyMed 现行复方标签（NAMZARIC／memantine hydrochloride and donepezil hydrochloride extended-release capsules，持证方 Allergan, Inc.，分销 AbbVie Inc.，技术授权来自 Merz Pharma GmbH & Co. KGaA 与 Adamas Pharmaceuticals, Inc.。NDA206439。setid `90fedc32-19e5-480c-afc6-f35a5cf4b9aa`。SPL 生效日 2026-03-06、版本号 23、DailyMed 发布日 2026-05-06。**文内 Revised 标注本次核查未回页面核对，只并列已确证的两项日期**）。`US-GEN`＝同复方其他现行 SPL（Macleods、Vitruvias、Amneal、Avkare、ANI。发布日 2025-01-01 至 2025-07-16）。`US-FDA`＝Drugs@FDA 结构化申请记录（`api.fda.gov/drug/drugsfda.json`，检索 2026-11-05）与 FDA《2023 年首仿批准名录》。`ATC-DA`＝WHO ATC/DDD 索引 N06DA 亚组页。`PMID:…`＝PubMed／`CT…`＝ClinicalTrials.gov。§N 指所引正文章节号。
 
 ## 1. 基本信息
 
@@ -14,10 +14,10 @@
 | 实体与剂型 | 固定复方、口服缓释胶囊：**每粒含 10 mg 多奈哌齐盐酸盐 + 美金刚盐酸盐 7／14／21／28 mg 四档配比**（`US-FDC` §3）。缓释骨架由美金刚承担，多奈哌齐为速释小丸；胶囊可整粒吞服，也可打开将内容物撒在苹果酱上服（§2.2） |
 | 成分身份 | 美金刚盐酸盐＝1-amino-3,5-dimethyladamantane hydrochloride（C₁₂H₂₁N·HCl，215.76）；多奈哌齐盐酸盐＝2,3-dihydro-5,6-dimethoxy-2-[[1-(phenylmethyl)-4-piperidinyl]methyl]-1H-inden-1-one hydrochloride（C₂₄H₂₉NO₃·HCl，415.96）（`US-FDC` §11）。UNII `3O2T2PJ89D`、`JY0WD0UA60` |
 | 现行 ATC 与 DDD | `N06DA52`（donepezil and memantine），**无 DDD、无给药途径注记**（`ATC-DA`）。同亚组另有 `N06DA53`（多奈哌齐＋美金刚＋银杏叶），本次核查未证实存在成分明确的具体产品，故只保留分类记录、不建档案（见 §10） |
-| 主要法域批准状态 | 美国：NDA206439 于 2014-12-23 批准（`US-FDA` 记录 submission type 4＝new combination；2016-07-18 有一项 efficacy 补充申请获批），现行标签见 `US-FDC`；首仿为 ANI Pharmaceuticals 的 21 mg/10 mg 与 28 mg/10 mg 规格，FDA 名录记批准日 2023-12-15，另见厦门某企业 ANDA216901 记录获批 2025-07-15。**欧盟／英国：本次核查检索 emc 检索页返回脚本不可解析的脚本渲染页面，未取得任何复方产品注册记录，故法域覆盖按"仅美国已核"表述**。中国：NMPA 对本机恒返回 HTTP 412、CDE 目录集恒返回 202 校验页，上市与核准适应证待核实（不以商业药品库补足） |
+| 主要法域批准状态 | 美国：NDA206439 于 2014-12-23 批准（`US-FDA` 记录 submission type 4＝new combination、2016-07-18 有一项 efficacy 补充申请获批），现行标签见 `US-FDC`；首仿为 ANI Pharmaceuticals 的 21 mg/10 mg 与 28 mg/10 mg 规格，FDA 名录记批准日 2023-12-15，另见厦门某企业 ANDA216901 记录获批 2025-07-15。**欧盟／英国：本次核查检索 emc 检索页返回脚本不可解析的脚本渲染页面，未取得任何复方产品注册记录，故法域覆盖按"仅美国已核"表述**。中国：NMPA 对本机恒返回 HTTP 412、CDE 目录集恒返回 202 校验页，上市与核准适应证待核实（不以商业药品库补足） |
 | 管制身份 | 美国标签页 DEA Schedule 字段为空值（非管制物质页未列 Schedule）；中国见下 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类麻醉药品和精神药品目录（396 项）中，逐名检索"多奈哌齐／美金刚／donepezil／memantine"均未命中；复方按两个母体成分逐名核查，两成分及其盐酸盐形式均未落入，亦不涉及芬太尼类、合成大麻素类、尼秦类三个整类的结构定义（两成分均不含 4-苯氨基哌啶骨架、无含氮杂环羰基侧链母核、无 1H-苯并咪唑骨架，也不属于 2026-10-01 施行的奥啡类：奥啡类以溴啡与螺溴啡两种母体为基准列举替代条件，本品结构不含相应母核）。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
-| 身份与统计 | DailyMed 现行复方 SPL 共 6 条（原研 1 条、仿制与分装 5 条；`US-FDC`、`US-GEN`）；本复方无 ATC DDD |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类麻醉药品和精神药品目录（396 项）中，逐名检索"多奈哌齐／美金刚／donepezil／memantine"均未命中；复方按两个母体成分逐名核查，两成分及其盐酸盐形式均未落入，亦不涉及芬太尼类、合成大麻素类、尼秦类三个整类的结构定义（两成分均不含 4-苯氨基哌啶骨架、无含氮杂环羰基侧链母核、无 1H-苯并咪唑骨架，也不属于 2026-10-01 施行的奥啡类：奥啡类以溴啡与螺溴啡两种母体为基准列举替代条件，本品结构不含相应母核）。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
+| 身份与统计 | DailyMed 现行复方 SPL 共 6 条（原研 1 条、仿制与分装 5 条、`US-FDC`、`US-GEN`）；本复方无 ATC DDD |
 
 ## 2. 评分
 
@@ -27,7 +27,7 @@
 
 | 维度 | 评分 | 依据 |
 | --- | ---: | --- |
-| 长期风险负担 | 2 | 标签不要求常规实验室监测；长期负担主要是胆碱能张力（心动过缓／晕厥、消化道出血倾向、食欲减退与体重下降、膀胱出口梗阻）与两成分上市后罕见严重事件（`US-FDC` §5、§6.2）；标签明确写"无证据表明美金刚或多奈哌齐能预防或减缓神经退变"（§12.1），故长期风险不含疾病修饰预期 |
+| 长期风险负担 | 2 | 标签不要求常规实验室监测；长期负担主要是胆碱能张力（心动过缓／晕厥、消化道出血倾向、食欲减退与体重下降、膀胱出口梗阻）与两成分上市后罕见严重事件（`US-FDC` §5、§6.2）。标签明确写"无证据表明美金刚或多奈哌齐能预防或减缓神经退变"（§12.1），故长期风险不含疾病修饰预期 |
 | 短期耐受负担 | 3 | 起始与滴定期的腹泻、恶心、呕吐、头晕、头痛最常见，且需按美金刚组分每 7 mg 一档、最短间隔一周递增（`US-FDC` §2.1、§5.4、§6.1）；同一份 §6.1 分别列出两成分对照试验的不良反应谱，复方本身无独立安全性试验 |
 | 相互作用／监测负担 | 3 | 与抗胆碱药相互抵消、与琥珀胆碱／胆碱能激动剂协同、与其他 NMDA 拮抗剂合用未系统研究、碱化尿液使美金刚清除大幅下降而蓄积、CYP3A4／2D6 抑制剂与诱导剂改变多奈哌齐暴露（`US-FDC` §7）；麻醉与手术需按胆碱酯酶抑制剂口径评估（§5.1） |
 | 停药负担 | 2 | 无躯体依赖与戒断综合征的本药特异证据，标签也未设递减要求；停药后认知与功能评分回落到未治疗轨迹属**疗效消退**，胆碱酯酶抑制剂骤停后出现谵妄／激越的报道为成分级文献而非本复方试验，按证据分别表述（§7） |
@@ -43,7 +43,7 @@
 | 中度至重度阿尔茨海默型痴呆、已用单一胆碱酯酶抑制剂稳定且需叠加 NMDA 拮抗治疗的替代治疗（美国现行批准措辞即针对已稳定于多奈哌齐者） | 美国批准（复方缓释胶囊，原研与多家公司仿制） | B | 标签适应证措辞把场景限定在"已稳定于多奈哌齐"的人群，有效性按与两成分各自合用的生物等效性确立，临床疗效证据来自美金刚缓释在稳定胆碱酯酶抑制剂背景上叠加的对照试验（`US-FDC` §1、§14）；获益幅度以认知与临床印象量表的小均值差体现，且复方无独立疗效试验 |
 | 已同时服用速释美金刚与多奈哌齐（或缓释美金刚与多奈哌齐）两药的中重度 AD 患者，为减少每日服药次数而转换为同配比复方 | 美国标签明确收载转换用法 | B | 标签规定可从原分开给药直接切到目标维持剂量并于次日开始（`US-FDC` §2.1），其依据同样是生物等效性而非转换试验；转换后失去单独下调任一成分的能力，滴定史与耐受性需逐例评估 |
 
-**本表不设行的场景与理由**：一是轻度 AD 或 MCI：标签适应证只覆盖中度至重度，且无本复方在该人群的疗效证据，"未收载＋无证据"按仓库规则不构成评分场景。二是血管性痴呆或其他类型痴呆：无本复方文本或试验支持。三是：
+**本表不设行的场景与理由**：一是轻度 AD 或 MCI。标签适应证只覆盖中度至重度，且无本复方在该人群的疗效证据，"未收载＋无证据"按仓库规则不构成评分场景。二是血管性痴呆或其他类型痴呆：无本复方文本或试验支持。三是：
 - 肾功能分档
 - 麻醉围术期
 - 妊娠哺乳
@@ -92,7 +92,7 @@
 
 ## 7. 短期风险、停药与误用
 
-- 短期：起始与加量期最常见的可预期反应为：
+- 短期：起始与加量期最常见的可预期反应为。
 - 腹泻
 - 恶心
 - 呕吐
@@ -137,7 +137,7 @@
 
 ## 10. 证据边界
 
-- 本次核查核到：现行原研复方标签全文：
+- 本次核查核到：现行原研复方标签全文。
 - 含 §1
 - §2
 - §3–§8
@@ -156,9 +156,9 @@
 
 ## 11. 深入分析与来源
 
-- 现行复方标签：`https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90fedc32-19e5-480c-afc6-f35a5cf4b9aa；按章节取读接口 `https://api.fda.gov/drug/label.json?search=openfda.spl_set_id:"90fedc32-19e5-480c-afc6-f35a5cf4b9aa"&limit=1`
+- 现行复方标签：`https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90fedc32-19e5-480c-afc6-f35a5cf4b9aa。按章节取读接口 `https://api.fda.gov/drug/label.json?search=openfda.spl_set_id:"90fedc32-19e5-480c-afc6-f35a5cf4b9aa"&limit=1`
 - 现行复方 SPL 清单：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=donepezil%20and%20memantine`
-- 申请沿革与首仿：`https://api.fda.gov/drug/drugsfda.json?search=application_number:%22NDA206439%22`；`https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/2023-first-generic-drug-approvals`
+- 申请沿革与首仿：`https://api.fda.gov/drug/drugsfda.json?search=application_number:%22NDA206439%22`。`https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/2023-first-generic-drug-approvals`
 - WHO ATC：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DA52`、`?code=N06DA53`、`?code=N06DA&display=subgroup`
 - 相关档案：[memantine](memantine.md)（美金刚单方）。银杏叶与三成分码的处理见 §10。中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)
 - 申请审评档案（监管一手文件）：FDA 审评与标签批准件目录 `https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/206439Orig1s000TOC.html`（由 `US-FDA` 记录返回，本次核查未逐页取读）

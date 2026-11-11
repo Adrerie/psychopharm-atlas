@@ -83,7 +83,7 @@
 
 ## 6. 原始来源
 
-**监管文件**：[LUNESTA 片处方资料（DailyMed setid 3821f4b7-a3c8-4920-ba80-18aa96532c09，生效 2025-01-08，v2）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3821f4b7-a3c8-4920-ba80-18aa96532c09)：
+**监管文件**。[LUNESTA 片处方资料（DailyMed setid 3821f4b7-a3c8-4920-ba80-18aa96532c09，生效 2025-01-08，v2）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3821f4b7-a3c8-4920-ba80-18aa96532c09)：
 - 本页用到 §2.1-§2.5
 - §4
 - §5.2
@@ -104,7 +104,7 @@
 - §4.8
 - §5.1
 - §5.2。
-[英国 Zimovane 7.5 mg SmPC（emc 2855，PL 04425/0624，正文修订 2026-02-11）](https://www.medicines.org.uk/emc/product/2855/smpc)（外消旋体对照，用到 §4.4、§4.8、§5.1、§5.2）。[英国《1971 年药物滥用法》附表 2 第三部分](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2)。[gov.uk 受管制药物清单](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。
+[英国 Zimovane 7.5 mg SmPC（emc 2855，PL 04425/0624，正文修订 2026-02-11）](https://www.medicines.org.uk/emc/product/2855/smpc)（外消旋体对照，用到 §4.4／§4.8／§5.1／§5.2）。[英国《1971 年药物滥用法》附表 2 第三部分](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2)。[gov.uk 受管制药物清单](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)。
 
 **研究**：[PMID:7905394](https://pubmed.ncbi.nlm.nih.gov/7905394/)（12 名健康志愿者单剂 15 mg 外消旋体后两对映体及其代谢物的药代）。[PMID:18350566](https://pubmed.ncbi.nlm.nih.gov/18350566/)（eszopiclone 3 mg 次晨认知与驾驶相关技能，两项交叉试验）。[PMID:37193564](https://pubmed.ncbi.nlm.nih.gov/37193564/)（14 项标准道路驾驶试验荟萃，Z 药条目）。[PMID:30303519](https://pubmed.ncbi.nlm.nih.gov/30303519/)（Cochrane：Eszopiclone for insomnia）。[PMID:42756141](https://pubmed.ncbi.nlm.nih.gov/42756141/)（中国老年抑郁门诊双标准 PIM）。
 

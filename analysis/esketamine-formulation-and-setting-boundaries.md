@@ -34,7 +34,7 @@
 
 ## 冲突或不确定性
 
-1. **同一试验两套效应量**：NCT02418585（美国 Study 1＝英国 TRD3002，分组例数 114/109 与基线 37.0/37.3 一致）在美国 §14 报 MADRS 差 **−4.0（−7.3, −0.6）**，在英国 §5.1 报 **−3.5（−6.7, −0.3）**。两项急症试验的病例数与效应值亦有小幅出入（Study 4：111 例、−3.8 对 SUI3001：112 例、−3.7）。两份文件没有解释差异来源（模型设定或处理缺失值的差异无从核对），主条目同时列出两处数值。
+1. **同一试验两套效应量**：NCT02418585（美国 Study 1＝英国 TRD3002，分组例数 114/109 与基线 37.0/37.3 一致）在美国 §14 报 MADRS 差 **−4.0（−7.3, −0.6）**，在英国 §5.1 报 **−3.5（−6.7, −0.3）**。两项急症试验的病例数与效应值亦有小幅出入（Study 4 111 例、−3.8 对 SUI3001 112 例、−3.7）。两份文件没有解释差异来源（模型设定或处理缺失值的差异无从核对），主条目同时列出两处数值。
 2. **滥用潜力研究的样本量与条件**：受试者数美国写 n=34、英国写 n=41。比较条件为鼻喷 84 mg 与 **112 mg（1.3 倍最大推荐剂量）**对静脉氯胺酮 0.5 mg/kg。112 mg 在幻觉、漂浮感、抽离感、恍惚感上高于静脉氯胺酮。因此"与静脉氯胺酮相当"只描述 84 mg 条件。两份文件对"滥用风险"的侧重点不同，美国侧重分子与场所，英国侧重场所。
 3. **剂型决定主观效应**：26 名健康男性的交叉试验显示，口服缓释外消旋氯胺酮 240 mg（C_max 104.1 ng/mL，高于鼻喷 84 mg 的 39.1 ng/mL）**不引起解离**（CADSS 最大变化 0.7±1.7 对鼻喷的 29.6±12.5，p<0.001），且口服组脉搏压无明显变化（`PMID:42340723`）。"解离与升压"由**途径与递送速度**决定，不是分子常量。这同时支持"制剂边界"，也支持主条目按剂型修正条款不把给药日负担并入分子基线的做法。
 4. **管制路径不同**：美国以"含氯胺酮的 (S)-对映体"名义直接把本药列入 Schedule III。英国的情形由《1971 年药物滥用法》附表 2 第二部分第 2 段（"本部分第 1 段所列物质的任一立体异构体形式"）**自动覆盖**，gov.uk 清单只有 Ketamine 行、无 Esketamine 行。《2001 年药物滥用法规》的附表归属待核实。前药必须专门列名的对照见 [lisdexamfetamine-prodrug-control-scope.md](lisdexamfetamine-prodrug-control-scope.md)。
@@ -61,5 +61,5 @@
 - [英国 emc Spravato 28 mg SmPC（产品 10977，PLGB 00242/0648）](https://www.medicines.org.uk/emc/product/10977/smpc)（§4.1–§4.5、§4.8、§5.1）
 - [英国 emc Esketamine 5 mg/ml 注射液 SmPC（产品 13194，PL 47015/0025）](https://www.medicines.org.uk/emc/product/13194/smpc)（13195 为 25 mg/ml，正文除 §6.5 外相同，§4.1、§4.2、§4.4、§5.1）
 - [美国外消旋氯胺酮注射液标签（Civica, Inc.，ANDA074524，setid 58c86d9b-8694-4bd8-8254-f19ee3ad60b0）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58c86d9b-8694-4bd8-8254-f19ee3ad60b0)（§1、§9）
-- [口服缓释消旋氯胺酮 KET01 与鼻喷艾司氯胺酮的解离与药代对照（JAMA Netw Open 2026；PMID:42340723）](https://pubmed.ncbi.nlm.nih.gov/42340723/)
+- [口服缓释消旋氯胺酮 KET01 与鼻喷艾司氯胺酮的解离与药代对照（JAMA Netw Open 2026、PMID:42340723）](https://pubmed.ncbi.nlm.nih.gov/42340723/)
 - [英国《1971 年药物滥用法》附表 2（第二部分第 2 段立体异构体条款）](https://www.legislation.gov.uk/ukpga/1971/38/schedule/2)，另见 [gov.uk 常用受管制药物清单](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)

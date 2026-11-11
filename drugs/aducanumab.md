@@ -9,7 +9,7 @@
 **引用键**：
 
 - `FR-ADU`＝*Federal Register* 89 FR 14869–14870（公告 2024-02-29，文号 2024-04214，Docket Nos. FDA-2022-E-0654 与 FDA-2022-E-0655）"Determination of Regulatory Review Period for Purposes of Patent Extension; ADUHELM"（govinfo 全文）。
-- `EU-EPAR`＝EMA Aduhelm"撤回上市许可申请"页（EMA/225498/2022 问答首份发布 2022-04-22；撤回评估报告 EMA/CHMP/557556/2022 首份发布 2022-08-01；页面 last updated 2022-08-01）。
+- `EU-EPAR`＝EMA Aduhelm"撤回上市许可申请"页（EMA/225498/2022 问答首份发布 2022-04-22、撤回评估报告 EMA/CHMP/557556/2022 首份发布 2022-08-01、页面 last updated 2022-08-01）。
 - `DM-CUR`＝DailyMed 现行 SPL 接口 `drug_name=aducanumab` 返回 **0 条**（库内数据发布标记 2026-11-04，检索 2026-11-05）。
 - `DFA`＝openFDA Drugs@FDA 接口检索结果（详见 §10）。
 - `FDA-AA-WITHDRAWN`＝FDA 加速批准撤回清单（BLA 761178，Aduhelm，withdrawal date 2024-11-01）。
@@ -25,7 +25,7 @@
 | 类型／药理类别 | 单方；人源化 IgG1 单克隆抗体，靶向聚集状态的 Aβ（可溶寡聚与不溶纤维形式）。ATC 归 N06D 抗痴呆药下 N06DX"其他抗痴呆药"，属疾病修饰类候选，与 N06DA 胆碱酯酶抑制剂、N06DX01 美金刚的症状治疗不属同一层（见 §3） |
 | 剂型（历史文本口径） | `FR-ADU` 逐字记为 ADUHELM（aducanumab-avwa）生物制品，适应症为阿尔茨海默病；`EU-EPAR` 记为静脉输注用浓溶液。未取得现行说明书，故规格、浓度与输注安排均不作断言 |
 | 关键药代摘要 | 未取得现行标签正文，无药代字段可引；登记库内的给药途径与生物利用度研究（`NCT04924140`、`NCT05216887`、`NCT02782975`）状态为 COMPLETED 但**未张贴结果**，不足以建立可引用的 PK 结论 |
-| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：《药用类麻醉药品目录（2025 年版）》32 项、《药用类精神药品目录（2025 年版）》第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、《非药用类麻醉药品和精神药品目录》396 项，按中文名与英文名逐名检索"阿杜卡尼单抗／阿杜那单抗／阿杜卡单抗／aducanumab／Aduhelm／BIIB037"及音译变体均未命中（目录正文无任何"单抗"或 `-mab` 条目）。限定：单克隆抗体为蛋白类大分子，四个整类的小分子母核式结构定义不覆盖蛋白类实体，"按名称逐名检索已完成、整类结构定义不覆盖蛋白类实体"不等于已排除一切管制风险。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)）。中国上市与核准适应证**待核实**： NMPA 检索页返回 HTTP 412、CDE 目录页返回 202 校验页；公开报道曾称企业于 2023 年初向 CDE 递交临床试验申请，属二手信息，不作注册事实记载 |
+| 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：《药用类麻醉药品目录（2025 年版）》32 项、《药用类精神药品目录（2025 年版）》第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、《非药用类麻醉药品和精神药品目录》396 项，按中文名与英文名逐名检索"阿杜卡尼单抗／阿杜那单抗／阿杜卡单抗／aducanumab／Aduhelm／BIIB037"及音译变体均未命中（目录正文无任何"单抗"或 `-mab` 条目）。限定：单克隆抗体为蛋白类大分子，四个整类的小分子母核式结构定义不覆盖蛋白类实体，"按名称逐名检索已完成、整类结构定义不覆盖蛋白类实体"不等于已排除一切管制风险。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)。中国上市与核准适应证**待核实**： NMPA 检索页返回 HTTP 412、CDE 目录页返回 202 校验页；公开报道曾称企业于 2023 年初向 CDE 递交临床试验申请，属二手信息，不作注册事实记载 |
 | 主要法域批准状态 | **美国（四种性质分开写）**：① 加速批准。`FR-ADU` 逐字载明 "This indication is approved under **accelerated approval** based on reduction in amyloid beta plaques observed in patients treated with ADUHELM. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s)."，并记 IND 生效 2011-05-04、BLA 761178 递交 2020-07-07、**批准 2021-06-07**；② FDA 撤回状态。FDA 当前加速批准撤回清单将 Aduhelm（BLA 761178）列为 **Not FDA-approved**，撤回日期为 **2024-11-01**（`FDA-AA-WITHDRAWN`）。该清单未说明撤回的法律路径或原因，因此不将其写成持证人申请撤销、因安全／疗效撤出或 FDA 作出非安全／疗效撤出认定，③ 当前产品文本与可及性。DailyMed 现行 SPL 0 条（`DM-CUR`），openFDA Drugs@FDA 按品牌名／通用名／申请号／持证人均无命中（`DFA`），均属检索事实。Biogen 于 2024-01-31 公告停止开发与商业化并终止 ENVISION（`BIIB-PR`），这是企业决策，早于 FDA 清单所列撤回日期，不替代监管撤回状态或原因认定 |
 | 欧盟状态（独立核实，不由美国推定） | `EU-EPAR`：Aduhelm 上市许可申请由 Biogen Netherlands B.V. 提交（EMA 产品号 EMEA/H/C/005558）；CHMP 于 **2021 年 12 月建议拒绝**，申请人请求再审查，并在再审查期间于 **2022-04-20 撤回申请**，撤回时 EMA 仍认为获益不大于风险。EMA 给出的两点理由逐字可归纳为：尽管本药降低脑内 Aβ，但**该效应与临床改善之间的联系未被确立**，关键研究结果互相矛盾、未能令人信服地显示疗效，影像显示 ARIA（提示脑内水肿或出血），**不能明确这些异常在临床实践中可被妥善管理**。本药在欧盟从未获上市许可 |
 | 其他法域 | 日本、英国、加拿大、澳大利亚与中国：未取一手文本，不作推定（§10） |
@@ -83,7 +83,7 @@ ARIA-E（水肿／积液）与 ARIA-H（含铁血黄素沉积）是本类药物�
 
 ## 8. 重要相互作用
 
-无可引的现行文本。仅可依据生物学常识设定边界：本药为 IgG1 单抗，按内源性 IgG 的蛋白水解途径降解，通常不经细胞色素 P450 代谢。但**这一句是类别性推断，不是本药标签条款**，因此本节不列具体相互作用条目。抗凝药、溶栓药与 ARIA 的相互关系按 [lecanemab](lecanemab.md) §8 的法域口径理解，不得直接当作本药条款使用。缺口状态见 §10。
+无可引的现行文本。仅可依据生物学常识设定边界：本药为 IgG1 单抗，按内源性 IgG 的蛋白水解途径降解，通常不经细胞色素 P450 代谢，但**这一句是类别性推断，不是本药标签条款**，因此本节不列具体相互作用条目。抗凝药、溶栓药与 ARIA 的相互关系按 [lecanemab](lecanemab.md) §8 的法域口径理解，不得直接当作本药条款使用。缺口状态见 §10。
 
 ## 9. 特殊人群
 
@@ -100,7 +100,7 @@ ARIA-E（水肿／积液）与 ARIA-H（含铁血黄素沉积）是本类药物�
   - 四项登记条目状态与结果张贴日期
   - WHO ATC 页
   - 中国四份目录逐名检索
-- **检索缺口（照原样写，不作否定推断）**：openFDA Drugs@FDA 接口按以下检索式均返回 "No matches found!"：
+- **检索缺口（照原样写，不作否定推断）**。openFDA Drugs@FDA 接口按以下检索式均返回 "No matches found!"：
   - `openfda.brand_name:"Aduhelm"`
   - `openfda.generic_name:"aducanumab"`
   - `products.generic_name:"aducanumab"`
@@ -125,8 +125,16 @@ DailyMed 现行 SPL 0 条。openFDA 标签接口按品牌名与药物警戒（en
 - 欧盟撤回页：`https://www.ema.europa.eu/en/medicines/human/EPAR/aduhelm`
 - 现行 SPL 清单接口：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=aducanumab`
 - Drugs@FDA 接口：`https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:%22Aduhelm%22&limit=5`（无命中）
-- 试验登记：`https://clinicaltrials.gov/api/v2/studies/NCT02477800`、`.../NCT02484547`、`.../NCT05310071`、`.../NCT04241068`
+- 试验登记：
+  - `https://clinicaltrials.gov/api/v2/studies/NCT02477800`
+  - `.../NCT02484547`
+  - `.../NCT05310071`
+  - `.../NCT04241068`。
 - WHO ATC：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DX03`
-- 关联档案：[lecanemab](lecanemab.md)、[donanemab](donanemab.md)、[gantenerumab](gantenerumab.md)、[memantine](memantine.md)
+- 关联档案：
+  - [lecanemab](lecanemab.md)
+  - [donanemab](donanemab.md)
+  - [gantenerumab](gantenerumab.md)
+  - [memantine](memantine.md)。
 
 统计与缺口见 [目录索引](../catalog/index.md)。

@@ -53,7 +53,7 @@
 
 ## 3. 主要作用
 
-法国文本对本药机制的表述停在类级：1,4-苯二氮䓬，经 GABA-OMEGA（BZ1／BZ2）受体复合物的特异性激动作用调节氯通道，产生肌松、抗焦虑、镇静、催眠、抗惊厥与致遗忘六类效应（`FR-LYS` §5.1）。决定临床行为的是**三步代谢**：口服后肝首过把母药全部转为去甲基地西泮 → 代谢物 4–6 h 达峰、半衰期 30–150 h、稳态 10–15 天 → 再经羟化与葡糖醛酸结合经尿排出（`FR-LYS` §5.2）。两条人体证据把这条链钉住：单次 20 mg 后去甲基地西泮入血缓慢，镇静与操作损害很轻，而 24 h 词表回忆损害不如阿普唑仑／劳拉西泮（`PMID:3138056`）。母药在血中检不出 >20 ng/ml，代谢物置换苯二氮䓬受体的效力为母药 17 倍（`PMID:2854609`）。由此可推的临床后果是**起效靠代谢物堆积而非峰值、日间残留跨越给药间隔、停药后消退慢**。但受体亲和力与临床效应之间没有换算关系，本页不据此推算个体剂量或风险。
+法国文本对本药机制的表述停在类级：1,4-苯二氮䓬，经 GABA-OMEGA（BZ1／BZ2）受体复合物的特异性激动作用调节氯通道，产生肌松、抗焦虑、镇静、催眠、抗惊厥与致遗忘六类效应（`FR-LYS` §5.1）。决定临床行为的是**三步代谢**：口服后肝首过把母药全部转为去甲基地西泮 → 代谢物 4–6 h 达峰、半衰期 30–150 h、稳态 10–15 天 → 再经羟化与葡糖醛酸结合经尿排出（`FR-LYS` §5.2）。两条人体证据把这条链钉住：单次 20 mg 后去甲基地西泮入血缓慢，镇静与操作损害很轻，而 24 h 词表回忆损害不如阿普唑仑／劳拉西泮（`PMID:3138056`）。母药在血中检不出 >20 ng/ml，代谢物置换苯二氮䓬受体的效力为母药 17 倍（`PMID:2854609`）。由此可推的临床后果是**起效靠代谢物堆积而非峰值、日间残留跨越给药间隔、停药后消退慢**，但受体亲和力与临床效应之间没有换算关系，本页不据此推算个体剂量或风险。
 
 ## 4. 适应范围
 
@@ -74,7 +74,7 @@
 
 ## 5. 实际效果与局限
 
-- **最明确的本药特异证据是一份 1978 年的多中心安慰剂对照试验**：15 位研究者、847 例以焦虑为主诉（可合并其他躯体疾病）的门诊患者，随机双盲平行分组，疗程 2–4 周，医生问卷在总体改善率与焦虑、紧张、易激／敌意、抑郁情绪、失眠、躯体化等目标症状上均显示优于安慰剂（`PMID:721788`）。它样本大、设计为安慰剂对照，但**终点是医生总体问卷、周期短、无现代量表与功能结局**，不能与当代 GAD 试验的效应量并列。
+- **最明确的本药特异证据是一份 1978 年的多中心安慰剂对照试验**：15 位研究者、847 例以焦虑为主诉（可合并其他躯体疾病）的门诊患者，随机双盲平行分组，疗程 2–4 周，医生问卷在总体改善率与焦虑、紧张、易激／敌意、抑郁情绪、失眠、躯体化等目标症状上均显示优于安慰剂（`PMID:721788`）。它样本大、设计为安慰剂对照，但**终点是医生总体问卷、周期短，也没有现代量表与功能结局**，不能与当代 GAD 试验的效应量并列。
 - **给药频次的证据方向与"长半衰期可日一次"的直觉相反**：1984 年两组各 10 例慢性严重广泛性焦虑住院患者，普拉西泮 40 mg/日分次给药与睡前单次给药比较 3 周，分次给药在 HAMA（p<0.0005）、上午与下午视觉模拟量表、晨间困倦（p<0.0001）与日间疗效稳定性上均更优。作者据此提出**血浆药代不足以预测苯二氮䓬抗焦虑作用的持续时间**（`PMID:6151206`）。
 - **急性药效学很弱**：39 名健康志愿者单次给药比较中，普拉西泮 20 mg 的镇静与数字符号替换测验损害很轻，24 h 词表回忆不受损，而阿普唑仑与劳拉西泮均有损害（`PMID:3138056`）。舌下与口服 20 mg 在 5 名志愿者的药代曲线无统计学差异，与"舌下更具镇静作用"的临床印象不符（`PMID:2854609`）。
 - **酒精戒断与其他用途缺少本药特异对照试验**：戒断场景依赖类级证据与法国文本的短程方案。另有 2005 年 56 例阿片依赖者的开放分组研究把纳曲酮＋普拉西泮（10 mg 每日两次）与纳曲酮单药比较，报告联合组保持操守者更多（`PMID:15979652`）。**属超说明书的小样本开放研究，不构成场景评分依据**。
@@ -159,7 +159,7 @@
 
 本页不设专题：本药的两处关键张力。"前体药低急性损害 vs 长半衰期蓄积"与"法国现行批准 vs 美国已撤销"。已由 §2、§3 与 §10 就近承载。同类对照见 [地西泮](diazepam.md)（同为长半衰期，但母体即活性物）、[氯拉䓬酸二钾](potassium-clorazepate.md)（同为前体药，美国现行文本全部为仿制片）与 [溴西泮](bromazepam.md)（法国文本、无美国／英国文本的同类处境）。
 
-**监管与官方文件**：[法国 BDPM：LYSANXIA 10 mg 片（CIS 62949690，ANSM 文本更新 2026-03-06）](https://base-donnees-publique.medicaments.gouv.fr/medicament/62949690/extrait)。[LYSANXIA 15 mg/ml 口服滴剂（CIS 60534076）](https://base-donnees-publique.medicaments.gouv.fr/medicament/60534076/extrait)。[LYSANXIA 40 mg 分剂量片（CIS 69434084）](https://base-donnees-publique.medicaments.gouv.fr/medicament/69434084/extrait)。[《联邦公报》1994-03-02 撤回 91 个 NDA（含 NDA 17-415 Centrax 片与 Verstran 胶囊，文件号 94-4660）](https://www.federalregister.gov/documents/1994/03/02/94-4660/riker-laboratories-inc-et-al-withdrawal-of-approval-of-91-new-drug-applications)。[《联邦公报》61 FR 13506（1996-03-27，含 NDA 18-144 Centrax 胶囊）](https://www.federalregister.gov/documents/1996/03/27/96-7309/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-49-new-drug-applications-9-abbreviated)。[英国 emc 按 prazepam 检索（无结果，2026-10-23）](https://www.medicines.org.uk/emc/search?q=prazepam)。[openFDA 按通用名 prazepam 检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22prazepam%22)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[法国 BDPM。LYSANXIA 10 mg 片（CIS 62949690，ANSM 文本更新 2026-03-06）](https://base-donnees-publique.medicaments.gouv.fr/medicament/62949690/extrait)。[LYSANXIA 15 mg/ml 口服滴剂（CIS 60534076）](https://base-donnees-publique.medicaments.gouv.fr/medicament/60534076/extrait)。[LYSANXIA 40 mg 分剂量片（CIS 69434084）](https://base-donnees-publique.medicaments.gouv.fr/medicament/69434084/extrait)。[《联邦公报》1994-03-02 撤回 91 个 NDA（含 NDA 17-415 Centrax 片与 Verstran 胶囊，文件号 94-4660）](https://www.federalregister.gov/documents/1994/03/02/94-4660/riker-laboratories-inc-et-al-withdrawal-of-approval-of-91-new-drug-applications)。[《联邦公报》61 FR 13506（1996-03-27，含 NDA 18-144 Centrax 胶囊）](https://www.federalregister.gov/documents/1996/03/27/96-7309/hoffmann-la-roche-inc-et-al-withdrawal-of-approval-of-49-new-drug-applications-9-abbreviated)。[英国 emc 按 prazepam 检索（无结果，2026-10-23）](https://www.medicines.org.uk/emc/search?q=prazepam)。[openFDA 按通用名 prazepam 检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22prazepam%22)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
 **研究与文献**：[PMID:721788](https://pubmed.ncbi.nlm.nih.gov/721788/)（1978 年 847 例多中心安慰剂对照试验）。[PMID:6151206](https://pubmed.ncbi.nlm.nih.gov/6151206/)（1984 年分次 vs 睡前单次给药，20 例）。[PMID:3138056](https://pubmed.ncbi.nlm.nih.gov/3138056/)（1988 年 39 人单次给药药代-药效比较）。[PMID:2854609](https://pubmed.ncbi.nlm.nih.gov/2854609/)（1988 年舌下 vs 口服与受体置换，5 人）。[PMID:15979652](https://pubmed.ncbi.nlm.nih.gov/15979652/)（2005 年纳曲酮＋普拉西泮的开放研究，超说明书）。[PMID:28903606](https://pubmed.ncbi.nlm.nih.gov/28903606/)（奥沙西泮及相关苯二氮䓬代谢综述，用于确认本药处于去甲基地西泮／奥沙西泮下游）。
 

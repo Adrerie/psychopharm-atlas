@@ -1,22 +1,22 @@
 # fomepizole｜福美唑（fomepizole，4-甲基吡唑；醇脱氢酶竞争性抑制剂，用于乙二醇与甲醇中毒）
 
-> 状态：`reviewed` ｜ 最后核查：2026-11-06（美国现行注射剂标签正文逐节核对；DailyMed 现行条目按药名检索；WHO ATC/DDD 索引 `V03AB` 子组页回读；中国四份现行管制目录与 2026-07-01 增列 16 项附表逐名检索）｜ ATC：`V03AB34`（WHO ATC/DDD Index 2026，`V03AB` 子组页行原文 `V03AB34 fomepizole`，**无 DDD、无给药途径字母**；页面脚注 Last updated 2026-01-20）  
+> 状态：`reviewed` ｜ 最后核查：2026-11-06（美国现行注射剂标签正文逐节核对，DailyMed 现行条目按药名检索，WHO ATC/DDD 索引 `V03AB` 子组页回读，中国四份现行管制目录与 2026-07-01 增列 16 项附表逐名检索）｜ ATC：`V03AB34`（WHO ATC/DDD Index 2026，`V03AB` 子组页行原文 `V03AB34 fomepizole`，**无 DDD、无给药途径字母**，页面脚注 Last updated 2026-01-20）  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`US-FOM`＝现行福美唑注射液标签正文（DailyMed setid `256910fe-91f2-48f6-b0b4-55edc52dacd4`，持证方 Zydus Pharmaceuticals USA Inc.，页面标注 Drug Label Information Updated 2025-11-20，文内 Revised 12/2024；页首字段 DEA Schedule: None、Marketing Status: Abbreviated New Drug Application；本条目为旧式编号章节结构，故正文引用按章名而非 §x.y）。`US-FOM-NAV`＝同一适应证的品牌条目（Navinta LLC，setid `6fed6052-f159-46d6-8be1-31e18a7ba918`，发布 2024-12-23；本次核查未逐节比对，只记存在）。`DM-11`＝DailyMed `services/v2/spls.json?drug_name=fomepizole` 返回 11 条现行条目（检索日期 2026-11-06）。`ATC-VA`＝`V03AB` 子组页（Last updated 2026-01-20）。`PMID:…`＝PubMed。§N 指所引正文内容所在章节名。
+**引用键**：`US-FOM`＝现行福美唑注射液标签正文（DailyMed setid `256910fe-91f2-48f6-b0b4-55edc52dacd4`，持证方 Zydus Pharmaceuticals USA Inc.，页面标注 Drug Label Information Updated 2025-11-20，文内 Revised 12/2024、页首字段 DEA Schedule: None、Marketing Status: Abbreviated New Drug Application、本条目为旧式编号章节结构，故正文引用按章名而非 §x.y）。`US-FOM-NAV`＝同一适应证的品牌条目（Navinta LLC，setid `6fed6052-f159-46d6-8be1-31e18a7ba918`，发布 2024-12-23、本次核查未逐节比对，只记存在）。`DM-11`＝DailyMed `services/v2/spls.json?drug_name=fomepizole` 返回 11 条现行条目（检索日期 2026-11-06）。`ATC-VA`＝`V03AB` 子组页（Last updated 2026-01-20）。`PMID:…`＝PubMed。§N 指所引正文内容所在章节名。
 
 ## 1. 基本信息
 
 | 项目 | 内容 |
 | --- | --- |
-| 类型／药理类别 | 单方；**醇脱氢酶（ADH）竞争性抑制剂**（化学名 4-甲基吡唑，分子式 C₄H₆N₂，分子量 82.1；`US-FOM` Clinical Pharmacology 段逐字："Fomepizole is a competitive inhibitor of alcohol dehydrogenase"）。其价值在于阻断乙二醇与甲醇经 ADH 氧化为毒性代谢物（乙二醇的肾毒性代谢通路；甲醇→甲醛→甲酸），而不是纠正酸中毒本身 |
+| 类型／药理类别 | 单方；**醇脱氢酶（ADH）竞争性抑制剂**（化学名 4-甲基吡唑，分子式 C₄H₆N₂，分子量 82.1、`US-FOM` Clinical Pharmacology 段逐字："Fomepizole is a competitive inhibitor of alcohol dehydrogenase"）。其价值在于阻断乙二醇与甲醇经 ADH 氧化为毒性代谢物（乙二醇的肾毒性代谢通路、甲醇→甲醛→甲酸），而不是纠正酸中毒本身 |
 | 现行 ATC 与 DDD | `V03AB34`，**无 DDD、无给药途径字母**（`ATC-VA`）。`V03AB` 组注明写本组药品种类繁多、难以指定 DDD；同页另有 `V03AB16 ethanol`（同一酶轴的竞争性底物，属另一实体与另一给药方案） |
 | 主要剂型（本次核查所引） | 注射液，每瓶 1.5 mL（1 g/mL），**给药前须稀释并按方案静脉输注**（`US-FOM` HOW SUPPLIED 与 DOSAGE 段）；未见现行口服制剂条目（`DM-11` 全为注射类语境） |
 | 实体边界 | 与 **乙醇**（同为 ADH 竞争剂）是两种不同解毒方案：乙醇需血药浓度监测、镇静与低血糖代价明显；本药无这些药效学负担但费用与可及性不同：两者不得互相替代性引用试验。与 [fomepizole] 无关的其他醇类处置（血液透析、碳酸氢盐纠正酸中毒、甲醇时的叶酸类辅助）属并列措施而非本药作用。与 [acetylcysteine](acetylcysteine.md)、[sodium-thiosulfate](sodium-thiosulfate.md)、[dimercaprol](dimercaprol.md)、[pralidoxime](pralidoxime.md)、[obidoxime](obidoxime.md)、[naloxone](naloxone.md)、[flumazenil](flumazenil.md)、[physostigmine](physostigmine.md)、[sodium-nitrite](sodium-nitrite.md) 各对应不同毒物机制，**一种中毒的解毒证据不得外推到另一种** |
-| 关键药代摘要 | 标签载明：半衰期**随剂量变化（非线性），即使在肾功能正常者也未按单一数值计算**；静脉输注后快速分布至总体水；代谢物经肾排泄；为达到充分抑制 ADH，血浆浓度目标区间约 100–300 µmol/L（8.6–24.6 mg/L）（`US-FOM` CLINICAL PHARMACOLOGY / PK 段）。血液透析可清除本药，故与并用透析时须按方案调整给药频次（DOSAGE AND ADMINISTRATION 段口径） |
-| 中国管制状态 | **未发现列入 2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 种非药用类增列附表（核查至 2026-11-06）**：按"福美唑""fomepizole""4-甲基吡唑"逐名检索均未命中。四个整类按公告母体逐字判读：本药为小分子吡唑（4-甲基吡唑），不含芬太尼类定义所要求的哌啶-4-基苯胺酰胺母核（四项替代条件的前提结构不存在）；不符合合成大麻素类通式骨架与 R1–R5／X／Y／Z 组合；不含 1H-苯并咪唑母核，尼秦类四条件不适用；不具备奥啡类的溴啡或螺溴啡母核。此表述不等于"非管制"，也不表示不存在处方、携带、进出口或其他法律限制（[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)） |
+| 关键药代摘要 | 标签载明：半衰期**随剂量变化（非线性），即使在肾功能正常者也未按单一数值计算**；静脉输注后快速分布至总体水、代谢物经肾排泄、为达到充分抑制 ADH，血浆浓度目标区间约 100–300 µmol/L（8.6–24.6 mg/L）（`US-FOM` CLINICAL PHARMACOLOGY / PK 段）。血液透析可清除本药，故与并用透析时须按方案调整给药频次（DOSAGE AND ADMINISTRATION 段口径） |
+| 中国管制状态 | **未发现列入 2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录（第一类 18 项＋第二类 78 项）、2026 年第 58 号增列 3 项、2025 年版非药用类目录（396 项）及 2026-07-01 生效的 16 种非药用类增列附表（核查至 2026-11-06）**：按"福美唑""fomepizole""4-甲基吡唑"逐名检索均未命中。四个整类按公告母体逐字判读：本药为小分子吡唑（4-甲基吡唑），不含芬太尼类定义所要求的哌啶-4-基苯胺酰胺母核（四项替代条件的前提结构不存在）；不符合合成大麻素类通式骨架与 R1–R5／X／Y／Z 组合、不含 1H-苯并咪唑母核，尼秦类四条件不适用、不具备奥啡类的溴啡或螺溴啡母核。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
 | 主要法域批准状态 | 美国：现行注射条目 11 条可及（`DM-11`），适应证为乙二醇或甲醇中毒或疑似摄入的解毒，可单用或与血液透析并用（`US-FOM` INDICATIONS）。英国／欧盟：本次核查未取得现行 SmPC 正文。中国：NMPA 对本机恒返回 HTTP 412、CDE 目录接口返回 202 校验页；本药在中国的临床可及性与注册口径**待核实**（不得据目录未列名推断其上市状态） |
-| 身份与统计 | 化学名 4-甲基吡唑；现行条目 11 条；官方分类 `V03AB34`（`ATC-VA`） |
+| 身份与统计 | 化学名 4-甲基吡唑；现行条目 11 条、官方分类 `V03AB34`（`ATC-VA`） |
 
 ## 2. 评分
 
@@ -73,7 +73,7 @@
 
 ## 9. 特殊人群
 
-标签口径：妊娠：无孕妇充分研究，仅在明确需要时使用。哺乳：不知是否经人乳排泄，因多种药物经乳排泄需权衡。儿科：未按儿科人群充分确立（标签注明 PK 未在儿科确定）。肾功能不全：代谢物经肾排泄，标签未给出可直接执行的调整规则（需按中毒处置与透析方案判断）。性别：未充分研究（`US-FOM` 各段逐字口径）。以上均不构成推荐，只是文本限制。
+标签口径：妊娠。无孕妇充分研究，仅在明确需要时使用。哺乳：不知是否经人乳排泄，因多种药物经乳排泄需权衡。儿科：未按儿科人群充分确立（标签注明 PK 未在儿科确定）。肾功能不全：代谢物经肾排泄，标签未给出可直接执行的调整规则（需按中毒处置与透析方案判断）。性别：未充分研究（`US-FOM` 各段逐字口径）。以上均不构成推荐，只是文本限制。
 
 ## 10. 证据边界
 
