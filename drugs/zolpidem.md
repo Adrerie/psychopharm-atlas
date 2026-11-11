@@ -110,4 +110,6 @@
 
 - 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

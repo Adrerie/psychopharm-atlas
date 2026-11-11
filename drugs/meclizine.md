@@ -118,4 +118,6 @@
 - [PubMed 检索式（52 命中）](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=20&term=meclizine%5BTitle%2FAbstract%5D%20AND%20(vertigo%5BTitle%2FAbstract%5D%20OR%20vestibular%5BTitle%2FAbstract%5D))
 - 相关档案：[dimenhydrinate](dimenhydrinate.md)、[cinnarizine](cinnarizine.md)、[betahistine](betahistine.md)、[cinnarizine-and-dimenhydrinate](cinnarizine-and-dimenhydrinate.md)。中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

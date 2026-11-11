@@ -162,4 +162,6 @@ QT 相关：
 - - 代谢负担的三层证据与不可排序边界见 [antipsychotic-metabolic-burden-layers.md](../analysis/antipsychotic-metabolic-burden-layers.md)。
 - 催乳素证据的跨药比较见 [paliperidone-prolactin-evidence.md](../analysis/paliperidone-prolactin-evidence.md)（部分激动与剂量对催乳素的影响不能按类外推）。
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

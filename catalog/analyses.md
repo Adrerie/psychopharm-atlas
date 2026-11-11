@@ -19,6 +19,7 @@
 | [cyp-inhibition-magnitude-substrate-dependence](../analysis/cyp-inhibition-magnitude-substrate-dependence.md) | 同一抑制剂，不同底物，不同倍数 | 2026-11-11 | 6 |
 | [sexual-dysfunction-incidence-and-persistence](../analysis/sexual-dysfunction-incidence-and-persistence.md) | 标签发生率、停药后持续与测量口径 | 2026-11-11 | 8 |
 | [nms-vs-serotonin-syndrome-label-boundaries](../analysis/nms-vs-serotonin-syndrome-label-boundaries.md) | 两类标签风险为什么不能互推 | 2026-11-11 | 9 |
+| [falls-fractures-mechanisms-and-label-layers](../analysis/falls-fractures-mechanisms-and-label-layers.md) | 机制分组、标签口径与不可相加的比值 | 2026-11-11 | 8 |
 
 ## 停药与戒断
 
@@ -66,6 +67,6 @@
 4. 专题结论不写成跨药排序或个体用药建议。
 5. 新增或修改专题时同步更新本页、[PLAN.md](../PLAN.md) 与相关主条目 §11。
 
-当前专题数：29。
+当前专题数：30。
 
 统计与缺口见 [目录索引](index.md)。

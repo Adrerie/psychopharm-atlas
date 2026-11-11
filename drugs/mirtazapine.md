@@ -134,4 +134,6 @@
 - 研究与指南：[PMID:29477251 Cipriani 2018 成人网络荟萃](https://pubmed.ncbi.nlm.nih.gov/29477251/)｜[PMID:27289172 Cipriani 2016 儿童青少年网络荟萃](https://pubmed.ncbi.nlm.nih.gov/27289172/)｜[PMID:42756141 中国老年抑郁门诊 PIM](https://pubmed.ncbi.nlm.nih.gov/42756141/)｜[NICE NG222 成人抑郁（2022-06-29）](https://www.nice.org.uk/guidance/ng222)
 - - 低钠血症的两类证据与监测边界见 [hyponatremia-denominators-and-monitoring.md](../analysis/hyponatremia-denominators-and-monitoring.md)。
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

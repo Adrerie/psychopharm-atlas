@@ -165,4 +165,6 @@
 
 - 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。

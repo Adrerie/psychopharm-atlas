@@ -137,4 +137,6 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05CD02`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CD02)。[Wikidata Q410078](https://www.wikidata.org/wiki/Q410078)。[PubChem CID 4506](https://pubchem.ncbi.nlm.nih.gov/compound/4506)。[MeSH D009567](https://meshb.nlm.nih.gov/record/ui?ui=D009567)。[DrugBank DB01595](https://www.drugbank.ca/r/DB01595)。[RxNorm RXCUI 7440](https://rxnav.nlm.nih.gov/REST/rxcui/7440.json)。English Wikipedia（标题指针，未复制正文）：[Nitrazepam](https://en.wikipedia.org/wiki/Nitrazepam)。
 
+- 跌倒与骨折的机制分组、证据层级与标签口径边界见 [falls-fractures-mechanisms-and-label-layers.md](../analysis/falls-fractures-mechanisms-and-label-layers.md)。
+
 统计与缺口见 [目录索引](../catalog/index.md)。
