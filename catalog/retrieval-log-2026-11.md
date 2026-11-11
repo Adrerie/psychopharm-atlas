@@ -931,6 +931,18 @@ EPAR 直接地址未命中的两种药，改用 EMA 第 30 条转介文件读取
 
 另评估两个来源：medicines.ie 可按名检索但 basic 档案药物多未在爱尔兰授权；俄罗斯 ГРЛС 检索被图形验证码阻断，本轮未取得数据。
 
+### 4.27 澳大利亚 TGA ARTG 第十二批（2026-11-11）
+
+检索 12 个药名，1 份写入 ARTG 条目。maprotiline、isocarboxazid、pimavanserin、lumateperone、xanomeline、zuranolone、valbenazine、tasimelteon、opipramol、lofexidine、propiomazine 未解析到条目。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| dosulepin | 10 | 289783 | DOSULEPIN VIATRIS 25 dosulepin (dothiepin) hydrochloride 25 mg hard capsule blister pack |
+
+### 4.28 加拿大 DPD 第十三批（2026-11-11）
+
+检索 10 个活性成分，均未捕获到人用 Marketed 示例：maprotiline、isocarboxazid、dosulepin、pimavanserin、lumateperone、valbenazine、tasimelteon、opipramol、lofexidine、propiomazine。
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
