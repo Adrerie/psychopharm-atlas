@@ -1017,3 +1017,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **PMDA 制剂分型补检索（同日）**：haloperidol 与 paliperidone 的首条结果分别为癸酸酯肌注与长效注射剂标签，追加解析同次检索的其余 XML，补入口服片剂标签（haloperidol 0.75–2.25 mg/日起始、维持 3–6 mg/日；paliperidone 口服缓释片 6 mg 每日 1 次、上限 12 mg/日），两份档案同时标注两种制剂。NMPA 境外生产药品剩余 40 份当日仍受限流，未取得结果。
 **制剂分型与境外库续查（同日）**：追加解析 PMDA 同次检索的其余 XML，补入 biperiden 口服片、methylphenidate 缓释片（ADHD）、midazolam 注射剂与癫痫持续状态制剂的标签事实。NMPA 境外库剩余 40 份补得 20 份，7 份命中并写入 HJ 批准文号，naloxone 命中羟考酮纳洛酮复方排除。
 **境外库续查收尾**：剩余 40 份最终补得 27 份，12 份命中并写入 HJ 批准文号示例（含 venlafaxine、vinpocetine、ziprasidone、zolpidem、zopiclone），其余 13 份当日限流未取得结果。
+**加拿大 DPD 补检索（同日）**：对 24 个活性成分检索 Health Canada Drug Product Database，19 份有 Marketed 状态产品并写入 DIN、企业与商品名示例，涉及 chlorpromazine、haloperidol、clozapine、quetiapine、paliperidone、asenapine、clonazepam、lorazepam、moclobemide 等。olanzapine、risperidone、trifluoperazine 的已捕获行未见 Marketed 示例，未写入。

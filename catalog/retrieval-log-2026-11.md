@@ -501,6 +501,33 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 - 美国 openFDA：132 份按通用名检索，1 条为补充剂类标签（acetylcarnitine）。
 - 荷兰 CBG、比利时 FAMHP、德国 PharmNet、意大利 AIFA、丹麦 produktresume、瑞士 swissmedicinfo：站点故障或无可脚本化接口，未取得按名结果，不据此推断未上市。
 
+### 4.1 已审阅档案的加拿大 DPD 补检索（2026-11-11）
+
+对 24 个活性成分检索 Health Canada Drug Product Database（浏览器表单提交），20 份有 Marketed 状态产品并写入档案。olanzapine、risperidone、trifluoperazine 的已捕获行中未见 Marketed 示例，未写入。
+
+| 活性成分 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| chlorpromazine | 26 | 00232807 | TEVA CANADA LIMITED | TEVA-CHLORPROMAZINE |
+| haloperidol | 58 | 00808652 | SANDOZ CANADA INCORPORATED | HALOPERIDOL INJ 5MG/ML USP |
+| loxapine | 53 | 02169991 | SANDOZ CANADA INCORPORATED | LOXAPAC IM |
+| fluphenazine | 25 | 00405345 | AA PHARMA INC | FLUPHENAZINE |
+| perphenazine | 37 | 00335096 | AA PHARMA INC | PERPHENAZINE |
+| clozapine | 32 | 02248034 | AA PHARMA INC | AA-CLOZAPINE |
+| quetiapine | 236 | 02387794 | ACCORD HEALTHCARE INC | ACH-QUETIAPINE |
+| paliperidone | 18 | 02300273 | JANSSEN INC | INVEGA |
+| aripiprazole | 107 | 02322374 | OTSUKA PHARMACEUTICAL CO LTD | ABILIFY |
+| lurasidone | 40 | 02513986 | AURO PHARMA INC | AURO-LURASIDONE |
+| asenapine | 2 | 02374803 | ORGANON CANADA INC. | SAPHRIS |
+| clonazepam | 55 | 02177889 | APOTEX INC | APO-CLONAZEPAM |
+| lorazepam | 56 | 00655740 | APOTEX INC | APO-LORAZEPAM |
+| oxazepam | 31 | 00402680 | APOTEX INC | APO-OXAZEPAM |
+| chlordiazepoxide | 21 | 00522996 | AA PHARMA INC | CHLORDIAZEPOXIDE |
+| zopiclone | 104 | 02475839 | ANGITA PHARMA INC. | AG-ZOPICLONE |
+| zolpidem | 18 | 02434946 | APOTEX INC | APO-ZOLPIDEM ODT |
+| moclobemide | 21 | 02166747 | BAUSCH HEALTH, CANADA INC. | MANERIX |
+| modafinil | 10 | 02239665 | NEURAXPHARM PHARMACEUTICALS, S.L. | ALERTEC |
+| naltrexone | 9 | 02444275 | APOTEX INC | APO-NALTREXONE |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
