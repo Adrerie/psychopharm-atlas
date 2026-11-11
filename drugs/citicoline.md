@@ -110,4 +110,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX06`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX06)。[Wikidata Q28529682](https://www.wikidata.org/wiki/Q28529682)。[PubChem CID 13804](https://pubchem.ncbi.nlm.nih.gov/compound/13804)。[DrugBank DB12153](https://www.drugbank.ca/r/DB12153)。[RxNorm RXCUI 997602](https://rxnav.nlm.nih.gov/REST/rxcui/997602.json)。English Wikipedia（标题指针，未复制正文）：[Citicoline](https://en.wikipedia.org/wiki/Citicoline)。
 
+- 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
 统计与缺口见 [目录索引](../catalog/index.md)。

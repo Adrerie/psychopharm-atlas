@@ -151,4 +151,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N06BX18`](https://atcddd.fhi.no/atc_ddd_index/?code=N06BX18)。[Wikidata Q420288](https://www.wikidata.org/wiki/Q420288)。[PubChem CID 443955](https://pubchem.ncbi.nlm.nih.gov/compound/443955)。[MeSH C013983](https://meshb.nlm.nih.gov/record/ui?ui=C013983)。[DrugBank DB12131](https://www.drugbank.ca/r/DB12131)。[RxNorm RXCUI 24506](https://rxnav.nlm.nih.gov/REST/rxcui/24506.json)。[English Wikipedia（标题指针）](https://en.wikipedia.org/wiki/Vinpocetine)。
 
+- 药品、传统植物药与膳食补充剂三层身份的边界见 [drug-vs-supplement-identity-layers.md](../analysis/drug-vs-supplement-identity-layers.md)（适应证、剂量、证据不可跨层互借）。
 统计与缺口见 [目录索引](../catalog/index.md)。
