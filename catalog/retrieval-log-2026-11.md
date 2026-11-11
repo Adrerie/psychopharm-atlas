@@ -872,6 +872,28 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | amifampridine | 2 | 02502984 | KYE PHARMACEUTICALS INC. | FIRDAPSE |
 | chloral-hydrate | 10 | 02247621 | ODAN LABORATORIESLTD | CHLORAL HYDRATE SYRUP ODAN |
 
+### 4.20 澳大利亚 TGA ARTG 第九批（2026-11-11）
+
+检索 20 个药名，4 份写入 ARTG 条目。chlorprothixene、cinolazepam、clomethiazole、clotiapine、clotiazepam、cloxazolam、cyamemazine、cytisinicline、dextroamphetamine、estazolam、ethyl loflazepate、etifoxine、etizolam、diamorphine、flunitrazepam、flavoxate 未解析到条目。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| eszopiclone | 3 | 219347 | Eszopiclone 2 mg Tablet Bottle |
+| fampridine | 10 | 278732 | FAMPRIDINE MR APOTEX fampridine 10mg modified release tablets blister pack |
+| flumazenil | 20 | 260016 | FLUMAZENIL KABI flumazenil 0.5 mg/5 mL solution for injection ampoules |
+| ginkgo-folium | 450 | 529027 | Ginkgo Biloba |
+
+### 4.21 加拿大 DPD 第十批（2026-11-11）
+
+检索 10 个活性成分，4 份写入 Marketed 产品示例。estazolam、flunitrazepam、etizolam、etifoxine 未见 Marketed 示例，eslicarbazepine 连接超时，flavoxate 未完成，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| dexamfetamine | 15 | 02443236 | APOTEX INC | APO-DEXTROAMPHETAMINE |
+| eszopiclone | 9 | 02453207 | KNIGHT THERAPEUTICS INC. | LUNESTA |
+| fampridine | 7 | 02379910 | MERZ THERAPEUTICS GMBH | FAMPYRA |
+| flumazenil | 6 | 02249561 | SANDOZ CANADA INCORPORATED | FLUMAZENIL INJECTION |
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
