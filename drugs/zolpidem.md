@@ -108,4 +108,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05CF02`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CF02)。[Wikidata Q218842](https://www.wikidata.org/wiki/Q218842)。[PubChem CID 5732](https://pubchem.ncbi.nlm.nih.gov/compound/5732)。[MeSH D000077334](https://meshb.nlm.nih.gov/record/ui?ui=D000077334)。[DrugBank DB00425](https://www.drugbank.ca/r/DB00425)。[RxNorm RXCUI 39993](https://rxnav.nlm.nih.gov/REST/rxcui/39993.json)。
 
+- 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

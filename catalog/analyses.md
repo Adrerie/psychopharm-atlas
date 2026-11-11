@@ -31,6 +31,7 @@
 | [qt-thresholds-label-boundaries](../analysis/qt-thresholds-label-boundaries.md) | 标签阈值、监测流程与不能合并的毫秒数 | 2026-11-11 | 11 |
 | [agomelatine-liver-monitoring-paradox](../analysis/agomelatine-liver-monitoring-paradox.md) | 阿戈美拉汀的肝监测悖论：强制化验日程、人群无超额与 15% 的依从率 | 2026-10-09 | 1 |
 | [zolpidem-next-day-impairment](../analysis/zolpidem-next-day-impairment.md) | 次日损害与复杂睡眠行为由什么决定 | 2026-10-08 | 1 |
+| [pim-standards-trigger-and-local-rates](../analysis/pim-standards-trigger-and-local-rates.md) | 同一条款、不同分级与本地占比怎么读 | 2026-11-11 | 8 |
 | [anticholinergic-burden-evidence-layers](../analysis/anticholinergic-burden-evidence-layers.md) | 受体亲和力、临床表型、标签条款与 PIM 名单能互换吗 | 2026-11-11 | 12 |
 
 ## 证据比较与注册身份
@@ -58,6 +59,6 @@
 4. 专题结论不写成跨药排序或个体用药建议。
 5. 新增或修改专题时同步更新本页、[PLAN.md](../PLAN.md) 与相关主条目 §11。
 
-当前专题数：21。
+当前专题数：22。
 
 统计与缺口见 [目录索引](index.md)。

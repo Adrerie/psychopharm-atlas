@@ -115,4 +115,5 @@
 **分类与身份**：[Wikidata Q408265](https://www.wikidata.org/wiki/Q408265)。[PubChem CID 3958](https://pubchem.ncbi.nlm.nih.gov/compound/3958)。[MeSH D008140](https://meshb.nlm.nih.gov/record/ui?ui=D008140)。[DrugBank DB00186](https://www.drugbank.ca/r/DB00186)。[RxNorm RXCUI 6470](https://rxnav.nlm.nih.gov/REST/rxcui/6470.json)。[lormetazepam 条目](lormetazepam.md)（易混淆别名，`N05CD06`）。
 
 - 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
+- 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。

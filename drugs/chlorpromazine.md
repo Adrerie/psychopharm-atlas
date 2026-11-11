@@ -189,4 +189,5 @@
 **分类与身份**：[WHO ATC/DDD Index `N05AA01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05AA01)。[Wikidata Q407972](https://www.wikidata.org/wiki/Q407972)。[PubChem CID 2726](https://pubchem.ncbi.nlm.nih.gov/compound/2726)。[MeSH D002746](https://meshb.nlm.nih.gov/record/ui?ui=D002746)。[DrugBank DB00477](https://www.drugbank.ca/r/DB00477)。[RxNorm RXCUI 2403](https://rxnav.nlm.nih.gov/REST/rxcui/2403.json)。English Wikipedia（标题指针，未复制正文）：[Chlorpromazine](https://en.wikipedia.org/wiki/Chlorpromazine)。
 
 - 抗胆碱能负担的四层证据边界见 [anticholinergic-burden-evidence-layers.md](../analysis/anticholinergic-burden-evidence-layers.md)（受体、表型、标签条款与 PIM 名单不可互换）。
+- 老年 PIM 标准的分级、条目与本地占比边界见 [pim-standards-trigger-and-local-rates.md](../analysis/pim-standards-trigger-and-local-rates.md)。
 统计与缺口见 [目录索引](../catalog/index.md)。
