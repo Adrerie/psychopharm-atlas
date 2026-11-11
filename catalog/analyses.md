@@ -16,9 +16,8 @@
 | [aripiprazole-formulation-pd-safety](../analysis/aripiprazole-formulation-pd-safety.md) | 部分激动与剂型如何改变副作用的解释 | 2026-10-08 | 1 |
 | [eszopiclone-racemate-read-across](../analysis/eszopiclone-racemate-read-across.md) | 单一对映体有多少结论是从外消旋体读来的 | 2026-10-09 | 1 |
 | [quetiapine-dose-pk-pd](../analysis/quetiapine-dose-pk-pd.md) | 剂量-暴露-靶点占用-临床结局 | 2026-10-07 | 1 |
-| [cyp-inhibition-magnitude-substrate-dependence](../analysis/cyp-inhibition-magnitude-substrate-dependence.md)
+| [cyp-inhibition-magnitude-substrate-dependence](../analysis/cyp-inhibition-magnitude-substrate-dependence.md) | 同一抑制剂，不同底物，不同倍数 | 2026-11-11 | 6 |
 | [sexual-dysfunction-incidence-and-persistence](../analysis/sexual-dysfunction-incidence-and-persistence.md) | 标签发生率、停药后持续与测量口径 | 2026-11-11 | 8 |
- | 同一抑制剂，不同底物，不同倍数 | 2026-11-11 | 6 |
 
 ## 停药与戒断
 
