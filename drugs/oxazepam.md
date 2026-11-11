@@ -122,4 +122,5 @@
 
 **分类与身份**：[Wikidata Q412299](https://www.wikidata.org/wiki/Q412299)。[PubChem CID 4616](https://pubchem.ncbi.nlm.nih.gov/compound/4616)。[MeSH D010076](https://meshb.nlm.nih.gov/record/ui?ui=D010076)。[DrugBank DB00842](https://www.drugbank.ca/r/DB00842)。[RxNorm RXCUI 7781](https://rxnav.nlm.nih.gov/REST/rxcui/7781.json)。相关条目：[地西泮](diazepam.md)、[氯氮䓬](chlordiazepoxide.md)、[劳拉西泮](lorazepam.md)。同通路叙事的可信度检查见 [劳拉西泮专题](../analysis/lorazepam-glucuronidation-claims.md)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

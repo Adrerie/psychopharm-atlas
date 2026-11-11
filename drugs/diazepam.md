@@ -163,4 +163,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05BA01`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA01)。[Wikidata Q210402](https://www.wikidata.org/wiki/Q210402)。[PubChem CID 3016](https://pubchem.ncbi.nlm.nih.gov/compound/3016)。[MeSH D003975](https://meshb.nlm.nih.gov/record/ui?ui=D003975)。[DrugBank DB00829](https://www.drugbank.ca/r/DB00829)。[RxNorm RXCUI 3322](https://rxnav.nlm.nih.gov/REST/rxcui/3322.json)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

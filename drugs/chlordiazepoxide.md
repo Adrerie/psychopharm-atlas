@@ -145,4 +145,5 @@
 
 **分类与身份**：[Wikidata Q178566](https://www.wikidata.org/wiki/Q178566)。[PubChem CID 2712](https://pubchem.ncbi.nlm.nih.gov/compound/2712)。[MeSH D002707](https://meshb.nlm.nih.gov/record/ui?ui=D002707)。[DrugBank DB00475](https://www.drugbank.ca/r/DB00475)。[RxNorm RXCUI 2356](https://rxnav.nlm.nih.gov/REST/rxcui/2356.json)。中文标签"氯氮䓬"（维基数据 zh，未核对监管核准名）。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

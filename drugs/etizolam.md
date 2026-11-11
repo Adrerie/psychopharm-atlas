@@ -143,4 +143,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05BA19`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA19)。[Wikidata Q409966](https://www.wikidata.org/wiki/Q409966)。[PubChem CID 3307](https://pubchem.ncbi.nlm.nih.gov/compound/3307)。[MeSH C044610](https://meshb.nlm.nih.gov/record/ui?ui=C044610)。[DrugBank DB09166](https://www.drugbank.ca/r/DB09166)。English Wikipedia（标题指针，未复制正文）：[Etizolam](https://en.wikipedia.org/wiki/Etizolam)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

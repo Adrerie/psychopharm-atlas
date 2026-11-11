@@ -141,4 +141,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05CD09`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CD09)。[Wikidata Q850074](https://www.wikidata.org/wiki/Q850074)。[PubChem CID 2451](https://pubchem.ncbi.nlm.nih.gov/compound/2451)。[MeSH C020960](https://meshb.nlm.nih.gov/record/ui?ui=C020960)。[DrugBank DB09017](https://www.drugbank.ca/r/DB09017)。[RxNorm RXCUI 19790](https://rxnav.nlm.nih.gov/REST/rxcui/19790.json)。English Wikipedia（标题指针，未复制正文）：[Brotizolam](https://en.wikipedia.org/wiki/Brotizolam)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

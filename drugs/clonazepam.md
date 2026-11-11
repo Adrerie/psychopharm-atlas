@@ -85,4 +85,5 @@
 
 **分类与身份**：[PubChem CID 2802](https://pubchem.ncbi.nlm.nih.gov/compound/2802)。[DrugBank DB00209（经 Wikidata，内容未核）](https://www.drugbank.ca/r/DB00209)。[Wikidata Q409455](https://www.wikidata.org/wiki/Q409455)。English Wikipedia（标题指针，未复制正文）：[Clonazepam](https://en.wikipedia.org/wiki/Clonazepam)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

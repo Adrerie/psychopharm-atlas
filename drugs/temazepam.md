@@ -104,4 +104,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05CD07`](https://atcddd.fhi.no/atc_ddd_index/?code=N05CD07)。[Wikidata Q414796](https://www.wikidata.org/wiki/Q414796)。[PubChem CID 5391](https://pubchem.ncbi.nlm.nih.gov/compound/5391)。[MeSH D013693](https://meshb.nlm.nih.gov/record/ui?ui=D013693)。[DrugBank DB00231](https://www.drugbank.ca/r/DB00231)。[RxNorm RXCUI 10355](https://rxnav.nlm.nih.gov/REST/rxcui/10355.json)。English Wikipedia（标题指针，未复制正文）：[Temazepam](https://en.wikipedia.org/wiki/Temazepam)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。

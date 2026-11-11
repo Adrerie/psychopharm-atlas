@@ -141,4 +141,5 @@
 
 **分类与身份**：[WHO ATC/DDD Index `N05BA22`](https://atcddd.fhi.no/atc_ddd_index/?code=N05BA22)。[Wikidata Q4385221](https://www.wikidata.org/wiki/Q4385221)。[PubChem CID 2816](https://pubchem.ncbi.nlm.nih.gov/compound/2816)。[DrugBank DB01553](https://www.drugbank.ca/r/DB01553)。[RxNorm RXCUI 21311](https://rxnav.nlm.nih.gov/REST/rxcui/21311.json)。[KEGG DRUG D01268](https://www.kegg.jp/entry/D01268)。English Wikipedia（标题指针，未复制正文）：[Cloxazolam](https://en.wikipedia.org/wiki/Cloxazolam)。
 
+- 停药与依赖的跨档案边界见 [benzodiazepine-withdrawal-label-boundaries.md](../analysis/benzodiazepine-withdrawal-label-boundaries.md)（标签形态、事件率来源与不可外推清单）。
 统计与缺口见 [目录索引](../catalog/index.md)。
