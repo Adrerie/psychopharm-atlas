@@ -1014,3 +1014,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 **日本 PMDA 第九批（同日）**：再检索 10 个日文名，4 份写入收载适应症与剂量要点（dimenhydrinate、caffeine、naloxone、flumazenil），midazolam 经重试补入儿童麻醉前口服制剂标签。flunarizine、cinnarizine、meclizine、naltrexone 在该检索口径下为 0 结果，scopolamine 命中丁溴东莨菪碱，均未写入。
 **日本 PMDA 第十批（同日）**：再检索 10 个日文名，6 份写入收载适应症与剂量要点（clobazam、vortioxetine、daridorexant、potassium-clorazepate、thiopental、pentobarbital）。agomelatine、desvenlafaxine、cariprazine、bupropion 在该检索口径下为 0 结果。thiopental 的日本标签收载精神科电休克治疗的麻醉与麻醉面谈，按原文记录。
 **境外生产药品补检索（同日）**：对 109 份已有境内批准记录的已审阅档案查境外生产药品库，69 份取得响应，31 份命中并写入 HJ 批准文号示例（表见 [逐名监管检索记录](catalog/retrieval-log-2026-11.md)）。其余 40 份当日再次遇到限流，未取得结果。
+**PMDA 制剂分型补检索（同日）**：haloperidol 与 paliperidone 的首条结果分别为癸酸酯肌注与长效注射剂标签，追加解析同次检索的其余 XML，补入口服片剂标签（haloperidol 0.75–2.25 mg/日起始、维持 3–6 mg/日；paliperidone 口服缓释片 6 mg 每日 1 次、上限 12 mg/日），两份档案同时标注两种制剂。NMPA 境外生产药品剩余 40 份当日仍受限流，未取得结果。
