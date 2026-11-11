@@ -14,7 +14,7 @@
 | 主要剂型 | 美国：缓释片 25／50／100 mg（每片含 38／76／152 mg 琥珀酸去甲文拉法辛，`US-PRISTIQ` §11）；整片吞服，**不可分、碾、嚼或溶化**（§2.1）。50 mg 既是起始量也是治疗量，25 mg 用于减停与重度／终末期肾病给药（§2.1） |
 | 关键药代摘要 | 50–600 mg 单次给药呈线性、剂量成比例；一日一次约 **4–5 天达稳态**（§12.3）。主要经**结合代谢（UGT）**，次要经氧化（CYP3A4 介导 N-去甲基化）、尿中以葡萄糖醛酸结合物约 19%、原型与少量氧化代谢物排出（§12.3）。**标签未给消除半衰期数值**，故本条目不写 半衰期 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐一核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"desvenlafaxine／去甲文拉法辛"；芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查并经 RDKit 复核亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
-| 主要法域批准状态 | **美国**：`US-PRISTIQ` §1 **仅**批准成人重度抑郁障碍（MDD），黑框与 §8.4 记**未批准用于儿科患者**；标签内**无** GAD／SAD／PD／疼痛等第二适应证（不得由文拉法辛继承）。**英国**：emc 检索 desvenlafaxine 返回 **0 条现行产品**。**法国**：BDPM 按 Pristiq／Desvenlafaxine 前缀均 **0 条**。**中国**：上市与核准适应证待核实（§10） |
+| 主要法域批准状态 | **美国**：`US-PRISTIQ` §1 **仅**批准成人重度抑郁障碍（MDD），黑框与 §8.4 记**未批准用于儿科患者**；标签内**无** GAD／SAD／PD／疼痛等第二适应证（不得由文拉法辛继承）。**英国**：emc 检索 desvenlafaxine 返回 **0 条现行产品**。**法国**：BDPM 按 Pristiq／Desvenlafaxine 前缀均 **0 条**。**中国**：上市与核准适应证待核实（§10）。 澳大利亚（TGA ARTG，2026-11-11）：按药名检索命中 97 条，ARTG 条目示例为 ARTG ID 439470（DESVENLAFAXINE VIATRIS desvenlafaxine 100 mg extended release tablet blister pack）。 加拿大（Health Canada DPD，2026-11-11）：按活性成分检索命中 28 条，Marketed 状态示例为 DIN 02525615（ANGITA PHARMA INC.，AG-DESVENLAFAXINE）。 |
 | 身份与统计 | WHO ATC `N06AX23`；DDD **50 mg／日口服**（统计指标，非处方剂量）、Wikidata [Q2419445](https://www.wikidata.org/wiki/Q2419445)、PubChem [125017](https://pubchem.ncbi.nlm.nih.gov/compound/125017)、DrugBank [DB06700](https://www.drugbank.ca/r/DB06700)、RxNorm 物质级 [734064](https://rxnav.nlm.nih.gov/REST/rxcui/734064.json)（产品级另见 790267／790290 等，层级不同勿混用）、别名 O-desmethylvenlafaxine、ODV、WY-45233、研究代号见 §11 |
 
 ## 2. 评分

@@ -572,7 +572,7 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 
 ### 4.3 已审阅档案的澳大利亚 TGA ARTG 补检索（2026-11-11）
 
-按药名检索 TGA 网站，解析结果中的 ARTG 条目，20 份档案写入首个非撤销条目。lithium carbonate 的 14 条结果中未见 ARTG 条目，未写入。
+按药名检索 TGA 网站，解析结果中的 ARTG 条目，22 份档案写入首个非撤销条目。lithium carbonate 的 14 条结果中未见 ARTG 条目，未写入。
 
 | 档案 | 检索命中条数 | ARTG ID | 条目名称 |
 | --- | ---: | --- | --- |
@@ -596,6 +596,58 @@ haloperidol 与 paliperidone 的首条 PMDA 结果分别是癸酸酯肌注与长
 | donepezil | 117 | 308452 | NOUMED DONEPEZIL donepezil hydrochloride (as monohydrate) 5 mg film-coated tablet blister pack |
 | memantine | 71 | 201740 | MEMANTINE RANBAXY memantine hydrochloride 10 mg tablet blister pack |
 | methylphenidate | 92 | 520480 | ATENZA XR methylphenidate hydrochloride 54 mg modified release tablet bottle |
+| acamprosate | 8 | 298641 | ACAMPROSATE VIATRIS acamprosate calcium 333 mg enteric coated tablet blister pack |
+| varenicline | 127 | 521250 | Blooms The Chemist Varenicline 0.5 mg varenicline (as tartrate) tablets and 1.0 mg varenicline (as tartrate) tablets composite blister pack |
+
+### 4.4 澳大利亚 TGA ARTG 第二批（2026-11-11）
+
+继续按药名检索 TGA 网站，16 份档案写入首个非撤销 ARTG 条目。flupentixol、zuclopenthixol、pimozide、trifluoperazine、perphenazine、fluphenazine、disulfiram、hydroxyzine 本次未解析到 ARTG 条目。
+
+| 档案 | 检索命中条数 | ARTG ID | 条目名称 |
+| --- | ---: | --- | --- |
+| citalopram | 205 | 441616 | PPA CITALOPRAM citalopram (as hydrobromide) 10 mg tablet bottle |
+| escitalopram | 255 | 407939 | BLOOMS ESCITALOPRAM escitalopram (as oxalate) 10 mg film-coated tablet blister pack |
+| paroxetine | 70 | 393217 | BLOOMS THE CHEMIST PAROXETINE paroxetine (as hydrochloride) 20mg tablet blister pack |
+| fluvoxamine | 26 | 147396 | Fluvoxamine-WGR fluvoxamine maleate 50 mg tablet blister pack |
+| duloxetine | 186 | 472706 | BLOOMS THE CHEMIST DULOXETINE duloxetine (as hydrochloride) 60 mg enteric capsule blister pack |
+| desvenlafaxine | 97 | 439470 | DESVENLAFAXINE VIATRIS desvenlafaxine 100 mg extended release tablet blister pack |
+| vortioxetine | 10 | 203986 | BRINTELLIX vortioxetine (as hydrobromide) 5 mg film-coated tablet blister pack |
+| agomelatine | 26 | 439352 | AGOMELATINE-WGR agomelatine 25 mg film coated tablet blister pack. |
+| cariprazine | 10 | 325478 | REAGILA cariprazine (as hydrochloride) 3 mg hard capsule blister pack |
+| brexpiprazole | 14 | 273224 | REXULTI brexpiprazole 4 mg film coated tablet blister pack |
+| ziprasidone | 97 | 408532 | ZELDOX IM ziprasidone (as mesilate) 20 mg powder for injection vial |
+| lisdexamfetamine | 33 | 406917 | ACTAVANZ lisdexamfetamine dimesilate 30 mg capsules bottle |
+| galantamine | 64 | 425031 | GALANTAMINE-RJIC XR galantamine (as hydrobromide) 8mg modified release capsules blister pack |
+| rivastigmine | 129 | 273562 | RIVASTIGMINE GxP PATCH 15 rivastigmine 13.3 mg/24 hours transdermal drug delivery system sachet |
+| naltrexone | 28 | 504108 | NALTREXONE SUN naltrexone hydrochloride 50 mg tablet bottle |
+| buspirone | 7 | 422891 | ANKSILON buspirone hydrochloride 5 mg tablet blister pack |
+
+### 4.5 加拿大 DPD 第三批（2026-11-11）
+
+对 24 个活性成分检索 Health Canada DPD，19 份有 Marketed 状态产品并写入档案。agomelatine、phenelzine、isocarboxazid、armodafinil、suvorexant 的已捕获行未见 Marketed 示例，daridorexant 未完成检索，均未写入。
+
+| 档案 | 检索命中条数 | DIN | 企业 | 商品名 |
+| --- | ---: | --- | --- | --- |
+| cariprazine | 4 | 02526794 | ABBVIE CORPORATION | VRAYLAR |
+| brexpiprazole | 8 | 02461749 | OTSUKA PHARMACEUTICAL CO LTD | REXULTI |
+| ziprasidone | 20 | 02449544 | AURO PHARMA INC | AURO-ZIPRASIDONE |
+| flupentixol | 10 | 02156008 | LUNDBECK CANADA INC | FLUANXOL 0.5MG - TAB |
+| zuclopenthixol | 12 | 02230402 | LUNDBECK CANADA INC | CLOPIXOL |
+| pimozide | 8 | 02245432 | AA PHARMA INC | PIMOZIDE |
+| desvenlafaxine | 28 | 02525615 | ANGITA PHARMA INC. | AG-DESVENLAFAXINE |
+| vortioxetine | 8 | 02552744 | APOTEX INC | APO-VORTIOXETINE |
+| levomilnacipran | 8 | 02440970 | ABBVIE CORPORATION | FETZIMA |
+| vilazodone | 11 | 02551810 | APOTEX INC | APO-VILAZODONE |
+| tranylcypromine | 2 | 02542188 | MANTRA PHARMA INC | M-TRANYLCYPROMINE |
+| buspirone | 27 | 02550555 | AMBICARE PHARMACEUTICALS INC. | AMB-BUSPIRONE |
+| hydroxyzine | 29 | 00024694 | SEARCHLIGHT PHARMA INC | ATARAX |
+| propranolol | 62 | 02457857 | PIERRE FABRE DERMO-COSMETIQUE CANADA INC | HEMANGIOL |
+| buprenorphine | 38 | 02526301 | VETVIVA RICHTER GMBH | BUPAQ |
+| solriamfetol | 2 | 02515814 | AXSOME MALTA LTD. | SUNOSI |
+| pitolisant | 2 | 02516241 | KNIGHT THERAPEUTICS INC. | WAKIX |
+| lemborexant | 2 | 02507366 | EISAI LIMITED | DAYVIGO |
+| daridorexant | 2 | 02537443 | IDORSIA PHARMACEUTICALS LTD | QUVIVIQ |
+| daridorexant | 2 | 02537443 | IDORSIA PHARMACEUTICALS LTD | QUVIVIQ |
 
 ## 5. 未检索的档案
 

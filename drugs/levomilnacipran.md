@@ -14,7 +14,7 @@
 | 主要剂型 | 美国：缓释胶囊 20–120 mg，整粒吞服，**不可打开、嚼或碾**（§2.1）；可与食物同服或空腹。英国本次核查无现行产品文本 |
 | 关键药代摘要 | 主要经**肾脏以原型排泄**：口服 ¹⁴C‑左旋米那普仑后约 **58% 剂量以原形随尿排出**；去乙基化由 CYP3A4 催化、CYP2C8/2C19/2D6/2J2 贡献极小（§12.3）。本药不是 BCRP／OATP 底物。标签给出清除率 21–29 L/h，本条目不重算半衰期 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐一核对五份现行目录与增列公告，均未命中"levomilnacipran／左旋米那普仑"；芬太尼类、合成大麻素类、尼秦类、奥啡类四个整类按公告结构定义核查并经 RDKit 复核亦不落入。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
-| 主要法域批准状态 | **美国**：`US-FETZIMA` §1 **仅**批准成人 MDD，并**明确"Limitation of Use。本药未批准用于纤维肌痛管理，其在该用途的有效性与安全性未确立"**；黑框与 §8.4 记未批准儿科。**英国**：emc 检索 **0 条现行产品**。**法国**：BDPM 按 Fetzima／Levomilnacipran **0 条**。**中国**：上市与核准适应证待核实（§10） |
+| 主要法域批准状态 | **美国**：`US-FETZIMA` §1 **仅**批准成人 MDD，并**明确"Limitation of Use。本药未批准用于纤维肌痛管理，其在该用途的有效性与安全性未确立"**；黑框与 §8.4 记未批准儿科。**英国**：emc 检索 **0 条现行产品**。**法国**：BDPM 按 Fetzima／Levomilnacipran **0 条**。**中国**：上市与核准适应证待核实（§10）。 加拿大（Health Canada DPD，2026-11-11）：按活性成分检索命中 8 条，Marketed 状态示例为 DIN 02440970（ABBVIE CORPORATION，FETZIMA）。 |
 | 身份与统计 | WHO ATC `N06AX28`；DDD **40 mg／日口服**（统计指标，非处方剂量）。Wikidata [Q6535779](https://www.wikidata.org/wiki/Q6535779)。RxNorm [1433212](https://rxnav.nlm.nih.gov/REST/rxcui/1433212.json)。别名 F-2695、(1S,2R)-milnacipran。[ATC/DDD Index](https://atcddd.fhi.no/atc_ddd_index/?code=N06AX28)（PubChem／DrugBank 等物质标识本次核查未由已核实来源取得，不臆造） |
 
 ## 2. 评分
