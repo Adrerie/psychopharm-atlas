@@ -1024,6 +1024,18 @@ brexanolone 的存档页经 `dailymed/drugInfo.cfm?setid=…` 仍可读取全文
 状态合计：`reviewed` 249→252，`basic` 128→125，`indexed` 7 不变。
 
 
+### 4.33 basic 档案的加拿大 DPD 逐名检索（2026-11-12）
+
+对 128 份 `basic` 主档案逐个按活性成分检索 Health Canada DPD。命中 2 个术语。
+
+| 术语 | 命中 | 回读结论 |
+| --- | --- | --- |
+| ethchlorvynol | 3 条 | 均为 PLACIDYL 胶囊人用产品（200／500／750 mg，DIN 00000019、00000027、00228893，Abbott），状态全部为 Cancelled Post Market。已写入档案的加拿大行 |
+| acepromazine | 15 条 | 全部为兽用制剂（状态示例 Cancelled Post Market，DIN 00412996，AC PROMAZINE INJ 25MG/ML），未见人用产品记录。已按检索事实写入档案 |
+
+其余 126 份无记录。DPD 的零条只记作本次检索事实，不推断未上市。
+
+
 ## 5. 未检索的档案
 
 56 份 basic 档案没有可检出的日文名（代码名、中方特有品种与无日本语境条目），PMDA 不支持英文名检索，故未做 PMDA 逐名查询。其余法域仍以四库 0 条为检索事实。
