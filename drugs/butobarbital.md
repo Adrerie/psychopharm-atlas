@@ -1,6 +1,7 @@
 # butobarbital｜丁巴比妥（zh，维基数据标签，未核对监管核准名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（英国 NHS dm+d 的 Soneryl 供应状态核对，法国 BDPM 与美国现行库复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CA03`（WHO ATC/DDD Index 2026）  
+> 临床现状：`历史停用`（英国 NHS dm+d 记 Soneryl 为 Special Order、无持证在售产品。核查范围：UK／US／FR） ｜ 研究处置：`仅保留历史档案`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

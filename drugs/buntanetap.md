@@ -1,6 +1,7 @@
 # buntanetap｜buntanetap（开发代号 PTB006／ANVS401，即 posiphen，(+)-phenserine 对映体；Annovis Bio 在研口服小分子，未检得可核验批准记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（公司 2026 年开发进度公告，美英欧与 ClinicalTrials.gov 复核，身份 2026-11-05）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> 临床现状：`待核实`（AD III 期仍在登记框架内推进但不再入组，无批准记录。核查范围：US／EU／CN） ｜ 研究处置：`继续研究`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

@@ -1,6 +1,7 @@
 # acetophenazine｜中文名待核实（骨架未收录中文标签，本条不自行拟定译名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`N05AB07`（WHO ATC/DDD Index 2026）  
+> 临床现状：`待核实`（美国现行标签与申请库无记录，历史 Tindal 产品未取得撤销文件。核查范围：US／FR／ES） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`OPENFDA`＝美国 openFDA 三类检索（2026-10-25 执行，均返回 HTTP 404 NOT_FOUND，即无匹配记录）：`/drug/label.json?search=openfda.generic_name:"acetophenazine"`、同式 `openfda.active_ingredient` 与 `openfda.brand_name`、`/drug/ndc.json`（通用名）、`/drug/drugsfda.json`（通用名）。`DAILYMED`＝DailyMed v2 `spls.json?drug_name=acetophenazine`，本次核查经页面抓取确认 `total_elements＝0`。`FR-BDPM`＝法国公共药品数据库字母序接口 `startBy＝ACETOPH／BUTAP／MOD／MUS／BAR／DIX`（2026-10-25，本药相关前缀 0 行）。`ES-CIMA`＝西班牙 Aemps CIMA REST `nombre＝acetophenazine／acetofenazina／tenoate`（`totalFilas＝0`）。`UK-EMC`＝英国 emc 检索页（服务端不返回结果块，未取得可核对的产品清单）。`KEGG-D00788`＝KEGG DRUG 条目 D00788（Acetophenazine maleate，USAN，商品名标注 Tindal，属收载/转录页，**不是监管原件**）。`PUBCHEM-ID`＝PubChem 名称检索返回的分子式与系统名。`PMID:……`＝PubMed。**核心缺口**：未取得任何法域的现行或历史官方说明书／监管决定文本，故保持 `basic`（§10 第 1、2 项）。

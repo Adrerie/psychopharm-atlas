@@ -1,6 +1,7 @@
 # emepronium｜埃美溴铵（抗毒蕈碱类下尿路用药，WHO ATC 仍收载；未取到任何法域的现行监管说明书，故按历史药物与文献证据建档）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`G04BD01`（WHO ATC/DDD Index 2026，`G04BD` 子组页行原文 `G04BD01 emepronium`，DDD **0.5 g 口服（O）＋75 mg 给药途径 P**，页面脚注 Last updated 2026-01-20）  
+> 临床现状：`待核实`（英美现行库无产品，正式撤销与停供文件未取得。核查范围：US／UK） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`ATC-G04BD`＝WHO ATC/DDD 索引 `G04BD` 子组页（Last updated 2026-01-20）。`DM-0`＝DailyMed `services/v2/spls.json?drug_name=emepronium` 返回 0 条现行条目（检索日期 2026-11-06）。`EMC-0`＝英国 emc 产品检索无现行条目（同日）。`PMID:…`＝PubMed 记录（题名、期刊与年份已逐条经 esummary 复核）。

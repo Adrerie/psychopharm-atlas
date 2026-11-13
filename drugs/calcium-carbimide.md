@@ -1,6 +1,7 @@
 # calcium-carbimide｜卡巴米得钙（英文名 Carbimide／Calcium Carbimide；主体身份按 WHO ATC N07BB02 与 PubChem CID 56955933 记录；历史产品名称 Temposil 的监管数据库记录见 §10）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域复核，WHO ATC `N07BB02` 码页复核，美国 DailyMed 与英国 emc 按通用名检索，法国 BDPM 未单独立项核验，中国四份管制目录逐名检索，未获得任何现行核准说明书正文，故不升级 `reviewed`）｜ ATC：`N07BB02`（WHO ATC/DDD Index 2026）  
+> 临床现状：`历史停用`（加拿大 DPD 记 TEMPOSIL 于 1999-04-12 Cancelled Post Market。核查范围：CA／US／UK） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`ATC-B02`＝WHO ATC/DDD 索引 `N07BB02` 码页（原文"N07BB02 calcium carbimide"，无 DDD、无给药途径字母。页面脚注 Last updated 2026-01-20）。`DM-0`＝DailyMed 现行 SPL 接口检索（spls.json?drug_name=carbimide，2026-11-03，data[] 为空。检索事实）。`EMC-0`＝英国 emc 检索 q=carbimide，no products found（检索事实）。`PMID:42753357`＝SOGC 临床实践指南 No.471（Alcohol and Pregnancy，J Obstet Gynaecol Can 2026）。`PCID`＝PubChem CID 56955933（calcium carbimide）。`HC-DPD`＝Health Canada Drug Product Database 历史产品记录 TEMPOSIL TAB 50MG，DIN 00014958，原始上市日 1959-12-31，1999-04-12 标记 Cancelled Post Market。`FDA-SRS`＝FDA Substance Registration System，UNII 21ZCD2AA4H（CALCIUM CYANAMIDE CITRATED，官方同义名映射含 TEMPOSIL）。`EMA-ALCOVER`＝EMA 官方页面确认 Alcover 175 mg/ml 的活性成分为 sodium oxybate，不属于 calcium carbimide。`PMID:……`＝PubMed。本实体的四项人体研究为 `PMID:2673441`（1989 随机双盲安慰剂对照交叉试验，疗效端）、`PMID:2688764`（同试验医学检查端）、`PMID:1543940`（1992 复饮预防咨询随机试验）、`PMID:16433735`（2006 门诊长期队列，与双硫仑合并暴露）。氰胺（cyanamide，本实体的母体／活性分子，属另一注册实体）相关为 `PMID:12554608`、`PMID:15991038`。二手聚合库（DrugBank 等）仅用于形成检索线索，其陈述未作为本档案任何监管结论的依据。§N 指所引正文章节号。

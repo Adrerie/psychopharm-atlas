@@ -1,6 +1,7 @@
 # dixyrazine｜中文名待核实（骨架未收录中文标签，本条不自行拟定译名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AB01`（WHO ATC/DDD Index 2026）  
+> 临床现状：`历史停用`（瑞典 Esucos 于 2007 年春注销，现行库无产品。核查范围：SE／DK／US） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`OPENFDA`＝美国 openFDA 检索（2026-10-25）：`/drug/label.json` 按 `openfda.generic_name`、`openfda.active_ingredient`、`openfda.brand_name`＝"dixyrazine／dixiryl／esucos／roxicopan"，`/drug/ndc.json` 与 `/drug/drugsfda.json` 按通用名，**均返回 HTTP 404 NOT_FOUND**。`US-DAILYMED`＝DailyMed v2 `spls.json?drug_name=dixyrazine`（脚本访问返回 JS 验证页，未取得 `total_elements`）。`FR-BDPM`＝法国公共药品数据库字母序接口 `startBy＝DIXIR／DIX`（**0 行**）。`ES-CIMA`＝西班牙 Aemps CIMA REST `nombre＝dixyrazine／dixirilo`（`totalFilas＝0`）。`UK-EMC`＝英国 emc 检索页（客户端渲染，未取得产品清单）。`KEGG-D07865`＝KEGG DRUG 条目（Dixyrazine。商品名标注 Esucos，属收载／转录页，**不是监管原件**）。`PUBCHEM-ID`＝PubChem 名称检索的分子式与系统名。`PMID:……`＝PubMed。**核心缺口**：未取得任何法域的现行或历史官方说明书／监管文本，尤其**比利时（本药原产市场，商品名 Esucos／UCB）的授权与停售记录未取回**，故保持 `basic`。

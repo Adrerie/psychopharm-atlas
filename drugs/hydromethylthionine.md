@@ -1,6 +1,7 @@
 # hydromethylthionine｜氢甲硫堇（Hydromethylthionine；III 期与上市申请阶段的在研实体，与"亚甲蓝／methylthioninium chloride"是不同实体与不同用途）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（WHO ATC 亚组页、DailyMed 两条名称检索、ClinicalTrials.gov v2 逐条登记状态与结果张贴情况、可校验题名的试验／药代文献、EMA 上"甲硫堇氯化物"条目页的适应证原文口径、中国四份管制目录逐名检索）｜ ATC：`N06DX07`（hydromethylthionine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
+> 临床现状：`待核实`（无任何法域批准记录，III 期结果未支持注册推进。核查范围：EU／US／UK） ｜ 研究处置：`继续研究`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

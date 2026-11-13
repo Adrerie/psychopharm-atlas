@@ -1,6 +1,7 @@
 # zatolmilast｜赞托米尔司特（zatolmilast，研发代号 BPN14770；未检得可核验上市记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：无 ATC 编码（WHO ATC/DDD Index 2026 未收载"zatolmilast"与"BPN14770"，检索方式见 §10 第 1 项）  
+> 临床现状：`待核实`（无任何法域批准记录，II 期进行中。核查范围：US／EU） ｜ 研究处置：`继续研究`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`NCT……`＝ClinicalTrials.gov 登记（状态、起止、是否张贴结果，检索日期 2026-11-05）。`PMID:…`＝PubMed（题名已用 esummary 校验相符）。`SIO-PR-2407`＝Shionogi & Co., Ltd. 2024-07-18 关于 zatolmilast 研发进展的公告。`SHIO-CTR`＝登记条目中 Shionogi 名义的申办记录。§N 指本档案正文章节号。**本药在任何法域均无现行产品文本。AD 方向只有一条已完成的二期读出，因此本页按"候选＋一项阴性 AD 二期"定位，不写任何现行疗效结论。**

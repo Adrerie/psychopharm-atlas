@@ -1,6 +1,7 @@
 # levacetylmethadol｜左醋美沙酮／醋美沙朵左旋体（LAAM、levomethadyl acetate；Orlaam）（**历史批准、当前不可获得**）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（美国批准与撤销的公告日／生效日逐条回查 Federal Register 与 govinfo 全文、欧盟 EMA 页面与 2001 年暂停建议声明、WHO ATC 收录与 DDD 缺项、DEA 与 21 CFR 异构体分档、中国四份目录逐名检索与立体异构体扩展链、PubMed 随机试验与 Cochrane 系统评价）｜ ATC：`N07BC03`（WHO ATC/DDD Index 2026）  
+> 临床现状：`已淘汰（人用）`（依据：美国 NDA 20-315 于 2011 年撤销，欧盟上市许可已终止。核查范围：US／EU） ｜ 研究处置：`仅保留历史档案`
 > 2026-11-10 复核：跨法域检索与现行文本复查，历史检索日期保留在原处。
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

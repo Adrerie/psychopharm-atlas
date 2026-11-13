@@ -1,6 +1,7 @@
 # sodium-oligomannate｜甘露特钠（sodium oligomannate，代号 GV-971，商品名"九期一"；曾获中国附条件批准、注册证到期后的再注册状态待官方文书核实）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（openFDA／DailyMed／emc 仍 0 条，2026-11-05 完成 WHO ATC/DDD 2026 的 N06D 各亚组页逐页回读，DailyMed／英国 emc／EMA 检索，ClinicalTrials.gov v2 三项登记条目逐项回读，NMPA 2019 年批准公告经转载页核对到文字层、2025 年再注册事件经多个转载页交叉核对，NMPA 与 CDE 官方入口对本机不可访问，中国四份现行管制目录逐名检索）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> 临床现状：`历史停用`（中国注册证书 2024-11-02 到期未续，2024-11 起停产。核查范围：CN／US／EU） ｜ 研究处置：`仅保留历史档案`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

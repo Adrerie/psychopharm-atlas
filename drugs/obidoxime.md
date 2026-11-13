@@ -1,6 +1,7 @@
 # obidoxime｜双复磷（Obidoxime／Obidoxime chloride，双吡啶肟类胆碱酯酶复活剂；ATC 官方条目名 obidoxime，`V03AB13`。**未取到任何现行监管文本正文**，档案为文献口径，中文核准名待核实）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（DailyMed `drug_name=obidoxime` 命中数、WHO ATC V03AB 亚组页与组注、PubChem 身份检索、PubMed 检索与摘要级回读（含两篇 obidoxime 人体系列与一项荟萃分析）、中国四份管制目录＋2026-07-01 十六项增列附表逐名核对）｜ ATC：`V03AB13`（WHO ATC/DDD Index 2026）  
+> 临床现状：`地区性人用`（德国 Toxogonin 现行产品信息（2025）） ｜ 研究处置：`有限补证`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 

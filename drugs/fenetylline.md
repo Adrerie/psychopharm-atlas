@@ -1,6 +1,7 @@
 # fenetylline｜苯甲锡林（维基数据中文标签，zh；中国 2025 年版非药用类目录用名"芬乙茶碱"）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06BA10`（WHO ATC/DDD Index 2026）  
+> 临床现状：`历史停用`（美国 CSA 列为附表一，现行库无产品。核查范围：US／UK／FR） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-CFR-SI`＝美国 **21 CFR 1308.11(f)(7)**「Schedule I — Stimulants」中 *Fenethylline*（DEA 药物代码 1503）现行条文，取自 eCFR 2026-01-01 生效版快照。`UK-MDA`＝英国《1971 年药物滥用法》（Misuse of Drugs Act 1971）**附表 2 第 III 部（Class C Drugs）第 1 段**列名物质 *Fenethylline*，取自 legislation.gov.uk 现行合并文本。`PMID:……`＝PubMed。本药**没有任何法域的现行产品说明书**，故下文不出现说明书章节号（§N）。§N 仅用于他所引文件的章节。

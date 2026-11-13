@@ -1,6 +1,7 @@
 # thiopropazate｜中文名待核实（骨架与维基数据均未给中文标签，本条不自行拟定译名；德语别名 Thiopropazat）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`N05AB05`（WHO ATC/DDD Index 2026）  
+> 临床现状：`历史停用`（现行美英法药品库无产品，仅有 1970 年代复方审评记录。核查范围：US／UK／FR） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：本药**未取得任何法域的说明书正文**（现行或历史）。因此没有 `XX-LABEL` 键。可引证据：`ATC-05`＝WHO ATC/DDD 索引 `N05AB05` 页（Last updated 2026-01-20，同页列出同亚组的 thioproperazine 为 `N05AB08`）。`MESH-C100194`＝MeSH 补充记录 C100194（词表 thiopropazate、thiopropazate dihydrochloride、thiopropazate ion (+1)，检索注记"major descriptor 73–85，on-line search PHENOTHIAZINES (66–85)"）。`MESH-C005935`＝MeSH 记录 Vesitan（scope note"contains thiopropazate & chlorphencyclan"，登记号 8063-62-5）。`KEGG-D09216`＝KEGG DRUG D09216（Thiopropazate (INN)，无商品名注记）。`PUBCHEM-ID`＝PubChem CID 6762 性质节。`US-NEG`＝美国检索（2026-10-28 实测）。openFDA 人用标签、NDC 目录与 Drugs@FDA 按成分名均为"无记录"，DailyMed `drug_name=thiopropazate` 与 `drug_name=Dartal` 均 `total_elements＝0`。`FR-BDPM`／`ES-CIMA`＝法国 BDPM（THIOPROPAZATE、DARTAL 各 0 条）与西班牙 CIMA（totalFilas＝0）。`UK-EMC`＝英国 emc（结果列表由脚本渲染，未取得产品清单）。`DEA-ALPHA`＝DEA《管制物质字母表》（本次核查按名未命中）。`FR-DESI`＝联邦公报 DESI 执行公告（口服抗胆碱能或解痉药与镇静药的复方及单方解痉药，听证请求撤回与最终决议，Docket FDA-1975-N-0336，2022-04-25 发布并于同日适用）。`HISA-2022`＝联邦公报 HISA 赛马用药管制规则通知（2022-10-28 发布、2023-01-01 生效，另有 2023-01-26 通知）。`PMID:……`＝PubMed。

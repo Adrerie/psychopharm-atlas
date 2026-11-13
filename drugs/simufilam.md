@@ -1,6 +1,7 @@
 # simufilam｜simufilam（研发代号 PTI-125，历史编号 C-0105；中文核准名待核实，从未在任何法域获批，故无核准中文名称）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域复核，WHO ATC/DDD 2026 的 N06DA／N06DX 亚组页逐页回读，DailyMed 现行 SPL 接口按本药名检索，Drugs@FDA 接口按申办方名检索，英国 emc 检索，ClinicalTrials.gov v2 单条记录逐项回读九项试验的状态、张贴结果与不良事件模块，PubChem 物质记录，中国四份现行管制目录逐名检索）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组 N06DA／N06DX 逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> 临床现状：`待核实`（两项 III 期共同主要终点阴性，无批准记录。核查范围：US／EU） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PC-46195331`＝PubChem 物质记录 CID 46195331（CAS 1224591-33-6。同义名含 PTI-125、C-0105）。`CT-5026177`＝ClinicalTrials.gov NCT05026177（RETHINK-ALZ，申办方方案号 PTI-125-07），2026-11-05 经接口 `api/v2/studies/NCT05026177` 回读。`CT-4994483`＝NCT04994483（REFOCUS-ALZ，PTI-125-06），同一接口回读。`CT-5575076`／`CT-5352763`＝两项开放标签延伸研究。`CT-3748706`／`CT-4079803`／`CT-4388254`＝II 期与 IIb 期历史研究。`DM-0`＝DailyMed `services/v2/spls.json?drug_name=simufilam` 返回 0 条（检索事实）。`DAF-0`＝`api.fda.gov/drug/drugsfda.json?search=sponsor_name:"Cassava Sciences"` 与 `openfda.sponsor_name:"Cassava Sciences"` 均返回 HTTP 404（无匹配记录，检索事实）。`EMC-0`＝英国 emc 按 `simufilam` 与 `PTI-125` 检索均未解析出产品条目（检索事实）。`JPAD2026`＝登记记录文献指针（referencesModule 派生条目）"Kupiec JW, et al. Phase 3 randomized clinical trials of simufilam in mild-to-moderate Alzheimer's disease. *J Prev Alzheimers Dis*. 2026"，本次核查仅核对到题名层。§N 指所引正文章节号。

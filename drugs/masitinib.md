@@ -1,6 +1,7 @@
 # masitinib｜马赛替尼（masitinib，AB1010；AB Science 的酪氨酸激酶抑制剂，AD 方向在研，未检得可核验批准记录）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ **无 ATC 编码**（WHO ATC/DDD Index 2026 的 N06D 及其亚组逐项不含本实体，页面脚注 Last updated 2026-01-20，检索日期 2026-11-05）  
+> 临床现状：`待核实`（AD 方向无批准记录，非 AD 适应证的个别法域批准传闻待核实。核查范围：EU／US／FR） ｜ 研究处置：`继续研究`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`PC-10074640`＝PubChem CID 10074640（CAS 790299-79-5，同义名 AB1010，UNII M59NC4E26P）。`CT-1872598`＝NCT01872598（AD III 期，COMPLETED，2012-01 起、主完成 2020-12（实际），**无张贴结果**，登记主要终点为 24 周 ADCS-ADL 与 ADAS-Cog）。`CT-5564169`＝NCT05564169（新 AD III 期，NOT_YET_RECRUITING，2026-06 起、主完成 2028-12（预计），登记主要终点为 24 周 iADRS 绝对变化）。`CT-976118`＝NCT00976118（II 期，COMPLETED）。`PIPELINE-2026`＝Cummings JL et al., *Alzheimer's disease drug development pipeline: 2026*（PMID:42095064，表行逐字核对。DTT，Inflammation，"Tyrosine kinase inhibitor to activate lyn/fyn and reduce activation of microglial cells"，Jun 2026→Dec 2028）。`DM-0`＝DailyMed `drug_name=masitinib` 返回 0 条（检索事实）。`SPONSOR`＝登记牵头申办方 AB Science SA。§N 指所引正文章节号。

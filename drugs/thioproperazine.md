@@ -1,6 +1,7 @@
 # thioproperazine｜中文名待核实（骨架未收录中文标签，本条不自行拟定译名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（法国 ANSM 药品目录与加拿大药品数据库的授权与撤市记录，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AB08`（WHO ATC/DDD Index 2026）  
+> 临床现状：`已淘汰（人用）`（依据：法国 ANSM 记授权注销，加拿大 DPD 记 Discontinué。核查范围：FR／CA） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`OPENFDA`＝美国 openFDA 检索（2026-10-25）：`/drug/label.json` 按 `openfda.generic_name`，`openfda.active_ingredient`，`openfda.brand_name`＝"thioproperazine／majeptil／mustine／mustio"，`/drug/ndc.json` 与 `/drug/drugsfda.json` 按通用名，**均返回 HTTP 404 NOT_FOUND**。`DAILYMED`＝DailyMed v2 `spls.json?drug_name=thioproperazine`，经页面抓取确认 **`total_elements＝0`**。`FR-ANSM`＝法国 ANSM 药品目录（Répertoire des Spécialités Pharmaceutiques）MAJEPTIL 两条记录（CIS 68005580 与 61914512）。`FR-BDPM`＝法国公共药品数据库字母序接口（`startBy＝MAJEPTIL` 与 `THIOPROPERAZINE` 均 0 行，与 AMM 已注销一致）。`CA-DPD`＝加拿大退伍军人事务部药品条目（DIN 01927639）与市场状态说明。`ES-CIMA`＝西班牙 Aemps CIMA REST `nombre＝tioproperazina`（0 条）。`UK-EMC`＝英国 emc 检索（0 条）。`KEGG-D01447`／`KEGG-D08585`＝KEGG DRUG 条目（Thioproperazine mesilate，JAN。INN 见 D08585。属收载／转录页，**不是监管原件**）。`PUBCHEM-ID`＝PubChem 按名称检索的 CID、分子式、系统名与同义词名单（**本条用它核实了两个致命同音陷阱**，见下）。`PMID:……`＝PubMed。**核心缺口**：未取得任何法域的现行说明书。法国与加拿大的官方记录表明本药已无现行批准，故保持 `basic`。

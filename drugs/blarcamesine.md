@@ -1,6 +1,7 @@
 # blarcamesine｜布拉卡美辛（Blarcamesine；研发代号 ANAVEX2-73／AE-37；在研小分子，未取得任何法域的现行批准文本，批准状态待核实）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（EMA 拒绝上市许可意见文件，公司撤回公告，美英中现行库复核，身份 2026-11-05）｜ ATC：`N06DX06`（blarcamesine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
+> 临床现状：`待核实`（EMA 人用药品委员会拒绝上市许可，公司撤回申请。核查范围：EU／US／UK） ｜ 研究处置：`继续研究`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
