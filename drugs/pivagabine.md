@@ -82,7 +82,7 @@
 5. **symposium 偏倚**：1997 年 Arzneimittelforschung 专辑由厂商（ACRAF）医学部参与撰写（`PMID:9450153` 作者供职 ACRAF），效果类研究需按此背景打折。
 6. **无 DDD**。900/1800 mg 为试验剂量。
 7. **中国注册信息待核实**。中国管制字段沿用 2026-10-06 已审计结论，不重跑。
-8. **状态判定**：无可核监管文本、确证证据缺位，保留 `basic`。
+8. **状态判定**：意大利授权撤销已有正式法令支持；现行产品与临床使用仍缺其他法域的正面资料。档案保持 `basic`，原因是没有现行或历史说明书正文，不是缺少意大利撤销记录。
 
 - **2026-11-10 复核**：意大利 [1998-06-19 卫生部法令（Gazzetta Ufficiale 1998-06-27）](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=1998-06-27&atto.codiceRedazionale=098A5516&tipoSerie=serie_generale&tipoVigenza=originario) 记载应 Angelini 撤回申请撤销 Tonerg（pivagabine）的上市许可。这是撤市记录而非说明书，故仍无可引现行文本。美国、英国、法国、西班牙四库仍 0 条。
 
