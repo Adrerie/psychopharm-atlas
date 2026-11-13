@@ -1,15 +1,19 @@
-# 接手说明 | Psychopharm Atlas · Wave 16 收尾（2026-11-10）
+# 接手说明 | Psychopharm Atlas · Wave 16 收尾（2026-11-13）
 
 本文件只汇总**接手所需事实与未决问题**，不启动新任务，也不增加新流程。后续维护以 GitHub `main` 为唯一基线，先读 [AGENTS.md](AGENTS.md)、[SCORING.md](SCORING.md)、[SOURCES.md](SOURCES.md)、[PLAN.md](PLAN.md)。
 
 ## 当前完成度
 
-- 药物主档案：**384** 份（核心六组 280，跨组 104）。状态 **249 reviewed / 7 indexed / 128 basic**。
+- 药物主档案：**384** 份（核心六组 280，跨组 104）。状态 **252 reviewed / 7 indexed / 125 basic**。
 - 跨组选录目录：**91** 条，其中 **89** 条已建档。余下 `N07BC51` 和 `N06DA53` 仅为尚无可核验具体产品的复方分类记录，**不计为缺失药品**。
 - 专题分析：`analysis/` **30** 份，采用问题导向，未设配额。索引见 [catalog/analyses.md](catalog/analyses.md)（按问题类型分组，含建立日期与主条目数）。2026-11-11 新增 [benzodiazepine-withdrawal-label-boundaries.md](analysis/benzodiazepine-withdrawal-label-boundaries.md)（苯二氮䓬类停药）、[qt-thresholds-label-boundaries.md](analysis/qt-thresholds-label-boundaries.md)（QT 阈值与监测流程）、[anticholinergic-burden-evidence-layers.md](analysis/anticholinergic-burden-evidence-layers.md)（抗胆碱能负担的四层证据）、[drug-vs-supplement-identity-layers.md](analysis/drug-vs-supplement-identity-layers.md)（药品与膳食补充剂的注册层边界）、[antidepressant-discontinuation-label-boundaries.md](analysis/antidepressant-discontinuation-label-boundaries.md)（抗抑郁药停药症状与发生率边界）、[racetams-approval-vs-evidence.md](analysis/racetams-approval-vs-evidence.md)（拉西坦类促智药的批准与证据边界）、[pim-standards-trigger-and-local-rates.md](analysis/pim-standards-trigger-and-local-rates.md)（老年 PIM 标准的分级与本地占比边界）、[antipsychotic-metabolic-burden-layers.md](analysis/antipsychotic-metabolic-burden-layers.md)（抗精神病药代谢负担的三层证据边界）、[hyponatremia-denominators-and-monitoring.md](analysis/hyponatremia-denominators-and-monitoring.md)（低钠血症的分母与监测边界）、[eps-td-dose-links-and-anticholinergic-boundary.md](analysis/eps-td-dose-links-and-anticholinergic-boundary.md)（EPS 与迟发性运动障碍）、[seizure-threshold-therapeutic-overdose-withdrawal.md](analysis/seizure-threshold-therapeutic-overdose-withdrawal.md)（惊厥阈值的三条情境线）、[cyp-inhibition-magnitude-substrate-dependence.md](analysis/cyp-inhibition-magnitude-substrate-dependence.md)（CYP 抑制倍数与底物依赖）、[sexual-dysfunction-incidence-and-persistence.md](analysis/sexual-dysfunction-incidence-and-persistence.md)（性功能障碍的发生率与持续边界）、[nms-vs-serotonin-syndrome-label-boundaries.md](analysis/nms-vs-serotonin-syndrome-label-boundaries.md)（NMS 与 5-羟色胺综合征）、[falls-fractures-mechanisms-and-label-layers.md](analysis/falls-fractures-mechanisms-and-label-layers.md)（跌倒与骨折的机制与证据层级）。
 - Wave 15：50 份（A 下尿路 13，B 前庭 7，C 解毒 10，D 帕金森及多巴胺 10，E 其他神经疾病 10）。**40 reviewed / 10 basic / 0 indexed**。已完成逐组评分修补、结构及内部链接检查，结果记于 [PLAN.md](PLAN.md)。
 - Wave 16：159 份 `basic` 全部重做跨法域现行监管文本检索，**27 份升级 reviewed**、132 份保持 basic（缺口逐份写入 §10）。同时完成全库语言审订并修复 5 条被压缩的文献引用。完成记录见 [PLAN.md](PLAN.md)。
 - 2026-11-11 补证：日本 PMDA 现行添付文書取回 4 份并升级 `reviewed`（brotizolam、etizolam、cloxazolam、pemoline），132 份 basic 的 CDE／NMPA／PMDA 检索记录并入 [catalog/retrieval-log-2026-11.md](catalog/retrieval-log-2026-11.md)，档案正文只保留命中事实。
+
+
+- 2026-11-12 历史标签补证：secobarbital、niaprazine 与 brexanolone 取得官方历史标签正文后升级为 `reviewed`。历史标签只用于重建相应产品的历史核准内容，不表示当前仍在销售。
+- 2026-11-13 研究范围调整：对剩余 `basic` 增加独立的「临床现状」与「研究处置」标签。已淘汰药物只保留历史档案，不再为升级 `reviewed` 追索完整旧说明书。具体规则与筛查任务见 [AGENTS.md](AGENTS.md)、[STYLE.md](STYLE.md) 与 [PLAN.md](PLAN.md)。
 
 ## 对接时必须保留的判断边界
 
@@ -23,7 +27,7 @@
 
 - NMPA 数据查询与 CDE 受理品种目录 2026-11-11 可经浏览器逐名检索，132 份 basic 已全部检索（命中清单见 [catalog/retrieval-log-2026-11.md](catalog/retrieval-log-2026-11.md)）。检索记录与批准文本是两件事，许多药物的**中国上市状态及核准适应证仍待官方说明书核实**。中国**列管**核对与中国**批准**是两项独立工作。
 - Wave 15 遗留的 10 份 `basic` 在 Wave 16 已重审：`propiverine`、`imidafenacin`、`biperiden`、`physostigmine`、`acetylleucine`、`flunarizine`、`cinnarizine-and-dimenhydrinate` 取得现行文本后升级为 `reviewed`。`emepronium`、`terodiline`、`obidoxime` 仍无任何法域现行监管正文，保持 `basic`。
-- 现存的 128 份 `basic` 中，多数在任何检索法域均无现行产品文本（历史药物或地区性产品），检索范围与缺口已逐份写入各档案 §10 或检索记录。这些档案的给药方案与核准适应证仍不能按监管级引用。
+- 现存的 125 份 `basic` 中，多数在任何检索法域均无现行产品文本（历史药物或地区性产品），检索范围与缺口已逐份写入各档案 §10 或检索记录。这些档案的给药方案与核准适应证仍不能按监管级引用。
 - `cinnarizine-and-dimenhydrinate` 的澳大利亚 TGA 产品信息（CP-2021-PI-02009-1，修订 2025-12-23）与英国 SmPC（emc 15869，PL 25298/0366）已在 Wave 16 取得并写入，档案升级为 `reviewed`。欧洲大陆其他法域文本仍未逐国核对。
 - 个别历史药品的正式撤销／停供文件、部分非英美法域产品文本、部分研究全文与中国具体产品数据仍缺，逐条以原档案 §10 的事实层级为准。
 
