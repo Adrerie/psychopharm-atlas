@@ -1,7 +1,7 @@
 # methaqualone｜甲喹酮（中国目录名；维基数据中文标签作"忽得"，与中国目录名不同，条目以目录名为准）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CM01`（WHO ATC/DDD Index 2026）  
-> 临床现状：`已淘汰（人用）`（依据：美国 CSA 列为附表一（无公认医疗用途），现行库无产品。核查范围：US／UK／FR） ｜ 研究处置：`仅保留历史档案`
+> 临床现状：`已淘汰（人用）`（美国 1984 年 Federal Register 确认本药已不再生产供处方药市场，并规定转入 Schedule I 后撤销 NDA；美国司法部年报记载唯一合法生产商于 1984 年 1 月停产。核查范围：US／UK／FR） ｜ 研究处置：`仅保留历史档案`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **本条目保持 `basic`**：本药已无任何现行产品文本，在美国、英国、法国三个可脚本检索的法域均未取得说明书（§10 第 1 项）。因此"现行核准适应证"与"给药方案"为空缺。历史医学使用与列管、非医疗误用与药理学证据分开写在 §4、§5、§7 与 §10。
 
@@ -107,7 +107,7 @@
 ## 10. 证据边界
 
 1. **现行文本为零**：美国 openFDA／DailyMed 0（2026-10-23）、英国 emc 0（2026-10-24）、法国 BDPM 0 行（2026-10-24）。这些是**检索事实**，不写成"从未批准或某年撤市"，也没有取得 FDA 的撤市公告或英国、法国的列管原文。
-2. **美国附表一是现行法律事实**：`US-CSA` 将甲喹酮列入附表一（代码 2565）。附表一在 CSA 下即无当前 accepted medical use。这是列管事实，**不是疗效或安全结论**，也不作 D 分依据。
+2. **美国退出处方药市场有正式记录**：1984 年 Federal Register（49 FR 33871）明确称甲喹酮已不再生产供处方药市场，并规定转入 Schedule I 后撤销其 NDA。美国司法部 1984 年年报另记载唯一合法生产商于 1984 年 1 月停止合法生产。两份资料支持美国市场退出，不单独证明全球退出。`US-CSA` 的 Schedule I 是另一项现行法律事实，不作疗效或安全结论，也不作 D 分依据。
 3. **中国第一类第 10 项**：这是管制层级，不等于中国有现行上市产品。上市与核准适应证待核实（NMPA、CDE 入口在 2026-11-11 之前未能脚本化）。
 4. **历史与现行分开**：
   - Quaalude
@@ -127,6 +127,8 @@ Mandrax 都是历史商品名。Mandrax 是**复方**，其睡眠研究不能当
 ## 11. 深入分析与来源
 
 同类对照见 [glutethimide](glutethimide.md)（同为历史高风险镇静催眠药、美国附表二、已撤市）与 [buspirone](buspirone.md)（其人体滥用潜力研究以甲喹酮为阳性对照，`PMID:6130076`）。
+
+**美国退出市场的一手资料**：[Federal Register 49 FR 33871（1984-08-27），确认甲喹酮已不再生产供处方药市场，并规定转入 Schedule I 后撤销 NDA](https://www.govinfo.gov/content/pkg/FR-1984-08-27/pdf/FR-1984-08-27.pdf)。[美国司法部《Attorney General Annual Report 1984》，记载唯一合法生产商于 1984 年 1 月停止合法生产](https://www.govinfo.gov/content/pkg/GOVPUB-J-cd7b522292bbff67e605220b771457f0/html/GOVPUB-J-cd7b522292bbff67e605220b771457f0.htm)。
 
 **监管与官方文件**：[21 CFR 1308.11（附表一，methaqualone 代码 2565）](https://www.law.cornell.edu/cfr/text/21/1308.11)。[openFDA 按通用名检索 methaqualone（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22methaqualone%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=methaqualone)。[英国 emc 检索 methaqualone（0 条）](https://www.medicines.org.uk/emc/search?q=methaqualone)。[法国 BDPM 字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=METHAQUALONE&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 

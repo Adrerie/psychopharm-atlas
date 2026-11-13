@@ -1,7 +1,7 @@
 # oxitriptan｜5-羟色氨酸（5-HTP；维基数据中文标签，未核对监管核准名）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（美国 OTC 与顺势标签记录甄别，美英法西现行库复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AX01`（WHO ATC/DDD Index 2026）  
-> 临床现状：`仅补充剂/非药品`（现行形态为膳食补充剂，无单方药品批准） ｜ 研究处置：`仅保留历史档案`
+> 临床现状：`地区性人用`（意大利 TRIPT-OH 有现行 AIC 记录，适应证包括缺氧后肌阵挛；2026 年 10 月 AIFA 数据镜像仍列授权，库存情况待核实。核查范围：IT／US／UK／FR／ES） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：`US-FR-2019`＝美国 Federal Register 文件 **84 FR 32268**（文档号 2019-14355，FDA，"口服奥西曲坦（5-HTP）制剂用于四氢生物蝶呤（BH4）缺乏症患者特定复方配制的合规政策。立即生效的行业指南。可供性"，发布 **2019-07-08**）。`PMID:……`＝PubMed。本次核查无产品说明书类 `*-LABEL` 键。美国 openFDA 命中的 4 条均为 OTC 多成分标签，不构成批准文本（§1、§10）。§N 指相应文件章节号。
@@ -14,7 +14,7 @@
 | 主要剂型／规格 | 药品语境：历史口服制剂（法国等地曾用商品名 Cincofarm、Levothym、Tript-OH 等，二手来源）；美国无批准药品，FDA 2019 年合规政策针对**复方配制的口服 oxitriptan 制剂**（BH4 缺乏症用途）（`US-FR-2019`）。补充剂语境：以 *Griffonia simplicifolia* 种子提取物为原料的膳食补充剂（美／英／法等地 OTC 销售，二手综述）。**WHO 2026 索引未对本编码列 DDD** |
 | 关键药代摘要 | 本药可透过血脑屏障，外周大量被氨基酸脱羧酶转化为 5-HT（故历史上曾与卡比多巴等外周脱羧酶抑制剂合用）（`PMID:16023217`，综述）；iv 60 mg 人体激发试验见血浆 5-HTP 与皮质醇／β-内啡肽／褪黑素明显升高（`PMID:2139731`）。未取得系统人体 PK 参数文本 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中"oxitriptan / 5-羟色氨酸"。再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六）；结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件（本药吲哚 N1 为氢、3 位为丙氨酸侧链，其羧基未构成图式要求的环碳 -C(=O)Z-R3 排布，不符合合成大麻素类目录结构式图所列母核通式）。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
-| 主要法域批准状态 | **美国**：无批准的 oxitriptan 单方药品。openFDA 按 generic_name "5-HYDROXYTRYPTOPHAN" 检索 4 条均为多成分（顺势／复方）记录，DailyMed 检索命中的 NEURO 3 喷雾、ELEVATE、5-HTP PHENOLIC 均为多成分顺势制品，**不能用作本药批准证据**。FDA 仅有复方配制合规政策（2019-07-08 生效，`US-FR-2019`），**该政策≠药品批准**。**欧洲**：法国历史药品文本未定位（BDPM 现售名单 CINCO／TRIPT 前缀 0 条，只作检索缺口）。"某些欧洲国家以药品身份销售用于重症抑郁"出自英文维基（二手）。**中国**：药品身份与批准状态待核实。作为食品原料／补充剂的边界另待核实 **2026-11-10 复核**：openFDA 按 `openfda.substance_name` 命中 4 条，均为 HUMAN OTC DRUG 的多成分顺势或复方标签（如 5-HTP Phenolic、Elevate、E.O.L.），不构成批准的 oxitriptan 单方药品；意大利 Tript-OH（Sigma-Tau）在二手资料中记核准适应证为缺氧后肌阵挛（Lance-Adams 综合征），AIFA 官方库不可访问，不作监管依据。 |
+| 主要法域批准状态 | **意大利**：TRIPT-OH 为处方药，AIC 024158014、024158026、024158038、024158040。2003 年《Gazzetta Ufficiale》确认其适应证为缺氧后肌阵挛（Lance-Adams 综合征），2022 年官方公告仍列出上述 AIC。AIFA 数据镜像截至 2026-10-17 仍标为授权，其中 200 mg 规格曾列短缺至 2026-10-30，当前实际库存待核实。**美国**：无批准的 oxitriptan 单方药品。openFDA 命中的 4 条均为多成分顺势或复方标签，FDA 2019 年文件仅为 BH4 缺乏症患者特定复方配制的合规政策，不构成单方药品批准。**英国／法国／西班牙**：本次未取得现行人用单方标签。**中国**：药品批准状态待核实。补充剂身份与药品批准分开记录。 |
 | 身份与统计 | WHO ATC `N06AX01`。**无 DDD**。CAS 4350-09-8。Wikidata [Q238544](https://www.wikidata.org/wiki/Q238544)。PubChem [439280](https://pubchem.ncbi.nlm.nih.gov/compound/439280)、[6971044](https://pubchem.ncbi.nlm.nih.gov/compound/6971044)。MeSH [D006916](https://meshb.nlm.nih.gov/record/ui?ui=D006916)。DrugBank [DB02959](https://www.drugbank.ca/r/DB02959)。RxNorm [RXCUI 94](https://rxnav.nlm.nih.gov/REST/rxcui/94.json)（首选名 5-hydroxytryptophan）；English Wikipedia（标题指针，未复制正文）：[5-Hydroxytryptophan](https://en.wikipedia.org/wiki/5-Hydroxytryptophan) |
 
 ## 2. 评分
@@ -82,7 +82,7 @@
 ## 10. 证据边界
 
 1. **实体分离（最重要）**：本条只评价 5-HTP（oxitriptan）。仓库 tryptophan 条目中**两物质合并的 OR 4.10／NNT 2.78 不是本药效应量**。1989 EMS 流行的归因（污染 L-色氨酸批次）不搬给本药。反过来本药的污染物检出与嗜酸个案也不构成"5-HTP 致 EMS 流行"的证据。
-2. **药品 vs 补充剂语境**：美国是补充剂＋配制合规政策。欧洲历史药品文本未定位。不得互相充当证据。
+2. **药品 vs 补充剂语境**：美国的补充剂标签与复方配制合规政策不构成单方药品批准。意大利 TRIPT-OH 有人用药品 AIC，2003 年官方公告载明缺氧后肌阵挛适应证，2022 年公告仍列出相关 AIC；库存可得性与授权状态分开记录。
 3. **未能分离 5-HTP 单药效应量**：Cochrane 合格 5-HTP 试验的独立数值未取得原文。
 4. **撤市／注册零命中≠不存在**：BDPM／openFDA／DailyMed 的检索结果只作缺口记录。
 5. **Nolen 1988 为开放比较**，阴性结论按开放设计降级理解。
@@ -90,11 +90,13 @@
 7. **中国信息待核实**：NMPA／CDE 在 2026-11-11 之前未能脚本检索。中国管制字段沿用 2026-10-06 已审计结论（含合成大麻素类结构定义不适用的辨析，未改动），不重跑。
 8. **状态判定**：无可核药品文本、疗效证据为合并／小样本／开放设计，保留 `basic`。
 
-- **2026-11-10 复核**：openFDA `openfda.substance_name=OXITRIPTAN` 命中 4 条，全部为 HUMAN OTC DRUG 的多成分顺势或复方标签，`product_type` 与成分表可证其非处方单方药品。意大利 Tript-OH 的缺氧后肌阵挛适应证只见二手资料，AIFA 官方库本机不可访问。美英法西现行库仍 0 条。
+- **2026-11-13 补证**：意大利《Gazzetta Ufficiale》2003 年公告确认 TRIPT-OH 的 AIC 与缺氧后肌阵挛适应证，2022 年公告再次列出相关 AIC。AIFA 数据镜像（数据截至 2026-10-17）将产品列为授权，并记录 200 mg 规格短缺至 2026-10-30。英国 OpenPrescribing 的 dm+d 另列意大利进口的 Tript-OH 50 mg 胶囊。以上支持意大利地区性人用，但不证明 2026-11-13 当日药房库存。
 
 ## 11. 深入分析与来源
 
 本条未建专题文件：最需要解释的是"5-HTP 与 L-色氨酸的证据与 EMS 归因如何分层"，已在 §1／§2／§6／§10 内闭环。若日后取得 Cochrane 的 5-HTP 单试验原文数值，可考虑升档。
+
+**意大利人用药品记录**：[2003 年《Gazzetta Ufficiale》TRIPT-OH 授权与缺氧后肌阵挛适应证公告](https://gazzettaufficiale.biz/atti/2003/20030200/03A09761.htm)。[2022 年《Gazzetta Ufficiale》TRIPT-OH AIC 变更公告](https://www.gazzettaufficiale.it/atto/parte_seconda/caricaDettaglioAtto/originario?atto.codiceRedazionale=TX22ADD6486&atto.dataPubblicazioneGazzetta=2022-06-04)。[AIFA 数据镜像（2026-10-17 数据，授权状态与短缺记录）](https://www.dovesalute.it/it/farmaci/med/24158/tript-oh)。[NHS dm+d：意大利进口 Tript-OH 50 mg 胶囊](https://openprescribing.net/dmd/vmpp/21334911000001102/)。
 
 **监管与官方文件**：[FDA Compliance Policy for Certain Compounding of Oral Oxitriptan (5-HTP) Drug Products for Patients With BH4 Deficiency, 84 FR 32268（文档 2019-14355，2019-07-08）](https://www.federalregister.gov/documents/2019-07-08/2019-14355/compliance-policy-for-certain-compounding-of-oral-oxitriptan-5-htp-drug-products-for-patients-with)。[Federal Register "oxitriptan" 检索（7 条，含 503A 散装原料药名单）](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22oxitriptan%22)。[openFDA 按药名检索（4 条，均多成分／顺势记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%225-HYDROXYTRYPTOPHAN%22&limit=5)。[DailyMed 检索（仅多成分顺势制品）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=oxitriptan)。[法国 BDPM 检索接口（CINCO／TRIPT 前缀 0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=TRIPT&page=1&limit=20)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 

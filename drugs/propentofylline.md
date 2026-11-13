@@ -96,7 +96,7 @@
 3. **III 期汇总的作者归属**：`PMID:9716243` 与 `PMID:9329701` 的作者来自 Hoechst Marion Roussel，属厂方分析。引用时应与独立系统评价并列，不单独作为疗效结论。
 4. **人群不能合并**：阿尔茨海默病与血管性痴呆在 III 期中被合并报告，Cochrane 也因数据不足未能分层（`PMID:12804440`）。两类痴呆的病程与安慰剂反应不同（`PMID:10609697` 指出 VaD 的安慰剂反应更强），不能视为同一适应证。
 5. **卒中与神经痛是阴性方向**：30 例卒中试验无差异（`PMID:15266424`）。带状疱疹后神经痛人体阴性（`PMID:22119425`）。二者都不支持扩展适应证，也不因"未获批"单独构成 D 分。
-6. **兽药不是人用证据**：Karsivan 的犬用经验（`KARSIVAN-1998`）不能用于推断人用疗效或安全性。其现行授权状态亦未核实。
+6. **兽药不是人用证据**：Karsivan 的犬用经验（`KARSIVAN-1998`）不能用于推断人用疗效或安全性。欧盟兽药产品数据库现列德国、西班牙、葡萄牙、法国与奥地利等地的有效 propentofylline 授权，支持「仅兽用」状态。
 7. **无 DDD**：官方索引未为本编码列出 DDD，研究中的 300 mg 每日三次不是"标准日剂量"，但不得据 DDD 换算。
 8. **中国**：管制字段沿用 2026-10-06 审计结论。上市与核准适应证待核实。PIM 维度因缺当地数据记 `N/A`。CDE 受理品种目录（入口 https://www.cde.org.cn/main/xxgk/listpage/9f9c74c73e0f8f56a8bfbc646055026d，2026-11-11 浏览器检索）按名命中 2 条受理记录。最近一条为受理号 CXL00541、药品名称「丙戊茶碱片」、申请类型 新药、承办日期 2001-08-10。该目录只证明申报被受理，不证明已获批准。此前档案中的「CDE 202 校验页」指需登录的上市药品目录集接口（wbca.cde.org.cn）。公开的受理品种目录与化学药品目录集（hymlj）2026-11-11 可经浏览器检索。
 
@@ -105,6 +105,8 @@
 ## 11. 深入分析与来源
 
 本页不设专题：核心问题（证据体不完整、厂方数据未公开、动物阳性而人体阴性）已由 §2.2、§5 与 §10 就近承载。在取得开发方未发表试验或任一法域现行说明书之前，另建专题只能重复同一缺口。
+
+**欧盟现行兽药授权**：[德国 Karsivan 50 mg](https://medicines.health.europa.eu/veterinary/en/600000073233)。[西班牙 Karsivan 50 mg](https://medicines.health.europa.eu/veterinary/en/600000065162)。[葡萄牙 Karsivan 50 mg](https://medicines.health.europa.eu/veterinary/en/600000097882)。[法国 Karsivan 100 mg](https://medicines.health.europa.eu/veterinary/en/600000040235)。[奥地利 Karsivan 50 mg](https://medicines.health.europa.eu/veterinary/en/600000075819)。上述产品页均列 propentofylline，授权状态为 Valid，目标物种为犬。
 
 **监管与官方文件**：[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索 propentofylline（无结果）](https://www.medicines.org.uk/emc/search?q=propentofylline)。[openFDA 通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22propentofylline%22)。[DailyMed 药名检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=propentofylline)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
