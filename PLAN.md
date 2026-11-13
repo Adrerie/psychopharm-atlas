@@ -1060,7 +1060,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 
 **临床现状筛查完成记录（2026-11-13）**：按各档案顶部状态字段实际取得 125 份 `basic`，逐份做一次定向现状筛查并新增「临床现状」「研究处置」两项。
 - 分类结果：`地区性人用` 11（acetylcarnitine、bromisoval、dimdazenil、fabomotizole、fluspirilene、huperzine-a、obidoxime、oxiracetam、phenibut、pinazepam、temgicoluril）、`历史停用` 57、`已淘汰（人用）` 17（adrafinil、aducanumab、amineptine、ethchlorvynol、glutethimide、levacetylmethadol、mesoridazine、methaqualone、methyprylon、nomifensine、pivagabine、tacrine、talbutal、thioproperazine、triflupromazine、veralipride、zimeldine）、`仅兽用` 3（acepromazine、bromides、propentofylline）、`仅补充剂/非药品` 2（deanol、oxitriptan）、`待核实` 35。
-- 研究处置：`继续研究` 10、`有限补证` 29、`仅保留历史档案` 87。
+- 研究处置：`继续研究` 10、`有限补证` 28、`仅保留历史档案` 87。
 - 地区性判断依据：意大利 AIFA 注册（acetylcarnitine AIC 025369051、pinazepam AIC 023191024）、德国现行产品信息（fluspirilene Imap、obidoxime Toxogonin）、拉脱维亚 ZVA 注册（phenibut Noofen 17-0230、temgicoluril Adaptol 03-0001）、俄罗斯国家药品注册（fabomotizole ЛП-№(012772)-(РГ-RU)）、中国 NMPA 批准文号（huperzine-a H20033718、oxiracetam H20031033、dimdazenil 2023-11-29 批准）、日本 OTC 复方（bromisoval）、EMA PSUSA 清单（tofisopam，斯洛伐克 Grandaxin）。
 - 已淘汰判断均保留两条独立证据线，其中至少一条为官方或专业权威来源，并在档案状态行写明依据与核查范围。
 - 未删除档案，未改 ATC 分类，未重做评分，未把停止研究写成资料完整。共享索引同步见 [catalog/index.md](catalog/index.md)、[README.md](README.md) 与 [HANDOFF.md](HANDOFF.md)。
