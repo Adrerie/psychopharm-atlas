@@ -1064,3 +1064,8 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 - 地区性判断依据：意大利 AIFA 注册（acetylcarnitine AIC 025369051、pinazepam AIC 023191024）、德国现行产品信息（fluspirilene Imap、obidoxime Toxogonin）、拉脱维亚 ZVA 注册（phenibut Noofen 17-0230、temgicoluril Adaptol 03-0001）、俄罗斯国家药品注册（fabomotizole ЛП-№(012772)-(РГ-RU)）、中国 NMPA 批准文号（huperzine-a H20033718、oxiracetam H20031033、dimdazenil 2023-11-29 批准）、日本 OTC 复方（bromisoval）、EMA PSUSA 清单（tofisopam，斯洛伐克 Grandaxin）。
 - 已淘汰判断均保留两条独立证据线，其中至少一条为官方或专业权威来源，并在档案状态行写明依据与核查范围。
 - 未删除档案，未改 ATC 分类，未重做评分，未把停止研究写成资料完整。共享索引同步见 [catalog/index.md](catalog/index.md)、[README.md](README.md) 与 [HANDOFF.md](HANDOFF.md)。
+
+
+## Wave 16 临床生命周期分类修补（2026-11-13）
+
+初次筛查后的分类修补已启动。直接修正与 DS 单次修补范围见 [修补计划](plans/wave16_lifecycle_repair/00_MASTER_PLAN.md)。原筛查分类数字仅作历史记录，修补完成前不作为最终分类统计；最终以 125 份当前 `basic` 档案的顶部字段重算，并同步 `catalog/index.md`、`README.md` 与 `HANDOFF.md`。本任务不改变 `reviewed/basic/indexed` 证据完成度。
