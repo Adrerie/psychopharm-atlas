@@ -1,7 +1,7 @@
 # paraldehyde｜三聚乙醛（维基数据中文标签，zh）
 
 > 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CC05`（WHO ATC/DDD Index 2026，亚组 N05CC Aldehydes and derivatives）  
-> 临床现状：`历史停用`（现行美英法药品库无产品，无现行标签。核查范围：US／UK／FR） ｜ 研究处置：`仅保留历史档案`
+> 临床现状：`地区性人用`（英国儿童癫痫持续状态的专业处方集仍列明临床使用，需 special-order 配制或进口，未获英国上市许可。核查范围：UK） ｜ 研究处置：`有限补证`
 > 2026-11-10 复核：跨法域检索与现行文本复查，历史检索日期保留在原处。
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **本条目保持 `basic`**：检索的美国、英国、法国监管库均无本药的现行产品文件（§10 第 1 项），"给药方案"与"核准适应证"两项核心模块无法填写。**本页只写身份、历史用途与证据边界**：所有临床研究均标为历史或地区性实践，不写现行适应证、不写剂量方案、不设 A–D 场景行。
@@ -100,11 +100,13 @@
 6. **DDD 的三途径**：5 g 口服／非口服／直肠是统计指标，反映历史给药途径的多样性，**不代表任一现行产品存在**。
 7. **机制与毒理不外推**：不写"解聚为乙醛故起效快"一类未经本药研究支持的推断，也不把工业化学品的毒理资料移植为临床结论。
 
-**2026-11-10 复核记录**：CIMA `paraldehyde` 0 条。DailyMed 0 条。法国 BDPM 前缀 0 条。openFDA 无匹配。英国 emc 检索页未返回可解析清单。英国 NHS 的患者资料写明英国无三聚乙醛的持证产品，需以 special 形式配制或进口，该表述属临床使用说明而非监管文本，只作检索线索。维持 `basic`。
+**2026-11-10 复核记录**：CIMA `paraldehyde` 0 条。DailyMed 0 条。法国 BDPM 前缀 0 条。openFDA 无匹配。英国 emc 未取得可解析产品列表。英国北伦敦联合处方集将橄榄油中三聚乙醛灌肠列为儿童癫痫持续状态的临床选项，并注明由 special-order 制造商或专科进口商供应；NHS 区域药学资料说明该用途未获英国许可，但属全国认可的临床实践并列入 Children’s BNF。该证据支持英国地区性人用，不代表英国有上市许可产品。
 
 ## 11. 深入分析与来源
 
 本药未建专题文件：可独立解释的问题。"一个已退出常规处方、但仍在历史文献与地区实践中出现的醛类催眠药应当如何归档"。已由 §4、§5 与 §10 的分层处理回答。建立专题会把 1990 年代前后的地区性研究包装成现行结论。同类条目见 [chloral-hydrate](chloral-hydrate.md)（同为醛类衍生物、以单一法域文本为锚点）、[amobarbital](amobarbital.md)（同为无现行文本的历史镇静药）与 [bromisoval](bromisoval.md)、[carbromal](carbromal.md)（已退出的老式催眠药）。
+
+**英国临床使用资料**：[North Central London Joint Formulary：Paraldehyde and Olive Oil Enema](https://www.ncl-jointformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=4&SubSectionID=A100&SubSectionRef=04.08.02)。[NHS Green Plus 信息页（2020）](https://medicines.necsu.nhs.uk/wp-content/uploads/2020/11/Paraldehyde-green-plus-info-leaflet-202009.pdf)。[Children’s BNF：Paraldehyde](https://bnfc.nice.org.uk/drugs/paraldehyde/)。
 
 **监管与官方文件**：[openFDA 按通用名检索 paraldehyde（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22paraldehyde%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=paraldehyde)。[emc 检索 paraldehyde（0 条）](https://www.medicines.org.uk/emc/search?q=paraldehyde)。[法国 BDPM 按字母序检索接口](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PARALDEHYDE&page=1&limit=20)。[2022 年液体化学品分类更新（88 FR 81184，化学品语境，非药品文件）](https://www.federalregister.gov/documents/2023/11/21/2023-25026/2022-liquid-chemical-categorization-updates)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
