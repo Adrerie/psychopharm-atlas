@@ -1,6 +1,10 @@
+# 历史归档说明
+
+本文件为 2026-11-10 `main` 中的历史执行计划。它记录已完成的批次与当时的证据缺口，不是当前待办清单。
+
 # 精神药物建档计划与执行记录
 
-> 当前阶段：**Wave 15 已完成建档与审阅修补，转入交接维护**。本轮工作分支 `plan/neuropsych-crossgroup-wave15`，基础提交 `91702d126c2981d55e7e8de08946b9af3e41e553`；合并后的 `main` 为后续工作唯一基线。Wave 1–15 均为历史完成任务，不重复派发；接手说明见 [HANDOFF.md](HANDOFF.md)。
+> 当前阶段：**Wave 15 已完成建档与审阅修补，转入交接维护**。本轮工作分支 `plan/neuropsych-crossgroup-wave15`，基础提交 `91702d126c2981d55e7e8de08946b9af3e41e553`；合并后的 `main` 为后续工作唯一基线。Wave 1–15 均为历史完成任务，不重复派发；接手说明见 [HANDOFF.md](HANDOFF-2026-11-10.md)。
 
 > Wave 3 历史分支：`feat/reviewed-expansion-wave3`。该轮 24 份档案及后续审阅修补均已完成；主条目为主要交付物，药物利用与滥用证据按需纳入，不设置专题配额。
 
@@ -706,7 +710,7 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 - **B 组，N07BB 酒精依赖药物（6）**：`disulfiram`（N07BB01）、`calcium-carbimide`（N07BB02）、`acamprosate`（N07BB03）、`naltrexone`（N07BB04）、`nalmefene`（N07BB05）、`ondelopran`（N07BB06）。
 - **C 组，N07BC 阿片依赖药物（6）**：`buprenorphine`（N07BC01）、`methadone`（N07BC02）、`levacetylmethadol`（N07BC03）、`lofexidine`（N07BC04）、`levomethadone`（N07BC05）、`diamorphine`（N07BC06）。
 
-**不纳入本轮**：`N07BA02` bupropion 已有核心档案 [`drugs/bupropion.md`](drugs/bupropion.md)，不重复建档；如需比较戒烟用途，引用该档案并单独核对 bupropion 的戒烟证据。`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
+**不纳入本轮**：`N07BA02` bupropion 已有核心档案 [`drugs/bupropion.md`](../../drugs/bupropion.md)，不重复建档；如需比较戒烟用途，引用该档案并单独核对 bupropion 的戒烟证据。`N07BC51`（buprenorphine, combinations）只是未指明配对成分的 ATC 复方分类，不建立成分不明确的档案；naloxone 属 `V03AB15`，是阿片过量逆转药，不属于本轮 N07B 清单，留待独立主题处理。药用 nicotine 只讨论戒烟治疗，不讨论烟草消费或非药用尼古丁产品。
 
 ### 一次执行要求
 
@@ -868,4 +872,4 @@ Wave 12 六份档案经审阅后完成定点修补，未重做研究，也未改
 
 **目录复核**：修正 `catalog/index.md` 遗留的 334／54／46／39／7 旧统计，并把 `ipidacrine` 与 `remternetug` 补入七份 `indexed` 名单。`catalog/related.md` 对 aducanumab 的 FDA 撤回日期与企业停售分别注明。最终总数 **384 份**，其中核心六组 **280**、跨组 **104**；**218 reviewed／7 indexed／159 basic**；跨组选录 **91**，已建档 **89**，未建档的 **2 条均为未落地具体产品的 ATC 复方类别**；专题仍为 15 份。
 
-**移交边界**：中国 NMPA 412 与 CDE 202 拦截、部分欧洲／亚洲官方标签未取得、个别历史药物批准及撤回文书未核实，均不视为已解决；以 [HANDOFF.md](HANDOFF.md) 所列范围作为下一接手方起点，不自动启动新波次。
+**移交边界**：中国 NMPA 412 与 CDE 202 拦截、部分欧洲／亚洲官方标签未取得、个别历史药物批准及撤回文书未核实，均不视为已解决；以 [HANDOFF.md](HANDOFF-2026-11-10.md) 所列范围作为下一接手方起点，不自动启动新波次。
