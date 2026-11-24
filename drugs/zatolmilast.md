@@ -1,6 +1,6 @@
 # zatolmilast｜赞托米尔司特（zatolmilast，研发代号 BPN14770；未检得可核验上市记录）
 
-> 状态：`basic` ｜ 最后核查：2026-11-24（ClinicalTrials.gov v2 九项登记状态与已张贴结果类型、分析人群、测量、SD 与可解析统计，Shionogi 孤儿药资格公告与当前 FXS 试验页，2026 年 FXS 三期媒体转述）｜ ATC：无 ATC 编码（WHO ATC/DDD Index 2026 未收载"zatolmilast"与"BPN14770"，检索方式见 §10 第 1 项）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（ClinicalTrials.gov v2 九项登记状态与已张贴结果类型、分析人群、测量、SD 与可解析统计，Shionogi 孤儿药资格公告与当前 FXS 试验页，2026-05-12 与 2026-11-18 盐野义正式披露）｜ ATC：无 ATC 编码（WHO ATC/DDD Index 2026 未收载"zatolmilast"与"BPN14770"，检索方式见 §10 第 1 项）  
 > 临床现状：`待核实`（未检得可核验批准记录。AD 二期与 FXS 二期已有张贴结果，FXS 两项 III 期已完成但无张贴结果，OLE 与 PPP2R5D 二期继续。核查范围：US／EU） ｜ 研究处置：`继续研究`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
@@ -47,7 +47,7 @@
 
 ## 4. 适应范围
 
-**尚无任何批准的适应证**（§1）。按登记条目分列研发方向：
+**未检得可核验的核准适应证**（§1）。按登记条目分列研发方向：
 
 - **阿尔茨海默病**：一期模型研究 `NCT03030105`（健康志愿者东莨菪碱模型，2017-01→2017-06 完成，38 例，未张贴结果）。一期 SAD `NCT02648672`（2015-12→2016-07 完成）与一期 MAD `NCT02840279`（健康青年与老年，2016-06→2016-12 完成）。两条的适应证字段写作 Alzheimer's Disease，但人群是健康受试者。**仅有的 AD 患者随机对照研究是 PICASSO-AD 二期 `NCT03817684`**（早期 AD，13 周，255 例，已完成，结果已张贴）。
 - **脆性 X 综合征（FXS）**：二期交叉研究 `NCT03569631`（2018-07-09 至 2020-07-31 实际，30 例，结果提交 2024-11-19、张贴 2024-12-19）。关键性青少年二期／三期 `NCT05163808`（9 至<18 岁男性，2022-03-29 至 2025-09-02 实际，163 例，无张贴结果）与成人三期 `NCT05358886`（18–45 岁男性，2022-11-01 至 2025-07-18 实际，171 例，无张贴结果）。三期开放标签延伸 `NCT05367960`（ACTIVE_NOT_RECRUITING，314 例实际，主要终点为 24 个月安全性与耐受性，主完成 2027-09-30、研究完成 2027-12-31 预计，无张贴结果）。
@@ -64,14 +64,16 @@ FXS、PPP2R5D 与 AD 是三种不同疾病与不同终点体系。其证据互�
 
 participant flow 明确 `FG000` 为 Sequence A-B，先接受 25 mg BPN14770 后接受安慰剂，`FG001` 为 Sequence B-A，顺序相反。测量使用 `OG000` 与 `OG001`，API 没有显式给出 FG 到 OG 的映射，结果网页也只返回应用外壳。因此本档案保留成对原始读数，但不擅自把 `OG000` 标为活性组或安慰剂组，也不把单次周期数值改写为“活性组优于安慰剂组”。交叉设计的序列效应与单次周期不能替代完整交叉模型。
 
-登记 `resultsSection` 共 1 条 PRIMARY、5 条 SECONDARY，无 OTHER_PRE_SPECIFIED 或 POST_HOC。全部条目 `analyses` 为空，不能仅凭组内均值方向认定组间显著性或统计学阴性。可写的结论是：在这项 13 周、255 例早期 AD 二期研究中，已张贴读数没有提供支持 AD 适应证的组间疗效推断。
+AD 二期 `NCT03817684` 的登记 `resultsSection` 共 1 条 PRIMARY、5 条 SECONDARY，无 OTHER_PRE_SPECIFIED 或 POST_HOC。全部条目 `analyses` 为空，不能仅凭组内均值方向认定组间显著性或统计学阴性。可写的结论是：在这项 13 周、255 例早期 AD 二期研究中，已张贴读数没有提供支持 AD 适应证的组间疗效推断。
 
 必须并列的局限：
 
 1. **无 AD 注册性试验**：以 `query.term=zatolmilast` 检索登记库命中数会随当前方案更新变化，AD 研究主要用代号 `BPN14770` 检出。`NCT03817684` 是唯一已检得的 AD 患者随机对照二期研究。当前检索未发现 Phase 3／注册性 AD 试验。AD 方向只有二期证据，但“未提供组间推断”不能改写成“已统计学证实阴性”。
 2. **登记名与通用名不一致会造成检索漏检**：AD 研究的干预名只写"BPN14770"，不用 zatolmilast。这是本档案坚持双名检索的直接原因。
 3. **AD 二期之后的项目走向未在一手来源中表述**：2025 年后本药的注册研究集中在 FXS 与 PPP2R5D，且申办方由 Tetra Discovery Partners 变为 Shionogi。未取回任何官方文件说明 AD 项目是“正式停止”还是“未继续推进”，故本档案写为 **AD 方向的推进状态未核实**，只记录二期已张贴读数与当前未检得三期试验。
-4. **关键性 FXS 三期无登记张贴读数**：`NCT05163808` 与 `NCT05358886` 均 COMPLETED（2025-09-02、2025-07-18）且无 `resultsSection`，主要终点为 NIH-TCB CCC（13 周）。NeurologyLive 2026-07-22 报道称两项试验共 334 人均未达主要终点，成人研究照料者报告的语言与日常功能显著改善，青少年研究未重复，Shionogi 计划进一步分析、继续四年 OLE 并与 FDA 讨论（`NL-2026`）。该页参考文献明显错配为 MPS II 文献，且未取得 Shionogi 顶线公告、原始摘要、完整 p 值或 CI，只能作为有限二手专业媒体转述，不能写成登记张贴或同行评审结论。
+4. **FXS 关键性研究的申办方结果**：`NCT05163808` 与 `NCT05358886` 已完成，登记仍无 `resultsSection`。盐野义 2026-05-12 业绩说明第 31 页确认两项研究均未达到各自主要终点，并注明成人研究的部分改善为未作多重性调整的探索性结果（`SIO-FY25`）。青少年 CNS-204 的主要终点是 NRS 语言/沟通及日常功能，成人 CNS-301 的主要终点是 NIH-TCB CCC。2026-11-18 R&D Day 第 39 页披露成人研究 171 例（113 对 58），13 周 CCC 组间差 −0.35，p=0.706。NRS 语言/沟通及日常功能差值均为 0.57，名义 p 分别为 0.019 和 0.016。CaGI-I 语言/沟通差值 −0.31，名义 p=0.021（`SIO-RD26`）。主要终点未达，不以探索性结果替代。公司计划于 2026 财年内与 FDA 协商开发方向。
+
+**Jordan 综合征二期申办方披露**（`NCT06717438`，`SIO-RD26` 第 38 页）：30 例随机（活性组 16，安慰剂 14），24 周双盲。NIH-TCB 思考/问题解决能力组间差 7.35（p=0.033），总体认知 4.54（p=0.015），CaGI-I 日常功能 −1.00（p=0.008）。登记主要评估项之一 NRS 语言/沟通差 −0.74（p=0.241）。未取得完整统计分析计划、多重性调整与登记张贴结果，以上仅作探索性披露，不据此认定主要终点成功或监管认可。
 5. **人群与剂量不可外推**：FXS 研究限定男性。AD 二期剂量为 10／25 mg bid，与 FXS 方案的 25／50 mg 不同，跨试验剂量不能互换解释。
 
 ## 6. 长期风险
@@ -101,15 +103,15 @@ participant flow 明确 `FG000` 为 Sequence A-B，先接受 25 mg BPN14770 后�
 2. **美国监管检索**：DailyMed `services/v2/spls.json?drug_name=zatolmilast` 与 `drug_name=BPN14770` 各返回 0 条。缺现行文本即保持 `basic`。
 3. **试验检索式与命中数（逐条登记）**：`query.term=zatolmilast` → 5 条。`query.term=BPN14770` → 14 条。`query.term="zatolmilast Alzheimer"` → **0 条**。`query.term="PDE9 inhibitor Alzheimer disease"` → **0 条**。SEC EDGAR 全文检索对 `"zatolmilast"` → **0 条**（Tetra Discovery Partners 与 Shionogi 均非美国 SEC 申报主体），对 `"BPN14770"` 的 13 条命中全部来自与本项目无关的美国上市公司文件（与其他化合物同名的偶发字符串），故本药的公司层公告只能回公司官网页面核对。
 4. **靶点口径的取舍**：分配清单称 PDE-9，登记条目与文献称 **PDE4D**。本页采信 `NCT04044781` 的原文与 `PMID:38056709`、`PMID:39125619` 的表述，并把"PDE9"记为**未获一手支持**。若后续找到 PDE9 的一手来源，需并列记录两种口径的来源与日期。
-5. **结果张贴状态（2026-11-24 v2 复核）**：本药已张贴的只有 `NCT03817684`（结果提交 2023-06-07、首次张贴 2025-02-18）与 `NCT03569631`（提交 2024-11-19、张贴 2024-12-19）。`NCT03861000` 是 NIMH 的 PDE4D PET 配体研究，不是 zatolmilast 疗效试验。两项 FXS III 期、OLE、PPP2R5D 与全部 2025 年药代研究均无 `resultsSection`。AD 二期仅给 LS 均值与标准误，FXS 二期给 SD，但两组登记均无 API 可解析组间 p 值。
-6. **申办方叙述与独立验证分开**：FXS 二期疗效与耐受性的正面叙述来自公司页面（`SIO-PR-2407`）。收购协议文本仍未取得。2026 年两项 FXS III 期“未达主要终点”的报道来自 NeurologyLive，不是 Shionogi 顶线公告、登记张贴或同行评审全文。
+5. **结果张贴状态（2026-11-24 v2 复核）**：本药已张贴的只有 `NCT03817684`（结果提交 2023-06-07、首次张贴 2025-02-18）与 `NCT03569631`（提交 2024-11-19、张贴 2024-12-19）。`NCT03861000` 是 NIMH 的 PDE4D PET 配体研究，不是 zatolmilast 疗效试验。两项 FXS 关键性研究、OLE、PPP2R5D 与全部 2025 年药代研究均无 `resultsSection`。FXS 与 PPP2R5D 已有申办方披露，见 §5。AD 二期仅给 LS 均值与标准误，FXS 二期给 SD，但两组登记均无 API 可解析组间 p 值。
+6. **申办方叙述与独立验证分开**：FXS 二期疗效与耐受性的正面叙述来自公司页面（`SIO-PR-2407`）。收购协议文本仍未取得。两项 FXS 研究主要终点未达已由盐野义 2026-05-12 的正式说明确认。2026-11-18 R&D Day 补充成人 FXS 与 Jordan 综合征结果。申办方披露与登记张贴、同行评审结果分层记录。
 7. **孤儿药资格**：Shionogi 2024-04-11 一手公告确认 European Commission 授予 FXS Orphan Medicinal Product designation，2024-07-18 公告另载 FDA Rare Pediatric Disease Designation 与 Orphan Drug Designation（`SIO-ORPHAN-2024`、`SIO-PR-2407`）。这解决“只有媒体转述”的缺口，但 EC／FDA 决定原文仍未取得，designation 不等于批准。
 8. **中国检索事实**：NMPA 接口对本机返回 HTTP 412、CDE 目录集返回 202 校验页，无法取得注册状态一手文本。"未见注册记录"仅为检索陈述。中文译名"赞托米尔司特"是本页的译名占位，**中国无该药的核准名称**，不得当作官方名引用。
 9. **不得跨药借用**：本仓库无 rolipram 或任何 PDE4 抑制剂档案（目录 0 份命中）。其他 PDE 抑制剂（无论亚型）的疗效、风险与类别结论一律不计入本页评分与场景。
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按 zatolmilast、BPN14770 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按两种名称检索 0 条。英国 emc 按 zatolmilast 与 BPN14770 检索 0 条。法国 BDPM 按 ZATOLMILAST 与 BPN14770 前缀检索 0 条。西班牙 CIMA 按 zatolmilast 检索 0 条。上述均为检索事实。本药无 ATC 编码，处于研发阶段，当日仍无可逐节引用的现行监管正文，状态保持 `basic`。
 
-检索记录（2026-11-24）：ClinicalTrials.gov v2 回读九项当前登记，确认两项 FXS III 期均为 COMPLETED 且无 `resultsSection`，OLE 为 ACTIVE_NOT_RECRUITING，PPP2R5D 二期主要终点时间框架已按当前方案更新至第 24、96、98 周。三项 2025 年药代研究均 COMPLETED 且无结果。`NCT03569631` 结果网页只返回应用外壳，FG 到 OG 映射未解决，故不标注测量组方向。Shionogi 当前 FXS 试验入口实际重定向至 EXPERIENCE-302 页，未发现两项 III 期的正式顶线公告。NeurologyLive 2026 报道只作有限二手转述，其参考文献错配已记录。状态保持 `basic`。
+检索记录（2026-11-24）：ClinicalTrials.gov v2 回读九项当前登记，确认两项 FXS III 期均为 COMPLETED 且无 `resultsSection`，OLE 为 ACTIVE_NOT_RECRUITING，PPP2R5D 二期主要终点时间框架已按当前方案更新至第 24、96、98 周。三项 2025 年药代研究均 COMPLETED 且无结果。`NCT03569631` 结果网页只返回应用外壳，FG 到 OG 映射未解决，故不标注测量组方向。Shionogi 当前 FXS 试验入口实际重定向至 EXPERIENCE-302 页，另取得盐野义 2026-05-12 业绩说明和 2026-11-18 R&D Day 原始材料，替代 NeurologyLive 作为主要结果来源。媒体参考文献错配仍记录于来源节。状态保持 `basic`。
 
 ## 11. 深入分析与来源
 
@@ -125,6 +127,8 @@ participant flow 明确 `FG000` 为 Sequence A-B，先接受 25 mg BPN14770 后�
 - `NCT03861000` NIMH 的 PDE4D PET 配体 [C-11]T-1650 研究（Phase 1/2，结果张贴 2021-02-12）：https://clinicaltrials.gov/study/NCT03861000
 
 公司一手页面
+- `SIO-FY25`：盐野义 FY2025 业绩说明，2026-05-12，第 31 页：https://www.shionogi.com/content/dam/shionogi/global/investors/ir-library/presentation/2025/4q/E_FY2025_%E6%B1%BA%E7%AE%97%E8%B3%87%E6%96%99_final.pdf
+- `SIO-RD26`：盐野义 R&D Day 2026，2026-11-18，第 38–39 页：https://www.shionogi.com/content/dam/shionogi/jp/investors/ir-library/presentation-materials/fy2026/J_261109_IR%20ver2.pdf
 - `SIO-PR-2407` Shionogi《Shionogi Provides Updates on Zatolmilast, an Investigational Drug for Fragile X Syndrome…》，2024-07-18（含 Tetra Therapeutics 2020 年被盐野义收购、FDA designation 与 FXS 二期公司叙述）：https://www.shionogi.com/us/en/news/2024/07/shionogi-provides-updates-on-zatolmilast-an-investigational-drug-for-fragile-x-syndrome-including-recent-changes-to-study-protocol-to-increase-access-for-participants-and-families.html
 - `SIO-ORPHAN-2024`：Shionogi 2024-04-11 欧盟 FXS 孤儿药资格公告：https://www.shionogi.com/global/en/news/2024/04/20240411.html
 - `SHIO-FXS-TRIALS`：https://www.shionogi.com/us/en/innovation/fragile-x-syndrome-clinical-trials.html（2026-11-24 实际重定向至 EXPERIENCE-302 页，仍称安全性与疗效未确立）
