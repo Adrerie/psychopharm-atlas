@@ -1,6 +1,6 @@
 # doxefazepam｜中文名待核实（骨架记录"中文标签：待核实"，未取得中文核准名出处）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CD12`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（荷兰 CBG 与 Litazen 定向核查，检索记录见 §10）｜ ATC：`N05CD12`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（现行美法西药品库无产品，无监管文本。核查范围：US／FR／ES） ｜ 研究处置：`有限补证`
 > 2026-11-10 复核：跨法域检索与现行文本复查，历史检索日期保留在原处。  
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
@@ -16,7 +16,7 @@
 | --- | --- |
 | 类型／药理类别 | 单方，**苯二氮䓬类衍生物**（ATC 亚组 N05CD "Benzodiazepine derivatives"，官方索引口径）。文献把它写作"一种苯二氮䓬衍生物"（`PMID:1973676`）与"一种新型苯二氮䓬"（`PMID:6121403`），研发代号 **SAS 643**，`PMID:2568837` 另给出商品名 **Doxans**。**受体亚型选择性、GABA<sub>A</sub> 结合位点数据未取得**，故不写定量机制 |
 | 化学名（文献所载） | 1-(2-羟乙基)-3-羟基-7-氯-1,3-二氢-5-(邻氟苯基)-2H-1,4-苯二氮䓬-2-酮（`PMID:2568837`、`PMID:6121404` 两处文字一致） |
-| 剂型与规格 | **未取得任何剂型／规格的官方文字**。人体研究使用的口服剂量档为 5、10、20、40 mg（`PMID:6121403`、`PMID:6483162`），属试验给药方案，不等于上市规格；任务简报提到的比利时／欧洲大陆历史商品名（Litazen 等）**未在任一监管库中被检索到产品记录** |
+| 剂型与规格 | **未取得任何剂型／规格的官方文字**。人体研究使用的口服剂量档为 5、10、20、40 mg（`PMID:6121403`、`PMID:6483162`），属试验给药方案，不等于上市规格；旧检索线索提到的比利时／欧洲大陆历史商品名（Litazen 等）**未在任一监管库中被检索到产品记录** |
 | 活性代谢物 | 人体生物转化产物包括**葡萄糖醛酸结合物、N-1 去烷基化产物与 N-1-基乙酸产物**（`PMID:6121404`，尿液／血浆鉴定的方法学研究）。该文献**未说明这些代谢物是否具有药理活性**，故本条目不写"活性代谢物" |
 | 关键药代 | 可核的人体药代陈述仅有一条：EEG 效应"其发生时程与血浆浓度平行"，但**跨受试者的 EEG／血药浓度相关无统计学显著性，源于个体间变异**（`PMID:6121403`）；EEG 催眠研究也监测了血浆浓度（`PMID:6483162`）。**半衰期、Tmax、蛋白结合率、口服生物利用度均未取得可读数值**。不填充类别数值（§10 第 3 项） |
 | 中国管制状态（核查 2026-10-06） | **未发现列入上述现行目录（核查至 2026-10-06）**：逐项核对 2025 年版《药用类麻醉药品目录》《药用类精神药品目录》、2026 年第 58 号药用类精神药品增列、2025 年版《非药用类麻醉药品和精神药品目录》与 2026-07-01 生效的 16 种非药用类增列，均未命中“doxefazepam”；再按公告结构定义核查四个整类范围。芬太尼类（母体芬太尼，条件一至四）、合成大麻素类（目录结构式图所列母核通式与 R1–R5、X、Y、Z 定义）、尼秦类（母体依托尼秦，条件一至四）、奥啡类（母体溴啡条件一至三、母体螺溴啡条件四至六），结构核查以 PubChem 收录的分子式与结构式做预筛，预筛阳性与边界案例逐项人工回看公告条件，本药不落入其中任何一类的母核或所列替代条件。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制)，也不表示不存在处方、携带、进出口或其他法律限制 |
@@ -100,7 +100,7 @@
 ## 10. 证据边界
 
 1. **WHO 2026 索引未对本编码给出 DDD**：`N05CD12` 条目存在但无 DDD 行，故 §1 不填统计剂量，也不从同类药补数。
-2. **无任何监管文本**：美国（openFDA 标签、Drugs@FDA 与 DailyMed）、法国（BDPM）与西班牙（CIMA）检索均为 0 条。英国 emc 检索页返回 HTTP 200，但结果列表由页面脚本动态加载，未取到可读命中清单。这些**只说明检索缺口**，不构成"未批准／已撤市／不存在"。任务简报所给的比利时／欧洲大陆产品名（Litazen 等）未被任一接口返回，需人工到上市许可登记源核对（未做）。
+2. **无任何监管文本**：美国（openFDA 标签、Drugs@FDA 与 DailyMed）、法国（BDPM）与西班牙（CIMA）检索均为 0 条。英国 emc 检索页返回 HTTP 200，但结果列表由页面脚本动态加载，未取到可读命中清单。这些**只说明检索缺口**，不构成"未批准／已撤市／不存在"。旧检索线索所列的比利时／欧洲大陆产品名（Litazen 等）未被任一接口返回，需人工到上市许可登记源核对（未做）。
 3. **药代数值缺位**：未取得本药的半衰期、Tmax、蛋白结合率与清除率数值。仅有"EEG 效应时程与血浆浓度平行、跨受试者相关不显著"这一条可引用陈述。不借用同类苯二氮䓬的药代参数。
 4. **机制未量化**：无受体结合、亚型选择性或占有率数据。文中"抗焦虑样 EEG 谱"是作者的定性描述，不是机制证明。
 5. **致癌性结论存在措辞冲突**：`PMID:1973676` 明确报告雌性肝细胞肿瘤线性趋势并建议追加研究，`PMID:2568837` 概括为"未见阳性致癌潜能"。两者不能合并成一句新结论。
@@ -109,11 +109,13 @@
 
 **2026-11-10 复核记录**：CIMA `doxefazepam` 与 `Doxans` 均 0 条。DailyMed 0 条。法国 BDPM 前缀 0 条。openFDA 无匹配。英国 emc 检索页未返回可解析清单。意大利 AIFA 药品数据库在本机 TLS 连接被重置，未能取回原文。第三方镜像只给出 AIC 编号与剂型，不采信为监管文本。维持 `basic`。
 
+**2026-11-24 定向核查**：荷兰 CBG Geneesmiddeleninformatiebank 按 `doxefazepam` 检索，官方结果为「Geen producten gevonden die voldoen aan uw zoekopdracht: doxefazepam」，页面数据更新日为 2026-11-18。按 Litazen 的公开索引检索未取得比利时、荷兰或意大利官方产品页，AIFA 官方数据库入口连接失败。Litazen 与 Doxans 的登记号、持证方、剂型、文本版本及停售状态仍未核实。当前荷兰零命中不构成历史未获批或撤市结论，状态保持 `basic`。
+
 ## 11. 深入分析与来源
 
 本条目未建专题文件：待解释的核心问题是"文本缺位＋证据只到健康志愿者药效学与啮齿类毒理"，已在 §2 与 §10 写明。没有可供深挖的剂量-浓度-效应链。
 
-**监管与官方文件**：未取得任何本药监管文本。检索入口（返回 0 条／无产品记录）：[openFDA 标签按通用名检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22doxefazepam%22&limit=5)。[Drugs@FDA 全文检索](https://api.fda.gov/drug/drugsfda.json?search=doxefazepam&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=doxefazepam)。[法国 BDPM 首字母检索 `startBy=DOXE`](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DOXE&limit=20)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=doxefazepam)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=doxefazepam&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
+**监管与官方文件**：[荷兰 CBG Geneesmiddeleninformatiebank（2026-11-24 按 doxefazepam 检索，无产品，数据更新日 2026-11-18）](https://www.geneesmiddeleninformatiebank.nl/ords/f?p=111:1:0::NO:1:P0_DOMAIN,P0_LANG:H,NL)。[意大利 AIFA 药品数据库（连接失败）](https://farmaci.agenziafarmaco.gov.it/aifa/servlet/Presenter?vedi=home)。未取得任何本药监管文本。检索入口（返回 0 条／无产品记录）：[openFDA 标签按通用名检索](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22doxefazepam%22&limit=5)。[Drugs@FDA 全文检索](https://api.fda.gov/drug/drugsfda.json?search=doxefazepam&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=doxefazepam)。[法国 BDPM 首字母检索 `startBy=DOXE`](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DOXE&limit=20)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=doxefazepam)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=doxefazepam&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **指南与标准**：[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)（未逐名收录本药）。
 

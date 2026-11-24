@@ -1,6 +1,6 @@
 # dimetacrine｜二甲他林（中文名取自中文维基化学物质条目对译，未核对我国监管核准名；历史文献亦写作 dimethacrine，别名转述 acripramine／acripamine 两源不一致，一律以 CAS 为准）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AA18`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（Istonil 等历史 RCP 定向核查）｜ ATC：`N06AA18`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（德语区与法语区历史研究可见，现行库无产品。核查范围：DE／FR／US） ｜ 研究处置：`有限补证`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
@@ -79,7 +79,7 @@
 - CIMA 0 条
 - BDPM 前缀检索 0 条
 - Fachinfo.de 0 条命中这些是**具体检索结果**，不等于"该药已撤市、被禁用或不存在"。瑞士 swissmedic、德国 BfArM、日本 PMDA 的历史注册与撤销文本均未取得，属未解决缺口。
-2. **身份锚定**：CAS 4757-55-5、系统名与 `KEGG-D02565` 为锚。Istonil／Istonyl／Linostil／Miroistonil 等商品名归属来自 DrugBank 与英文维基转述，注册文本未核。曲米帕明与本药同分子式（§1），任何文献归属先核物质而非分子式或商品名。
+2. **身份锚定**：CAS 4757-55-5、系统名与 `KEGG-D02565` 为锚。Istonil／Istonyl／Linostil／Miroistonil 等商品名归属来自 DrugBank 与英文维基转述，注册文本未核。曲米帕明与本药同分子式（§1），任何文献归属先核物质而非分子式或商品名。2026-11-24 对 Istonil、Istonyl 与 dimetacrine 的德国 BfArM／Fachinfo 和法国 BDPM 定向核查未取得官方 RCP、授权文号或停售文件。德国与法国历史商品名的剂型、持证方及文本版本仍待核实，不能由商品名字符串推定国家或授权状态。
 3. **类别证据不等于本药证据**：本药是吖啶烷型三环，与二苯并氮杂䓬型（丙米嗪）、二苯环庚烯型（阿米替林）结构不同。不借用后两者的疗效、QT／心律失常、过量心脏毒性条款。1974 年动物研究作者"心血管并发症更少"的推断与其结论时效一并记录，不合成现代安全结论。Biamino 系列的负性肌力观察与 Kato 系列的低毒性观察**存在张力，按原文保留**。
 4. **复方独立**：与 phenmetrazine 的固定复方按复方对象另行评价，本单方不承载其兴奋剂成分风险。
 5. **DDD 0.15 g 口服不是处方剂量**。无本药现行剂量正文。
@@ -91,7 +91,7 @@
 
 本条目未建专题文件：待解释的只有"半个世纪前的人体／动物心脏证据与现代类别条款如何分层"，已在 §2、§5、§6 与 §10 写明。注册正文缺失，专题无从承载更多。
 
-**检索与监管**：[WHO ATC `N06AA18`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA18)。[Fachinfo.de 按 Dimetacrin 检索（0 条）](https://www.fachinfo.de/suche/?query=Dimetacrin)。[openFDA 标签检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimetacrine%22&limit=2)。[DailyMed 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimetacrine)。[西班牙 CIMA 检索（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=dimetacrine)。[法国 BDPM 前缀检索（recordsTotal＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMETACRINE)。[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（按名未命中）。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（在 2026-11-11 之前未能脚本检索）。
+**检索与监管**：[德国 BfArM 药品信息入口（2026-11-24 未取得 Istonil 历史文本）](https://www.bfarm.de/EN/Medicinal-products/Medicinal-product-information/_node.html)。[WHO ATC `N06AA18`](https://atcddd.fhi.no/atc_ddd_index/?code=N06AA18)。[Fachinfo.de 按 Dimetacrin 检索（0 条）](https://www.fachinfo.de/suche/?query=Dimetacrin)。[openFDA 标签检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22dimetacrine%22&limit=2)。[DailyMed 检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=dimetacrine)。[西班牙 CIMA 检索（totalFilas＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=dimetacrine)。[法国 BDPM 前缀检索（recordsTotal＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=DIMETACRINE)。[DEA 管制物质字母表](https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf)（按名未命中）。[NMPA](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE](https://www.cde.org.cn/hzmp/)（在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[人体心导管血流动力学（PMID:1266277）](https://pubmed.ncbi.nlm.nih.gov/1266277/)。[三环类心血管副作用系列（PMID:1150371）](https://pubmed.ncbi.nlm.nih.gov/1150371/)。[离体与人体比较心肌收缩力（PMID:1209005）](https://pubmed.ncbi.nlm.nih.gov/1209005/)。[豚鼠心房与麻醉犬心脏毒性比较（PMID:4463275）](https://pubmed.ncbi.nlm.nih.gov/4463275/)。[双盲对比丙米嗪（题录，PMID:4149236）](https://pubmed.ncbi.nlm.nih.gov/4149236/)。[临床实验综述（题录，PMID:4564744）](https://pubmed.ncbi.nlm.nih.gov/4564744/)。[临床评价（题录，PMID:5756370、PMID:5092364）](https://pubmed.ncbi.nlm.nih.gov/5756370/)。[首份吖啶烷衍生物抗抑郁报告（题录，PMID:6008540）](https://pubmed.ncbi.nlm.nih.gov/6008540/)。[小鼠条件性抑制（PMID:4039801）](https://pubmed.ncbi.nlm.nih.gov/4039801/)。[突触体结合与分布（PMID:651018、PMID:609148、PMID:976450）](https://pubmed.ncbi.nlm.nih.gov/651018/)。[大鼠药代与生物转化（题录，PMID:426616、PMID:736760）](https://pubmed.ncbi.nlm.nih.gov/426616/)。[小鼠致癌试验（题录，PMID:5395891）](https://pubmed.ncbi.nlm.nih.gov/5395891/)。[镇静性药物综述列名（题录，PMID:6884962）](https://pubmed.ncbi.nlm.nih.gov/6884962/)。
 

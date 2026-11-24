@@ -1,6 +1,6 @@
 # bromisoval｜中文名待核实（骨架"中文标签：待核实"；本波次未检得中文核准名出处，通用名为 bromisoval／bromovalerylurea）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`N05CM03`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（PMDA 单方医疗用文本定向复核，检索记录见 §10）｜ ATC：`N05CM03`（WHO ATC/DDD Index 2026）  
 > 临床现状：`地区性人用`（日本 OTC 复方仍在售（ブロムワレリル尿素，如ウット）） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
@@ -97,7 +97,7 @@
 
 ## 10. 证据边界
 
-1. **无监管文本**：美／法／西／英四个入口本次核查检索 0 条或结果不可读。日本方面只取得**药学史与临床文献**，**未取得 PMDA 上市许可或说明书文本**。任务简报所提示的"日本制剂若只有二手资料须写明未取得官方文本"在此成立。文中出现的日本商品名 Utto®、德国名 Bromural、以及简报提到的 Bromosedase 均**未由官方来源核实**（Bromosedase 本次核查在已读文献中未出现）。
+1. **无监管文本**：美／法／西／英四个入口本次核查检索 0 条或结果不可读。日本方面只取得**药学史与临床文献**，**未取得 PMDA 上市许可或说明书文本**。既有检索记录要求日本制剂仅取得二手资料时注明未取得官方文本。文中出现的日本商品名 Utto®、德国名 Bromural、以及旧检索记录提到的 Bromosedase 均**未由官方来源核实**（Bromosedase 本次核查在已读文献中未出现）。
 2. **疗效缺口**：未检得本药治疗失眠或焦虑的随机对照试验。§2.2 的场景分因此建立在"药代＋机制＋当代单例"而非疗效终点上，属 `basic` 状态的主因。
 3. **复方不进单方评分**：与阿司匹林／对乙酰氨基酚／咖啡因／可待因等的复方（`PMID:16867602`、`PMID:885233`）和"与 NSAID 联用的 OTC 制剂"（`PMID:18668386`）只证明暴露来源，不据其推导本药的适应证、禁忌或风险。
 4. **实体区分**：本药（α-bromisovalerylurea／2-bromoisovalerylurea）与 **carbromal（α-bromdiethylacetylcarbamide）** 及 **acecarbromal（acetylcarbromal）** 是不同化合物。历史上曾被同批方法学与中毒研究并列测定。这些研究见 `PMID:4154437`、`PMID:20869`、`PMID:28618` 与 `PMID:4390119`，以及 `PMID:10116`、`PMID:27695`。**其疗效、代谢与毒性读数不得互借**。carbromal 的催眠活性代谢物是 bromoethylbutyramide 与 ethylbutyrylurea，**并非本药**（见 carbromal 档案）。`PMID:38924567` 涉及烯丙异丙乙酰脲与本药两种酰脲类在同一皮损中的反应，不合并成单药结论。
@@ -106,13 +106,13 @@
 7. **中国注册不可脚本核验**：NMPA／CDE 入口拦截自动化检索。中国管制字段沿用 2026-10-06 的核查结论与限定语，未重跑、未改判。
 8. **DDD 0.6 g 是统计指标**：与 `PMID:8422741` 的 600 mg 试验剂量数值相同属巧合性对应，不可读作"推荐剂量"。
 
-**2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、Bromural 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 bromisoval 与 bromovalerylurea 检索 0 条。法国 BDPM 按 BROMISOVAL 与 BROMURAL 前缀检索 0 条。西班牙 CIMA 按 bromisoval 检索 0 条。**日本**：PMDA 网站现行发布患者向医薬品ガイド「プロパリン原末（BROVARIN，日本新薬）」与「プロモバレリル尿素原末「マルイシ」」，记载适应证为不眠症与不安緊張状態の鎮静，用法为不眠症每日 1 次 0.5–0.8 g 就寝前、不安緊張状態の鎮静每日 0.6–1.0 g 分 3 次。该指南据添付文書作成，但不是添付文書本身，未取得添付文書编号与改订日，故不据此升级。日本「ウット」等含本成分的第 2 类 OTC 复方不构成医疗用药品文本。状态保持 `basic`。
+**2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、Bromural 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 bromisoval 与 bromovalerylurea 检索 0 条。法国 BDPM 按 BROMISOVAL 与 BROMURAL 前缀检索 0 条。西班牙 CIMA 按 bromisoval 检索 0 条。**日本**：PMDA 网站现行发布患者向医薬品ガイド「プロパリン原末（BROVARIN，日本新薬）」与「プロモバレリル尿素原末「マルイシ」」，记载适应证为不眠症与不安緊張状態の鎮静，用法为不眠症每日 1 次 0.5–0.8 g 就寝前、不安緊張状態の鎮静每日 0.6–1.0 g 分 3 次。该指南据添付文書作成，但不是添付文書本身，未取得添付文書编号与改订日，故不据此升级。日本「ウット」等含本成分的第 2 类 OTC 复方不构成医疗用药品文本。**2026-11-24 PMDA 定向复核**：在 PMDA 医疗用医药品添付文書等情報検索按「ブロムワレリル尿素」进行一般名及販売名部分一致检索，官方结果为「条件に該当する添付文書はありませんでした」。另按患者向医薬品ガイド全文检索「バレリル尿素」时遇到官方访问集中限制，未取得可读结果。现有「プロパリン原末（BROVARIN，日本新薬）」与「プロモバレリル尿素原末『マルイシ』」患者指南转录仍缺完整版本与改订日。日本 OTC 复方不能替代医疗用单方文本，故状态与临床现状不变。
 
 ## 11. 深入分析与来源
 
 本条目未建专题文件：值得独立解释的是"溴蓄积如何把一种酰脲类镇静药变成长期神经与代谢病"，但它可用 §6 的三组出处说清。把小脑萎缩、bromism、假性高氯血症与 Fanconi 综合征的逐例影像与生化数据搬进主条目会破坏快速判断页的定位。
 
-**监管与官方文件**：未取得任何本药监管文本。检索入口。[openFDA 标签按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromisoval%22&limit=5)。[Drugs@FDA 全文检索（0 条）](https://api.fda.gov/drug/drugsfda.json?search=bromisoval&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromisoval)。[法国 BDPM `startBy=BROMIS`（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROMIS&limit=20)。[法国 BDPM `startBy=BROM`（12 条，无本药）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROM&limit=50)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=bromisoval)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=bromisoval&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[PMDA 医疗用医药品添付文書等情報検索（2026-11-24 按「ブロムワレリル尿素」检索，官方无匹配）](https://www.pmda.go.jp/PmdaSearch/iyakuSearch/)。未取得任何本药监管文本。检索入口。[openFDA 标签按通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22bromisoval%22&limit=5)。[Drugs@FDA 全文检索（0 条）](https://api.fda.gov/drug/drugsfda.json?search=bromisoval&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=bromisoval)。[法国 BDPM `startBy=BROMIS`（0 条）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROMIS&limit=20)。[法国 BDPM `startBy=BROM`（12 条，无本药）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BROM&limit=50)。[西班牙 CIMA 药名检索](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=bromisoval)。[Federal Register 文档接口按词检索](https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=bromisoval&per_page=20&order=newest)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
 
 **指南与综述**：[日本药典中 bromovalerylurea 的标准与试验方法沿革（JP V 1932 → JP XVI 2011，与 DAB 对照）（PMID:27149780）](https://pubmed.ncbi.nlm.nih.gov/27149780/)。[溴化物作为镇静／镇咳／抗惊厥药的现存销售背景与溴中毒（PMID:18668386）](https://pubmed.ncbi.nlm.nih.gov/18668386/)。[日本急诊毒物分析现状全国问卷（PMID:33088578）](https://pubmed.ncbi.nlm.nih.gov/33088578/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

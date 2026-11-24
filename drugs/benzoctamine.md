@@ -1,6 +1,6 @@
 # benzoctamine｜苯佐他明（维基数据中文标签，未核对监管核准名；历史商品名 Tacitin）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`N05BD01`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（Tacitin 历史授权定向核查）｜ ATC：`N05BD01`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（英美法西现行库无产品，历史品牌 Tacitin 未取得授权文本。核查范围：US／UK／FR／ES） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **本条目保持 `basic`**：本次核查在美国、英国、法国、西班牙四个药品库均未取得本药的现行或历史说明书，PubMed 的 61 条记录集中在 1969–1988 年且多数只有题录。因此「核准适应证」与「标签给药方案」两项核心模块无法由官方文本填写（§10 第 1 项）。以下各项均已核查并按现有规则评分：
@@ -105,7 +105,7 @@
 ## 10. 证据边界
 
 1. **没有说明书**：美国 openFDA 标签库与 DailyMed（通用名与 Tacitin）0 条。英国 emc「No search results」。法国 BDPM 0 行。西班牙 CIMA 0 条（均为 2026-10-24）。零命中只写成检索事实，**不推出未批准、已撤市或不存在**。
-2. **Tacitin 不是注册证据**：商品名只见于文献，本次未取得授权文号、规格、持证商或停售文件，因此不写「瑞士／英国曾上市」及其适应证。
+2. **Tacitin 不是注册证据**：商品名只见于文献，本次未取得授权文号、规格、持证商或停售文件，因此不写「瑞士／英国曾上市」及其适应证。2026-11-24 定向核查 swissmedicinfo-pro 官方入口只返回站点标识，未取得可检索的产品文本。瑞士历史授权、英国历史 SmPC 与北欧国家药品登记均未取得，构成具体缺口。检索命中 benzoctamine 的商业试剂页与药品科普页只用于名称线索，不支撑注册事实。
 3. **多数比较试验只有题录**：与氯氮䓬、地西泮、奥沙西泮、美达西泮的对照研究均未取得摘要或结果，本页只记录「有该研究」，不写方向。这是本页不能升级为 `basic` 以上状态的主要原因之一。
 4. **中国结论分两层**：未列入现行麻精目录（核查至 2026-10-06，含四类整类结构核查）不等于「非管制」。中国上市与核准适应证待核实。
 5. **DDD 有两条不等于有两种在售剂型**：30 mg 口服与 30 mg 注射是统计单位，只能说明历史上存在过肠道外给药，不能据此写现行剂型或换算剂量。
@@ -118,7 +118,7 @@
 
 本页不设专题：可讨论的问题，即「一个非苯二氮䓬镇静药为何在呼吸效应上呈双向」。缺少关键的人体剂量与反应与慢性气道疾病数据，尚不足以支撑独立分析。同类对照见 [丁螺环酮](buspirone.md)（同为非苯二氮䓬抗焦虑药、但机制与标签完整）与 [氟硝西泮](flunitrazepam.md)（无现行说明书条件下保持 `basic` 的写法先例）。
 
-**监管与官方文件**：[openFDA 标签库按通用名 benzoctamine 检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22benzoctamine%22)。[DailyMed 按药名 benzoctamine 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=benzoctamine)。[英国 emc 按 benzoctamine 检索（无结果，2026-10-24）](https://www.medicines.org.uk/emc/search?q=benzoctamine)。[法国 BDPM 检索页](https://base-donnees-publique.medicaments.gouv.fr/)。[西班牙 CIMA 检索页](https://cima.aemps.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[瑞士 swissmedicinfo-pro（2026-11-24 未取得 Tacitin 产品文本）](https://www.swissmedicinfo-pro.ch/)。[openFDA 标签库按通用名 benzoctamine 检索（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22benzoctamine%22)。[DailyMed 按药名 benzoctamine 检索（0 条）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=benzoctamine)。[英国 emc 按 benzoctamine 检索（无结果，2026-10-24）](https://www.medicines.org.uk/emc/search?q=benzoctamine)。[法国 BDPM 检索页](https://base-donnees-publique.medicaments.gouv.fr/)。[西班牙 CIMA 检索页](https://cima.aemps.es/cima/publico/home.html)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集入口](https://www.cde.org.cn/hzmp/)。
 
 **研究与文献**：[PMID:4349414](https://pubmed.ncbi.nlm.nih.gov/4349414/)（8 名男性 27 周睡眠与内分泌研究，1973）。[PMID:1103919](https://pubmed.ncbi.nlm.nih.gov/1103919/)（口服剂量呼吸效应与吗啡相互作用，1975）。[PMID:6109465](https://pubmed.ncbi.nlm.nih.gov/6109465/)（静脉 10–20 mg 血气，1980）。[PMID:4616878](https://pubmed.ncbi.nlm.nih.gov/4616878/)（慢性气道阻塞者的 CO₂ 反应，题录）。[PMID:582625](https://pubmed.ncbi.nlm.nih.gov/582625/)（中枢抗 5-HT 作用，1978）。[PMID:42412](https://pubmed.ncbi.nlm.nih.gov/42412/)（黑质递质与肌梭反射，1979）。[PMID:136640](https://pubmed.ncbi.nlm.nih.gov/136640/)（膈神经与肋间肌，1976）。[PMID:4678760](https://pubmed.ncbi.nlm.nih.gov/4678760/)（与氯氮䓬协作研究，题录）。[PMID:4623974](https://pubmed.ncbi.nlm.nih.gov/4623974/)（地西泮／本药／安慰剂，题录）。[PMID:4588385](https://pubmed.ncbi.nlm.nih.gov/4588385/)（酒精戒断与奥沙西泮，题录）。[PMID:4592708](https://pubmed.ncbi.nlm.nih.gov/4592708/)（儿童青少年与美达西泮，题录）。[PMID:2901947](https://pubmed.ncbi.nlm.nih.gov/2901947/)（1988 年与丙咪嗪比较，题录）。
 

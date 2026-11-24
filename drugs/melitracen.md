@@ -1,6 +1,6 @@
 # melitracen｜美利曲辛（维基数据中文标签，未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（ATC 与跨法域检索 2026-11-10，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N06AA14`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（盐酸美利曲辛单方 NMPA 说明书定向核查）｜ ATC：`N06AA14`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（单方现行文本未取得，西班牙仅见 melitracen＋flupentixol 复方。核查范围：ES／FR／UK／JP） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
@@ -85,11 +85,13 @@ melitracen 属于三环类抗抑郁药，历史文献把它描述为具有抗抑
 
 - **NMPA 数据查询（2026-11-11 浏览器检索）**：境内生产药品 10 条，如 国药准字H20150053（盐酸美利曲辛，重庆圣华曦药业股份有限公司）、国药准字H20143390（氟哌噻吨美利曲辛片，海南辉能药业有限公司）。境外生产药品 1 条，如 国药准字HJ20171104（氟哌噻吨美利曲辛片）。检索结果为目录登记条目，不写成核准适应证。
 
+- **2026-11-24 单方说明书定向核查**：NMPA 数据查询入口返回 HTTP 412，浏览器页面为空，未取得国药准字H20150053 的现行说明书 PDF、核准适应证、规格、修订日期或再注册状态。公开检索得到的单方功能主治文字来自商业药品科普页，不能替代 NMPA 文本。DEANXIT 及其国产仿制复方仍不用于单方评分。单方中国当前上市状态与完整说明书缺口保持待核实。
+
 ## 11. 深入分析与来源
 
 本药未建专题文件：单方证据不足以支撑独立专题，核心问题（复方与单方的实体混淆、单方现行文本缺失）已在本页闭环。
 
-**监管与官方文件**：[CIMA DEANXIT 50012 说明书（固定复方，仅用于实体边界）](https://cima.aemps.es/cima/dochtml/ft/50102/FT_50102.html)。[法国 BDPM 检索（melitracen 0 行）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索（无结果）](https://www.medicines.org.uk/emc/search?q=melitracen)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
+**监管与官方文件**：[NMPA 数据查询（2026-11-24 HTTP 412，未取得 H20150053 单方说明书）](https://datasearch.nmpa.gov.cn/datasearch/home-index.html)。[CIMA DEANXIT 50012 说明书（固定复方，仅用于实体边界）](https://cima.aemps.es/cima/dochtml/ft/50102/FT_50102.html)。[法国 BDPM 检索（melitracen 0 行）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索（无结果）](https://www.medicines.org.uk/emc/search?q=melitracen)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc)。[CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)。
 
 **研究与历史文献**：[Brasseur 1971 法语临床观察](https://pubmed.ncbi.nlm.nih.gov/5553886/)。[Di Genio 1976 意大利语抑郁综合征观察](https://pubmed.ncbi.nlm.nih.gov/795587/)。[Martini 1978 急性中毒病例](https://pubmed.ncbi.nlm.nih.gov/649231/)。[Kollroser 2002 血药浓度测定](https://pubmed.ncbi.nlm.nih.gov/12142640/)。[Rasanen 2003 法医筛查保留时间](https://pubmed.ncbi.nlm.nih.gov/12705964/)。
 

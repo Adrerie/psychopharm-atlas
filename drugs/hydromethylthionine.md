@@ -1,13 +1,13 @@
 # hydromethylthionine｜氢甲硫堇（Hydromethylthionine；III 期与上市申请阶段的在研实体，与"亚甲蓝／methylthioninium chloride"是不同实体与不同用途）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（WHO ATC 亚组页、DailyMed 两条名称检索、ClinicalTrials.gov v2 逐条登记状态与结果张贴情况、可校验题名的试验／药代文献、EMA 上"甲硫堇氯化物"条目页的适应证原文口径、中国四份管制目录逐名检索）｜ ATC：`N06DX07`（hydromethylthionine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
-> 临床现状：`待核实`（无任何法域批准记录，III 期结果未支持注册推进。核查范围：EU／US／UK） ｜ 研究处置：`继续研究`
+> 状态：`basic` ｜ 最后核查：2026-11-24（ClinicalTrials.gov v2 登记状态与 resultsSection 原始结果类型、分析人群、测量与可解析统计，TauRx 当前产品页，既有 WHO ATC／监管实体边界）｜ ATC：`N06DX07`（hydromethylthionine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
+> 临床现状：`待核实`（未检得可核验批准记录。LUCIDITY 已张贴结果，公司仍称英国上市许可申请处于加速评估。核查范围：EU／US／UK） ｜ 研究处置：`继续研究`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **最大的实体风险是"同族混淆"。** hydromethylthionine（物质库同义名 leucomethylene blue，即亚甲蓝的还原型）与其盐型表述（二氢溴酸盐口径 TRx-237。III 期与上市申请实际使用**甲磺酸盐** hydromethylthionine mesylate，简称 HMTM／LMTX）是同一活性主体的不同表述层次，而**亚甲蓝（methylene blue／methylthioninium chloride）本身是另一档案对象**，它在欧盟的上市许可（Methylthioninium chloride Proveblue，ATC `V03AB17`）适应症是**高铁血红蛋白血症的急性对症治疗**，与相关 AD／tau 假设毫无继承关系（见 §4 与 §10）。本档案不采用亚甲蓝的适应证、剂量、安全性或管制结论。
 
-**引用键**：`ATC-DX`＝WHO ATC/DDD 索引 N06DX 亚组页。`DM`＝DailyMed 检索（`drug_name=hydromethylthionine` 与 `drug_name=methylthioninium` 各返回 0 条现行条目，检索日 2026-11-05。亚甲蓝作为另一实体的条目未检索，不计入）。`CT…`＝ClinicalTrials.gov v2 登记（状态、起止、是否张贴结果，检索日 2026-11-05）。`EU-PB`＝EMA 的 Methylthioninium chloride Proveblue 人用药品条目页（现行文本口径，EU 层面上市许可授予日 2011-05-06，ATC `V03AB17`）。`PMID:…`＝PubMed（题名与摘要已校验）。`PR`＝申办方公告（**公司声明，非监管文本**）。§N 指所引正文章节号。
+**引用键**：`ATC-DX`＝WHO ATC/DDD 索引 N06DX 亚组页。`DM`＝DailyMed 检索（`drug_name=hydromethylthionine` 与 `drug_name=methylthioninium` 各返回 0 条现行条目，检索日 2026-11-05。亚甲蓝作为另一实体的条目未检索，不计入）。`CT…`＝ClinicalTrials.gov v2 登记（状态、起止、是否张贴结果，检索日 2026-11-24，早期检索日期见 §10）。`EU-PB`＝EMA 的 Methylthioninium chloride Proveblue 人用药品条目页（现行文本口径，EU 层面上市许可授予日 2011-05-06，ATC `V03AB17`）。`PMID:…`＝PubMed（题名与摘要已校验）。`PR`＝申办方公告（**公司声明，非监管文本**）。`TAURX-PRODUCT`＝TauRx 当前 HMTM 产品页（2026-11-24 可读，页面无明确更新日期，公司声明）。§N 指所引正文章节号。
 
 ## 1. 基本信息
 
@@ -57,10 +57,14 @@
 
 - 早期 III 期两项（`CT NCT01689233`：18 个月、轻度 AD。`CT NCT01689246`：15 个月、轻中度 AD）均记 COMPLETED 但**未张贴结果**。另有 12 个月项目 `CT NCT01626378`（COMPLETED，未张贴结果）与 4 周耐受性项目 `CT NCT01626391`（TERMINATED，结果已于 2014-07-11 张贴）。**未校验到可引用的原始发表报告，故这两项 III 期的主要终点结局写为待核实**，不采用二次报道的"失败"表述作为监管事实，但无论结局如何，它们都不构成现行治疗依据。
 - 开放标签扩展 `CT NCT02245568`：状态 TERMINATED（2014-08→2017-05），登记条目给出的终止理由为"仅因行政原因"，结果已于 2020-06-02 张贴。**终止不等于安全性事件，也不等于有效**。
-- 关键 III 期 LUCIDITY（`CT NCT03446001`，三臂、12 个月双盲加 12 个月开放标签。COMPLETED，主要完成 2022-03-31、项目完成 2023-04-04，**结果已张贴 2025-09-04**）：已校验的发表摘要给出的结论是。按日给药的 HMTM 在 52 周时减缓神经变性进展与灰质萎缩，但**对照组的症状学活性使 52 周的主要临床终点无法把两组分开**。在 MCI 参与者中，明显的临床分离只出现在第 78 与 104 周，并称该效应在另一研究中得到确认（`PMID:41570392`）。这是"主要终点未按设计达成＋事后／延长期亚组分离"的典型结构，不能写成"III 期阳性"。
+- 关键 III 期 LUCIDITY（`CT NCT03446001`，三臂、12 个月双盲加 12 个月开放标签。COMPLETED，主要完成 2022-03-31、项目完成 2023-04-04，**结果已张贴 2025-09-04**）：登记方案主要终点为 16 mg/日对对照的 52 周 ADAS-cog11、ADCS-ADL23 变化及严重与非严重不良事件人数。8 mg/日临床终点、相关安全性与部分影像终点列为 SECONDARY。`resultsSection` 共 13 条，3 条 PRIMARY、10 条 SECONDARY，无 OTHER_PRE_SPECIFIED 或 POST_HOC。
+- LUCIDITY 原始张贴结果使用 E-MITTv5 人群，纳入按方案 5.0 及以后版本随机、至少接受一剂、有基线及至少一次有效疗效评估者，52 周读数限于基线与第 52 周均有数据者。16 mg/日对对照的 ADAS-cog11 变化为 1.71（95% CI 0.69 至 2.73）与 1.34（0.32 至 2.36），ADCS-ADL23 变化为 −0.77（−2.32 至 0.78）与 −0.62（−2.19 至 0.95）。登记未给组间差值或 p 值，全部条目 `analyses` 为空或缺失，不能仅凭组内数值方向作显著性判断。
+- 16 mg/日的全脑年萎缩率为 −11137.44 mm³（95% CI −12682.86 至 −9592.01）与 −11162.70 mm³（−12711.43 至 −9613.98），颞顶叶为 −740.79 mm³（−821.39 至 −660.19）与 −711.14 mm³（−791.96 至 −630.32）。8 mg/日 ADAS-cog11 为 1.78（0.79 至 2.77）与 1.06（−0.89 至 3.01），ADCS-ADL23 为 −0.82（−2.36 至 0.72）与 −1.41（−4.46 至 1.64）。影像与组内变化不自动构成临床获益。
+- 已校验的发表摘要给出的结论是：按日给药的 HMTM 在 52 周时减缓神经变性进展与灰质萎缩，但**对照组的症状学活性使 52 周的主要临床终点无法把两组分开**。在 MCI 参与者中，明显的临床分离只出现在第 78 与 104 周，并称该效应在另一研究中得到确认（`PMID:41570392`）。这是“主要终点未按设计达成＋事后／延长期亚组分离”的典型结构，不能写成“III 期阳性”。登记中的开放标签 ADAS-cog11 条目属于 SECONDARY，方案预设把双盲期 8 mg 与 16 mg 组合为 early starters，104 周不是原随机安慰剂对照。
+- LUCIDITY 开放标签安全性人群为 449 人，7 例在双盲期停药、开放标签期停药后随访但未接受开放标签研究药物者被排除。原始结果帖没有提供全部测量的总体分母，且 participant flow 的 FG 组号与 outcome measure 的 OG 组号没有显式映射。因此本档案只引用题名明确写有“16 mg/日对对照”或“8 mg/日对对照”的成对读数，不擅自标注开放标签组别。
 - 药代解释（`PMID:41917677`，申办方与合同药代公司共同署名）：12 个月暴露上升与本药的双重药理被认为解释了低剂量甲硫堇氯化物的意外症状学活性，并指出在标准安慰剂对照设计中难以只保留尿色改变而不产生治疗活性。该解释针对**试验设计问题**，不是独立的有效性证据。
 - 资助与利益关系贯穿支持性文献：`PMID:36281683` 与 `PMID:41917677` 的声明均显示雇员／专利关系。评估时须与"未张贴结果""主要终点未分离"并列阅读。
-- 监管事件口径：公司向 MHRA 提交上市许可申请并被列入 ILAP（`PR`）。FDA 侧无可核的受理或批准文本，二次渠道提到的"准备提交"不作为事实。
+- 监管事件口径：公司向 MHRA 提交上市许可申请并被列入 ILAP（`PR`）。TauRx 当前产品页在 2026-11-24 仍称申请处于 150 天加速评估，潜在适用人群为 MCI 与轻中度 AD，并复述随机双盲 12 个月 NfL 变化及 MCI 临床改善维持 18 个月（`TAURX-PRODUCT`）。页面版权为 2026，但没有明确更新日期，也未附 MHRA 决定。该页是公司声明，不能证明批准、拒绝或同行评审结论。FDA 侧无可核的受理或批准文本，二次渠道提到的“准备提交”不作为事实。
 
 ## 6. 长期风险
 
@@ -94,15 +98,21 @@
 
 检索记录（2026-11-10）：本次复核未新增法域证据。欧洲药品管理局入口在当日的药品与草药条目请求均返回服务器不可用，未能复核 EMA 侧条目。其余检索保持 2026-11-05 的记录口径，本药仍无任何法域的核准适应证与给药方案可引，状态保持 basic。
 
+检索记录（2026-11-24）：ClinicalTrials.gov v2 回读 `NCT03446001` 的 `resultsSection.outcomeMeasuresModule`，确认结果首次提交 2025-07-03、首次张贴与最后更新均为 2025-09-04，13 条结果分为 3 条 PRIMARY 与 10 条 SECONDARY。`NCT01689233`、`NCT01689246`、`NCT01626378` 虽为 COMPLETED，均无 `resultsSection`。`NCT01626391`、`NCT02245568` 为 TERMINATED，均于 2020-06-02 张贴仅一项 PRIMARY 安全性条目。`NCT03539380` 为 AVAILABLE，最后更新 2024-09-27，无结果。ClinicalTrials.gov 结果网页只返回应用外壳，未解决 participant flow 的 FG 组号与 outcome measure 的 OG 组号映射。TauRx 产品页可读，仍属公司声明，未取得 MHRA 审评结论。上述检索补齐了 III 期结果层级，但未补齐批准文本与完整组间推断。
+
 ## 11. 深入分析与来源
 
 - WHO ATC：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DX07`、`?code=N06DX&display=subgroup`
 - DailyMed 检索：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=hydromethylthionine`
-- 登记条目：
-  - `https://clinicaltrials.gov/api/v2/studies/NCT03446001`、`…NCT01689233`
-  - `…NCT01689246`、`…NCT01626378`
-  - `…NCT01626391`、`…NCT02245568`
-  - `…NCT03539380`
+- 登记条目（ClinicalTrials.gov v2 原始接口，检索日 2026-11-24）：
+  - `https://clinicaltrials.gov/api/v2/studies/NCT03446001`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT01689233`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT01689246`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT01626378`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT01626391`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT02245568`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT03539380`
+- TauRx 当前产品页：`https://www.taurx.com/company/our-product-hmtm`（2026-11-24 可读，无明确更新日期，公司声明）
 - 已校验文献：`PMID:36281683`（J Prev Alzheimers Dis 2022。9(4):780-790，III 期设计与进展，申办方署名关系见其声明）、`PMID:41570392`（J Prev Alzheimers Dis 2026。13(3):100480，III 期临床／影像／血液标志物结局）、`PMID:41917677`（Br J Clin Pharmacol 2026。92(8):2645-2656，群体药代与"意外的症状学活性"解释）、`PMID:41396167`（Behav Pharmacol 2026，动物药理模型中与利斯的明比较）
 - 另一实体的现行监管文本（用于划清边界）：EMA Methylthioninium chloride Proveblue 人用药品条目页 `https://www.ema.europa.eu/en/medicines/human/EPAR/methylthioninium-chloride-proveblue`（EU 许可 2011-05-06，ATC `V03AB17`，适应证为高铁血红蛋白血症）
 - 相关档案：[blarcamesine](blarcamesine.md)（另一在研小分子）、[memantine](memantine.md)（症状治疗基准）、[donepezil-and-memantine](donepezil-and-memantine.md)。中国管制核查基准见 [SOURCES.md](../SOURCES.md#中国麻醉药品和精神药品管制)

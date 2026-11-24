@@ -1,6 +1,6 @@
 # clopenthixol｜中文名待核实（骨架未收录中文标签，本条不自行拟定译名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05AF02`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（丹麦 Sordinol 定向核查）｜ ATC：`N05AF02`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（丹麦与英美法西现行库均无本药文本，历史使用见 1968–1990 年代文献。核查范围：DK／UK／US／FR） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
@@ -114,12 +114,13 @@
 8. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口在 2026-11-11 之前未能脚本检索而待核实。
 9. **2026-11-10 复核**：openFDA 标签接口与 Drugs@FDA 按 `clopenthixol`／`clopentixol` 检索仍无记录（HTTP 404 即无命中），DailyMed `drug_name` 检索 `total_elements`＝0，法国 BDPM 字母序接口 0 条，西班牙 CIMA `nombre` 检索 0 条，英国 emc 检索未命中产品页。中国管制沿用 2026-10-06 的已审计结论，并按 2025 年版三份目录全文（药用类麻醉药品 32 项、药用类精神药品第一类 18 项与第二类 78 项、非药用类 396 项）逐名复核，结论不变。状态仍为 `basic`。
 10. **2026-11-10 实体分离补充**：瑞典 FASS 的检索页由页面脚本渲染，未取到 clopenthixol 的可读产品清单。检索命中的 Cisordinol 系列其成分为 zuclopenthixol（珠氯噻醇，单用异构体），与消旋体 clopenthixol（ATC `N05AF02`）是不同实体，其产品信息不得作为本条目证据。
+11. **2026-11-24 丹麦定向核查**：以 Sordinol 与 clopenthixol 检索丹麦官方历史药品入口，mdat.dk 连接失败，未取得授权、口服混合物或癸酸酯 SmPC。公开检索只返回商业与化学名称页，未取得丹麦药品号、持证方、文本日期或正式停售文件。Sordinol Depot／Cisordinol Depot 的纯顺式归属仍须按原始结构核对，不能与本药混合物合并。
 
 ## 11. 深入分析与来源
 
 本条目不建专题文件：真正需要专题的问题是"混合物与纯顺式异构体的 1∶2 效价比在多大程度上解释了两者的临床差异"，这需要原始剂量-反应与浓度数据（`PMID:6951395`、`PMID:6415733` 的完整表格）与监管剂量说明，只有摘要层面。
 
-**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clopenthixol%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22clopenthixol%22&limit=1)。[DailyMed 按药名检索接口（返回验证页）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=clopenthixol)。[法国 BDPM 字母序检索 CLOP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CLOP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=clopenthixol)。[KEGG DRUG D02613（Clopenthixol，USAN）](https://www.kegg.jp/entry/D02613)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
+**监管与检索记录**：[丹麦 mdat.dk 历史药品数据库（2026-11-24 连接失败）](https://mdat.dk/)。[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22clopenthixol%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22clopenthixol%22&limit=1)。[DailyMed 按药名检索接口（返回验证页）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=clopenthixol)。[法国 BDPM 字母序检索 CLOP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=CLOP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=clopenthixol)。[KEGG DRUG D02613（Clopenthixol，USAN）](https://www.kegg.jp/entry/D02613)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **固定复方实体核对**：[西班牙 AEMPS CIMA。Deanxit 片剂组成（flupentixol 0.5 mg＋melitracen 10 mg）](https://cima.aemps.es/cima/dochtml/ft/50102/FichaTecnica_50102.html)。
 

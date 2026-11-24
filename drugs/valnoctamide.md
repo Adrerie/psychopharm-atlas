@@ -1,6 +1,6 @@
 # valnoctamide｜戊诺酰胺（维基数据中文标签，zh）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（ATC 与跨法域检索 2026-11-10，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05CM13`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（Nirvanil 历史 RCP 与 ANSM 归档定向核查）｜ ATC：`N05CM13`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（法国 BDPM 无产品，未取得撤市公告。核查范围：FR／US／UK） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 > **本条目保持 `basic`**：法国公共药品数据库已无 Nirvanil／valnoctamide 现行产品，未取得任何法域的现行说明书，因此"核准适应证"与"给药方案"无法由现行监管文本填写（§10 第 1 项）。本药**不是丙戊酸（valproate）**，两者的疗效、风险与监管状态不得互相借用（§3、§10 第 4 项）。
@@ -105,7 +105,7 @@
 ## 10. 证据边界
 
 1. **现行文本缺口（保持 `basic` 的直接原因）**：法国 BDPM 按 NIRVANIL 与 VALNOCTAMIDE 前缀均 0 行（2026-10-24）。美国 openFDA／DailyMed 0（2026-10-23）。英国 emc 0（2026-10-24）。这些是**检索事实**，不写成"未批准／已撤市"。
-2. **法国撤市信息未完成**：没有取得 ANSM 的撤市公告、公告日或生效日，因此只写"现行产品库无记录"。
+2. **法国撤市信息未完成**：没有取得 ANSM 的撤市公告、公告日或生效日，因此只写“现行产品库无记录”。2026-11-24 以 Nirvanil、valnoctamide 与 Axiquel 定向核查 BDPM 和 ANSM 公开入口，未取得历史 RCP、CIS／AMM 记录或归档停售文本。NCATS Inxight 的跨国上市表述仍属二手线索，不能替代法国官方文件。
 3. **历史文献的年代限制**：1964 年 70 例与 1969 年病例系列没有对照、没有现代诊断标准与终点。只能作历史用途记录，不能作疗效证据。
 4. **与丙戊酸严格分开**：本药是戊丙酰胺的异构体，**不转化为 valnoctic acid**。丙戊酸的肝毒性、胰腺炎、高氨血症、致畸性与治疗药物监测**不得移植**。同样，动物致畸性较低也不能写成"本药孕期安全"。
 5. **躁狂试验是阴性结果**：173 例、3 周、1500 mg/日，所有终点与安慰剂无显著差异。不得写成"与利培酮相当"或"无效但安全"的笼统结论。利培酮是阳性对照，本药不是非劣效设计。
@@ -120,7 +120,7 @@
 
 本药未建专题文件：核心问题。"一个被当作丙戊酸替代品开发的脂肪酸酰胺，为什么在躁狂试验中失败"。已由 §3 的药代差别与 §5 的阴性试验在本文内解释，尚不需要独立专题。同类对照见 [clomethiazole](clomethiazole.md)（同为非苯二氮䓬镇静药、单一法域文本）与 [temazepam](temazepam.md)（镇静药的依赖与停药条款写作方式）。
 
-**监管与官方文件**：[NCATS Inxight 词条（Nirvanil 与 Axiquel 历史上市表述，二手转述）](https://inxight.ncats.io/drug/3O25NRX9YG)。[法国 BDPM 字母序检索接口（NIRVANIL）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=NIRVANIL&page=1&limit=20)。[法国 BDPM 字母序检索接口（VALNOCTAMIDE）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=VALNOCTAMIDE&page=1&limit=20)。[openFDA 按通用名检索 valnoctamide（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22valnoctamide%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=valnoctamide)。[英国 emc 检索 valnoctamide（0 条）](https://www.medicines.org.uk/emc/search?q=valnoctamide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
+**监管与官方文件**：[法国 ANSM 公共药品数据库 BDPM（2026-11-24 未取得 Nirvanil 历史 RCP）](https://base-donnees-publique.medicaments.gouv.fr/)。[NCATS Inxight 词条（Nirvanil 与 Axiquel 历史上市表述，二手转述）](https://inxight.ncats.io/drug/3O25NRX9YG)。[法国 BDPM 字母序检索接口（NIRVANIL）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=NIRVANIL&page=1&limit=20)。[法国 BDPM 字母序检索接口（VALNOCTAMIDE）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=VALNOCTAMIDE&page=1&limit=20)。[openFDA 按通用名检索 valnoctamide（无记录）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22valnoctamide%22&limit=5)。[DailyMed 按药名检索（total_elements＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=valnoctamide)。[英国 emc 检索 valnoctamide（0 条）](https://www.medicines.org.uk/emc/search?q=valnoctamide)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[急性躁狂随机、安慰剂与利培酮对照试验（n=173，PMID:28605109）](https://pubmed.ncbi.nlm.nih.gov/28605109/)。[卡马西平环氧化物清除受损（健康受试者，PMID:1352988）](https://pubmed.ncbi.nlm.nih.gov/1352988/)。[Eilat XII 在研抗癫痫药报告（PMID:25769377）](https://pubmed.ncbi.nlm.nih.gov/25769377/)。[Eilat XIII／状态癫痫新治疗报告（PMID:31708430）](https://pubmed.ncbi.nlm.nih.gov/31708430/)。[1964 年 70 例神经精神科临床研究（PMID:14119722）](https://pubmed.ncbi.nlm.nih.gov/14119722/)。[1969 年 Nirvanil 病例系列（PMID:5306499）](https://pubmed.ncbi.nlm.nih.gov/5306499/)。
 

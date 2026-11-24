@@ -1,6 +1,6 @@
 # meclofenoxate｜甲氯芬酯（美国未批准、以"促智补充剂"流通；中国等地有临床使用记载）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`N06BX01`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（PMDA ルシドリール历史页面复核）｜ ATC：`N06BX01`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（美国未批准并以补充剂流通，欧洲历史药品授权未核实。核查范围：US／FR／ES） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。  
 > **状态说明**：身份与分类已核，中国管制与监管事实已核。关键人体研究也已核，但法国、西班牙、英国、美国四路检索均无本药现行药品说明书，**核准适应证与给药方案无法由官方文本填写**，故保持 `basic`（缺口见 §10 第 1 项）。本页的"未批准"指美国 FDA 的监管状态（有文献明确陈述），不是"全球未批准"。  
@@ -40,7 +40,7 @@
 
 | 使用场景 | 法域／获批状态 | 适宜度 | 一句话依据（含主要限制） |
 | --- | --- | --- | --- |
-| 痴呆（阿尔茨海默型，历史研究语境） | 无任何法域的现行批准可核；文献称中国等地用于痴呆 | C− | 本药特异的对照证据只有两项小样本研究：50 例养老院痴呆老人、2 g／日×8 周的双盲安慰剂对照试验报告心理测量表现改善（量表结果发表于配套论文，本页未核读原文）与细胞内水含量增加（`PMID:15374499`）；63 例阿尔茨海默型痴呆的 3 个月双盲随机试验中，本药单方改善老年精神症状量表与认知，但**含本药的复方"Antagonic-Stress"优于本药单方**（`PMID:18649860`），后者说明该研究不能用于评价复方，也提示单方效应可能有限。两项研究均短、小、终点为主观量表，且无现行批准 |
+| 痴呆（阿尔茨海默型，历史研究语境） | 无任何法域的现行批准可核；文献称中国等地用于痴呆 | C− | 本药特异对照证据为两项小样本双盲研究，分别报告心理测量表现或老年精神症状量表改善（`PMID:15374499`、`PMID:18649860`）。疗程短、样本小且终点主观，其中一项含本药复方优于单方，不能把复方结果归给单方。无现行批准 |
 
 **不设为场景的内容**：（1）**酒精中毒／戒断**。文献提到中国等地用本药治疗酒精中毒（`PMID:35959800`），但未检索到本药特异的随机对照试验，不设行。（2）**卒中、脑外伤后认知障碍、血管性痴呆**。仅有动物或机制研究（`PMID:2943286`、`PMID:35269638`），无本药特异的人体随机证据。（3）**健康人认知增强**。非医疗用途，见 §7。无本药特异的健康人试验。（4）**迟发性运动障碍**。Cochrane 的胆碱能药物综述把本药列为受试药物之一，但合并结论为"证据极低质量、临床作用不明"（`PMID:29553158`），不足以构成场景。（5）年龄、妊娠哺乳、肝肾功能与合并用药按 §6／§8／§9 归位。
 
@@ -99,13 +99,15 @@
 7. **无 DDD**：官方索引未为本编码列出 DDD。研究中的 2 g／日不是"标准日剂量"。
 8. **中国**：管制字段沿用 2026-10-06 审计结论。PIM 维度因缺当地数据记 `N/A`。不把"中国有使用"的文献陈述写成批准结论。
 
-**2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、Lucidril、Cerutil 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 meclofenoxate 与 Lucidril 检索 0 条。法国 BDPM 按 MECLOFENOXATE、LUCIDRIL 与 CERUTIL 前缀检索 0 条。西班牙 CIMA 按 meclofenoxato 检索 0 条。**日本**：ルシドリール錠 100 mg（添付文書番号 2190003F1170）的文本可核，适应证为頭部外傷後遺症におけるめまい，用法为成人每次 100–300 mg、每日 3 次口服。但日経メディカル処方薬事典对该产品的页面标注「販売終了・名称変更」（更新确认 2026-09-10），按历史文本处理，不作现行依据。状态保持 `basic`。
+**2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、Lucidril、Cerutil 与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 meclofenoxate 与 Lucidril 检索 0 条。法国 BDPM 按 MECLOFENOXATE、LUCIDRIL 与 CERUTIL 前缀检索 0 条。西班牙 CIMA 按 meclofenoxato 检索 0 条。**日本**：日経メディカル処方薬事典对ルシドリール錠 100 mg 的转录给出添付文書番号 2190003F1170，适应证为頭部外傷後遺症におけるめまい，用法为成人每次 100–300 mg、每日 3 次口服。该页面标注「販売終了・名称変更」（更新确认 2026-09-10），属二手专业转录，不是 PMDA 原文或正式停售文件。
+
+**2026-11-24 PMDA 定向复核**：按添付文書番号 2190003F1170 打开 PMDA 官方一般名页面，只显示「メクロフェノキサート塩酸塩」。販売名、製造販売業者等、添付文書、承認情報等字段均为空，未提供ルシドリール历史标签、改订日或 PDF。PMDA 旧版文件存在性接口对 2190003F1170 返回 HTTP 500，未取得标签正文。因此日本产品当前状态仍待核实，`basic` 不变。
 
 ## 11. 深入分析与来源
 
 本页不设专题：核心问题（无现行标签、仅有 1980–90 年代小样本研究、补充剂与体育禁用并存）已由 §2.2、§5 与 §10 就近承载。在取得任一法域现行说明书或两项人体研究的全文之前，另建专题只会重复同一缺口。
 
-**监管与官方文件**：[《联邦公报》88 FR 5070（2023-01-26）赛马反兴奋剂与药物管制规则](https://www.federalregister.gov/documents/2023/01/26/2023-00957/hisa-anti-doping-and-medication-control-rule)。[《联邦公报》87 FR 65292（2022-10-28）同规则前版](https://www.federalregister.gov/documents/2022/10/28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索 meclofenoxate（无结果）](https://www.medicines.org.uk/emc/search?q=meclofenoxate)。[openFDA 通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22meclofenoxate%22)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
+**监管与官方文件**：[PMDA 添付文書番号 2190003F1170 一般名页面（2026-11-24 无产品或标签字段）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/2190003F1170)。[PMDA 旧版文件存在性接口（HTTP 500，未取得文件）](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/FileExsist/2190003F1170_1_01_OLD)。[《联邦公报》88 FR 5070（2023-01-26）赛马反兴奋剂与药物管制规则](https://www.federalregister.gov/documents/2023/01/26/2023-00957/hisa-anti-doping-and-medication-control-rule)。[《联邦公报》87 FR 65292（2022-10-28）同规则前版](https://www.federalregister.gov/documents/2022/10/28/2022-22970/hisa-anti-doping-and-medication-control-rule)。[法国 BDPM 检索（0 条）](https://base-donnees-publique.medicaments.gouv.fr/)。[英国 emc 检索 meclofenoxate（无结果）](https://www.medicines.org.uk/emc/search?q=meclofenoxate)。[openFDA 通用名检索（0 条）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22meclofenoxate%22)。[中国麻精药品管制基准](../SOURCES.md#中国麻醉药品和精神药品管制)。
 
 **研究与系统综述**：[PMID:35959800](https://pubmed.ncbi.nlm.nih.gov/35959800/)（美国补充剂中检出未批准药物，7 个产品）。[PMID:37735938](https://pubmed.ncbi.nlm.nih.gov/37735938/)（WADA 禁用与尿中氧化 DMAE 标志物）。[PMID:15374499](https://pubmed.ncbi.nlm.nih.gov/15374499/)（50 例、8 周双盲，2 g／日）。[PMID:18649860](https://pubmed.ncbi.nlm.nih.gov/18649860/)（63 例、3 个月双盲，含复方比较）。[PMID:4150311](https://pubmed.ncbi.nlm.nih.gov/4150311/)（1972 年试点）。[PMID:29553158](https://pubmed.ncbi.nlm.nih.gov/29553158/)（Cochrane 胆碱能药物与迟发性运动障碍）。[PMID:35269638](https://pubmed.ncbi.nlm.nih.gov/35269638/)（老年鱼脑转录组）。[PMID:6416880](https://pubmed.ncbi.nlm.nih.gov/6416880/)（大鼠抗氧化酶与脂褐素）。
 

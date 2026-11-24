@@ -1,10 +1,10 @@
 # emepronium｜埃美溴铵（抗毒蕈碱类下尿路用药，WHO ATC 仍收载；未取到任何法域的现行监管说明书，故按历史药物与文献证据建档）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域现行监管文本复核，检索记录见 §10）｜ ATC：`G04BD01`（WHO ATC/DDD Index 2026，`G04BD` 子组页行原文 `G04BD01 emepronium`，DDD **0.5 g 口服（O）＋75 mg 给药途径 P**，页面脚注 Last updated 2026-01-20）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（新西兰 Medsafe 食管损伤安全资料，检索记录见 §10）｜ ATC：`G04BD01`（WHO ATC/DDD Index 2026，`G04BD` 子组页行原文 `G04BD01 emepronium`，DDD **0.5 g 口服（O）＋75 mg 给药途径 P**，页面脚注 Last updated 2026-01-20）  
 > 临床现状：`待核实`（英美现行库无产品，正式撤销与停供文件未取得。核查范围：US／UK） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`ATC-G04BD`＝WHO ATC/DDD 索引 `G04BD` 子组页（Last updated 2026-01-20）。`DM-0`＝DailyMed `services/v2/spls.json?drug_name=emepronium` 返回 0 条现行条目（检索日期 2026-11-06）。`EMC-0`＝英国 emc 产品检索无现行条目（同日）。`PMID:…`＝PubMed 记录（题名、期刊与年份已逐条经 esummary 复核）。
+**引用键**：`ATC-G04BD`＝WHO ATC/DDD 索引 `G04BD` 子组页（Last updated 2026-01-20）。`DM-0`＝DailyMed `services/v2/spls.json?drug_name=emepronium` 返回 0 条现行条目（检索日期 2026-11-06）。`EMC-0`＝英国 emc 产品检索无现行条目（同日）。`NZ-MEDSAFE`＝新西兰 Medsafe《Prescriber Update》文章 “Doxycycline and Oesophageal Ulceration”（1999-12 发布，2000-01 修订）。文章把 **emepronium carrageenate（Cetiprin Novum）**列为与食管症状相关的口服药物，并建议胶囊或片剂用足量水送服。该文不是 Cetiprin 产品说明书，也不证明当前供应状态。`PMID:…`＝PubMed 记录（题名、期刊与年份已逐条经 esummary 复核）。
 
 ## 1. 基本信息
 
@@ -56,11 +56,11 @@
 
 ## 6. 长期风险
 
-无可核验的长期随访或药物警戒来源。文本层面仅有确定的药物特异安全信号是**上消化道局部损伤**（食管炎、食管狭窄报告，`PMID:678847`、`PMID:7088761`）与过量时的神经肌肉麻痹表现（`PMID:4015801`）。抗胆碱能类的认知、跌倒、尿潴留与便秘风险在本药上属类别语境，需按具体人群与合并用药评估，本页不据此补分。
+无可核验的长期随访或药物警戒来源。文本层面仅有确定的药物特异安全信号是**上消化道局部损伤**（食管炎、食管狭窄报告，`PMID:678847`、`PMID:7088761`）与过量时的神经肌肉麻痹表现（`PMID:4015801`）。新西兰 Medsafe 2000 年修订的安全文章另把 **emepronium carrageenate（Cetiprin Novum）**列入可致食管症状的口服药物，并强调胶囊或片剂应以足量水送服（`NZ-MEDSAFE`）。抗胆碱能类的认知、跌倒、尿潴留与便秘风险在本药上属类别语境，需按具体人群与合并用药评估，本页不据此补分。
 
 ## 7. 短期风险、停药与误用
 
-短期：局部刺激与食管损伤是本药最突出的可规避风险（服药体位与饮水量为文献反复强调的操作性要求）。过量报告见神经肌肉麻痹（`PMID:4015801`）。停药。无患者级停药反应证据，记 N/A。误用。无药物特异资料，记 N/A。
+短期：局部刺激与食管损伤是本药最突出的可规避风险（服药体位与饮水量为文献反复强调的操作性要求）。Medsafe 安全文章对含本药的 Cetiprin Novum 给出足量水送服的通用口服制剂警示（`NZ-MEDSAFE`）。过量报告见神经肌肉麻痹（`PMID:4015801`）。停药。无患者级停药反应证据，记 N/A。误用。无药物特异资料，记 N/A。
 
 ## 8. 重要相互作用
 
@@ -76,6 +76,8 @@
 - **不得由 DailyMed 与 emc 的 0 命中推出撤市或未获批**。同样未取得撤销公告、停销声明或供应状态记录，三者保持待核实。若后续取到德国、北欧或英国历史批件，应把"曾经批准""正式撤销""持证人停销""当前供应"分列。
 - 检索式与命中（2026-11-06）：DailyMed `drug_name=emepronium` → 0。英国 emc `emepronium` → 0。PubMed `TITLE:"emepronium"` 命中 69 条（按 esummary 逐条核对题名的样本见 §11）。NMPA HTTP 412、CDE 202。
 - 未做之事：未读取历史标签扫描件，未抽取各试验的完整效应量与不良事件率，未把 `PMID:6868218` 的联合用药结果并入单方结论。
+- 2026-11-24 官方现状核查：荷兰 CBG Geneesmiddeleninformatiebank 按活性成分 `emepronium` 检索，官方结果为「Geen producten gevonden die voldoen aan uw zoekopdracht: emepronium」。页面注明数据更新日为 2026-11-18。该结果只证明当前荷兰产品库未命中，不证明历史未获批或已撤市。
+- 2026-11-24 官方安全资料：Medsafe 1999-12 发布、2000-01 修订的文章确认 emepronium carrageenate（Cetiprin Novum）与食管症状有关，并提醒用足量水送服胶囊或片剂（`NZ-MEDSAFE`）。该资料只补强口服剂型安全边界，仍不构成产品授权、现行说明书或停售文件。荷兰历史 SmPC、北欧与德国历史 SmPC 及正式停售文件仍未取得，口服与阴道载体剂型须分别核查。
 - 若需要就"抗胆碱能负担与认知结局"作跨药比较，应在 [目录索引](../catalog/related.md) 的 `G04BD` 组内横向核对，而非在本条目扩写。
 
 **2026-11-10 跨法域现行文本复核**：美国 openFDA 按通用名、商品名与全文检索 0 条（接口返回 HTTP 404），DailyMed 按药名检索 0 条。英国 emc 按 emepronium 与 Cetiprin 检索 0 条。法国 BDPM 字母序接口按 EMEPRONIUM 与 CETIPRIN 前缀检索 0 条。西班牙 CIMA 按 emepronio 检索 0 条。韩国：KMA 药品数据库可见「에메프롬정」（뉴젠팜，emepronium bromide 100 mg）条目，保险状态自 2002-05-11 起为删除（非报销），但该库不是 MFDS 官方文本，且未从食药处「의약품안전나라」解析出条目详情，故不引用其适应证与剂量。上述均为检索事实，不写成"未批准／已撤市"。本药仍无可逐节引用的现行监管正文，状态保持 `basic`。
@@ -84,6 +86,8 @@
 
 - `ATC-G04BD`：https://atcddd.fhi.no/atc_ddd_index/?code=G04BD（Last updated 2026-01-20）
 - `DM-0`：https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=emepronium
+- `NZ-MEDSAFE`：[Medsafe, Doxycycline and Oesophageal Ulceration, Prescriber Update 19, 1999-12, revised 2000-01](https://www.medsafe.govt.nz/profs/puarticles/doxyou.htm)
+- `NL-CBG`：[荷兰 CBG Geneesmiddeleninformatiebank（2026-11-24 按 emepronium 检索，无产品，数据更新日 2026-11-18）](https://www.geneesmiddeleninformatiebank.nl/ords/f?p=111:1:0::NO:1:P0_DOMAIN,P0_LANG:H,NL)
 - `PMID:3289675`（Br J Urol 1988）
 - `PMID:7049301`（Br J Urol 1982）
 - `PMID:7019932`（Pharmatherapeutica 1981）

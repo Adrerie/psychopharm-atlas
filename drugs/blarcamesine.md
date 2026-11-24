@@ -1,13 +1,13 @@
 # blarcamesine｜布拉卡美辛（Blarcamesine；研发代号 ANAVEX2-73／AE-37；在研小分子，未取得任何法域的现行批准文本，批准状态待核实）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（EMA 拒绝上市许可意见文件，公司撤回公告，美英中现行库复核，身份 2026-11-05）｜ ATC：`N06DX06`（blarcamesine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（ClinicalTrials.gov v2 两项 AD 登记，EMA 拒绝意见文件，Anavex 2026-03-23、03-25 与 07-30 公司公告）｜ ATC：`N06DX06`（blarcamesine，**无 DDD**，WHO ATC/DDD Index 2026，N06DX 亚组页 Last updated 2026-01-20）  
 > 临床现状：`待核实`（EMA 人用药品委员会拒绝上市许可，公司撤回申请。核查范围：EU／US／UK） ｜ 研究处置：`继续研究`
 > **状态说明**：本条目保持 `basic`，原因是未取得足以按 `reviewed` 引用的现行监管文本或完整证据体，具体缺口见 §10 与 [逐名检索记录](../catalog/retrieval-log-2026-11.md)。  
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **记的是"在研候选"，不是现行治疗。** 未取得任何法域的上市许可或批准文件，不能据此断言从未获批。关键的欧盟上市许可申请已于 2026-03-25 由申办方撤回（公司口径，见 §10）。因此**不设 A–D 当前使用场景行**，历史与在研证据留在 §5／§10。ATC 收录只证明 WHO 已为该活性成分分配分类位置，**不表示已批准、已上市或可获得**。
 
-**引用键**：`ATC-DX`＝WHO ATC/DDD 索引 N06DX 亚组页。`DM`＝DailyMed 检索（`drug_name=blarcamesine`，返回 0 条现行条目，检索日 2026-11-05）。`CT…`＝ClinicalTrials.gov v2 登记记录（状态、起止、是否张贴结果，检索日 2026-11-05）。`PMID:…`＝PubMed（题名与摘要已校验）。`PR`＝申办方新闻稿／公司公告（**公司声明，不是监管文本**）。§N 指所引正文章节号。
+**引用键**：`ATC-DX`＝WHO ATC/DDD 索引 N06DX 亚组页。`DM`＝DailyMed 检索（`drug_name=blarcamesine`，返回 0 条现行条目，检索日 2026-11-05）。`CT…`＝ClinicalTrials.gov v2 登记记录（状态、起止、是否张贴结果，AD 两项于 2026-11-24 回读）。`PMID:…`＝PubMed（题名与摘要已校验）。`PR`＝申办方新闻稿／公司公告（**公司声明，不是监管文本**）。`ANAVEX-ADPD-2026`＝2026-03-23 AD/PD 数据公告。`ANAVEX-Q2-2026`＝2026-07-30 二季度业务更新。§N 指所引正文章节号。
 
 ## 1. 基本信息
 
@@ -19,7 +19,7 @@
 | 开发企业与项目 | Anavex Life Sciences Corp.（申办方口径见 `CT…` 登记条目与 `PMID:39800452` 作者单位）；AD 项目为早期 AD（含轻度 AD 与 MCI 阶段）症状与病程终点 |
 | 主要法域状态 | 美国：DailyMed 现行条目 0 条（`DM`）。按 `openfda` 与 Drugs@FDA 检索未检得以本药为成分的申请记录。**未检得 FDA 批准或受理文本**。欧盟：公司称 2024-11 提交上市许可申请（作为早期 AD 的附加治疗），2025-11 在口头陈述后收到 CHMP 负面倾向投票、随后申请重新审查，2026-03-25 主动撤回（`PR`）。以候选 slug 直接访问 EMA 人用药品条目页与评估报告页均返回 HTTP 404；但 EMA 已发布拒绝对 Blarcamesine Anavex 上市许可的意见文件，意见日期 2025-12-11（`EMA-REFUSAL`），该文件是监管机构侧正文，结论为拒绝上市，故不产生现行说明书。公司其后申请重新审查并于 2026-03-25 撤回申请（公司口径）。中国：无批准或上市记录可核，NMPA 对本机恒返回 HTTP 412、CDE 目录集恒返回 202 校验页。 |
 | 中国管制状态 | **未发现列入上述现行目录（核查至 2026-11-05）**：2025 年版药用类麻醉药品目录（32 项）、2025 年版药用类精神药品目录第一类 18 项＋第二类 78 项、2026 年第 58 号增列 3 项、2025 年版非药用类麻醉药品和精神药品目录（396 项）中，逐名检索"blarcamesine／ANAVEX／布拉卡美辛"均未命中。结构核查：本分子为单一化学实体（非蛋白、非多组分植物药），可按母核比对待之。其结构不含 4-苯氨基哌啶母核（芬太尼类整类基准）、无 1H-苯并咪唑骨架（尼秦类基准）、不属合成大麻素类母核，也不落入以溴啡与螺溴啡两种母体为基准列举替代条件的奥啡类（2026-10-01 施行）；该判断限于整类定义字面比对，主管部门另有解释时以其为准（定义原文见 [SOURCES.md](../SOURCES.md#整类列管的结构定义结构核查基准)）。目录未命中不等于非管制，处方、携带与进出口等限制见[核查基准](../SOURCES.md#中国麻醉药品和精神药品管制) |
-| 身份与统计 | WHO ATC `N06DX06`（无 DDD）。美国无现行药品条目；AD 端关键试验为 ANAVEX2-73-AD-004（`CT NCT03790709`） |
+| 身份与统计 | WHO ATC `N06DX06`（无 DDD）。美国无现行药品条目。AD 端关键试验 ANAVEX2-73-AD-004（`NCT03790709`）与 ATTENTION-AD（`NCT04314934`）均为 COMPLETED，2026-11-24 回读仍无 `resultsSection`。公司 2026-07-30 称正补充临床药理数据并与 FDA 对齐开发策略 |
 
 ## 2. 评分
 
@@ -56,12 +56,14 @@
 
 - 关键试验（ANAVEX2-73-AD-004，`CT NCT03790709`。发表版 `PMID:39800452`）：随机、双盲与安慰剂对照的 48 周 IIb/III 期试验，多中心、五国。共同主要终点为 ADAS-Cog13 与 ADCS-ADL 相对基线的变化。预先指定的次要终点含 CDR-SB，另有 A/T/N 谱的血浆生物标志物与 MRI 全脑体积。
 - 结果口径（依摘要，数值见原文）：在多重性控制规则下，**ADAS-Cog13 与 CDR-SB 达到明显差异，而 ADCS-ADL（共同主要终点的功能项）在第 48 周未达统计学意义**。作者以"临床进展减缓约三分之一"与"预设的 SIGMAR1 野生型亚组获益更大"表述结论。
+- **2026 年新增披露**：Anavex 2026-03-23 AD/PD 公告称，MRI 萎缩减缓与 ADAS-Cog13、ADCS-ADL、CDR-SB 改善相关。在 SIGMAR1 与 COL24A1 均野生型的 ABCLEAR3 人群，ADAS-Cog13 的 R² 由 0.23 增至 0.41。公告还复述 144 周后相较 ADNI 对照"节省 77.4 周"的建模结果（`ANAVEX-ADPD-2026`）。ADNI 是外部观察队列，不是原随机安慰剂对照。相关分析未给 p 值，不能当作新的疗效主要终点或监管验证的疾病修饰结论。
 - 局限与争议（这是最重要的部分）：
   1. ClinicalTrials.gov 上该试验与开放标签扩展项目**均未张贴结果**，公开可核验的是期刊摘要与会议层面的表述，而非完整登记结果。
   2. 试验命名为 "IIb/III" 期，非确证性 III 期。`query.term=ATL-ALZ-003` 在登记库检索为 0 命中，说明该命名并非可核验的登记标识，实际登记项目名为 ANAVEX2-73-AD-004（`CT NCT03790709`）。
   3. 作者与资助关系：摘要的作者单位含申办方，声明部分列出多位作者为申办方雇员或持股者，版权行亦标注申办方名称。同时存在公开的质疑通信（`PMID:40190003`，其作者亦声明与金融头寸相关利益）。**双方利益关系都要并列，不作单方采信。**
   4. 独立系统综述的判断（`PMID:42560467`，CNS Drugs 2026）：证据来自数量有限临床研究，含二次分析与会议报告，需更多独立随机试验确认。
   5. 监管结果与统计结果不是同一件事：欧盟申请被撤回、未取得任何批准，意味着"试验摘要中的疗效表述"未经监管核验。
+  6. 2026-03-23 MRI 相关性与 ADNI 比较来自申办方会议公告，原始分析集、模型、置信区间及 p 值未取得。不能将相关性解释为因果，也不能把外部队列的建模幅度当作随机对照疗效。
 - 不得写成：疾病修饰治疗已证实。可替代抗淀粉样蛋白抗体。"精准医疗亚组"结论等同于获批依据。
 
 ## 6. 长期风险
@@ -96,13 +98,16 @@
 
 - **2026-11-10 复核**：[EMA 拒绝 Blarcamesine Anavex 上市许可的意见文件](https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-blarcamesine-anavex_en.pdf) 记录 CHMP 于 2025-12-11 给出负面意见。公司随后申请重新审查并于 2026-03-25 撤回申请。该文件是监管机构侧正文，但结论为拒绝上市，因此不存在可引的现行说明书。美国 DailyMed 仍 0 条。
 
+- **2026-11-24 复核**：`NCT03790709` 为 COMPLETED，主完成与研究完成均为 2022-06-30，最后更新 2022-07-12，无 `resultsSection`。`NCT04314934` 为 COMPLETED，主完成与研究完成均为 2024-06-14，最后更新 2024-08-09，无 `resultsSection`。两项登记的主要终点分别为 48 周 ADAS-Cog 与 ADCS-ADL、96 周治疗相关不良事件计数，不能把登记 COMPLETED 当作结果已公开。
+- **撤回后项目处置**：2026-03-25 公司公告称继续开发，并针对 CHMP 问题补充数据与再分析。2026-07-30 公司称 2026 年 3 月底开启早期 AD 的 FDA IND，ADME 研究计划于 2026 年第三季度启动，DDI 研究已给药，拟与 FDA 对齐后续临床策略（`ANAVEX-Q2-2026`）。这属于公司计划，不证明 FDA 已接受任何疗效结论或存在新确证性试验。未取得新的 AD 疗效登记结果，仍无批准与商业供应证据。
+
 ## 11. 深入分析与来源
 
 - WHO ATC：`https://atcddd.fhi.no/atc_ddd_index/?code=N06DX06`、`?code=N06DX&display=subgroup`
 - DailyMed 检索：`https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=blarcamesine`
 - 登记条目：
-  - `https://clinicaltrials.gov/api/v2/studies/NCT03790709`
-  - `…NCT04314934`
+  - `https://clinicaltrials.gov/api/v2/studies/NCT03790709`（AD-004，2026-11-24 回读无 `resultsSection`）
+  - `https://clinicaltrials.gov/api/v2/studies/NCT04314934`（ATTENTION-AD，2026-11-24 回读无 `resultsSection`）
   - `…NCT02244541`
   - `…NCT02756858`
   - `…NCT03758924`
@@ -110,6 +115,8 @@
   - `…NCT04575259`
   - `…NCT03941444`
   - `…NCT04304482`
+- `ANAVEX-ADPD-2026`：https://anavex.com/news/anavex-blarcamesine-brain-volume-alzheimers-adpd-2026/（2026-03-23，AD/PD 2026 MRI 相关性与 ADNI 建模比较，公司公告）
+- `ANAVEX-Q2-2026`：https://anavex.com/news/anavex-life-sciences-reports-preliminary-second-quarter-2026-financial-results-and-provides-business-update/（2026-07-30，FDA IND、ADME／DDI 与开发计划，公司公告）
 - 关键试验发表版：`PMID:39800452`（J Prev Alzheimers Dis 2025;12(1):100016，ANAVEX2-73-AD-004 结果与作者利益声明）
 - 质疑与再评估：`PMID:40190003`（同一期刊的通信）。独立系统综述 `PMID:42560467`（CNS Drugs 2026，PROSPERO CRD420251142826）
 - 撤回事件的公司公告（非监管文本）：GlobeNewswire 2026-03-25 新闻稿（`https://www.globenewswire.com/news-release/2026/03/25/3262094/0/en/Anavex-Life-Sciences-Provides-Update-on-Regulatory-Review-in-the-EU-for-Blarcamesine-to-Treat-Early-Alzheimer-s-Disease.html`）

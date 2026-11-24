@@ -9,7 +9,7 @@
 
 处理仍有研究价值的 38 份 `basic` 档案，尽可能补齐决定性证据，达到标准时再升级 `reviewed`。
 
-Wave 16 的研究处置基线为 10 份「继续研究」、28 份「有限补证」、87 份「仅保留历史档案」。本轮处理前两类。87 份历史档案不作常规返工，仍可保持 `basic`。
+Wave 16 的研究处置基线在 2026-11-24 执行开始时按档案字段复算为 10 份「继续研究」、50 份「有限补证」、65 份「仅保留历史档案」。原计划所记 28／87 已过期。本轮只处理下面前两类中列明的 38 份，65 份历史档案不作常规返工。
 
 执行开始时按文件顶部字段重新核对目标状态。已不再是 `basic` 的文件跳过并记录，不为维持数量替换条目。
 
@@ -49,6 +49,32 @@ Wave 16 的研究处置基线为 10 份「继续研究」、28 份「有限补�
 6. 完成后按文件顶部状态字段重算全库数量，更新本计划完成记录与 `catalog/index.md`。只检查本轮改动文件的来源、状态、表格与内部链接。
 7. 提交并推送本分支，等待人工审阅，不合并 `main`。
 
-## 完成记录
+## 完成记录（2026-11-24）
 
-待执行结束后填写实际升级数量、升级名单、仍为 `basic` 的名单及主要证据缺口。不得预设升级数量。
+**实际处理**：38 份目标全部完成定向核查并改写，无跳过项。四组并行工作中 A、B、C 组代理在收尾阶段达到轮次上限，B 组尚未落盘的四份由接替代理补完，全部改动由主代理统一复核。没有新增药物、专题、数据库、CI、爬虫或自动评分器。
+
+**实际升级 5 份 `basic` → `reviewed`**：
+
+- `fluspirilene`：荷兰 CBG Imap 2 mg/ml SmPC，RVG 06151，文本末次局部修订 2019-01-08，官方信息库更新 2026-11-18。
+- `penfluridol`：荷兰 CBG Acemap 20 mg SmPC 共同版本 006，RVG 129179，首次授权 2023-09-26。
+- `phenibut`：拉脱维亚 ZVA Noofen 100 mg 口服粉（17-0230）与共用 SmPC 的 250 mg 片（98-0294），SmPC 日期 2024-10-15，官方产品页当前列示 Rx。
+- `temgicoluril`：拉脱维亚 ZVA Adaptol 300 mg 胶囊（03-0001）与 500 mg 片（03-0002），SmPC 日期 2026-08-18，官方产品页当前列示 Rx。
+- `obidoxime`：德国 Toxogonin 完整 Package leaflet／SmPC，德国授权号 6102841.00.00，文本修订 2025-12，同时列荷兰 RVG 04562 与瑞士注册号 31514。
+
+**仍为 `basic` 的 33 份**：
+
+- A 组 10 份：`acp-204`、`ar1001`、`blarcamesine`、`buntanetap`、`deulumateperone`、`hydromethylthionine`、`jnj-2056`、`masitinib`、`zatolmilast`、`zervimesine`。
+- B 组 6 份：`acetylcarnitine`、`aniracetam`、`pinazepam`、`pramiracetam`、`pyritinol`、`piracetam-and-cinnarizine`。
+- C 组 5 份：`nordazepam`、`fabomotizole`、`dimdazenil`、`huperzine-a`、`oxiracetam`。
+- D 组 12 份：`bromisoval`、`acetophenazine`、`benzoctamine`、`butaperazine`、`clopenthixol`、`dimetacrine`、`doxefazepam`、`emepronium`、`meclofenoxate`、`melitracen`、`prolintane`、`valnoctamide`。
+
+**主要证据缺口**：
+
+1. A 组均为研发候选，没有任何可引用的人用产品批准或说明书。ClinicalTrials.gov 已补读当前状态与 `resultsSection`，但多项研究仍无张贴结果，或只有申办方公告、会议摘要、媒体报道与POST_HOC 亚组。`ar1001` 的媒体定量读数未采用，只保留复星医药公告的两人群统计结论。
+2. B、C、D 组的主要缺口是具体产品的现行或历史官方正文：AIFA 入口 TLS／连接失败，俄罗斯 GRLS 验证码阻断，PMDA 旧文件接口 500，NMPA／CDE 部分入口仍返回 412／202，丹麦 mdat 连接失败。注册记录、价格表、商业转载和单方标签均未替代具体复方或单方说明书。
+3. 中国具体产品的现行说明书仍普遍缺失。NMPA 目录登记、CDE 受理记录与医保申报材料只证明相应层级事实，不等于核准适应证、给药方案或当前供应。`pyritinol` 已补入 NMPA 2018 年第 99 号注射剂撤销报道与国药管安〔2000〕513 号再评价通知，但口服产品现行说明书仍缺。
+4. 部分历史药物只取得二手生命周期线索，未写“已撤市”或“全球停用”。`acetophenazine` 因 Drugs@FDA 的 TINDAL Discontinued 记录改为`历史停用`，但官方历史标签与停售日期仍缺。
+
+**全库实际统计**：384 份档案，**257 `reviewed` / 120 `basic` / 7 `indexed`**。核心六组 178 reviewed／98 basic／4 indexed；跨组主题 79 reviewed／22 basic／3 indexed。执行前基线为 252 reviewed／125 basic／7 indexed。
+
+**验收**：38 份改动文件的结构、状态行、临床现状、研究处置、A–D 表列数、内部链接与文风红旗已检查。369 个 PMID、2 个 DailyMed setid、64 个 NCT 均存在。URL 审计中的 404／412／202／000 主要为档案已注明的零命中检索端点、官方入口访问限制或提取标点伪报；新增关键官方 PDF 与产品页已单独回读。分支 `wave17/basic-cleanup` 等待人工审阅，不合并 `main`。

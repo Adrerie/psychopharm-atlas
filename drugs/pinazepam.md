@@ -1,10 +1,10 @@
 # pinazepam｜匹那西泮（维基数据中文标签，zh；未核对监管核准名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（跨法域复核，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05BA14`（WHO ATC/DDD Index 2026）  
-> 临床现状：`地区性人用`（意大利 DOMAR 5 mg 胶囊现行注册，AIC 023191024） ｜ 研究处置：`有限补证`
+> 状态：`basic` ｜ 最后核查：2026-11-24（AIFA DOMAR RCP 与 AIC 状态定向核查，身份 2026-10-04，中国管制 2026-10-06）｜ ATC：`N05BA14`（WHO ATC/DDD Index 2026）  
+> 临床现状：`待核实`（意大利 DOMAR 有 AIFA 数据转载，RCP 与当前授权状态未由 AIFA 原件确认） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
-**引用键**：`PMID:……`＝PubMed。**本次核查未取得任何本药监管说明书正文**（美／法／西／英检索事实见 §11。意大利 AIFA 数据经聚合站转载确认 DOMAR 现行注册记录 AIC 023191024，RCP 原文未取回、德国未核）
+**引用键**：`PMID:……`＝PubMed。未取得本药监管说明书正文。意大利 AIFA 数据经 myhealthbox 转载，列 DOMAR 5 mg 硬胶囊、AIC 023191024，但 RCP 与当前授权状态未由 AIFA 原件确认，不能由商业在售字段推断。身份按 CAS 52463-83-9 锁定为 pinazepam，不是 propazepam。
 
 ## 1. 基本信息
 
@@ -15,7 +15,7 @@
 | 代谢与活性 | 本药为**前药**：主要经 **N-1 去烷基化生成 N-去甲基地西泮（desmethyldiazepam）**，另经 C-3 羟基化生成 3-OH-匹那西泮，两者再转化为奥沙西泮并经葡萄糖醛酸化随尿排出（`PMID:6147314`、`PMID:6809477`、`PMID:6791929`）。人体单次口服 10 mg 后，**代谢物 desmethyldiazepam 的血浆浓度很快超过母药**，提示主要暴露来自长作用代谢物（`PMID:6809477`、`PMID:6147314`）；犬中代谢物达稳态约需 6 天、远高于母药（`PMID:6147192` 转述） |
 | 关键药代摘要 | 健康志愿者 6 名单次口服 **10 mg**：母药吸收快、峰浓度 36.8±5.1 ng/mL、呈两室衰减，尿中以原型回收仅 **0.016%**（`PMID:6147314`）；desmethyldiazepam 的消除**老年半衰期延长而 AUC 不变**（`PMID:6802645`）。大鼠肝存在明显**首过效应**（门静脉 vs 肝静脉浓度差，`PMID:6124406`、`PMID:6126360`）。**本次核查未取得人体半衰期与 Tmax 的完整数值表**，故不写定量给药方案 |
 | 中国管制状态（核查 2026-10-06） | **药用类精神药品第二类**：列入《药用类精神药品目录（2025年版）》第二类第 60 项“匹那西泮”（英文名 Pinazepam、CAS 52463-83-9）。 |
-| 主要法域批准状态 | **意大利**：AIFA 药品数据（经 myhealthbox 转载）显示 DOMAR 5 mg capsula rigida（pinazepam，TEOFARMA S.R.L.，AIC 023191024，授权日 1977-01-01，AUTORIZZATA／In commercio，报销等级 C），另有 2.5 mg 胶囊；该记录只作注册事实，RCP 原文未取得。**美国**：openFDA 标签与 Drugs@FDA 404，DailyMed `total_elements` 0。**法国**：BDPM 0。**西班牙**：CIMA 0。**英国**：emc 0 条。德国状态未核。**中国**：列管为精神药品第二类，但列管层级不证明上市或核准适应证，后者待核实 |
+| 主要法域批准状态 | **意大利**：myhealthbox 转载的 AIFA 数据显示 DOMAR 5 mg 硬胶囊（pinazepam，TEOFARMA S.R.L.，AIC 023191024），授权日字段 1977-01-01，并标 AUTORIZZATA／In commercio 与报销等级 C，另有 2.5 mg 胶囊。该条目不区分数据库状态与商业在售，AIFA 原件及 RCP 未取得，故当前授权状态待核实。**美国**：openFDA 标签与 Drugs@FDA 404，DailyMed `total_elements` 0。**法国**：BDPM 0。**西班牙**：CIMA 0。**英国**：emc 0 条。德国状态未核。**中国**：列管为精神药品第二类，但列管层级不证明上市或核准适应证，后者待核实 |
 | 身份与统计 | WHO ATC `N05BA14`；**官方 2026 索引未对本编码列出 DDD**。Wikidata [Q7194856](https://www.wikidata.org/wiki/Q7194856)。PubChem [40391](https://pubchem.ncbi.nlm.nih.gov/compound/40391)。MeSH [C010763](https://meshb.nlm.nih.gov/record/ui?ui=C010763)。DrugBank [DB13335](https://www.drugbank.ca/r/DB13335)。CAS 52463-83-9 |
 
 ## 2. 评分
@@ -48,7 +48,7 @@
 
 ## 4. 适应范围
 
-**RCP 原文未取回**：美、法、西、英四个监管入口均 0 条。意大利 AIFA 数据（经聚合站转载）确认 DOMAR 现行注册（AIC 023191024），RCP 原文未取回、德国未核
+**RCP 原文未取回**：美、法、西、英四个监管入口均 0 条。意大利 myhealthbox 转载列 DOMAR 5 mg、AIC 023191024，但 AIFA 当前授权页与 RCP 未取得，德国未核，故没有可确认当前有效的核准适应证与给药方案。
 
 **文献记载的用途与给药口径（研究事实，非处方建议）**：抗焦虑用途（伴或不伴躯体／胃肠表现的心身疾病，`PMID:6147192`、`PMID:7006888`，题录）。综述所载"标准剂量 10 mg/日、分两次"（`PMID:6147192`，属历史综述文字，不迁移为给药建议）。人体药代按单次口服 10 mg（`PMID:6147314`）。围产期研究为单次 10 mg 或 5 mg 连服（`PMID:6150857`）。**中国上市剂型与核准适应证待核实**。
 
@@ -57,31 +57,33 @@
 - **疗效证据为旧年代开放／对照研究＋综述，非现代 RCT 效应量**：`PMID:6147192` 汇总开放与对照设计，称本药相较地西泮呈"纯抗焦虑作用"，但**未提供可复算的效应量与长期硬终点**。`PMID:7006888`（胃肠心身疾病，意大利文，题录）本次核查未取得摘要与数值。本条目据此把效果停在"药物特异读数存在、但非现代确证"的层次，不声称"本药无对照试验"，也不声称等效于地西泮。
 - **人群药代是本药最可量化的证据**：6 名健康志愿者 10 mg 的两室衰减、原型尿排泄 0.016%、代谢物快速超过母药（`PMID:6147314`、`PMID:6809477`）。desmethyldiazepam 老年半衰期延长而 AUC 不变（`PMID:6802645`）。这些支持"暴露主要来自长作用代谢物"，但**未做与地西泮的临床等效性检验**，不外推为疗效或安全性优势。
 - **"低镇静／无依赖"叙事的可信度限制**：该结论出自药企年代综述（`PMID:6147192`），当时对苯二氮䓬依赖与停药的国际共识尚不充分。本条目**不以其否认停药风险**（§2.1 停药行为类别证据）。
-- **筛查判读的现代处境**：本药是 EMIT 苯二氮䓬免疫测定中**交叉反应最高**的分子之一（`PMID:23835060`），在法医／临床尿筛中易致假阳性／定量偏差。属检验层面读数。
+- **筛查判读的现代处境**：本药是 EMIT 苯二氮䓬免疫测定中交叉反应最高的分子之一（`PMID:23835060`），在法医／临床尿筛中易致假阳性／定量偏差。属检验层面读数。
+- **监管疗效文本缺失**：DOMAR 的核准适应证、剂量与风险收益评价均未由 AIFA 原件取得，历史综述的"纯抗焦虑"不能补足当前监管判断。
 
 ## 6. 长期风险
 
 - **长作用代谢物蓄积**：本药生成 desmethyldiazepam，人体单次给药后代谢物即超过母药（`PMID:6809477`、`PMID:6147314`），老年其半衰期延长（`PMID:6802645`）。这是与"日间残留镇静与累积暴露"相关的**药物特异药代基础**（临床结局发生率本次核查未测得）。
 - **类别依赖背景**：苯二氮䓬类的耐受、依赖与停药综合征为**类内通用证据**，非本药测得发生率。本药是否例外**未被现代研究证实**。
-- **致癌／器官毒性**：本次核查未检得本药特异的长期动物生物测定或器官毒性研究，**不写致癌或器官结论**。
+- **致癌／器官毒性**：未检得本药特异的长期动物生物测定或器官毒性研究，不写致癌或器官结论。DOMAR RCP 缺失，无法核对标签中的长期使用限制与监测要求。
 
 ## 7. 短期风险、停药与误用
 
 - **短期**：综述称治疗剂量下约 5% 轻度镇静、其余不良反应轻微（`PMID:6147192`），动物显示运动损害弱于地西泮（`PMID:26359`）、高剂量苯二氮䓬可见体温下降（`PMID:8981061`，动物）。驾驶与机械操作受损属**苯二氮䓬类别**的一般风险，本次核查无本药特异的驾驶研究。
 - **停药**：见 §2.1（评 3）。以类别证据＋长作用代谢物为依据，须缓慢减停。旧综述"无依赖与反跳"之说作可信度限制处理（`PMID:6147192`）。
 - **误用／滥用**：无本药特异的人体强化效应或带分母的现实误用数据，记 `N/A`（§2.1）。
-- **过量**：本次核查未检得以本药为受试分子的单纯过量结局系列，不据氯氮䓬／地西泮的过量数据外推。
+- **过量**：未检得以本药为受试分子的单纯过量结局系列，也不据氯氮䓬或地西泮的过量数据外推。AIFA RCP 的过量处理条款未取得，故不写具体解救方案。
 
 ## 8. 重要相互作用
 
 - **代谢底物竞争（机制层）**：本药与地西泮、普拉西泮、哈拉西泮同经 N-去烷基化与 C-3 羟基化，微粒体速率各异（`PMID:6791929`、`PMID:1562288`）。巴比妥预处理改变大鼠肝代谢（`PMID:1562288`）。这是**机制基础**，本次核查无本药人体药物与药物相互作用定量试验。
 - **对合用中枢抑制药的相加效应**属苯二氮䓬类别，无本药特异清单。
 - **检验干扰（非临床相互作用）**：本药在 EMIT 苯二氮䓬免疫筛查中交叉反应强（`PMID:23835060`），可致尿液筛查假阳性或定量偏差。其定量以 LC-MS/MS 确认。
-- **酒精**：作为苯二氮䓬，与酒精的中枢抑制相加属类别一般风险，本次核查无本药特异数据，不写定量结论。
+- **酒精**：作为苯二氮䓬，与酒精的中枢抑制相加属类别一般风险，无本药特异数据，不写定量结论。
+- **标签缺口**：DOMAR RCP 未取得，不能把其他苯二氮䓬的正式禁忌或剂量调整清单移植为本品条款。
 
 ## 9. 特殊人群
 
-- 无标签文字，本节只列可核条目。**妊娠**：本药与其代谢物 desmethyldiazepam **经胎盘转运**。25 名足月孕妇单次 10 mg 或 5 mg 连服后，脐静脉／母体血浆本药浓度比 **0.64±0.07**，未达胎盘表观平衡，代谢物在脐静脉 1–2 h 后高于母体（`PMID:6150857`）。兔实验亦见胎盘通过，妊娠晚期胎肝蓄积增加（`PMID:2569399`）。
+- 无标签文字，本节只列可核条目，不把文献观察转换为 DOMAR 当前标签建议。**妊娠**：本药与其代谢物 desmethyldiazepam **经胎盘转运**。25 名足月孕妇单次 10 mg 或 5 mg 连服后，脐静脉／母体血浆本药浓度比 **0.64±0.07**，未达胎盘表观平衡，代谢物在脐静脉 1–2 h 后高于母体（`PMID:6150857`）。兔实验亦见胎盘通过，妊娠晚期胎肝蓄积增加（`PMID:2569399`）。
 - **哺乳**：`PMID:6150857` 记录"少量 desmethyldiazepam 排入母乳"。`PMID:6147192` 称本药与去炔丙基代谢物出现在人乳。
 - **老年**：desmethyldiazepam 半衰期延长（`PMID:6802645`），为蓄积相关人群。
 - **肝**：大鼠肝首过效应显著（`PMID:6124406`），提示肝功能可能影响暴露，但本次核查无本药人体肝功能分层研究。
@@ -89,9 +91,9 @@
 
 ## 10. 证据边界
 
-**2026-11-10 复核记录**：意大利 AIFA 药品数据（经 myhealthbox 转载 AIFA 数据，非 AIFA 原件页）显示 DOMAR 5 mg capsula rigida（pinazepam，持证人 TEOFARMA S.R.L.），AIC 023191024，授权日 1977-01-01，状态 AUTORIZZATA、In commercio，报销等级 C。另有 DOMAR 2.5 mg 胶囊。该记录只用于注册事实，不据此写核准适应证、剂量或禁忌。同日复核。美国 openFDA 标签与 Drugs@FDA 404，DailyMed `total_elements` 0。法国 BDPM 0 行，西班牙 CIMA 0 条，英国 emc 0 条。日本未见产品。意大利 RCP 原文（AIFA 原件或 PDF）未取回，德国状态未核，状态保持 `basic`。
+**2026-11-24 核查**：AIFA 官方入口由内置浏览器访问返回连接关闭，命令行 HTTPS 返回 TLS 握手失败，HTTP 返回 502。myhealthbox 的 AIFA 数据转载仍列 DOMAR 5 mg、AIC 023191024、1977-01-01 授权日与在售字段，但这不是 AIFA 当前授权页。DOMAR RCP、AIC 当前状态与德国状态均未取得，故状态保持 `basic`，临床现状由地区性人用改为待核实。
 
-1. **无说明书正文是保持 `basic` 的主因**：美（openFDA 标签与 Drugs@FDA 404）、法（BDPM 0）、西（CIMA 0）与英（emc 0 条）本次核查无本药现行文本。意大利 AIFA 数据经聚合站转载确认 DOMAR 现行注册（AIC 023191024、授权日 1977-01-01、In commercio），但 RCP 原文未取回，德国未核。404／0 只写成**检索缺口**，不写「未批准／已撤市」。
+1. **无说明书正文是保持 `basic` 的主因**：意大利 myhealthbox 转载记录存在 DOMAR 5 mg、AIC 023191024 与在售字段，但 AIFA 当前授权页及 RCP 原文均未取得。旧检索中的 openFDA 404 与 BDPM、CIMA 零命中只表示检索缺口，不写成未批准或已撤市。
 2. **身份按 CAS 锁定，勿与 propazepam 混**：本药 CAS 52463-83-9 与 **propazepam（Domar）为不同分子**。PubChem 把两者同义词混列、一份德文筛查文亦将 pinazepam 记作"Domar"（`PMID:3146986`）。**商品名命中论文不构成身份证据**，归属先以 CAS／原文结构式确认（AGENTS.md 同名冲突原则）。
 3. **类别证据 ≠ 本药证据**：苯二氮䓬的依赖、停药、驾驶损害与"是奥沙西泮前体类群"（`PMID:28903606`、`PMID:23835060`）是类群/类别陈述，不充当当本药的发生率或疗效。本药抗焦虑"纯度高、无依赖"来自药企年代综述（`PMID:6147192`），未现代验证。
 4. **前药代谢是本药最稳的药物特异证据**：desmethyldiazepam 超过母药（`PMID:6809477`）、原型尿回收 0.016%（`PMID:6147314`）。但**不得据此推导与地西泮／替马西泮的临床优劣**。
@@ -104,7 +106,7 @@
 
 本条目未建专题文件：需要解释的是"为何一个被宣传为'纯抗焦虑'的老式苯二氮䓬仍按类别对待依赖与停药"，其答案（前药生成 desmethyldiazepam、长半衰期、旧综述未经现代验证）已在 §2、§6 与 §10 说清，不足以另立专题。
 
-**监管与官方文件（检索事实）**：[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pinazepam)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PINAZEPAM&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pinazepam)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pinazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
+**监管与官方文件（检索事实）**：[AIFA 药品数据库（2026-11-24 官方入口访问失败）](https://farmaci.agenziafarmaco.gov.it/bancadatifarmaci/cerca-ragione-sociale)。[myhealthbox DOMAR 数据转载（二级来源，非 AIFA 当前授权原件）](https://www.myhealthbox.eu/domar-5-mg-capsula-rigida/pinazepam)。[openFDA 标签按通用名检索（404）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[openFDA Drugs@FDA 检索（404）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22pinazepam%22&limit=5)。[DailyMed v2 按药名检索（`total_elements`＝0）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=pinazepam)。[法国 BDPM 前缀检索（`recordsTotal`＝0）](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=PINAZEPAM&limit=20)。[西班牙 CIMA 药名检索（`totalFilas`＝0）](https://www.aemps.gob.es/cima/rest/medicamentos?nombre=pinazepam)。[英国 emc 检索页（结果由脚本加载，未取到可读清单）](https://www.medicines.org.uk/emc/search?s=pinazepam)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **综述与文献**：[匹那西泮药理与治疗效能综述（`PMID:6147192`）](https://pubmed.ncbi.nlm.nih.gov/6147192/)。[奥沙西泮及相关苯二氮䓬代谢谱综述（`PMID:28903606`）](https://pubmed.ncbi.nlm.nih.gov/28903606/)。[AGS Beers 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)。[《中国老年人潜在不适当用药判断标准（2017 年版）》](https://cmab.yiigle.com/uploads/guide_html/中国老年人潜在不适当用药判断标准(2017年版).html)。
 

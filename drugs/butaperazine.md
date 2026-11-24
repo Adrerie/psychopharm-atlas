@@ -1,12 +1,12 @@
 # butaperazine｜中文名待核实（骨架未收录中文标签，本条不自行拟定译名）
 
-> 状态：`basic` ｜ 最后核查：2026-11-10（身份 2026-10-04，中国管制 2026-10-06，DailyMed 补测 2026-11-10）｜ ATC：`N05AB09`（WHO ATC/DDD Index 2026）  
+> 状态：`basic` ｜ 最后核查：2026-11-24（Repoise／Tyrylen 历史标签定向核查）｜ ATC：`N05AB09`（WHO ATC/DDD Index 2026）  
 > 临床现状：`待核实`（美国现行标签与申请库无记录，历史商品名未取得撤销文件。核查范围：US／FR／ES） ｜ 研究处置：`有限补证`
 > 仅供学习研究，不构成用药指导。详见 [免责声明](../DISCLAIMER.md)。
 
 **引用键**：
 
-- `OPENFDA`＝美国 openFDA 检索（2026-10-25 执行）：`/drug/label.json` 按 `openfda.generic_name`、`openfda.active_ingredient`、`openfda.brand_name`＝"butaperazine／tyrylen／repoise"，`/drug/ndc.json` 与 `/drug/drugsfda.json` 按通用名，**均返回 HTTP 404 NOT_FOUND**。
+- `OPENFDA`＝美国 openFDA 检索（2026-10-25 检索）：`/drug/label.json` 按 `openfda.generic_name`、`openfda.active_ingredient`、`openfda.brand_name`＝"butaperazine／tyrylen／repoise"，`/drug/ndc.json` 与 `/drug/drugsfda.json` 按通用名，**均返回 HTTP 404 NOT_FOUND**。
 - `US-DAILYMED`＝DailyMed v2 `spls.json?drug_name=butaperazine` 返回 HTTP 200、`total_elements=0`（2026-11-10 复测，数据库发布日 2026-11-09）。
 - `FR-BDPM`＝法国公共药品数据库字母序接口 `startBy＝BUTAP／MOD／MUS／BAR`（2026-10-25、`BUTAP`、`MUS` 相关 0 行，`MOD` 前缀 18 行全部为 modafinil／Modopar 等，无本药）。
 - `ES-CIMA`＝西班牙 Aemps CIMA REST `nombre＝butaperazine`（`totalFilas＝0`）。
@@ -107,13 +107,15 @@
 7. **DDD 10 mg 口服**是群体统计指标，与文献中的临床剂量不是同一概念，不用于换算个体剂量或利用度。
 8. **中国字段**：沿用 2026-10-06 的目录核查结论与"不等于非管制"的限定。中国注册状态因 NMPA／CDE 入口在 2026-11-11 之前未能脚本检索而待核实。
 
+**2026-11-24 定向核查**：以 butaperazine maleate、Repoise 与 Tyrylen 检索美国 NDA／标签线索，并回看 Federal Register 与公开橙皮书转录，未取得指向本药的 NDA 编号或官方标签。Moditen 与 Proketazine 的命中仍分别属于氟奋乃静与 carphenazine，不能补作本药生命周期证据。Repoise／Tyrylen 的具体法域、剂型、授权状态、说明书版本与停售日期保持待核实。
+
 ## 11. 深入分析与来源
 
 本条目不建专题文件：值得独立追问的问题是"1970 年代以 RBC 浓度作为酚噻嗪脑内暴露替代指标的做法为何被放弃"，这需要原始浓度数据与方法学批评文献，只有摘要级材料，不足以支撑专题。
 
 **名称与实体核查**。[美国 FDA GSRS：氟奋乃静癸酸酯别名含 MODITEN DEPOT](https://precision.fda.gov/uniisearch/srs/unii/fmu62k1l3c)。[NIST：butaperazine 别名包括 Repoise／Tyrylen](https://webbook.nist.gov/cgi/cbook.cgi?ID=C653032&Units=CAL)。
 
-**监管与检索记录**：[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22butaperazine%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22butaperazine%22&limit=1)。[DailyMed 按药名检索接口（total_elements=0，2026-11-10 复测）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=butaperazine)。[法国 BDPM 字母序检索 BUTAP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BUTAP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=butaperazine)。[KEGG DRUG D02642／D02643（转录／收载页）](https://www.kegg.jp/entry/D02642)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
+**监管与检索记录**：[Drugs@FDA 申请检索入口（2026-11-24 未取得 butaperazine／Repoise／Tyrylen 对应 NDA）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=BasicSearch.process)。[openFDA 标签检索（NOT_FOUND）](https://api.fda.gov/drug/label.json?search=openfda.generic_name:%22butaperazine%22&limit=5)。[openFDA drugs@fda 申请检索（NOT_FOUND）](https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22butaperazine%22&limit=1)。[DailyMed 按药名检索接口（total_elements=0，2026-11-10 复测）](https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=butaperazine)。[法国 BDPM 字母序检索 BUTAP](https://base-donnees-publique.medicaments.gouv.fr/api/recherche/alphabetique?startBy=BUTAP&page=1&limit=20)。[西班牙 CIMA 检索入口](https://www.aemps.gob.es/cima/publico/home.html)。[英国 emc 检索页](https://www.medicines.org.uk/emc/search?s=butaperazine)。[KEGG DRUG D02642／D02643（转录／收载页）](https://www.kegg.jp/entry/D02642)。[NMPA 政务服务窗口](https://www.nmpa.gov.cn/zwfwqjd/index.html?type=pc) 与 [CDE 上市药品目录集](https://www.cde.org.cn/hzmp/)（均在 2026-11-11 之前未能脚本检索）。
 
 **研究**：[给药方案对稳态血药浓度的影响（PMID:239664）](https://pubmed.ncbi.nlm.nih.gov/239664/)。[红细胞浓度与急性肌张力障碍（PMID:8025）](https://pubmed.ncbi.nlm.nih.gov/8025/)。[血药浓度与临床改善的倒 U 型关系（PMID:6102458）](https://pubmed.ncbi.nlm.nih.gov/6102458/)。[浓度与催乳素关系（PMID:44374）](https://pubmed.ncbi.nlm.nih.gov/44374/)。[本药与氯丙嗪的相对疗效（题录，PMID:4396420）](https://pubmed.ncbi.nlm.nih.gov/4396420/)。[实验室指标改变（题录，PMID:4385828）](https://pubmed.ncbi.nlm.nih.gov/4385828/)。[迟发性运动障碍中的药动学（题录，PMID:2860932）](https://pubmed.ncbi.nlm.nih.gov/2860932/)。[给药后血浆甲硫氨酸脑啡肽与 TD 亚组（PMID:2906066）](https://pubmed.ncbi.nlm.nih.gov/2906066/)。[口服制剂血药浓度放射免疫测定（题录，PMID:2873598）](https://pubmed.ncbi.nlm.nih.gov/2873598/)。[Medical Letter 本药条目（题录，PMID:4389275）](https://pubmed.ncbi.nlm.nih.gov/4389275/)。[活性代谢物综述（PMID:6122292）](https://pubmed.ncbi.nlm.nih.gov/6122292/)。
 
